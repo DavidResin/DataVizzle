@@ -67,6 +67,13 @@ class MapPlot {
 	constructor(svg_element_id) {
 		this.svg = d3.select('#' + svg_element_id);
 
+		this.svg.attr("width", "100%")
+		      .attr("height", "100%")
+		      .call(d3.zoom().on("zoom", function () {
+		              d3.select(this).attr("transform", d3.event.transform)
+		      }))
+		      .append("g")
+
 		// may be useful for calculating scales
 		const svg_viewbox = this.svg.node().viewBox.animVal;
 		this.svg_width = svg_viewbox.width;
@@ -154,7 +161,6 @@ class MapPlot {
 				.attr("cy", -r)
 				.attr("transform", (d) => "translate(" + projection([d.ActionGeo_Long, d.ActionGeo_Lat]) + ")")
 
-			
 		});
 	}
 }
