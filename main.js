@@ -1,14 +1,3 @@
-
-/*
-var zoom = d3.behavior.zoom()
-	.translate([width / 2, height / 2])
-	.scale(scale0)
-	.scaleExtent([scale0, scale0 * 8])
-	.on("zoom", zoomed);
-
-svg.append()
-*/
-
 class MapPlot {
 
 	makeColorbar(svg, color_scale, top_left, colorbar_size, scaleClass=d3.scaleLog) {
@@ -65,14 +54,11 @@ class MapPlot {
 	}
 
 	constructor(svg_element_id) {
-		this.svg = d3.select('#' + svg_element_id);
 
-		this.svg.attr("width", "100%")
-		      .attr("height", "100%")
-		      .call(d3.zoom().on("zoom", function () {
-		              d3.select(this).attr("transform", d3.event.transform)
-		      }))
-		      .append("g")
+		
+
+		this.svg = d3.select('#' + svg_element_id);
+		
 
 		// may be useful for calculating scales
 		const svg_viewbox = this.svg.node().viewBox.animVal;
@@ -155,13 +141,33 @@ class MapPlot {
 				.data(point_data)
 				.enter()
 				.append("circle")
+      			.filter(function(d) { return !(d.ActionGeo_Long == 0 && d.ActionGeo_Lat == 0) })
 				.classed("point", true)
-				.attr("r", r)
-				.attr("cx", -r)
-				.attr("cy", -r)
+				.attr("r", (d) => Math.sqrt(d.NumMentions) / 5)
+				.attr("cx", (d) => -Math.sqrt(d.NumMentions) / 10)
+				.attr("cy", (d) => -Math.sqrt(d.NumMentions) / 10)
+				.attr("stroke", "black")
+				.attr("stroke-width", 1)
 				.attr("transform", (d) => "translate(" + projection([d.ActionGeo_Long, d.ActionGeo_Lat]) + ")")
 
 		});
+
+		const g = this.svg
+					.attr("width", "100%")
+		    		.attr("height", "100%")
+		    		.append('g');
+
+		function zoomed() {
+      		g
+        	.selectAll('path') // To prevent stroke width from scaling
+        	.attr('transform', d3.event.transform);
+    	}
+
+		const zoom = d3.zoom()
+      		.scaleExtent([1, 8])
+      		.on('zoom', zoomed);
+		//https://bl.ocks.org/vasturiano/f821fc73f08508a3beeb7014b2e4d50f
+		this.svg.call(zoom);
 	}
 }
 

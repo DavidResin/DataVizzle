@@ -11,27 +11,54 @@
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
+<div style="width:100%">
+<div style="border: solid 1px; height: 70%; width: 100%">
+	<div style="float:left; display:inline-block; border: solid 1px; height: 100%; width: 40%">
+		Non-Governmental Organizations
+		<ul id="myUL">
+		  <li><a href="#">ICRC</a></li>
+		  <li><a href="#">Amnesty</a></li>
+		  <li><a href="#">IMF</a></li>
+		  <li><a href="#">WEF</a></li>
+		  <li><a href="#">FIDH</a></li>
+		</ul> 
+		Inter-Governmental Organizations
+		<ul id="myUL">
+		  <li><a href="#">WHO</a></li>
+		  <li><a href="#">UN</a></li>
+		  <li><a href="#">World Bank</a></li>
+		  <li><a href="#">WEF</a></li>
+		  <li><a href="#">ADB</a></li>
+		</ul> 
+	</div>
+	<div style="float:right; display:inline-block; border: solid 1px; height: 100%; width: 60%">
+		<svg id="map-plot" viewBox="0 0 1000 550" width="1000" height="550">
+			<style>
+				.canton {
+					stroke: rgb(25, 25, 25);
+					stroke-width: 1px;
+				}
+
+				.canton-label {
+					fill: black;
+					text-anchor: middle;
+					font-size: 10pt;
+				}
+
+				.point {
+					fill: rgb(255, 141, 82);
+					opacity: 1;
+				}
+			</style>
+		</svg>
+	</div>
+</div>
+<div style="border: solid 1px; height: 30%; width: 100%">
+	BOTTOM
+</div>
+</div>
 
 
-<svg id="map-plot" viewBox="0 0 1000 550" width="1000" height="550">
-	<style>
-		.canton {
-			stroke: rgb(25, 25, 25);
-			stroke-width: 1px;
-		}
-
-		.canton-label {
-			fill: black;
-			text-anchor: middle;
-			font-size: 10pt;
-		}
-
-		.point {
-			fill: rgb(255, 141, 82);
-			opacity: 0.05;
-		}
-	</style>
-</svg>
 
 
 <script src="lib/d3.min.js"></script>
