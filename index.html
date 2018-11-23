@@ -1,1 +1,57 @@
-<h1>Hello</h1>
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<title>Exercise 08: Map</title>
+	<meta name="author" content="Kirell Benzi, Krzysztof Lis, Volodymyr Miz">
+	<style>
+    body { margin:0;position:fixed;top:0;right:0;bottom:0;left:0; }
+  </style>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+<svg id="map-plot" viewBox="0 0 1000 550" width="1000" height="550">
+	<style>
+		.canton {
+			stroke: rgb(25, 25, 25);
+			stroke-width: 1px;
+		}
+
+		.canton-label {
+			fill: black;
+			text-anchor: middle;
+			font-size: 10pt;
+		}
+
+		.point {
+			fill: rgb(244, 48, 48);
+			opacity: 0.05;
+		}
+	</style>
+</svg>
+
+
+<script src="lib/d3.min.js"></script>
+<script src="lib/topojson.min.js"></script>
+<script src="main.js"></script>
+<script>
+    // Feel free to change or delete any of the code you see in this editor!
+    var svg = d3.select("body")
+      .append("svg")
+      .attr("width", "100%")
+      .attr("height", "100%")
+      .call(d3.zoom().on("zoom", function () {
+              svg.attr("transform", d3.event.transform)
+      }))
+      .append("g")
+
+  </script>
+
+</body>
+</html>
