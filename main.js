@@ -53,19 +53,17 @@ class MapPlot {
 			.style('stroke-width', '1px')
 	}
 
+	
+
 	constructor(svg_element_id) {
-
-		
-
 		this.svg = d3.select('#' + svg_element_id);
 		
-
 		// may be useful for calculating scales
 		const svg_viewbox = this.svg.node().viewBox.animVal;
 		this.svg_width = svg_viewbox.width;
 		this.svg_height = svg_viewbox.height;
 
-		const projection = d3.geoNaturalEarth1()
+		const projection = d3.geoMercator()
 			.rotate([0, 0])
 			.translate([this.svg_width / 2, this.svg_height / 2])
 			.precision(.1);
@@ -152,7 +150,7 @@ class MapPlot {
 
 		});
 
-		const g = this.svg
+		/*const g = this.svg
 					.attr("width", "100%")
 		    		.attr("height", "100%")
 		    		.append('g');
@@ -168,7 +166,90 @@ class MapPlot {
       		.on('zoom', zoomed);
 		//https://bl.ocks.org/vasturiano/f821fc73f08508a3beeb7014b2e4d50f
 		this.svg.call(zoom);
+*/
+
+		this.initX;
+		this.mouseClicked = false;
+		this.s = 1;
+		this.rotated = 90;
+		  
+		//need to store this because on zoom end, using mousewheel, mouse position is NAN
+		this.mouse;
+
+		let zoomended = () => {
+		  if(this.s !== 1) return;
+		  //rotated = rotated + ((d3.mouse(this)[0] - initX) * 360 / (s * width));
+		  this.rotated = this.rotated + ((this.mouse[0] - this.initX) * 360 / (this.s * this.svg_width));
+		  this.mouseClicked = false;
+		};  
+
+		let zoomed = () => {
+		  var t = [d3.event.transform.x,d3.event.transform.y];
+		  this.s = d3.event.transform.k;
+		  var h = 0;
+
+		  t[0] = Math.min(
+		    (this.svg_width/this.svg_height)  * (this.s - 1), 
+		    Math.max( this.svg_width * (1 - this.s), t[0] )
+		  );
+
+		  t[1] = Math.min(
+		    h * (this.s - 1) + h * this.s, 
+		    Math.max(this.svg_height  * (1 - this.s) - h * this.s, t[1])
+		  );
+
+		  this.g.attr("transform", "translate(" + t + ")scale(" + s + ")");
+
+		  //adjust the stroke width based on zoom level
+		  d3.selectAll(".boundary").style("stroke-width", 1 / s);
+
+		  this.mouse = d3.mouse(this); 
+		  
+		  if(this.s === 1 && this.mouseClicked) {
+		    //rotateMap(d3.mouse(this)[0]);
+		    rotateMap(this.mouse[0]);
+		    return;
+		  }
+		};
+
+		let zoom = d3.zoom()
+			.scaleExtent([1, 10])
+			.on("zoom", this.zoomed)
+			.on("end", this.zoomended);
+
+
+		this.svg
+			.append("svg")
+			.attr("width", '100%')
+			.attr("height", '100%')
+			.on("wheel", function() {
+			  //zoomend needs mouse coords
+			  this.initX = d3.mouse(this)[0];
+			})
+			.on("mousedown", function() {
+			  //only if scale === 1
+			  if(this.s !== 1) return;
+			  this.initX = d3.mouse(this)[0];
+			  this.mouseClicked = true;
+			})
+			.call(zoom);
+
+		this.g = this.svg.append("g");
+
+		
+
 	}
+
+
+
+	
+
+	//=====================begin map zoom test===========================
+
+	
+
+	
+	//==========================end map zoom test=====================
 }
 
 function whenDocumentLoaded(action) {
