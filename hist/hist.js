@@ -20,7 +20,7 @@ const svg = d3.select("#hist-container").append("svg")
   .attr("width", width + margin.left + margin.right)
   .attr("height", (height + margin.top + margin.bottom));
 
-d3.csv('climate_mean.csv', createHist);
+d3.csv('climate_mean.csv').then(createHist);
 
 function createHist(data) {
   let countries = [];
@@ -64,7 +64,7 @@ function createHist(data) {
   });
 
   for (let i = 0; i < countriesCount; i++) {
-    hists.push(new hist({
+    hists.push(new Hist({
       data: data.slice(),
       id: i,
       name: countries[i],
