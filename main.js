@@ -53,24 +53,50 @@ class MapPlot {
 			.style('stroke-width', '1px')
 	}
 
-	
+
 
 	constructor(svg_element_id) {
-		this.svg = d3.select('#' + svg_element_id);
-		
+		this.initX;
+		this.mouseClicked = false;
+		this.s = 1;
+		this.rotated = 90;
+
+		//need to store this because on zoom end, using mousewheel, mouse position is NAN
+		this.mouse;
+
+		let zoom = d3.zoom()
+			.scaleExtent([1, 10])
+			.on("zoom", this.zoomed)
+			.on("end", this.zoomended);
+
+		this.svg = d3.select('#' + svg_element_id)
+			//zoomend needs mouse coordinates
+			.on("wheel", function() {
+				this.initX = d3.mouse(this)[0];
+			})
+			.on("mousedown", function() {
+				//only if scale === 1
+				if(this.s !== 1) return;
+				this.initX = d3.mouse(this)[0];
+				this.mouseClicked = true;
+			})
+			.call(zoom);
+
 		// may be useful for calculating scales
 		const svg_viewbox = this.svg.node().viewBox.animVal;
 		this.svg_width = svg_viewbox.width;
 		this.svg_height = svg_viewbox.height;
 
 		const projection = d3.geoMercator()
-			.rotate([0, 0])
+			.scale(153)
+			//.rotate([this.rotated, 0, 0]) // centers on USA
 			.translate([this.svg_width / 2, this.svg_height / 2])
 			.precision(.1);
 
 		const path_generator = d3.geoPath()
 			.projection(projection);
 
+			// =====================================================================
 		const color_scale = d3.scaleLog()
 			.range(["hsl(62,100%,90%)", "hsl(228, 30%, 20%)"])
 			.interpolate(d3.interpolateHcl);
@@ -148,6 +174,56 @@ class MapPlot {
 				.attr("stroke-width", 1)
 				.attr("transform", (d) => "translate(" + projection([d.ActionGeo_Long, d.ActionGeo_Lat]) + ")")
 
+			// ===============================================================================================
+
+
+				//this.g = this.map_container.append("g");
+				this.g = this.svg.append("g");
+
+				function rotateMap(endX) {
+					console.log("function: rotateMap()")
+					projection.rotate([this.rotated + (endX - this.initX) * 360 / (this.s * this.svg_width), 0, 0]);
+					this.g.selectAll('path').attr('d', path_generator);
+				}
+
+				function zoomended(){
+					console.log("function: zoomended()")
+					if(this.s !== 1) return;
+					//rotated = rotated + ((d3.mouse(this)[0] - initX) * 360 / (s * width));
+					this.rotated = this.rotated + ((this.mouse[0] - this.initX) * 360 / (this.s * this.svg_width));
+					this.mouseClicked = false;
+				}
+
+				function zoomed() {
+					console.log("function: zoomed()")
+					let t = [d3.event.transform.x,d3.event.transform.y];
+					this.s = d3.event.transform.k;
+					const h = 0;
+
+					t[0] = Math.min(
+						(this.svg_width / this.svg_height)  * (this.s - 1),
+						Math.max( this.svg_width * (1 - this.s), t[0] )
+					);
+
+					t[1] = Math.min(
+						h * (s - 1) + h * s,
+						Math.max(this.svg_height  * (1 - this.s) - h * this.s, t[1])
+					);
+
+					this.g.attr("transform", "translate(" + t + ")scale(" + this.s + ")");
+
+					//adjust the stroke width based on zoom level
+					d3.selectAll(".boundary").style("stroke-width", 1 / this.s);
+
+					this.mouse = d3.mouse(this);
+
+					if(this.s === 1 && this.mouseClicked) {
+						//rotateMap(d3.mouse(this)[0]);
+						rotateMap(this.mouse[0]);
+						return;
+					}
+				}
+
 		});
 
 		/*const g = this.svg
@@ -167,12 +243,7 @@ class MapPlot {
 		//https://bl.ocks.org/vasturiano/f821fc73f08508a3beeb7014b2e4d50f
 		this.svg.call(zoom);
 */
-
-		this.initX;
-		this.mouseClicked = false;
-		this.s = 1;
-		this.rotated = 90;
-		  
+/*
 		//need to store this because on zoom end, using mousewheel, mouse position is NAN
 		this.mouse;
 
@@ -181,7 +252,7 @@ class MapPlot {
 		  //rotated = rotated + ((d3.mouse(this)[0] - initX) * 360 / (s * width));
 		  this.rotated = this.rotated + ((this.mouse[0] - this.initX) * 360 / (this.s * this.svg_width));
 		  this.mouseClicked = false;
-		};  
+		};
 
 		let zoomed = () => {
 		  var t = [d3.event.transform.x,d3.event.transform.y];
@@ -189,34 +260,28 @@ class MapPlot {
 		  var h = 0;
 
 		  t[0] = Math.min(
-		    (this.svg_width/this.svg_height)  * (this.s - 1), 
+		    (this.svg_width/this.svg_height)  * (this.s - 1),
 		    Math.max( this.svg_width * (1 - this.s), t[0] )
 		  );
 
 		  t[1] = Math.min(
-		    h * (this.s - 1) + h * this.s, 
+		    h * (this.s - 1) + h * this.s,
 		    Math.max(this.svg_height  * (1 - this.s) - h * this.s, t[1])
 		  );
 
-		  this.g.attr("transform", "translate(" + t + ")scale(" + s + ")");
+		  this.g.attr("transform", "translate(" + t + ")scale(" + this.s + ")");
 
 		  //adjust the stroke width based on zoom level
-		  d3.selectAll(".boundary").style("stroke-width", 1 / s);
+		  d3.selectAll(".boundary").style("stroke-width", 1 / this.s);
 
-		  this.mouse = d3.mouse(this); 
-		  
+		  this.mouse = d3.mouse(this);
+
 		  if(this.s === 1 && this.mouseClicked) {
 		    //rotateMap(d3.mouse(this)[0]);
 		    rotateMap(this.mouse[0]);
 		    return;
 		  }
 		};
-
-		let zoom = d3.zoom()
-			.scaleExtent([1, 10])
-			.on("zoom", this.zoomed)
-			.on("end", this.zoomended);
-
 
 		this.svg
 			.append("svg")
@@ -236,19 +301,19 @@ class MapPlot {
 
 		this.g = this.svg.append("g");
 
-		
 
+*/
 	}
 
 
 
-	
+
 
 	//=====================begin map zoom test===========================
 
-	
 
-	
+
+
 	//==========================end map zoom test=====================
 }
 
