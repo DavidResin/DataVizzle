@@ -8,6 +8,10 @@
 
 	<title>Project Test</title>
 
+	<script src="https://d3js.org/d3.v5.min.js"></script>
+	<script src="lib/topojson.min.js"></script>
+	<script src="main.js"></script>
+
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -21,7 +25,7 @@
 		  <li><a href="#">IMF</a></li>
 		  <li><a href="#">WEF</a></li>
 		  <li><a href="#">FIDH</a></li>
-		</ul> 
+		</ul>
 		Inter-Governmental Organizations
 		<ul id="myUL">
 		  <li><a href="#">WHO</a></li>
@@ -29,7 +33,7 @@
 		  <li><a href="#">World Bank</a></li>
 		  <li><a href="#">WEF</a></li>
 		  <li><a href="#">ADB</a></li>
-		</ul> 
+		</ul>
 	</div>
 	<div style="float:right; display:inline-block; border: solid 1px; height: 100%; width: 60%">
 		<svg id="map-plot" viewBox="0 0 1000 550" width="1000" height="550">
@@ -53,16 +57,18 @@
 		</svg>
 	</div>
 </div>
-<div style="border: solid 1px; height: 30%; width: 100%">
+<!--div style="border: solid 1px; height: 30%; width: 100%">
 	BOTTOM
+</div-->
+<div id="chart-container">
+	<script type="text/javascript" src='chart.js'></script>
 </div>
 </div>
 
 
 
 
-<script src="lib/d3.min.js"></script>
-<script src="lib/topojson.min.js"></script>
-<script src="main.js"></script>
+<!--script src="lib/d3.min.js"></script-->
+<!--script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.0.0/d3.js"></script-->
 </body>
 </html>
