@@ -23,7 +23,7 @@ g.context g.axis line {
 }
 
 g.australia path.chart {
-	fill:  #dddddd;
+	fill:  #7dffdd;
 }
 
 g.chile path.chart {

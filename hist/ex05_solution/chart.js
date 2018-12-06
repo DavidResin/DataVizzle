@@ -20,27 +20,27 @@ const svg = d3.select("#chart-container").append("svg")
   .attr("width", width + margin.left + margin.right)
   .attr("height", (height + margin.top + margin.bottom));
 
-d3.csv('climate_mean.csv', createChart);
+d3.csv('climate_mean.csv').then(createChart);
 
 function createChart(data) {
-  let countries = [];
+  let organizations = [];
   let charts = [];
   let maxDataPoint = 0;
   let minDataPoint = 100; // the init value just have to be big enough to be less than the highest temperature
 
-  // Get countries
+  // Get organizations
   for (let prop in data[0]) {
     if (data[0].hasOwnProperty(prop)) {
       if (prop != 'Year') {
-        countries.push(prop);
+        organizations.push(prop);
       }
     }
   };
 
-  let countriesCount = countries.length;
+  let organizationsCount = organizations.length;
   let startYear = data[0].Year;
   let endYear = data[data.length - 1].Year;
-  let chartHeight = height * (1 / countriesCount);
+  let chartHeight = height * (1 / organizationsCount);
 
   // Get max and min temperature bounds for Y-scale.
   data.map(d => {
@@ -63,18 +63,18 @@ function createChart(data) {
     d.Year = new Date(d.Year, 0, 1);
   });
 
-  for (let i = 0; i < countriesCount; i++) {
+  for (let i = 0; i < organizationsCount; i++) {
     charts.push(new Chart({
       data: data.slice(),
       id: i,
-      name: countries[i],
+      name: organizations[i],
       width: width,
-      height: height * (1 / countriesCount),
+      height: height * (1 / organizationsCount),
       maxDataPoint: maxDataPoint,
       minDataPoint: minDataPoint,
       svg: svg,
       margin: margin,
-      showBottomAxis: (i == countries.length - 1)
+      showBottomAxis: (i == organizations.length - 1)
     }));
 
   }
@@ -127,7 +127,7 @@ function createChart(data) {
   // Brush handler. Get time-range from a brush and pass it to the charts.
   function onBrush() {
     var b = d3.event.selection === null ? contextXScale.domain() : d3.event.selection.map(contextXScale.invert);
-    for (var i = 0; i < countriesCount; i++) {
+    for (var i = 0; i < organizationsCount; i++) {
       charts[i].showOnly(b);
     }
   }
@@ -214,7 +214,7 @@ class Chart {
       .call(this.yAxis);
 
     this.chartContainer.append("text")
-      .attr("class", "country-title")
+      .attr("class", "organization-title")
       .attr("transform", "translate(15,40)")
       .text(this.name);
 

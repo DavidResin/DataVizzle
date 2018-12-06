@@ -3,7 +3,7 @@
 lab-4 solution
 
 */
-const histDiv = document.getElementById("hist-container");
+const chartDiv = document.getElementById("chart-container");
 
 const margin = {
     top: 10,
@@ -11,41 +11,41 @@ const margin = {
     bottom: 150,
     left: 60
   },
-  width = histDiv.clientWidth * 0.95,
-  height = histDiv.clientHeight * 0.5,
+  width = chartDiv.clientWidth * 0.95,
+  height = chartDiv.clientHeight * 0.5,
   contextHeight = 50;
 contextWidth = width;
 
-const svg = d3.select("#hist-container").append("svg")
+const svg = d3.select("#chart-container").append("svg")
   .attr("width", width + margin.left + margin.right)
   .attr("height", (height + margin.top + margin.bottom));
 
-d3.csv('climate_mean.csv').then(createHist);
+d3.csv('amnesty-over-100.csv').then(createChart);
 
-function createHist(data) {
-  let countries = [];
-  let hists = [];
+function convertSqlDateToDate(sqldate) {
+  // takes SQLDATE string as argument and gives Date object
+  let year = sqldate.substring(0, 4);
+  let month = sqldate.substring(4, 6) - 1; // months are 0-indexed in js
+  let day = sqldate.substr(6, 8);
+
+  return new Date(year, month, day);
+}
+
+function createChart(data) {
+  let organizations = ["Amnesty International"];
+  let charts = [];
   let maxDataPoint = 0;
-  let minDataPoint = 100; // the init value just have to be big enough to be less than the highest temperature
+  let minDataPoint = 1500; // the init value just have to be big enough to be less than the highest temperature
 
-  // Get countries
-  for (let prop in data[0]) {
-    if (data[0].hasOwnProperty(prop)) {
-      if (prop != 'Year') {
-        countries.push(prop);
-      }
-    }
-  };
-
-  let countriesCount = countries.length;
-  let startYear = data[0].Year;
-  let endYear = data[data.length - 1].Year;
-  let histHeight = height * (1 / countriesCount);
+  let organizationsCount = organizations.length;
+  let startYear = data[0].SQLDATE;
+  let endYear = data[data.length - 1].SQLDATE;
+  let chartHeight = height * (1 / organizationsCount);
 
   // Get max and min temperature bounds for Y-scale.
   data.map(d => {
     for (let prop in d) {
-      if (d.hasOwnProperty(prop) && prop != 'Year') {
+      if (d.hasOwnProperty(prop) && prop == 'NumMentions') {
         d[prop] = parseFloat(d[prop]);
 
         if (d[prop] > maxDataPoint) {
@@ -60,21 +60,21 @@ function createHist(data) {
 
     /* Convert "Year" column to Date format to benefit
     from built-in D3 mechanisms for handling dates. */
-    d.Year = new Date(d.Year, 0, 1);
+    d.SQLDATE = convertSqlDateToDate(d.SQLDATE);
   });
 
-  for (let i = 0; i < countriesCount; i++) {
-    hists.push(new Hist({
+  for (let i = 0; i < 1; i++) {
+    charts.push(new Chart({
       data: data.slice(),
       id: i,
-      name: countries[i],
+      name: organizations[i],
       width: width,
-      height: height * (1 / countriesCount),
+      height: height * (1 / organizationsCount),
       maxDataPoint: maxDataPoint,
       minDataPoint: minDataPoint,
       svg: svg,
       margin: margin,
-      showBottomAxis: (i == countries.length - 1)
+      showBottomAxis: (i == organizations.length - 1)
     }));
 
   }
@@ -82,7 +82,7 @@ function createHist(data) {
   // Create a context for a brush
   var contextXScale = d3.scaleTime()
     .range([0, contextWidth])
-    .domain(hists[0].xScale.domain());
+    .domain(charts[0].xScale.domain());
 
   var contextAxis = d3.axisBottom(contextXScale)
     .tickSize(contextHeight)
@@ -105,7 +105,7 @@ function createHist(data) {
 
   let context = svg.append("g")
     .attr("class", "context")
-    .attr("transform", "translate(" + (margin.left) + "," + (height + margin.top + histHeight - 10) + ")");
+    .attr("transform", "translate(" + (margin.left) + "," + (height + margin.top + chartHeight - 10) + ")");
 
   context.append("g")
     .attr("class", "x axis top")
@@ -124,18 +124,18 @@ function createHist(data) {
     .attr("transform", "translate(0," + (contextHeight + 20) + ")")
     .text('Click and drag above to zoom / pan the data');
 
-  // Brush handler. Get time-range from a brush and pass it to the hists.
+  // Brush handler. Get time-range from a brush and pass it to the charts.
   function onBrush() {
     var b = d3.event.selection === null ? contextXScale.domain() : d3.event.selection.map(contextXScale.invert);
-    for (var i = 0; i < countriesCount; i++) {
-      hists[i].showOnly(b);
+    for (var i = 0; i < 1; i++) {
+      charts[i].showOnly(b);
     }
   }
 }
 
-class Hist {
+class Chart {
   constructor(options) {
-    this.histData = options.data;
+    this.chartData = options.data;
     this.width = options.width;
     this.height = options.height;
     this.maxDataPoint = options.maxDataPoint;
@@ -151,7 +151,7 @@ class Hist {
     // Associate xScale with time
     this.xScale = d3.scaleTime()
       .range([0, this.width])
-      .domain(d3.extent(this.histData.map(function(d) {
+      .domain(d3.extent(this.chartData.map(function(d) {
         return d.Year;
       })));
 
@@ -163,7 +163,7 @@ class Hist {
     let yS = this.yScale;
 
     /*
-        Create the hist.
+        Create the chart.
         Here we use 'curveLinear' interpolation.
         Play with the other ones: 'curveBasis', 'curveCardinal', 'curveStepBefore'.
         */
@@ -177,14 +177,14 @@ class Hist {
       })
       .curve(d3.curveLinear);
 
-    // Add the Hist to the HTML page
-    this.histContainer = svg.append("g")
+    // Add the chart to the HTML page
+    this.chartContainer = svg.append("g")
       .attr('class', this.name.toLowerCase())
       .attr("transform", "translate(" + this.margin.left + "," + (this.margin.top + (this.height * this.id) + (10 * this.id)) + ")");
 
-    this.histContainer.append("path")
-      .data([this.histData])
-      .attr("class", "hist")
+    this.chartContainer.append("path")
+      .data([this.chartData])
+      .attr("class", "chart")
       .attr("clip-path", "url(#clip-" + this.id + ")")
       .attr("d", this.area);
 
@@ -192,7 +192,7 @@ class Hist {
     this.xAxisBottom = d3.axisTop(this.xScale);
     // show only the top axis
     if (this.id == 0) {
-      this.histContainer.append("g")
+      this.chartContainer.append("g")
         .attr("class", "x axis top")
         .attr("transform", "translate(0,0)")
         .call(this.xAxisTop);
@@ -200,7 +200,7 @@ class Hist {
 
     // show only the bottom axis
     if (this.showBottomAxis) {
-      this.histContainer.append("g")
+      this.chartContainer.append("g")
         .attr("class", "x axis bottom")
         .attr("transform", "translate(0," + this.height + ")")
         .call(this.xAxisBottom);
@@ -208,22 +208,22 @@ class Hist {
 
     this.yAxis = d3.axisLeft(this.yScale).ticks(5);
 
-    this.histContainer.append("g")
+    this.chartContainer.append("g")
       .attr("class", "y axis")
       .attr("transform", "translate(-15,0)")
       .call(this.yAxis);
 
-    this.histContainer.append("text")
-      .attr("class", "country-title")
+    this.chartContainer.append("text")
+      .attr("class", "organization-title")
       .attr("transform", "translate(15,40)")
       .text(this.name);
 
   }
 }
 
-hist.prototype.showOnly = function(b) {
+Chart.prototype.showOnly = function(b) {
   this.xScale.domain(b);
-  this.histContainer.select("path").data([this.histData]).attr("d", this.area);
-  this.histContainer.select(".x.axis.top").call(this.xAxisTop);
-  this.histContainer.select(".x.axis.bottom").call(this.xAxisBottom);
+  this.chartContainer.select("path").data([this.chartData]).attr("d", this.area);
+  this.chartContainer.select(".x.axis.top").call(this.xAxisTop);
+  this.chartContainer.select(".x.axis.bottom").call(this.xAxisBottom);
 }
