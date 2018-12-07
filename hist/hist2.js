@@ -1,8 +1,18 @@
 /*
 
-lab-4 solution
+modified lab-4 solution
 
 */
+
+function convertSqlDateToDate(sqldate) {
+  // takes SQLDATE string as argument and gives Date object
+  const year = sqldate.substring(0, 4);
+  const month = sqldate.substring(4, 6) - 1; // months are 0-indexed in js
+  const day = sqldate.substr(6, 8);
+
+  return new Date(year, month, day);
+}
+
 const chartDiv = document.getElementById("chart-container");
 
 const margin = {
@@ -20,32 +30,36 @@ const svg = d3.select("#chart-container").append("svg")
   .attr("width", width + margin.left + margin.right)
   .attr("height", (height + margin.top + margin.bottom));
 
-d3.csv('amnesty-over-100.csv').then(createChart);
-
-function convertSqlDateToDate(sqldate) {
-  // takes SQLDATE string as argument and gives Date object
-  let year = sqldate.substring(0, 4);
-  let month = sqldate.substring(4, 6) - 1; // months are 0-indexed in js
-  let day = sqldate.substr(6, 8);
-
-  return new Date(year, month, day);
-}
+d3.csv('climate_mean.csv').then(createChart);
 
 function createChart(data) {
-  let organizations = ["Amnesty International"];
+  let organizations = ["NumMentions"];
   let charts = [];
   let maxDataPoint = 0;
-  let minDataPoint = 1500; // the init value just have to be big enough to be less than the highest temperature
+  let minDataPoint = 100; // the init value just have to be big enough to be less than the highest temperature
+
+  /*// Get organizations
+  for (let prop in data[0]) {
+    if (data[0].hasOwnProperty(prop)) {
+      if (prop != 'Year') {
+        organizations.push(prop);
+      }
+    }
+  };*/
+
+  d.date = convertSqlDateToDate(d.SQLDATE);
+  let yearFormat = d3.time.format("%Y");
+  d.Year = yearFormat(d.date)
 
   let organizationsCount = organizations.length;
-  let startYear = data[0].SQLDATE;
-  let endYear = data[data.length - 1].SQLDATE;
+  let startYear = data[0].Year;
+  let endYear = data[data.length - 1].Year;
   let chartHeight = height * (1 / organizationsCount);
 
   // Get max and min temperature bounds for Y-scale.
   data.map(d => {
     for (let prop in d) {
-      if (d.hasOwnProperty(prop) && prop == 'NumMentions') {
+      if (d.hasOwnProperty(prop) && prop != 'Year') {
         d[prop] = parseFloat(d[prop]);
 
         if (d[prop] > maxDataPoint) {
@@ -60,12 +74,10 @@ function createChart(data) {
 
     /* Convert "Year" column to Date format to benefit
     from built-in D3 mechanisms for handling dates. */
-    d.date = convertSqlDateToDate(d.SQLDATE);
+    d.Year = new Date(d.Year, 0, 1);
   });
 
-  console.log(data)
-
-  for (let i = 0; i < 1; i++) {
+  for (let i = 0; i < organizationsCount; i++) {
     charts.push(new Chart({
       data: data.slice(),
       id: i,
@@ -92,7 +104,7 @@ function createChart(data) {
 
   var contextArea = d3.area()
     .x(function(d) {
-      return contextXScale(d.SQLDATE);
+      return contextXScale(d.date);
     })
     .y0(contextHeight)
     .y1(0)
@@ -129,7 +141,7 @@ function createChart(data) {
   // Brush handler. Get time-range from a brush and pass it to the charts.
   function onBrush() {
     var b = d3.event.selection === null ? contextXScale.domain() : d3.event.selection.map(contextXScale.invert);
-    for (var i = 0; i < 1; i++) {
+    for (var i = 0; i < organizationsCount; i++) {
       charts[i].showOnly(b);
     }
   }
@@ -154,7 +166,7 @@ class Chart {
     this.xScale = d3.scaleTime()
       .range([0, this.width])
       .domain(d3.extent(this.chartData.map(function(d) {
-        return d.SQLDATE;
+        return d.Year;
       })));
 
     // Bound yScale using minDataPoint and maxDataPoint
@@ -169,15 +181,13 @@ class Chart {
         Here we use 'curveLinear' interpolation.
         Play with the other ones: 'curveBasis', 'curveCardinal', 'curveStepBefore'.
         */
-    console.log(d[localName]);
-
     this.area = d3.area()
       .x(function(d) {
-        return xS(d.SQLDATE);
+        return xS(d.Year);
       })
       .y0(this.height)
       .y1(function(d) {
-        return yS(d['NumMentions']);
+        return yS(d[localName]);
       })
       .curve(d3.curveLinear);
 
