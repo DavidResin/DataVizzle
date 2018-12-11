@@ -7,6 +7,12 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<title>Project Test</title>
+	
+	<script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://unpkg.com/topojson@3"></script>
+    <script>
+        var topology = topojson.topology({foo: geojson});
+    </script>
 
 	<link rel="stylesheet" href="style.css">
 </head>
@@ -58,11 +64,6 @@
 </div>
 </div>
 
-
-
-
-<script src="lib/d3.min.js"></script>
-<script src="lib/topojson.min.js"></script>
 <script src="main.js"></script>
 </body>
 </html>
