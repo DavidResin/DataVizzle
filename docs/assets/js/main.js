@@ -55,10 +55,10 @@ class MapPlot {
 
 	constructor(svg_element_id) {
 
-		
+
 
 		this.svg = d3.select('#' + svg_element_id);
-		
+
 
 		// may be useful for calculating scales
 		const svg_viewbox = this.svg.node().viewBox.animVal;
@@ -77,7 +77,7 @@ class MapPlot {
 			.range(["hsl(62,100%,90%)", "hsl(228, 30%, 20%)"])
 			.interpolate(d3.interpolateHcl);
 
-		const population_promise = d3.csv("data/cantons-population.csv").then((data) => {
+		const population_promise = d3.csv("/assets/data/cantons-population.csv").then((data) => {
 			let cantonId_to_population = {}
 
 			data.forEach((row) => {
@@ -87,12 +87,12 @@ class MapPlot {
 			return cantonId_to_population;
 		});
 
-		const map_promise = d3.json("data/110m.json").then((topojson_raw) => {
+		const map_promise = d3.json("/assets/data/110m.json").then((topojson_raw) => {
 			const paths = topojson.feature(topojson_raw, topojson_raw.objects.countries);
 			return paths.features;
 		});
 
-		const point_promise = d3.csv("data/results-100-plus.csv").then((data) => {
+		const point_promise = d3.csv("/assets/data/results-100-plus.csv").then((data) => {
 			let new_data = [];
 
 			for (let idx = 0; idx < data.length; idx++) {
