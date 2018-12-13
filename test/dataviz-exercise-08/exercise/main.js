@@ -163,7 +163,7 @@ class MapPlot {
 
 			this.point_container.selectAll(".point")
 				.transition()
-				.duration(200)
+				.duration(400)
 				.ease(d3.easeQuad)
 				.attr("r", r);
 		});
