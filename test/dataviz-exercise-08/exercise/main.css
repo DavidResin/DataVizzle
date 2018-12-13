@@ -7,3 +7,7 @@ body {
   stroke: #fff;
   stroke-linejoin: round;
 }
+
+.clickable {
+	cursor: pointer;
+}

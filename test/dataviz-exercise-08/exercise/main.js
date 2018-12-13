@@ -156,11 +156,16 @@ class MapPlot {
 				.enter()
 				.append("circle")
 				.classed("point", true)
-				.attr("r", r)
+				.attr("r", 0)
 				.attr("cx", -r)
 				.attr("cy", -r)
-				.attr("transform", (d) => "translate(" + projection([d.ActionGeo_Long, d.ActionGeo_Lat]) + ")")
+				.attr("transform", (d) => "translate(" + projection([d.ActionGeo_Long, d.ActionGeo_Lat]) + ")");
 
+			this.point_container.selectAll(".point")
+				.transition()
+				.duration(200)
+				.ease(d3.easeQuad)
+				.attr("r", r);
 		});
 	}
 }
