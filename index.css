@@ -5,6 +5,7 @@
   z-index: 1;
   top: 0;
   overflow-x: hidden;
+  border: solid grey 1px;
 }
 
 .split-v {
@@ -13,32 +14,33 @@
 	z-index: 1;
 	left: 0;
     overflow-x: hidden;
+    border: solid grey 1px;
 }
 
 /* Control the left side */
 .left {
   left: 0;
-  width: 30%;
+  width: 40%;
   background-color: white;
 }
 
 /* Control the right side */
 .right {
   right: 0;
-  width: 70%;
-  background-color: red;
+  width: 60%;
+  background-color: white;
 }
 
 .top {
   top: 0;
-  height: 60%;
-  background-color: yellow;
+  height: 70%;
+  background-color: white;
 }
 
 .bottom {
   bottom: 0;
-  height: 40%;
-  background-color: green;
+  height: 30%;
+  background-color: white;
 }
 
 /* If you want the content centered horizontally and vertically */
@@ -57,17 +59,8 @@ ul {
 }
 
 li {
-  font: 200 40px/1.5 Helvetica, Verdana, sans-serif;
-  border-bottom: 1px solid #ccc;
-}
-
-li:last-child {
-  border: none;
-}
-
-li:hover {
-  font-size: 60px;
-  background: #f6f6f6;
+  font: 200 15px/1.5 Helvetica, Verdana, sans-serif;
+  border: 1px solid #ccc;
 }
 
 body {
@@ -78,4 +71,9 @@ body {
         -ms-user-select: none; /* Internet Explorer/Edge */
             user-select: none; /* Non-prefixed version, currently
                                   supported by Chrome and Opera */
+}
+
+svg {
+	max-height: inherit;
+	max-width: inherit;
 }

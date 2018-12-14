@@ -13,31 +13,36 @@
 		<div class="split-v top">
 			<div class="split-h left">
 				<div class="centered">
-					<ul>
-						<li>Test</li>
-						<li>Test</li>
-						<li>Test</li>
-						<li>Test</li>
+					<ul id="orgs">
 					</ul>
 				</div>
 			</div>
 
 			<div class="split-h right">
-				<div class="centered">
-					<h2>John Doe</h2>
-					<p>Some text here too.</p>
-				</div>
+					<svg id="map-plot" viewBox="0 0 1000 550" width="1000px" height="500px">
+						<style>
+							.country {
+								stroke: rgb(25, 25, 25);
+								stroke-width: 1px;
+							}
+
+							.point {
+								fill: rgb(255, 141, 82);
+								opacity: 1;
+							}
+						</style>
+					</svg>
 			</div>
 		</div>
 		<div class="split-v bottom">
 			<div class="centered">
-				<h2>Whoever</h2>
-				<p>Moar text.</p>
+				HERE COMES THE HISTOGRAM
 			</div>
 		</div>
 
 		<script src="lib/d3.min.js"></script>
 		<script src="lib/topojson.min.js"></script>
+		<script src="data.js"></script>
 		<script src="index.js"></script>
 	</body>
 </html>

@@ -1,0 +1,58 @@
+var data = {
+	"amnesty": {
+		"name": "Amnesty International",
+		"short": "AI",
+		"url": "https://www.amnesty.org/",
+		"color_1": "FFFF00",
+		"color_2": "000000",
+	},
+	"msf": {
+		"name": "Médecins Sans Frontières",
+		"short": "MSF",
+		"url": "https://www.msf.org/",
+		"color_2": "FFFFFF",
+		"color_1": "FF0000",
+	},
+	"hrw": {
+		"name": "Human Rights Watch",
+		"short": "HRW",
+		"url": "https://www.hrw.org/",
+		"color_1": "0071CE",
+		"color_2": "FFFFFF",
+	},
+	"greenpeace": {
+		"name": "Greenpeace",
+		"short": "GP",
+		"url": "https://www.greenpeace.org/",
+		"color_1": "66CC00",
+		"color_2": "FFFFFF",
+	},
+	"oxfam": {
+		"name": "Oxfam",
+		"short": "Oxfam",
+		"url": "https://www.oxfam.org/",
+		"color_1": "99CC00",
+		"color_2": "FFFFFF",
+	},
+	"wef": {
+		"name": "World Economic Forum",
+		"short": "WEF",
+		"url": "https://www.weforum.org/",
+		"color_2": "FFFFFF",
+		"color_1": "00489A",
+	},
+	"fidh": {
+		"name": "International Federation for Human Rights",
+		"short": "IFHR",
+		"url": "https://www.fidh.org/",
+		"color_2": "FFFFFF",
+		"color_1": "000000",
+	},
+	"icg": {
+		"name": "International Crisis Group",
+		"short": "ICG",
+		"url": "https://www.crisisgroup.org/",
+		"color_1": "003E51",
+		"color_2": "E87722",
+	},
+}
