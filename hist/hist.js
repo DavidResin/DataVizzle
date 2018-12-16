@@ -55,7 +55,7 @@ function createHist(data) {
       .domain([minDate, maxDate]) // input
       .range([0, width]); // output
 
-  // 6. Y scale will use the randomly generate number 
+  // 6. Y scale will use the NumMentions 
   let yScale = d3.scaleLinear()
       .domain([0, maxNumMentions]) // input 
       .range([height, 0]); // output 
