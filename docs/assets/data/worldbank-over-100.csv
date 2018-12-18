@@ -1,0 +1,799 @@
+NumMentions,ActionGeo_Lat,ActionGeo_Long,SQLDATE,ActionGeo_FullName,ActionGeo_Type
+121,38.8951,-77.0364,20071023,"Washington, District of Columbia, United States",3
+109,-27.0,133.0,20081230,Australia,1
+315,31.4167,34.3333,20090107,"Gaza City, Israel (general), Israel",4
+306,31.4167,34.3333,20090107,"Gaza City, Israel (general), Israel",4
+124,-5.0,120.0,20090117,Indonesia,1
+261,-6.17444,106.829,20090306,"Jakarta, Jakarta Raya, Indonesia",4
+132,51.5,-0.116667,20090401,"London, London, City of, United Kingdom",4
+120,-17.8178,31.0447,20090430,"Harare, Mashonaland East, Zimbabwe",4
+150,-17.8178,31.0447,20090430,"Harare, Mashonaland East, Zimbabwe",4
+261,40.0,-4.0,20090525,Spain,1
+121,30.0,70.0,20090614,Pakistan,1
+234,35.0,105.0,20090618,China,1
+126,41.0186,28.9647,20090904,"Istanbul, Istanbul, Turkey",4
+117,35.0,105.0,20091005,China,1
+156,39.8647,-86.2604,20091006,"Indiana, United States",2
+101,41.0186,28.9647,20091006,"Istanbul, Istanbul, Turkey",4
+108,44.852,-71.5518,20091007,"Columbia, New Hampshire, United States",3
+102,27.7167,85.3167,20091008,"Kathmandu, Bagmati, Nepal",4
+108,-6.17444,106.829,20091123,"Jakarta, Jakarta Raya, Indonesia",4
+124,55.7522,37.6156,20091201,"Moscow, Moskva, Russia",4
+126,31.5,34.75,20091206,Israel,1
+120,16.0,106.0,20091223,"Vietnam, Republic Of",1
+109,31.7667,35.2333,20100210,"Jerusalem, Israel (general), Israel",4
+109,18.5392,-72.335,20100401,"Port-Au-Prince, Ouest, Haiti",4
+130,38.0,-97.0,20100525,United States,1
+130,38.0,-97.0,20100525,United States,1
+130,38.0,-97.0,20100525,United States,1
+315,42.1497,-74.9384,20100719,"New York, United States",2
+103,-41.3,174.783,20100812,"Wellington, New Zealand (general), New Zealand",4
+109,33.7,73.1667,20100817,"Islamabad, Islamabad, Pakistan",4
+108,29.9,72.35,20100817,"Karampur, Punjab, Pakistan",4
+141,60.0,-95.0,20100821,Canada,1
+128,-8.4,36.35,20100821,"Kihansi, Morogoro, Tanzania",4
+309,31.6667,35.25,20100920,West Bank,1
+207,38.0,-97.0,20100922,United States,1
+198,15.0,48.0,20100925,Yemen,1
+198,15.0,48.0,20100925,Yemen,1
+459,6.45306,3.39583,20101110,"Lagos, Lagos, Nigeria",4
+322,22.0777,110.729,20101209,"Nakai, Guangdong, China",4
+390,18.975,72.8258,20101212,"Mumbai, Maharashtra, India",4
+115,28.6293,75.071,20101212,"Mahatma, Rajasthan, India",4
+297,28.6667,77.2167,20101220,"Delhi, Delhi, India",4
+297,28.6667,77.2167,20101220,"Delhi, Delhi, India",4
+131,5.34111,-4.02806,20101222,"Abidjan, Lagunes, Cote D'ivoire",4
+135,39.9289,116.388,20110117,"Beijing, Beijing, China",4
+113,54.0,-2.0,20110228,United Kingdom,1
+108,15.5881,32.5342,20110306,"Khartoum, Al Khartum, Sudan",4
+111,40.5773,-77.264,20110404,"Pennsylvania, United States",2
+246,19.4342,-99.1386,20110505,"Mexico City, Distrito Federal, Mexico",4
+103,32.5667,-116.633,20110505,"Tecate, Baja California, Mexico",4
+115,35.0,105.0,20110518,China,1
+126,38.899,-77.0422,20110518,"World Bank, District of Columbia, United States",3
+110,42.1497,-74.9384,20110519,"New York, United States",2
+386,38.899,-77.0422,20110519,"World Bank, District of Columbia, United States",3
+312,38.899,-77.0422,20110519,"World Bank, District of Columbia, United States",3
+140,38.899,-77.0422,20110611,"World Bank, District of Columbia, United States",3
+126,31.5,35.5,20110613,"Dead Sea, Israel (general), Israel",4
+102,27.0,30.0,20110626,Egypt,1
+208,38.899,-77.0422,20110626,"World Bank, District of Columbia, United States",3
+104,30.05,31.25,20110626,"Cairo, Al Qahirah, Egypt",4
+180,13.0,105.0,20110809,Cambodia,1
+388,48.8667,2.33333,20110902,"Paris, RhôAlpes, France",4
+207,39.9289,116.388,20110903,"Beijing, Beijing, China",4
+111,38.0,-97.0,20110907,United States,1
+196,14.6211,-90.5269,20110909,"Guatemala City, Guatemala, Guatemala",4
+571,-26.2,28.0833,20110913,"Johannesburg, Gauteng, South Africa",4
+187,-26.2,28.0833,20110913,"Johannesburg, Gauteng, South Africa",4
+389,38.899,-77.0422,20110920,"World Bank, District of Columbia, United States",3
+387,38.899,-77.0422,20110920,"World Bank, District of Columbia, United States",3
+246,38.8951,-77.0364,20110920,"Washington, District of Columbia, United States",3
+135,-27.0,133.0,20110924,Australia,1
+104,38.899,-77.0422,20111007,"World Bank, District of Columbia, United States",3
+120,38.0,-97.0,20111021,United States,1
+622,12.1508,-86.2683,20111106,"Managua, Managua, Nicaragua",4
+288,12.1508,-86.2683,20111106,"Managua, Managua, Nicaragua",4
+635,12.1508,-86.2683,20111106,"Managua, Managua, Nicaragua",4
+160,41.85,-87.6501,20120107,"Chicago, Illinois, United States",3
+111,44.4333,26.1,20120118,"Bucharest, Bucuresti, Romania",4
+118,44.4333,26.1,20120119,"Bucharest, Bucuresti, Romania",4
+1054,44.4333,26.1,20120125,"Bucharest, Bucuresti, Romania",4
+153,15.3547,44.2067,20120125,"Sanaa, San‘a', Yemen",4
+163,46.0,25.0,20120206,Romania,1
+377,44.4333,26.1,20120206,"Bucharest, Bucuresti, Romania",4
+108,15.3547,44.2067,20120215,"Sanaa, San‘a', Yemen",4
+178,38.899,-77.0422,20120215,"World Bank, District of Columbia, United States",3
+225,38.899,-77.0422,20120215,"World Bank, District of Columbia, United States",3
+190,38.0,-97.0,20120217,United States,1
+433,38.899,-77.0422,20120217,"World Bank, District of Columbia, United States",3
+192,38.899,-77.0422,20120217,"World Bank, District of Columbia, United States",3
+288,38.899,-77.0422,20120217,"World Bank, District of Columbia, United States",3
+135,38.0,-97.0,20120217,United States,1
+135,38.0,-97.0,20120217,United States,1
+799,30.05,31.25,20120219,"Cairo, Al Qahirah, Egypt",4
+165,38.899,-77.0422,20120225,"World Bank, District of Columbia, United States",3
+139,35.0,105.0,20120227,China,1
+276,24.1456,117.649,20120305,"Wenzhou, Fujian, China",4
+158,38.899,-77.0422,20120323,"World Bank, District of Columbia, United States",3
+132,38.899,-77.0422,20120323,"World Bank, District of Columbia, United States",3
+121,38.8951,-77.0364,20120323,"Washington, District of Columbia, United States",3
+143,38.0,-97.0,20120324,United States,1
+105,38.0,-97.0,20120325,United States,1
+119,38.0,-97.0,20120325,United States,1
+116,38.0,-97.0,20120325,United States,1
+211,38.0,-97.0,20120325,United States,1
+189,38.0,-97.0,20120326,United States,1
+172,38.0,-97.0,20120326,United States,1
+108,38.0,-97.0,20120326,United States,1
+108,38.0,-97.0,20120326,United States,1
+124,38.0,-97.0,20120413,United States,1
+117,11.85,-15.5833,20120414,"Bissau, Bissau, Guinea-Bissau",4
+104,38.899,-77.0422,20120416,"World Bank, District of Columbia, United States",3
+208,11.55,104.917,20120502,"Phnom Penh, (CB11), Cambodia",4
+722,46.0,25.0,20120504,Romania,1
+672,46.0,25.0,20120505,Romania,1
+560,46.0,25.0,20120506,Romania,1
+171,44.4333,26.1,20120507,"Bucharest, Bucuresti, Romania",4
+118,34.5167,69.1833,20120509,"Kabul, Kabol, Afghanistan",4
+360,33.3386,44.3939,20120527,"Baghdad, Baghdad, Iraq",4
+473,34.0,45.0,20120527,"Diyala, DiyaláZ, Iraq",5
+157,38.8951,-77.0364,20120614,"Washington, District of Columbia, United States",3
+157,38.8951,-77.0364,20120614,"Washington, District of Columbia, United States",3
+260,13.0,122.0,20120617,Philippines,1
+250,16.8053,96.1561,20120801,"Yangon, Yangon, Myanmar",4
+250,16.8053,96.1561,20120801,"Yangon, Yangon, Myanmar",4
+120,0.0,0.0,20120801,,
+120,0.0,0.0,20120801,,
+120,0.0,0.0,20120801,,
+172,16.8053,96.1561,20120801,"Yangon, Yangon, Myanmar",4
+128,32.965,71.557,20120812,"Kalabagh, Punjab, Pakistan",4
+590,30.05,31.25,20120814,"Cairo, Al Qahirah, Egypt",4
+560,30.05,31.25,20120814,"Cairo, Al Qahirah, Egypt",4
+252,30.05,31.25,20120915,"Cairo, Al Qahirah, Egypt",4
+200,35.0,105.0,20121008,China,1
+187,35.685,139.751,20121009,"Tokyo, Tokyo, Japan",4
+146,35.685,139.751,20121009,"Tokyo, Tokyo, Japan",4
+152,35.685,139.751,20121010,"Tokyo, Tokyo, Japan",4
+110,35.685,139.751,20121011,"Tokyo, Tokyo, Japan",4
+128,39.9289,116.388,20121011,"Beijing, Beijing, China",4
+105,35.685,139.751,20121012,"Tokyo, Tokyo, Japan",4
+130,35.685,139.751,20121013,"Tokyo, Tokyo, Japan",4
+120,39.0,22.0,20121027,Greece,1
+230,19.0,-72.4167,20121107,Haiti,1
+106,35.0,105.0,20121129,China,1
+197,29.7633,-95.3633,20121210,"Houston, Texas, United States",3
+170,44.4333,26.1,20121217,"Bucharest, Bucuresti, Romania",4
+280,44.4333,26.1,20121217,"Bucharest, Bucuresti, Romania",4
+168,38.0,-97.0,20121217,United States,1
+210,36.0,138.0,20130130,Japan,1
+154,39.0194,125.755,20130214,"Pyongyang, P'yongyang-si, North Korea",4
+244,-26.2,28.0833,20130218,"Johannesburg, Gauteng, South Africa",4
+280,31.5,34.75,20130227,Israel,1
+210,31.5,34.75,20130227,Israel,1
+410,15.0,100.0,20130328,Thailand,1
+130,28.6,77.2,20130902,"New Delhi, Delhi, India",4
+102,20.0,77.0,20130911,India,1
+110,39.9289,116.388,20130918,"Beijing, Beijing, China",4
+110,42.6833,23.3167,20130920,"Sofia, Sofiya-Grad, Bulgaria",4
+110,15.0,100.0,20130925,Thailand,1
+118,38.899,-77.0422,20131013,"World Bank, District of Columbia, United States",3
+118,38.899,-77.0422,20131013,"World Bank, District of Columbia, United States",3
+120,42.6833,23.3167,20131022,"Sofia, Sofiya-Grad, Bulgaria",4
+200,32.9866,-83.6487,20131025,"Georgia, United States",2
+150,38.0,-97.0,20131027,United States,1
+150,12.1167,-61.6667,20131027,Grenada,1
+110,12.65,-8.0,20131104,"Bamako, Bamako, Mali",4
+160,38.0,-97.0,20131123,United States,1
+296,50.4333,30.5167,20131216,"Kiev, Ukraine (general), Ukraine",4
+284,50.4333,30.5167,20131217,"Kiev, Ukraine (general), Ukraine",4
+150,12.0828,99.8543,20140112,"Kui Buri, Prachuap Khiri Khan, Thailand",4
+120,12.0828,99.8543,20140114,"Kui Buri, Prachuap Khiri Khan, Thailand",4
+120,10.0,49.0,20140115,Somalia,1
+208,1.0,32.0,20140228,Uganda,1
+208,1.0,32.0,20140228,Uganda,1
+168,1.0,32.0,20140228,Uganda,1
+237,27.0,30.0,20140304,Egypt,1
+140,-17.8178,31.0447,20140310,"Harare, Mashonaland East, Zimbabwe",4
+160,29.3375,47.6581,20140313,Kuwait,1
+110,-34.5875,-58.6725,20140315,"Buenos Aires, Distrito Federal, Argentina",4
+420,9.5,2.25,20140316,Benin,1
+310,14.0,-14.0,20140316,Senegal,1
+110,-1.0,15.0,20140325,Congo,1
+190,55.7522,37.6156,20140326,"Moscow, Moskva, Russia",4
+160,60.0,100.0,20140326,Russia,1
+110,7.0,81.0,20140402,Sri Lanka,1
+120,32.9866,-83.6487,20140409,"Georgia, United States",2
+106,38.8951,-77.0364,20140410,"Washington, District of Columbia, United States",3
+116,47.0,8.0,20140619,Switzerland,1
+174,47.0,8.0,20140619,Switzerland,1
+197,38.899,-77.0422,20140803,"World Bank, District of Columbia, United States",3
+146,38.899,-77.0422,20140804,"World Bank, District of Columbia, United States",3
+421,38.899,-77.0422,20140804,"World Bank, District of Columbia, United States",3
+105,38.899,-77.0422,20140804,"World Bank, District of Columbia, United States",3
+115,38.899,-77.0422,20140805,"World Bank, District of Columbia, United States",3
+108,11.0,-10.0,20140806,Guinea,1
+144,11.0,-10.0,20140807,Guinea,1
+140,33.7,73.1667,20140819,"Islamabad, Islamabad, Pakistan",4
+120,35.7833,10.8333,20140904,"Monastir, Al Munastir, Tunisia",4
+200,8.33333,-13.0,20140920,"Western Area, Western Area, Sierra Leone",5
+126,8.33333,-13.0,20140921,"Western Area, Western Area, Sierra Leone",5
+120,55.6667,12.5833,20140924,"Copenhagen, Køavn*, Denmark",4
+170,21.5,-80.0,20140925,Cuba,1
+110,21.5,-80.0,20140926,Cuba,1
+110,38.899,-77.0422,20141009,"World Bank, District of Columbia, United States",3
+144,8.5,-11.5,20141009,Sierra Leone,1
+115,38.8951,-77.0364,20141009,"Washington, District of Columbia, United States",3
+256,38.8951,-77.0364,20141010,"Washington, District of Columbia, United States",3
+158,38.8951,-77.0364,20141010,"Washington, District of Columbia, United States",3
+106,38.899,-77.0422,20141011,"World Bank, District of Columbia, United States",3
+106,38.899,-77.0422,20141011,"World Bank, District of Columbia, United States",3
+432,8.56289,-63.9905,20141011,"Cerro Negro, Anzoágui, Venezuela",4
+216,8.56289,-63.9905,20141011,"Cerro Negro, Anzoágui, Venezuela",4
+112,38.8951,-77.0364,20141011,"Washington, District of Columbia, United States",3
+198,38.899,-77.0422,20141017,"World Bank, District of Columbia, United States",3
+198,38.899,-77.0422,20141017,"World Bank, District of Columbia, United States",3
+126,38.899,-77.0422,20141024,"World Bank, District of Columbia, United States",3
+384,39.9289,116.388,20141025,"Beijing, Beijing, China",4
+1163,8.0,30.0,20141027,South Sudan,1
+134,8.0,38.0,20141028,Ethiopia,1
+128,38.899,-77.0422,20141028,"World Bank, District of Columbia, United States",3
+132,44.6074,-69.3977,20141028,"Maine, United States",2
+182,6.5,-9.5,20141028,Liberia,1
+182,6.5,-9.5,20141028,Liberia,1
+128,38.899,-77.0422,20141028,"World Bank, District of Columbia, United States",3
+133,39.9289,116.388,20141029,"Beijing, Beijing, China",4
+150,39.9289,116.388,20141029,"Beijing, Beijing, China",4
+692,44.6074,-69.3977,20141030,"Maine, United States",2
+412,8.5,-11.5,20141030,Sierra Leone,1
+192,8.5,-11.5,20141030,Sierra Leone,1
+1234,8.5,-11.5,20141031,Sierra Leone,1
+104,52.2,0.116667,20141209,"Cambridge, Cambridgeshire, United Kingdom",4
+102,52.7229,37.0079,20150221,"Korsunskaya, Orlovskaya Oblast', Russia",4
+390,23.7231,90.4086,20150226,"Dhaka, Dhaka, Bangladesh",4
+140,15.3547,44.2067,20150226,"Sanaa, San‘a', Yemen",4
+258,23.65,90.0,20150311,"Manipur, Bangladesh (general), Bangladesh",4
+248,62.0,15.0,20150311,Sweden,1
+229,15.3547,44.2067,20150312,"Sanaa, San‘a', Yemen",4
+288,15.3547,44.2067,20150312,"Sanaa, San‘a', Yemen",4
+120,27.0529,79.3583,20150313,"Manipur, Uttar Pradesh, India",4
+342,38.899,-77.0422,20150314,"World Bank, District of Columbia, United States",3
+200,-16.0,167.0,20150315,Vanuatu,1
+130,-6.8,39.2833,20150315,"Dar Es Salaam, Dar es Salaam, Tanzania",4
+130,-6.8,39.2833,20150316,"Dar Es Salaam, Dar es Salaam, Tanzania",4
+119,19.0,-72.4167,20150318,Haiti,1
+157,10.0,8.0,20150318,Nigeria,1
+103,38.899,-77.0422,20150321,"World Bank, District of Columbia, United States",3
+306,31.0,64.0,20150321,,0
+190,51.0,9.0,20150326,Germany,1
+330,41.3275,19.8189,20150328,"Tirana, Tirane, Albania",4
+272,1.3667,103.8,20150330,Singapore,1
+270,20.0,77.0,20150331,India,1
+150,40.1811,44.5136,20150331,"Yerevan, Yerevan*, Armenia",4
+110,,,20150409,,0
+130,17.3753,78.4744,20150409,"Hyderabad, Andhra Pradesh, India",4
+110,3.08333,101.667,20150411,"Petaling, Malaysia (general), Malaysia",4
+106,38.8951,-77.0364,20150413,"Washington, District of Columbia, United States",3
+198,20.0,77.0,20150416,India,1
+110,20.0,77.0,20150416,India,1
+316,38.899,-77.0422,20150417,"World Bank, District of Columbia, United States",3
+138,27.0529,79.3583,20150418,"Manipur, Uttar Pradesh, India",4
+125,20.0,77.0,20150418,India,1
+170,39.9289,116.388,20150419,"Beijing, Beijing, China",4
+160,50.9386,29.8943,20150423,"Ivankiv, Kyyivs'ka Oblast', Ukraine",4
+509,38.0,-97.0,20150423,United States,1
+260,-17.8178,31.0447,20150506,"Harare, Mashonaland East, Zimbabwe",4
+175,16.8053,96.1561,20150506,"Yangon, Yangon, Myanmar",4
+260,-17.8178,31.0447,20150506,"Harare, Mashonaland East, Zimbabwe",4
+130,-1.95361,30.0606,20150511,"Kigali, (RW09), Rwanda",4
+144,7.0,21.0,20150512,Central African Republic,1
+178,35.0,105.0,20150518,China,1
+228,38.899,-77.0422,20150518,"World Bank, District of Columbia, United States",3
+136,31.4167,34.3333,20150522,"Gaza, Israel (general), Israel",4
+180,30.05,31.25,20150522,"Cairo, Al Qahirah, Egypt",4
+428,31.4167,34.3333,20150522,"Gaza, Israel (general), Israel",4
+155,31.4167,34.3333,20150522,"Gaza, Israel (general), Israel",4
+195,31.4167,34.3333,20150522,"Gaza, Israel (general), Israel",4
+110,20.0,77.0,20150527,India,1
+110,20.0,77.0,20150527,India,1
+121,22.0253,88.0583,20150529,"Haldia, West Bengal, India",4
+591,37.9833,23.7333,20150601,"Athens, AttikíR, Greece",4
+171,15.0,48.0,20150601,Yemen,1
+441,52.5167,13.4,20150601,"Berlin, Berlin, Germany",4
+260,11.0,78.0,20150604,"Tamil Nadu, Tamil Nadu, India",5
+2582,49.0,32.0,20150608,Ukraine,1
+480,13.75,100.517,20150608,"Bangkok, Krung Thep Mahanakhon, Thailand",4
+1090,13.75,100.517,20150609,"Bangkok, Krung Thep Mahanakhon, Thailand",4
+102,4.74318,-2.09037,20150616,"Cape Three Points, Ghana (general), Ghana",4
+120,,,20150617,,0
+110,38.899,-77.0422,20150623,"World Bank, District of Columbia, United States",3
+106,18.2359,-66.4838,20150629,Puerto Rico,1
+185,34.0,65.0,20150630,"Ghor, Ghowr, Afghanistan",5
+103,38.899,-77.0422,20150701,"World Bank, District of Columbia, United States",3
+970,39.9289,116.388,20150701,"Beijing, Beijing, China",4
+170,22.5697,88.3697,20150701,"Kolkata, West Bengal, India",4
+126,11.0064,124.607,20150709,"Ormoc, Ormoc, Philippines",4
+117,18.0,79.5,20150716,"Andhra, Andhra Pradesh, India",4
+375,20.0,77.0,20150721,India,1
+179,-1.51667,37.2667,20150723,"Machakos, Eastern, Kenya",4
+110,22.8956,88.4025,20150728,"Hooghly, West Bengal, India",4
+105,33.7,73.1667,20150804,"Islamabad, Islamabad, Pakistan",4
+120,,,20150807,,0
+115,48.782,2.19395,20150807,"Villacoublay, France (general), France",4
+120,,,20150807,,0
+192,32.0,53.0,20150811,Iran,1
+110,54.0,-2.0,20150816,United Kingdom,1
+150,50.4333,30.5167,20150826,"Kiev, Ukraine (general), Ukraine",4
+120,42.1497,-74.9384,20150829,"New York, United States",2
+136,41.85,-87.6501,20150831,"Chicago, Illinois, United States",3
+120,15.25,-61.2833,20150903,"Petite-Savanne, Saint Patrick, Dominica",4
+160,34.5167,69.1833,20150904,"Kabul, Kabol, Afghanistan",4
+110,,,20150905,,0
+120,33.9167,76.6667,20150907,"Kashmir, Jammu and Kashmir, India",5
+130,54.0,-2.0,20150918,United Kingdom,1
+250,20.0,77.0,20150925,India,1
+140,20.0,77.0,20150926,India,1
+154,20.0,77.0,20151001,India,1
+170,40.1811,44.5136,20151001,"Yerevan, Yerevan*, Armenia",4
+186,46.0,2.0,20151002,France,1
+150,2.5,112.5,20151002,Malaysia,1
+126,4.36667,18.5833,20151002,"Bangui, Bangui, Central African Republic",4
+156,-29.0,24.0,20151005,South Africa,1
+216,36.0,138.0,20151006,Japan,1
+294,-11.8533,-77.0378,20151007,"Carabayllo, Lima, Peru",4
+314,-12.05,-77.05,20151007,"Lima, Lima, Peru",4
+295,38.899,-77.0422,20151008,"World Bank, District of Columbia, United States",3
+200,-12.05,-77.05,20151008,"Lima, Lima, Peru",4
+220,-12.05,-77.05,20151008,"Lima, Lima, Peru",4
+220,-10.0,-76.0,20151008,Peru,1
+293,-12.05,-77.05,20151008,"Lima, Lima, Peru",4
+224,-10.0,-76.0,20151008,Peru,1
+148,-12.05,-77.05,20151008,"Lima, Lima, Peru",4
+470,16.0,106.0,20151009,"Vietnam, Republic Of",1
+116,-10.0,-76.0,20151009,Peru,1
+210,48.8667,2.33333,20151009,"Paris, RhôAlpes, France",4
+470,16.0,106.0,20151009,"Vietnam, Republic Of",1
+124,-12.05,-77.05,20151009,"Lima, Lima, Peru",4
+470,16.0,106.0,20151009,"Vietnam, Republic Of",1
+270,-12.05,-77.05,20151010,"Lima, Lima, Peru",4
+770,48.8667,2.33333,20151010,"Paris, RhôAlpes, France",4
+250,-12.05,-77.05,20151010,"Lima, Lima, Peru",4
+105,-12.05,-77.05,20151010,"Lima, Lima, Peru",4
+266,48.8667,2.33333,20151010,"Paris, RhôAlpes, France",4
+151,-12.05,-77.05,20151011,"Lima, Lima, Peru",4
+139,48.8667,2.33333,20151011,"Paris, RhôAlpes, France",4
+112,-12.05,-77.05,20151011,"Lima, Lima, Peru",4
+424,14.6042,120.982,20151012,"Manila, Manila, Philippines",4
+139,-12.05,-77.05,20151012,"Lima, Lima, Peru",4
+1288,-12.05,-77.05,20151017,"Lima, Lima, Peru",4
+150,44.0407,-72.7093,20151017,"Vermont, United States",2
+236,35.0,38.0,20151017,Syria,1
+236,51.0,9.0,20151019,Germany,1
+1220,51.0,9.0,20151019,Germany,1
+944,51.0,9.0,20151019,Germany,1
+140,1.3667,103.8,20151023,Singapore,1
+208,52.25,21.0,20151025,"Warsaw, (PL67), Poland",4
+145,52.25,21.0,20151026,"Warsaw, (PL67), Poland",4
+260,20.0,77.0,20151027,India,1
+304,28.6,77.2,20151027,"New Delhi, Delhi, India",4
+180,33.5783,35.5403,20151101,"Bisri, Liban-Sud, Lebanon",4
+150,28.6667,77.2167,20151101,"Delhi, Delhi, India",4
+420,,,20151108,,0
+110,38.899,-77.0422,20151108,"World Bank, District of Columbia, United States",3
+112,48.8667,2.33333,20151108,"Paris, RhôAlpes, France",4
+184,48.8667,2.33333,20151108,"Paris, RhôAlpes, France",4
+116,-12.05,-77.05,20151108,"Lima, Lima, Peru",4
+215,,,20151108,,0
+642,60.0,100.0,20151109,Russia,1
+260,35.0,105.0,20151109,China,1
+170,55.7522,37.6156,20151112,"Moscow, Moskva, Russia",4
+160,55.7522,37.6156,20151112,"Moscow, Moskva, Russia",4
+280,-2.26925,40.8991,20151114,"Lamu, Coast, Kenya",4
+486,48.8667,2.33333,20151116,"Paris, RhôAlpes, France",4
+104,-12.05,-77.05,20151119,"Lima, Lima, Peru",4
+108,31.5,34.75,20151130,Israel,1
+101,-4.03835,39.5831,20151203,"Mwache, Coast, Kenya",4
+110,10.0,8.0,20151206,Nigeria,1
+210,,,20151208,,0
+120,,,20151209,,0
+110,10.0,8.0,20151210,Nigeria,1
+110,48.8667,2.33333,20151213,"Paris, RhôAlpes, France",4
+115,48.8667,2.33333,20151215,"Paris, RhôAlpes, France",4
+144,30.05,31.25,20151218,"Cairo, Al Qahirah, Egypt",4
+170,34.5167,69.1833,20151218,"Kabul, Kabol, Afghanistan",4
+170,1.0,32.0,20151222,Uganda,1
+128,18.5333,73.8667,20151226,"Pune, Maharashtra, India",4
+228,34.0,45.0,20151228,"Diyala, DiyaláZ, Iraq",5
+134,-12.05,-77.05,20160110,"Lima, Lima, Peru",4
+115,-12.05,-77.05,20160110,"Lima, Lima, Peru",4
+142,8.0,-66.0,20160110,Venezuela,1
+204,46.0,25.0,20160111,Romania,1
+256,-12.05,-77.05,20160111,"Lima, Lima, Peru",4
+146,46.0,25.0,20160111,Romania,1
+126,8.0,-66.0,20160111,Venezuela,1
+662,44.4333,26.1,20160111,"Bucharest, Bucuresti, Romania",4
+191,-12.05,-77.05,20160112,"Lima, Lima, Peru",4
+124,38.899,-77.0422,20160112,"World Bank, District of Columbia, United States",3
+145,31.95,35.9333,20160125,"Amman, (JO11), Jordan",4
+150,33.8333,35.8333,20160125,Lebanon,1
+240,35.0,38.0,20160125,Syria,1
+632,55.7522,37.6156,20160128,"Moscow, Moskva, Russia",4
+102,-16.0,167.0,20160128,Vanuatu,1
+140,9.03333,38.7,20160201,"Addis Ababa, (ET10), Ethiopia",4
+414,35.5148,35.7768,20160205,"Latakia, Al Ladhiqiyah, Syria",4
+260,11.0,123.5,20160209,"Visayas, Philippines (general), Philippines",4
+284,36.17,-119.746,20160212,"California, United States",2
+1176,20.0,77.0,20160212,India,1
+130,-10.0,-55.0,20160214,Brazil,1
+130,-10.0,-55.0,20160214,Brazil,1
+130,-10.0,-55.0,20160214,Brazil,1
+150,-10.0,-55.0,20160215,Brazil,1
+150,-10.0,-55.0,20160215,Brazil,1
+150,-10.0,-55.0,20160215,Brazil,1
+650,45.4167,-75.7,20160216,"Ottawa, Ontario, Canada",4
+167,35.75,51.514801025390625,20160226,"Tehran, Tehran, Iran",4
+391,35.75,51.514801025390625,20160228,"Tehran, Tehran, Iran",4
+108,31.950000762939453,35.933300018310547,20160228,"Amman, (JO11), Jordan",4
+102,-8.83833,13.2344,20160301,"Luanda, Luanda, Angola",4
+136,23.5,78.5,20160302,"Madhya Pradesh, Madhya Pradesh, India",5
+110,13.0,105.0,20160309,Cambodia,1
+140,-17.8178,31.0447,20160316,"Harare, Mashonaland East, Zimbabwe",4
+240,7.0,21.0,20160316,Central African Republic,1
+240,7.0,21.0,20160316,Central African Republic,1
+200,4.36667,18.5833,20160316,"Bangui, Bangui, Central African Republic",4
+200,4.36667,18.5833,20160316,"Bangui, Bangui, Central African Republic",4
+676,31.0,36.0,20160324,Jordan,1
+188,31.0,36.0,20160324,Jordan,1
+864,31.0,36.0,20160324,Jordan,1
+160,33.8719,35.5097,20160325,"Beirut, Beyrouth, Lebanon",4
+128,33.8719,35.5097,20160325,"Beirut, Beyrouth, Lebanon",4
+120,5.34111,-4.02806,20160330,"Abidjan, Lagunes, Cote D'ivoire",4
+675,-33.8833,151.217,20160331,"Sydney, New South Wales, Australia",4
+270,-33.8833,151.217,20160331,"Sydney, New South Wales, Australia",4
+110,6.31056,-10.8047,20160402,"Monrovia, Montserrado, Liberia",4
+182,29.5,82.4167,20160405,"Karnali, Karnali, Nepal",5
+460,23.7231,90.4086,20160406,"Dhaka, Dhaka, Bangladesh",4
+240,38.899,-77.0422,20160411,"World Bank, District of Columbia, United States",3
+244,38.899,-77.0422,20160411,"World Bank, District of Columbia, United States",3
+122,32.8925,13.18,20160412,"Tripoli, Tarabulus, Libya",4
+122,32.8925,13.18,20160412,"Tripoli, Tarabulus, Libya",4
+102,38.8951,-77.0364,20160412,"Washington, District of Columbia, United States",3
+180,25.0,45.0,20160413,Saudi Arabia,1
+162,38.899,-77.0422,20160416,"World Bank, District of Columbia, United States",3
+170,38.899,-77.0422,20160416,"World Bank, District of Columbia, United States",3
+240,20.0,77.0,20160416,India,1
+240,20.0,77.0,20160416,India,1
+132,31.5464,34.4951,20160418,"Beit Lahiya, Gaza Strip (general), Gaza Strip",4
+581,31.4167,34.3333,20160418,"Gaza, Israel (general), Israel",4
+490,31.4167,34.3333,20160418,"Gaza, Israel (general), Israel",4
+152,31.4167,34.3333,20160418,"Gaza, Israel (general), Israel",4
+250,40.0,-4.0,20160419,Spain,1
+192,35.0,105.0,20160424,China,1
+150,-25.9653,32.5892,20160428,"Maputo, Maputo, Mozambique",4
+349,20.0,77.0,20160430,India,1
+195,20.0,77.0,20160430,India,1
+184,48.8667,2.33333,20160505,"Paris, RhôAlpes, France",4
+192,38.899,-77.0422,20160505,"World Bank, District of Columbia, United States",3
+210,36.7631,3.05056,20160511,"Algiers, Alger, Algeria",4
+528,38.0,-97.0,20160518,United States,1
+124,38.899,-77.0422,20160521,"World Bank, District of Columbia, United States",3
+146,36.0,138.0,20160521,Japan,1
+291,36.0,138.0,20160521,Japan,1
+292,36.0,138.0,20160521,Japan,1
+135,48.15,11.5833,20160523,"Munich, Bayern, Germany",4
+155,36.0,138.0,20160523,Japan,1
+320,24.0,90.0,20160524,Bangladesh,1
+160,24.0,90.0,20160524,Bangladesh,1
+320,24.0,90.0,20160524,Bangladesh,1
+154,13.5,76.0,20160524,"Karnataka, Karnataka, India",5
+110,11.55,104.917,20160527,"Phnom Penh, (CB11), Cambodia",4
+110,12.7111,104.889,20160527,"Kampong Thom, KâóThum, Cambodia",4
+154,4.78917,6.99861,20160528,"Port Harcourt, Rivers, Nigeria",4
+122,32.0,-5.0,20160601,Morocco,1
+160,8.0,30.0,20160606,South Sudan,1
+407,6.45306,3.39583,20160606,"Lagos, Lagos, Nigeria",4
+146,39.9289,116.388,20160607,"Beijing, Beijing, China",4
+522,39.9289,116.388,20160608,"Beijing, Beijing, China",4
+146,6.5,-9.5,20160609,Liberia,1
+140,39.9289,116.388,20160609,"Beijing, Beijing, China",4
+136,51.0,9.0,20160615,Germany,1
+430,8.49,-13.2342,20160622,"Freetown, Western Area, Sierra Leone",4
+170,21.0333,105.85,20160623,"Hanoi, Ha N?i, Vietnam, Republic Of",4
+332,21.0333,105.85,20160623,"Hanoi, Ha N?i, Vietnam, Republic Of",4
+142,38.899,-77.0422,20160623,"World Bank, District of Columbia, United States",3
+480,8.49,-13.2342,20160623,"Freetown, Western Area, Sierra Leone",4
+110,8.49,-13.2342,20160624,"Freetown, Western Area, Sierra Leone",4
+120,11.5,43.0,20160624,Djibouti,1
+285,54.0,-2.0,20160625,United Kingdom,1
+140,23.7231,90.4086,20160626,"Dhaka, Dhaka, Bangladesh",4
+108,54.0,-2.0,20160626,United Kingdom,1
+350,20.0,77.0,20160630,India,1
+212,20.0,77.0,20160630,India,1
+368,23.5,78.5,20160630,"Madhya Pradesh, Madhya Pradesh, India",5
+155,20.0,77.0,20160630,India,1
+215,20.0,77.0,20160630,India,1
+320,23.7231,90.4086,20160702,"Dhaka, Dhaka, Bangladesh",4
+378,36.0,138.0,20160712,Japan,1
+252,36.0,138.0,20160712,Japan,1
+354,36.0,138.0,20160713,Japan,1
+236,36.0,138.0,20160713,Japan,1
+135,31.4167,34.3333,20160714,"Gaza, Israel (general), Israel",4
+170,14.6042,120.982,20160727,"Manila, Manila, Philippines",4
+130,-1.0,15.0,20160727,Congo,1
+172,-6.17444,106.829,20160727,"Jakarta, Jakarta Raya, Indonesia",4
+160,28.6667,77.2167,20160729,"Delhi, Delhi, India",4
+246,5.55,-0.216667,20160806,"Accra, Greater Accra, Ghana",4
+323,5.55,-0.216667,20160807,"Accra, Greater Accra, Ghana",4
+114,-4.32972,15.315,20160811,"Kinshasa, Kinshasa, Democratic Republic Of The Congo",4
+300,31.5,35.7833,20160814,"Dhiban, Jordan (general), Jordan",4
+190,28.95,76.4333,20160817,"Madina, Haryana, India",4
+240,13.0,122.0,20160827,Philippines,1
+110,18.975,72.8258,20160903,"Mumbai, Maharashtra, India",4
+213,-6.0,35.0,20160905,Tanzania,1
+135,-17.8178,31.0447,20160910,"Harare, Mashonaland East, Zimbabwe",4
+380,-17.8178,31.0447,20160911,"Harare, Mashonaland East, Zimbabwe",4
+620,-17.8178,31.0447,20160912,"Harare, Mashonaland East, Zimbabwe",4
+113,38.899,-77.0422,20160918,"World Bank, District of Columbia, United States",3
+108,10.0167,78.7833,20160919,"Amaravati, Tamil Nadu, India",4
+228,35.0,105.0,20160919,China,1
+204,20.0,77.0,20160920,India,1
+120,6.5,125.917,20160922,"Davao Gulf, Philippines (general), Philippines",4
+1200,36.6555,8.69602,20160924,"Fernana, Jundubah, Tunisia",4
+116,38.899,-77.0422,20160928,"World Bank, District of Columbia, United States",3
+119,38.8951,-77.0364,20160928,"Washington, District of Columbia, United States",3
+149,28.95,70.5,20160928,"Chenab, Punjab, Pakistan",4
+110,60.0,-95.0,20161002,Canada,1
+102,38.8996,-77.0422,20161003,"The World Bank, District of Columbia, United States",3
+170,60.0,-95.0,20161004,Canada,1
+118,38.899,-77.0422,20161004,"World Bank, District of Columbia, United States",3
+110,60.0,-95.0,20161006,Canada,1
+136,38.899,-77.0422,20161007,"World Bank, District of Columbia, United States",3
+153,32.2833,75.65,20161007,"Pathankot, Punjab, India",4
+124,38.8951,-77.0364,20161008,"Washington, District of Columbia, United States",3
+185,23.7231,90.4086,20161017,"Dhaka, Dhaka, Bangladesh",4
+185,23.7231,90.4086,20161017,"Dhaka, Dhaka, Bangladesh",4
+485,23.7231,90.4086,20161018,"Dhaka, Dhaka, Bangladesh",4
+180,23.7231,90.4086,20161018,"Dhaka, Dhaka, Bangladesh",4
+485,23.7231,90.4086,20161018,"Dhaka, Dhaka, Bangladesh",4
+265,51.4667,-0.45,20161026,"Heathrow, Hillingdon, United Kingdom",4
+285,51.4667,-0.45,20161026,"Heathrow, Hillingdon, United Kingdom",4
+111,-18.9617,32.4056,20161031,"Odzi, Manicaland, Zimbabwe",4
+365,-10.0,70.0,20161101,"Indian Ocean, ,",4
+250,36.0,138.0,20161109,Japan,1
+203,38.8951,-77.0364,20161109,"Washington, District of Columbia, United States",3
+114,46.0,2.0,20161116,France,1
+140,44.4333,26.1,20161122,"Bucharest, Bucuresti, Romania",4
+130,11.55,104.917,20161122,"Phnom Penh, (CB11), Cambodia",4
+173,35.75,51.5148,20161124,"Tehran, Tehran, Iran",4
+118,18.975,72.8258,20161124,"Mumbai, Maharashtra, India",4
+146,18.975,72.8258,20161125,"Mumbai, Maharashtra, India",4
+280,-1.28333,36.8167,20161126,"Nairobi, Nairobi Area, Kenya",4
+299,35.685,139.751,20161126,"Tokyo, Tokyo, Japan",4
+252,38.0,-97.0,20161202,United States,1
+402,32.2164,35.2729,20161205,"Ministry Of Education, West Bank (general), West Bank",4
+268,32.2164,35.2729,20161205,"Ministry Of Education, West Bank (general), West Bank",4
+342,32.2164,35.2729,20161206,"Ministry Of Education, West Bank (general), West Bank",4
+228,32.2164,35.2729,20161206,"Ministry Of Education, West Bank (general), West Bank",4
+230,40.0,45.0,20161209,Armenia,1
+135,40.0,45.0,20161209,Armenia,1
+610,48.8667,2.33333,20161216,"Paris, France (general), France",4
+114,7.0,81.0,20161217,Sri Lanka,1
+136,7.0,81.0,20161219,Sri Lanka,1
+234,33.0,44.0,20161221,Iraq,1
+101,33.0,44.0,20161221,Iraq,1
+502,18.3333,105.9,20161228,"Ha Tinh, Tinh Ha Tinh, Vietnam, Republic Of",4
+119,18.3333,105.9,20161229,"Ha Tinh, Tinh Ha Tinh, Vietnam, Republic Of",4
+320,42.8731,74.6003,20170110,"Bishkek, Bishkek, Kyrgyzstan",4
+320,42.8731,74.6003,20170110,"Bishkek, Bishkek, Kyrgyzstan",4
+133,37.7749,-122.419,20170111,"San Francisco, California, United States",3
+128,38.899,-77.0422,20170111,"World Bank, District of Columbia, United States",3
+105,20.9333,106.317,20170118,"Hai Duong, H?i Duong, Vietnam, Republic Of",4
+260,17.0,-4.0,20170126,Mali,1
+266,38.899,-77.0422,20170127,"World Bank, District of Columbia, United States",3
+400,38.899,-77.0422,20170127,"World Bank, District of Columbia, United States",3
+305,13.5,23.5,20170129,"Darfur, Gharb Darfur, Sudan",4
+305,13.5,23.5,20170129,"Darfur, Gharb Darfur, Sudan",4
+305,13.5,23.5,20170129,"Darfur, Gharb Darfur, Sudan",4
+135,13.5,23.5,20170130,"Darfur, Gharb Darfur, Sudan",4
+135,13.5,23.5,20170130,"Darfur, Gharb Darfur, Sudan",4
+135,13.5,23.5,20170130,"Darfur, Gharb Darfur, Sudan",4
+531,28.6,77.2,20170202,"New Delhi, Delhi, India",4
+445,30.25,79.25,20170202,"Uttarakhand, Uttaranchal, India",5
+274,31.0,47.4167,20170206,"Tigris River, Al Basrah, Iraq",4
+192,33.8333,35.8333,20170207,Lebanon,1
+360,33.8719,35.5097,20170207,"Beirut, Beyrouth, Lebanon",4
+110,38.899,-77.0422,20170216,"World Bank, District of Columbia, United States",3
+110,31.8334,35.2631,20170216,"Hizma, West Bank (general), West Bank",4
+122,9.08333,7.53333,20170216,"Abuja, Abuja Federal Capital Territory, Nigeria",4
+185,20.0,77.0,20170228,India,1
+270,28.6,77.2,20170303,"New Delhi, Delhi, India",4
+132,33.7,73.1667,20170303,"Islamabad, Islamabad, Pakistan",4
+200,39.0,22.0,20170303,Greece,1
+180,25.4143,68.2142,20170309,"Kohistan, Sindh, Pakistan",4
+130,-13.5,34.0,20170318,Malawi,1
+150,-13.5,34.0,20170318,Malawi,1
+126,38.899,-77.0422,20170320,"World Bank, District of Columbia, United States",3
+110,30.05,31.25,20170322,"Cairo, Al Qahirah, Egypt",4
+110,30.05,31.25,20170322,"Cairo, Al Qahirah, Egypt",4
+180,4.83333,6.0,20170327,"Niger Delta, Nigeria (general), Nigeria",4
+146,38.8951,-77.0364,20170420,"Washington, District of Columbia, United States",3
+110,10.0,8.0,20170420,Nigeria,1
+110,28.6,77.2,20170421,"New Delhi, Delhi, India",4
+102,38.8951,-77.0364,20170421,"Washington, District of Columbia, United States",3
+520,36.0,138.0,20170504,Japan,1
+144,36.0,138.0,20170505,Japan,1
+120,-13.5,34.0,20170506,Malawi,1
+130,10.0,49.0,20170512,Somalia,1
+111,42.8333,12.8333,20170515,Italy,1
+111,42.8333,12.8333,20170515,Italy,1
+111,42.8333,12.8333,20170515,Italy,1
+111,42.8333,12.8333,20170515,Italy,1
+104,1.0,114.0,20170524,"Borneo, Indonesia (general), Indonesia",4
+150,25.2867,51.5333,20170612,"Doha, Ad Daw?ah, Qatar",4
+120,10.0,49.0,20170613,Somalia,1
+120,10.0,49.0,20170613,Somalia,1
+160,33.8719,35.5097,20170629,"Beirut, Beyrouth, Lebanon",4
+110,48.8667,2.33333,20170629,"Paris, France (general), France",4
+204,38.899,-77.0422,20170708,"World Bank, District of Columbia, United States",3
+254,38.899,-77.0422,20170708,"World Bank, District of Columbia, United States",3
+292,38.899,-77.0422,20170708,"World Bank, District of Columbia, United States",3
+121,38.899,-77.0422,20170708,"World Bank, District of Columbia, United States",3
+138,38.899,-77.0422,20170708,"World Bank, District of Columbia, United States",3
+262,38.899,-77.0422,20170708,"World Bank, District of Columbia, United States",3
+1819,38.899,-77.0422,20170708,"World Bank, District of Columbia, United States",3
+1619,38.899,-77.0422,20170708,"World Bank, District of Columbia, United States",3
+374,38.899,-77.0422,20170708,"World Bank, District of Columbia, United States",3
+184,38.899,-77.0422,20170708,"World Bank, District of Columbia, United States",3
+102,51.0,9.0,20170708,Germany,1
+290,38.899,-77.0422,20170708,"World Bank, District of Columbia, United States",3
+213,38.899,-77.0422,20170708,"World Bank, District of Columbia, United States",3
+270,53.55,10.0,20170708,"Hamburg, Hamburg, Germany",4
+248,39.0194,125.755,20170708,"Pyongyang, P'yongyang-si, North Korea",4
+144,53.55,10.0,20170708,"Hamburg, Hamburg, Germany",4
+104,48.8667,2.33333,20170708,"Paris, France (general), France",4
+130,39.9289,116.388,20170708,"Beijing, Beijing, China",4
+130,38.899,-77.0422,20170708,"World Bank, District of Columbia, United States",3
+120,38.899,-77.0422,20170709,"World Bank, District of Columbia, United States",3
+114,38.899,-77.0422,20170709,"World Bank, District of Columbia, United States",3
+120,18.25,-77.5,20170719,Jamaica,1
+176,1.0,114.0,20170725,"Borneo, Indonesia (general), Indonesia",4
+246,31.4167,34.3333,20170728,"Gaza, Israel (general), Israel",4
+164,31.6667,35.25,20170728,West Bank,1
+240,31.4167,34.3333,20170728,"Gaza, Israel (general), Israel",4
+160,31.4167,34.3333,20170728,"Gaza, Israel (general), Israel",4
+316,31.6667,35.25,20170729,West Bank,1
+474,31.4167,34.3333,20170729,"Gaza, Israel (general), Israel",4
+474,31.4167,34.3333,20170729,"Gaza, Israel (general), Israel",4
+106,38.8951,-77.0364,20170729,"White House, District of Columbia, United States",3
+316,31.4167,34.3333,20170729,"Gaza, Israel (general), Israel",4
+218,1.61667,109.183,20170805,"Kalimantan, Indonesia (general), Indonesia",4
+150,31.5497,74.3436,20170811,"Lahore, Punjab, Pakistan",4
+598,31.5497,74.3436,20170811,"Lahore, Punjab, Pakistan",4
+234,55.7522,37.6156,20170824,"Moscow, Moskva, Russia",4
+616,43.1131,19.4072,20170826,"Balkan, Montenegro (general), Montenegro",4
+110,43.1131,19.4072,20170827,"Balkan, Montenegro (general), Montenegro",4
+130,-33.8833,151.217,20170909,"Sydney, New South Wales, Australia",4
+101,-33.8833,151.217,20170909,"Sydney, New South Wales, Australia",4
+132,31.666667,35.25,20170912,West Bank,1
+116,31.666667,35.25,20170913,West Bank,1
+150,30.0,70.0,20170916,Pakistan,1
+104,23.5,78.5,20170917,"Madhya Pradesh, Madhya Pradesh, India",5
+116,17.3753,78.4744,20170919,"Hyderabad, Andhra Pradesh, India",4
+182,30.6693,50.2055,20170929,"Kurdistan, Khuzestan, Iran",4
+116,19.0,-70.666667,20170929,Dominican Republic,1
+144,38.8951,-77.0364,20171006,"Washington, District of Columbia, United States",3
+116,38.8951,-77.0364,20171007,"Washington, District of Columbia, United States",3
+120,42.3584,-71.0598,20171010,"Boston, Massachusetts, United States",3
+130,42.3584,-71.0598,20171010,"Boston, Massachusetts, United States",3
+148,38.899,-77.0422,20171010,"World Bank, District of Columbia, United States",3
+120,38.899,-77.0422,20171010,"World Bank, District of Columbia, United States",3
+148,38.899,-77.0422,20171010,"World Bank, District of Columbia, United States",3
+162,20.0,77.0,20171015,India,1
+160,20.0,77.0,20171015,India,1
+180,32.5518,36.1859,20171021,"Nassib, Dar‘a, Syria",4
+162,38.899,-77.0422,20171025,"World Bank, District of Columbia, United States",3
+162,38.899,-77.0422,20171025,"World Bank, District of Columbia, United States",3
+115,18.975,72.8258,20171107,"Mumbai, Maharashtra, India",4
+154,38.899,-77.0422,20171108,"World Bank, District of Columbia, United States",3
+156,38.899,-77.0422,20171108,"World Bank, District of Columbia, United States",3
+131,9.08333,7.53333,20171109,"Abuja, Abuja Federal Capital Territory, Nigeria",4
+196,38.899,-77.0422,20171112,"World Bank, District of Columbia, United States",3
+196,38.899,-77.0422,20171113,"World Bank, District of Columbia, United States",3
+130,9.08333,7.53333,20171128,"Abuja, Abuja Federal Capital Territory, Nigeria",4
+142,46.0,2.0,20171205,France,1
+114,41.7667,25.5667,20171207,"Balkan, Khaskovo, Bulgaria",4
+273,42.583333,21.0,20171207,Kosovo,1
+144,50.4333,30.5167,20171207,"Kiev, Ukraine (general), Ukraine",4
+987,48.8667,2.33333,20171212,"Paris, France (general), France",4
+982,48.8667,2.33333,20171212,"Paris, France (general), France",4
+120,,,20171213,,0
+105,48.8667,2.33333,20171213,"Paris, France (general), France",4
+141,39.9289,116.388,20171219,"Beijing, Beijing, China",4
+146,39.9289,116.388,20180110,"Beijing, Beijing, China",4
+135,20.0,77.0,20180110,India,1
+126,23.7231,90.4086,20180120,"Dhaka, Dhaka, Bangladesh",4
+102,23.7231,90.4086,20180120,"Dhaka, Dhaka, Bangladesh",4
+110,-17.8178,31.0447,20180121,"Harare, Mashonaland East, Zimbabwe",4
+112,33.3386,44.3939,20180207,"Baghdad, Baghdad, Iraq",4
+108,33.3386,44.3939,20180212,"Baghdad, Baghdad, Iraq",4
+120,14.6042,120.982,20180215,"Manila, Manila, Philippines",4
+200,14.6042,120.982,20180216,"Manila, Manila, Philippines",4
+120,39.9289,116.388,20180226,"Beijing, Beijing, China",4
+120,47.0,8.0,20180315,Switzerland,1
+206,31.4167,34.3333,20180316,"Gaza, Israel (general), Israel",4
+120,31.4167,34.3333,20180317,"Gaza, Israel (general), Israel",4
+110,20.0,77.0,20180318,India,1
+129,39.828175,-98.5795,20180320,United States,1
+149,38.8951,-77.0364,20180421,"Washington, District of Columbia, United States",3
+432,38.8996,-77.0422,20180421,"The World Bank, District of Columbia, United States",3
+170,38.899,-77.0422,20180421,"World Bank, District of Columbia, United States",3
+250,38.899,-77.0422,20180422,"World Bank, District of Columbia, United States",3
+1746,38.8996,-77.0422,20180422,"The World Bank, District of Columbia, United States",3
+180,38.8951,-77.0364,20180422,"Washington, District of Columbia, United States",3
+701,38.8996,-77.0422,20180422,"The World Bank, District of Columbia, United States",3
+304,38.899,-77.0422,20180423,"World Bank, District of Columbia, United States",3
+302,38.899,-77.0422,20180423,"World Bank, District of Columbia, United States",3
+262,23.5,78.5,20180424,"Madhya Pradesh, Madhya Pradesh, India",5
+118,23.5,78.5,20180424,"Madhya Pradesh, Madhya Pradesh, India",5
+1192,33.0,66.0,20180425,Afghanistan,1
+940,33.0,66.0,20180425,Afghanistan,1
+1180,33.0,66.0,20180425,Afghanistan,1
+105,6.45306,3.39583,20180511,"Lagos, Lagos, Nigeria",4
+336,36.0,138.0,20180522,Japan,1
+224,36.0,138.0,20180522,Japan,1
+130,38.899,-77.0422,20180523,"World Bank, District of Columbia, United States",3
+306,36.0,138.0,20180523,Japan,1
+204,36.0,138.0,20180523,Japan,1
+105,15.5,47.5,20180528,Yemen,1
+965,1.366667,103.8,20180611,Singapore,1
+967,1.366667,103.8,20180611,Singapore,1
+134,1.366667,103.8,20180612,Singapore,1
+135,1.366667,103.8,20180612,Singapore,1
+120,-9.46472,147.193,20180618,"Port Moresby, National Capital, Papua New Guinea",4
+340,23.0,-102.0,20180619,Mexico,1
+112,24.0,90.0,20180629,Bangladesh,1
+104,23.7231,90.4086,20180701,"Dhaka, Dhaka, Bangladesh",4
+213,24.0,90.0,20180702,Bangladesh,1
+206,24.0,90.0,20180702,Bangladesh,1
+190,-20.0,47.0,20180711,Madagascar,1
+120,6.1675,1.325,20180711,"Baguida, Maritime, Togo",4
+208,31.4167,34.3333,20180725,"Gaza, Israel (general), Israel",4
+208,31.4167,34.3333,20180725,"Gaza, Israel (general), Israel",4
+196,31.4167,34.3333,20180726,"Gaza, Israel (general), Israel",4
+196,31.4167,34.3333,20180726,"Gaza, Israel (general), Israel",4
+334,15.0,39.0,20180728,Eritrea,1
+2112,8.76667,-12.7833,20180812,"Port Loko, Northern, Sierra Leone",4
+142,31.425074,34.373398,20180813,Gaza Strip,1
+224,31.425074,34.373398,20180814,Gaza Strip,1
+230,20.0,77.0,20180828,India,1
+168,-7.1046,112.337,20180829,"Bali, Jawa Timur, Indonesia",4
+168,-7.1046,112.337,20180829,"Bali, Jawa Timur, Indonesia",4
+108,31.4167,34.3333,20180919,"Gaza, Israel (general), Israel",4
+108,31.4167,34.3333,20180919,"Gaza, Israel (general), Israel",4
+124,-33.9167,18.4167,20180919,"Cape Town, Western Cape, South Africa",4
+215,31.4167,34.3333,20180925,"Gaza, Israel (general), Israel",4
+132,31.4167,34.3333,20180926,"Gaza, Israel (general), Israel",4
+132,31.4167,34.3333,20180926,"Gaza, Israel (general), Israel",4
+126,2.06667,45.3667,20180926,"Mogadishu, Banaadir, Somalia",4
+217,31.7667,35.2333,20180927,"Jerusalem, Israel (general), Israel",4
+244,-6.0,35.0,20181003,Tanzania,1
+240,-6.0,35.0,20181003,Tanzania,1
+242,-26.2,28.0833,20181004,"Johannesburg, Gauteng, South Africa",4
+242,-26.2,28.0833,20181004,"Johannesburg, Gauteng, South Africa",4
+118,-7.1046,112.337,20181010,"Bali, Jawa Timur, Indonesia",4
+305,-8.65,115.217,20181010,"Denpasar, Bali, Indonesia",4
+331,-8.65,115.217,20181010,"Denpasar, Bali, Indonesia",4
+105,-7.1046,112.337,20181010,"Bali, Jawa Timur, Indonesia",4
+119,-7.1046,112.337,20181010,"Bali, Jawa Timur, Indonesia",4
+320,-7.1046,112.337,20181011,"Bali, Jawa Timur, Indonesia",4
+233,-7.1046,112.337,20181011,"Bali, Jawa Timur, Indonesia",4
+104,-8.65,115.217,20181011,"Denpasar, Bali, Indonesia",4
+238,-7.1046,112.337,20181011,"Bali, Jawa Timur, Indonesia",4
+129,-7.1046,112.337,20181011,"Bali, Jawa Timur, Indonesia",4
+1464,-7.1046,112.337,20181011,"Bali, Jawa Timur, Indonesia",4
+1519,-7.1046,112.337,20181011,"Bali, Jawa Timur, Indonesia",4
+262,39.9289,116.388,20181011,"Beijing, Beijing, China",4
+108,-8.8033,115.231,20181011,"Nusa Dua, Bali, Indonesia",4
+267,-8.8033,115.231,20181011,"Nusa Dua, Bali, Indonesia",4
+295,-8.8033,115.231,20181011,"Nusa Dua, Bali, Indonesia",4
+270,-8.65,115.217,20181011,"Denpasar, Bali, Indonesia",4
+248,-8.65,115.217,20181011,"Denpasar, Bali, Indonesia",4
+248,32.0,-5.0,20181011,Morocco,1
+138,-7.1046,112.337,20181012,"Bali, Jawa Timur, Indonesia",4
+230,-7.1046,112.337,20181012,"Bali, Jawa Timur, Indonesia",4
+265,-7.1046,112.337,20181012,"Bali, Jawa Timur, Indonesia",4
+120,54.0,-4.0,20181012,United Kingdom,1
+430,-4.0432,120.272,20181012,"Talise, Sulawesi Selatan, Indonesia",4
+136,-7.1046,112.337,20181013,"Bali, Jawa Timur, Indonesia",4
+118,-7.1046,112.337,20181013,"Bali, Jawa Timur, Indonesia",4
+222,-7.1046,112.337,20181014,"Bali, Jawa Timur, Indonesia",4
+146,35.0,105.0,20181018,China,1
+146,35.0,105.0,20181018,China,1
+194,31.4167,34.3333,20181115,"Gaza, Israel (general), Israel",4
+122,31.4167,34.3333,20181115,"Gaza, Israel (general), Israel",4
+122,31.4167,34.3333,20181115,"Gaza, Israel (general), Israel",4
+192,31.4167,34.3333,20181115,"Gaza, Israel (general), Israel",4
+174,31.4167,34.3333,20181116,"Gaza, Israel (general), Israel",4
+261,31.4167,34.3333,20181116,"Gaza, Israel (general), Israel",4
+174,31.4167,34.3333,20181116,"Gaza, Israel (general), Israel",4
+261,31.4167,34.3333,20181116,"Gaza, Israel (general), Israel",4
