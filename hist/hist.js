@@ -11,7 +11,7 @@ function convertSqlDateToDate(sqldate) {
 
 
 // load data
-d3.csv('data/amnesty-over-100.csv').then(createHist);
+d3.csv('data/amnesty.csv').then(createHist);
 
 function createHist(data) {
 
