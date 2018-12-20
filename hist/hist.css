@@ -10,7 +10,7 @@ based on https://bl.ocks.org/gordlea/27370d1eea8464b04538e6d8ced39e89#index.html
     stroke: #ffab00;
     stroke-width: 3;
 }
-  
+
 .overlay {
   fill: none;
   pointer-events: all;
@@ -21,7 +21,7 @@ based on https://bl.ocks.org/gordlea/27370d1eea8464b04538e6d8ced39e89#index.html
 	fill: #ffab00;
 	stroke: #fff;
 }
-  
+
 .focus circle {
   fill: none;
   stroke: steelblue;

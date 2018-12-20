@@ -1,0 +1,126 @@
+NumMentions,ActionGeo_Lat,ActionGeo_Long,SQLDATE,ActionGeo_FullName,ActionGeo_Type
+235,37.5664,127.0,20090618,"Seoul, Soul-t'ukpyolsi, South Korea",4
+109,60.0,-95.0,20090726,Canada,1
+106,11.8464,13.1603,20090730,"Maiduguri, Borno, Nigeria",4
+265,33.0,65.0,20090730,Afghanistan,1
+280,33.0,65.0,20090821,Afghanistan,1
+101,-6.76556,107.425,20091009,"Garuda, Jawa Barat, Indonesia",4
+114,31.7667,35.2333,20100601,"Jerusalem, Israel (general), Israel",4
+123,31.106,-97.6475,20100923,"Texas, United States",2
+117,37.5664,127.0,20101225,"Seoul, Soul-t'ukpyolsi, South Korea",4
+120,15.3547,44.2067,20110528,"Sanaa, San‘a', Yemen",4
+329,13.075,45.4003,20110603,"Sheikh Abdullah, Abyan, Yemen",4
+108,30.7555,20.2263,20110606,"Ajdabiyah, Al Wahat, Libya",4
+198,30.7555,20.2263,20110607,"Ajdabiyah, Al Wahat, Libya",4
+171,30.7555,20.2263,20110607,"Ajdabiyah, Al Wahat, Libya",4
+262,-1.0,15.0,20110814,Congo,1
+442,34.5167,69.1833,20110901,"Kabul, Kabol, Afghanistan",4
+198,4.00414,9.62138,20110929,"Wouri, Littoral, Cameroon",4
+215,33.5,36.3,20111104,"Damascus, Dimashq, Syria",4
+200,16.8053,96.1561,20120707,"Rangoon, Yangon, Myanmar",4
+108,35.75,51.5148,20120715,"Tehran, Tehran, Iran",4
+160,17.0,-4.0,20120726,Mali,1
+112,62.0,10.0,20121006,Norway,1
+170,22.0,98.0,20121026,Myanmar,1
+170,22.0,98.0,20121026,Myanmar,1
+117,34.5167,69.1833,20121031,"Kabul, Kabol, Afghanistan",4
+258,-2.1741,29.2933,20121120,"Goma, Ouest, Rwanda",4
+302,-2.1741,29.2933,20121120,"Goma, Ouest, Rwanda",4
+340,31.7667,35.2333,20121122,"Jerusalem, Israel (general), Israel",4
+120,31.4167,34.3333,20121123,"Gaza, Israel (general), Israel",4
+132,31.4167,34.3333,20121123,"Gaza City, Israel (general), Israel",4
+134,31.7667,35.2333,20121123,"Jerusalem, Israel (general), Israel",4
+120,31.4167,34.3333,20121123,"Gaza, Israel (general), Israel",4
+112,12.65,-8.0,20121211,"Bamako, Bamako, Mali",4
+210,28.9684,50.8385,20130416,"Bushehr, Bushehr, Iran",4
+380,-17.8581,31.0372,20130731,"Mbare, Harare, Zimbabwe",4
+260,-17.8581,31.0372,20130801,"Mbare, Harare, Zimbabwe",4
+148,34.0167,44.3833,20130801,"Hawijah, DiyaláZ, Iraq",4
+1139,15.5881,32.5342,20131221,"Khartoum, Al Khartum, Sudan",4
+175,15.5881,32.5342,20131222,"Khartoum, Al Khartum, Sudan",4
+108,34.5167,69.1833,20140712,"Kabul, Kabol, Afghanistan",4
+111,34.5167,69.1833,20140830,"Kabul, Kabol, Afghanistan",4
+118,15.3547,44.2067,20140909,"Sanaa, San‘a', Yemen",4
+131,15.0,30.0,20141215,Sudan,1
+140,4.84597,31.6012,20141220,"Juba, Wilayat Bahr al Jabal, South Sudan",4
+112,36.8028,10.1797,20141221,"Tunis, (TS26), Tunisia",4
+140,36.8028,10.1797,20141221,"Tunis, (TS26), Tunisia",4
+110,4.84597,31.6012,20150206,"Juba, Wilayat Bahr al Jabal, South Sudan",4
+498,34.5167,69.1833,20150322,"Kabul, Kabol, Afghanistan",4
+195,12.9719,44.8917,20150331,"Alwaht, La?ij, Yemen",4
+195,12.9719,44.8917,20150331,"Alwaht, La?ij, Yemen",4
+280,1.3667,103.8,20150531,Singapore,1
+204,34.5167,69.1833,20150603,"Kabul, Kabol, Afghanistan",4
+489,34.5167,69.1833,20150603,"Kabul, Kabol, Afghanistan",4
+702,34.5167,69.1833,20150603,"Kabul, Kabol, Afghanistan",4
+222,34.5167,69.1833,20150604,"Kabul, Kabol, Afghanistan",4
+144,34.5167,69.1833,20150604,"Kabul, Kabol, Afghanistan",4
+200,12.65,-8.0,20150611,"Bamako, Bamako, Mali",4
+236,39.0194,125.755,20150821,"Pyongyang, P'yongyang-si, North Korea",4
+120,39.0194,125.755,20150821,"Pyongyang, P'yongyang-si, North Korea",4
+116,39.0194,125.755,20150821,"Pyongyang, P'yongyang-si, North Korea",4
+120,39.0194,125.755,20150821,"Pyongyang, P'yongyang-si, North Korea",4
+384,24.6333,77.9667,20150910,"Tarai, Madhya Pradesh, India",4
+294,24.6333,77.9667,20150911,"Tarai, Madhya Pradesh, India",4
+300,42.8731,74.6003,20151004,"Bishkek, Bishkek, Kyrgyzstan",4
+126,-3.37611,29.36,20151107,"Bujumbura, Burundi (general), Burundi",4
+739,12.65,-8.0,20151121,"Bamako, Bamako, Mali",4
+142,4.36667,18.5833,20151213,"Bangui, Bangui, Central African Republic",4
+344,2.06667,45.3667,20151222,"Mogadishu, Banaadir, Somalia",4
+516,2.06667,45.3667,20151222,"Mogadishu, Banaadir, Somalia",4
+175,15.354700088500977,44.206699371337891,20160209,"Sanaa, San‘a', Yemen",4
+170,15.354700088500977,44.206699371337891,20160209,"Sanaa, San‘a', Yemen",4
+170,15.354700088500977,44.206699371337891,20160209,"Sanaa, San‘a', Yemen",4
+240,10.0,49.0,20160501,Somalia,1
+1290,37.8333,69.0,20160508,"Khatlon, Khatlon, Tajikistan",5
+125,36.729,68.857,20160508,"Kunduz, Kondoz, Afghanistan",4
+512,37.8333,69.0,20160508,"Khatlon, Khatlon, Tajikistan",5
+221,31.2089,16.5887,20160516,"Sirte, Sha`biyat Surt, Libya",4
+1060,14.4519,-2.242,20160710,"Dinangourou, Mopti, Mali",4
+180,24.0,90.0,20161226,Bangladesh,1
+108,24.0,90.0,20161226,Bangladesh,1
+110,0.9476,120.315,20170131,"Ko Ni, Sulawesi Tengah, Indonesia",4
+200,15.0,48.0,20170203,Yemen,1
+200,15.0,48.0,20170203,Yemen,1
+110,39.9272,32.8644,20170221,"Ankara, Ankara, Turkey",4
+110,25.0,45.0,20170225,Saudi Arabia,1
+110,25.0,45.0,20170225,Saudi Arabia,1
+214,55.7522,37.6156,20170404,"Kremlin, Moskva, Russia",4
+162,42.1497,-74.9384,20170404,"New York, United States",2
+114,9.0,49.0,20170524,"Puntland, Somalia (general), Somalia",4
+138,11.2842,49.1816,20170524,"Bosaso, Bari, Somalia",4
+147,11.2842,49.1816,20170524,"Bosaso, Bari, Somalia",4
+171,32.767,22.6367,20170713,"Derna, Sha`biyat Darnah, Libya",4
+327,-1.28333,36.8167,20170731,"Nairobi, Nairobi Area, Kenya",4
+120,11.4553,7.75004,20170917,"Audu, Kano, Nigeria",4
+315,35.0,38.0,20171012,Syria,1
+108,-1.28333,36.8167,20171027,"Nairobi, Nairobi Area, Kenya",4
+192,54.0,-4.0,20171102,United Kingdom,1
+248,17.0,-4.0,20171213,Mali,1
+120,8.31667,8.51667,20180207,"Benue, Nigeria (general), Nigeria",4
+141,36.2251,37.3266,20180211,"Afrin, ?alab, Syria",4
+180,33.0,66.0,20180315,Afghanistan,1
+110,39.9289,116.388,20180315,"Beijing, Beijing, China",4
+140,33.0,66.0,20180316,Afghanistan,1
+520,48.8667,2.33333,20180529,"Paris, France (general), France",4
+226,38.8951,-77.0364,20180612,"Washington, District of Columbia, United States",3
+4308,38.8951,-77.0364,20180612,"Washington, District of Columbia, United States",3
+386,38.8951,-77.0364,20180612,"Washington, District of Columbia, United States",3
+233,1.36667,103.8,20180612,"Singapore Island, Singapore (general), Singapore",4
+116,1.36667,103.8,20180612,"Singapore Island, Singapore (general), Singapore",4
+284,38.8951,-77.0364,20180614,"Washington, District of Columbia, United States",3
+200,32.8925,13.18,20180626,"Tripoli, Tarabulus, Libya",4
+200,32.8925,13.18,20180626,"Tripoli, Tarabulus, Libya",4
+144,35.9306,36.6339,20180904,"Idlib, Idlib, Syria",4
+125,34.5167,69.1833,20180914,"Kabul, Kabol, Afghanistan",4
+303,16.0,30.0,20181026,Sudan,1
+279,21.4201,110.292,20181211,"Wanzhou, Guangdong, China",4
+387,21.4201,110.292,20181211,"Wanzhou, Guangdong, China",4
+216,21.4201,110.292,20181211,"Wanzhou, Guangdong, China",4
+171,21.4201,110.292,20181211,"Wanzhou, Guangdong, China",4
+240,21.4201,110.292,20181211,"Wanzhou, Guangdong, China",4
+119,39.9289,116.388,20181212,"Beijing, Beijing, China",4
+156,22.25,114.166667,20181215,Hong Kong,1
+104,22.25,114.166667,20181215,Hong Kong,1
+128,32.25,67.25,20181216,"Zabul, Zabol, Afghanistan",5
+138,32.25,67.25,20181217,"Zabul, Zabol, Afghanistan",5

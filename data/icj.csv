@@ -1,0 +1,28 @@
+NumMentions,ActionGeo_Lat,ActionGeo_Long,SQLDATE,ActionGeo_FullName,ActionGeo_Type
+120,7.0,81.0,20121031,Sri Lanka,1
+110,7.0,81.0,20121031,Sri Lanka,1
+119,46.1956,6.14811,20140113,"Geneva, Genè, Switzerland",4
+236,46.1956,6.14811,20140114,"Geneva, Genè, Switzerland",4
+170,34.0078,71.5733,20150825,"Peshawar, North-West Frontier, Pakistan",4
+155,34.0078,71.5733,20151202,"Peshawar, North-West Frontier, Pakistan",4
+105,13.75,100.517,20151229,"Bangkok, Krung Thep Mahanakhon, Thailand",4
+250,2.5,112.5,20160117,Malaysia,1
+250,2.5,112.5,20160117,Malaysia,1
+150,2.5,112.5,20160118,Malaysia,1
+150,2.5,112.5,20160118,Malaysia,1
+120,17.4905,101.727,20160531,"Loei, Loei, Thailand",4
+340,34.4961,108.618,20160709,"Wang Yu, Shaanxi, China",4
+108,39.9289,116.388,20160709,"Beijing, Beijing, China",4
+234,1.0,38.0,20160710,Kenya,1
+396,1.0,38.0,20160711,Kenya,1
+456,1.0,38.0,20160712,Kenya,1
+276,1.0,38.0,20160713,Kenya,1
+119,46.1956,6.14811,20161024,"Geneva, Genè, Switzerland",4
+260,16.45,120.55,20170215,"Philippine, Benguet, Philippines",4
+210,16.8053,96.1561,20171219,"Yangon, Yangon, Myanmar",4
+120,16.8053,96.1561,20171219,"Yangon, Yangon, Myanmar",4
+122,30.05,31.25,20180213,"Cairo, Al Qahirah, Egypt",4
+183,30.05,31.25,20180213,"Cairo, Al Qahirah, Egypt",4
+183,30.05,31.25,20180213,"Cairo, Al Qahirah, Egypt",4
+122,30.05,31.25,20180213,"Cairo, Al Qahirah, Egypt",4
+132,46.0,2.0,20180903,France,1

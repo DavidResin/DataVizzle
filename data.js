@@ -1,10 +1,10 @@
-var data = {
-	"amnesty": {
-		"name": "Amnesty International",
-		"short": "AI",
-		"url": "https://www.amnesty.org/",
-		"color_1": "FFFF00",
-		"color_2": "000000",
+const data = {
+	"icrc": {
+		"name": "Red Cross",
+		"short": "ICRC",
+		"url": "https://www.icrc.org/",
+		"color_2": "FFFFFF",
+		"color_1": "FF0000",
 	},
 	"msf": {
 		"name": "Médecins Sans Frontières",
@@ -13,19 +13,12 @@ var data = {
 		"color_2": "FFFFFF",
 		"color_1": "FF0000",
 	},
-	"hrw": {
-		"name": "Human Rights Watch",
-		"short": "HRW",
-		"url": "https://www.hrw.org/",
-		"color_1": "0071CE",
-		"color_2": "FFFFFF",
-	},
-	"greenpeace": {
-		"name": "Greenpeace",
-		"short": "GP",
-		"url": "https://www.greenpeace.org/",
-		"color_1": "66CC00",
-		"color_2": "FFFFFF",
+	"amnesty": {
+		"name": "Amnesty International",
+		"short": "AI",
+		"url": "https://www.amnesty.org/",
+		"color_1": "FFFF00",
+		"color_2": "000000",
 	},
 	"oxfam": {
 		"name": "Oxfam",
@@ -34,19 +27,33 @@ var data = {
 		"color_1": "99CC00",
 		"color_2": "FFFFFF",
 	},
-	"wef": {
-		"name": "World Economic Forum",
-		"short": "WEF",
-		"url": "https://www.weforum.org/",
+	"who": {
+		"name": "World Health Organization",
+		"short": "WHO",
+		"url": "https://www.who.int/",
 		"color_2": "FFFFFF",
-		"color_1": "00489A",
+		"color_1": "0093d5",
 	},
-	"fidh": {
-		"name": "International Federation for Human Rights",
-		"short": "IFHR",
-		"url": "https://www.fidh.org/",
+	"wb": {
+		"name": "World Bank",
+		"short": "WB",
+		"url": "https://www.worldbank.org/",
 		"color_2": "FFFFFF",
-		"color_1": "000000",
+		"color_1": "00AEEF",
+	},
+	"un": {
+		"name": "United Nations",
+		"short": "UN",
+		"url": "http://www.un.org/",
+		"color_1": "4B92DB",
+		"color_2": "FFFFFF",
+	},
+	"hrw": {
+		"name": "Human Rights Watch",
+		"short": "HRW",
+		"url": "https://www.hrw.org/",
+		"color_1": "0071CE",
+		"color_2": "FFFFFF",
 	},
 	"icg": {
 		"name": "International Crisis Group",
@@ -54,5 +61,26 @@ var data = {
 		"url": "https://www.crisisgroup.org/",
 		"color_1": "003E51",
 		"color_2": "E87722",
+	},
+	"icj": {
+		"name": "International Commission of Jurists",
+		"short": "ICJ",
+		"url": "https://www.icj.org/",
+		"color_1": "000000",
+		"color_2": "FFFFFF",
+	},
+	"imf": {
+		"name": "International Monetary Fund",
+		"short": "IMF",
+		"url": "https://www.imf.org/",
+		"color_1": "000000",
+		"color_2": "FFFFFF",
+	},
+	"wfp": {
+		"name": "World Food Program",
+		"short": "WFP",
+		"url": "https://www.wfp.org/",
+		"color_1": "000000",
+		"color_2": "FFFFFF",
 	},
 }

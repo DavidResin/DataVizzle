@@ -1,0 +1,452 @@
+NumMentions,ActionGeo_Lat,ActionGeo_Long,SQLDATE,ActionGeo_FullName,ActionGeo_Type
+121,34.5167,69.1833,20070628,"Kabul, Kabol, Afghanistan",4
+112,-1.45,-48.4833,20080131,"Para, ParáR, Brazil",4
+112,51.5,-0.116667,20090304,"London, London, City of, United Kingdom",4
+112,51.5,-0.116667,20090304,"London, London, City of, United Kingdom",4
+227,54.0,-2.0,20090420,United Kingdom,1
+239,55.6667,12.5833,20090725,"Copenhagen, Køavn*, Denmark",4
+140,38.0,-97.0,20091030,United States,1
+196,38.0,-97.0,20091030,United States,1
+137,41.9,12.4833,20091118,"Rome, Lazio, Italy",4
+208,55.6667,12.5833,20091212,"Copenhagen, Køavn*, Denmark",4
+223,18.5392,-72.335,20100125,"Port-Au-Prince, Ouest, Haiti",4
+216,18.5392,-72.335,20100125,"Port-Au-Prince, Ouest, Haiti",4
+199,22.2627,89.2637,20100523,"Chakbara, Khulna, Bangladesh",4
+119,25.0,45.0,20100802,Saudi Arabia,1
+171,30.0,70.0,20100828,Pakistan,1
+126,30.0,70.0,20100829,Pakistan,1
+212,54.0,-2.0,20100829,United Kingdom,1
+135,30.0,70.0,20100829,Pakistan,1
+192,24.8667,67.05,20100829,"Karachi, Sindh, Pakistan",4
+135,30.0,70.0,20100829,Pakistan,1
+973,44.0407,-72.7093,20100924,"Vermont, United States",2
+108,30.0,70.0,20101014,Pakistan,1
+459,4.88447,-1.75536,20101214,"Takoradi, Ghana (general), Ghana",4
+170,19.0,-72.4167,20110211,Haiti,1
+468,0.0,0.0,20110501,,
+216,0.0,0.0,20110501,,
+153,49.515,-1.28761,20110520,"Le Havre, Basse-Normandie, France",4
+153,49.515,-1.28761,20110520,"Le Havre, Basse-Normandie, France",4
+123,26.1346,68.7696,20110606,"Sindh, Sindh, Pakistan",5
+198,11.5,43.0,20110719,Djibouti,1
+198,11.5,43.0,20110719,Djibouti,1
+198,11.5,43.0,20110719,Djibouti,1
+198,11.5,43.0,20110719,Djibouti,1
+198,11.5,43.0,20110719,Djibouti,1
+198,11.5,43.0,20110719,Djibouti,1
+297,11.5,43.0,20110719,Djibouti,1
+198,11.5,43.0,20110719,Djibouti,1
+140,1.0,38.0,20110719,Kenya,1
+198,11.5,43.0,20110719,Djibouti,1
+182,3.96983,42.4412,20110720,"Bakool, Gedo, Somalia",4
+147,2.19037,42.8761,20110720,"Shabelle, Bay, Somalia",4
+179,11.5,43.0,20110725,Djibouti,1
+126,19.0,-72.4167,20110805,Haiti,1
+261,-2.26925,40.8991,20111014,"Lamu, Coast, Kenya",4
+136,15.5881,32.5342,20111114,"Khartoum, Al Khartum, Sudan",4
+185,-4.61667,55.45,20111127,"Victoria, Seychelles (general), Seychelles",4
+113,35.0,135.75,20111127,"Kyoto, Kyoto, Japan",4
+108,16.0,106.0,20111128,"Vietnam, Republic Of",1
+198,16.0,8.0,20120325,Niger,1
+189,16.0,8.0,20120325,Niger,1
+403,13.5167,2.11667,20120325,"Niamey, Niamey, Niger",4
+441,13.5167,2.11667,20120325,"Niamey, Niamey, Niger",4
+207,16.0,8.0,20120325,Niger,1
+441,13.5167,2.11667,20120325,"Niamey, Niamey, Niger",4
+110,38.8951,-77.0364,20120518,"Washington, District of Columbia, United States",3
+144,60.0,100.0,20120702,Russia,1
+172,31.106,-97.6475,20120809,"Texas, United States",2
+108,35.5376,-96.9247,20120809,"Oklahoma, United States",2
+180,35.6411,-79.8431,20120809,"North Carolina, United States",2
+138,15.3547,44.2067,20120924,"Sanaa, San‘a', Yemen",4
+173,13.1658,45.3797,20120924,"Abyan, Abyan, Yemen",4
+173,13.1658,45.3797,20120924,"Abyan, Abyan, Yemen",4
+180,18.5392,-72.335,20121031,"Port-Au-Prince, Ouest, Haiti",4
+121,-12.05,-77.05,20121209,"Lima, Lima, Peru",4
+104,38.8951,-77.0364,20130718,"White House, District of Columbia, United States",3
+136,31.0,64.0,20130916,"Helmand, Helmand, Afghanistan",5
+130,54.0,-2.0,20131217,United Kingdom,1
+140,-20.2667,-174.783,20140110,"Matangi Tonga, Ha‘apai, Tonga",4
+112,-20.2667,-174.783,20140110,"Matangi Tonga, Ha‘apai, Tonga",4
+144,31.6667,35.25,20140130,West Bank,1
+275,31.5,34.75,20140130,Israel,1
+196,31.5,34.75,20140130,Israel,1
+680,31.5,34.75,20140130,Israel,1
+130,4.84597,31.6012,20140218,"Juba, Wilayat Bahr al Jabal, South Sudan",4
+176,54.0,-2.0,20140226,United Kingdom,1
+105,35.0,38.0,20140710,Syria,1
+114,21.7667,-104.683,20140720,"Toromocho, Nayarit, Mexico",4
+234,-10.0,-76.0,20140720,Peru,1
+234,-10.0,-76.0,20140720,Peru,1
+210,-10.0,-76.0,20140720,Peru,1
+459,46.8167,9.83333,20150118,"Davos, Switzerland (general), Switzerland",4
+118,46.0,2.0,20150118,France,1
+526,46.8167,9.83333,20150118,"Davos, Switzerland (general), Switzerland",4
+120,15.3547,44.2067,20150125,"Sanaa, San‘a', Yemen",4
+250,8.5,-11.5,20150303,Sierra Leone,1
+190,-17.6667,168.417,20150312,"Efate, Shefa, Vanuatu",4
+1210,-17.6667,168.417,20150314,"Efate, Shefa, Vanuatu",4
+160,-27.0,133.0,20150315,Australia,1
+850,-18.8,169.083,20150316,"Erromango, Tafea, Vanuatu",4
+120,-16.0,167.0,20150317,Vanuatu,1
+150,34.5167,69.1833,20150323,"Kabul, Kabol, Afghanistan",4
+376,15.461,45.3253,20150325,"Marib, Ma'rib, Yemen",4
+616,15.461,45.3253,20150326,"Marib, Ma'rib, Yemen",4
+190,-16.0,167.0,20150330,Vanuatu,1
+114,-27.0,133.0,20150330,Australia,1
+252,35.0,38.0,20150331,Syria,1
+110,25.0,45.0,20150408,"Arabian Peninsula, Saudi Arabia (general), Saudi Arabia",4
+210,25.0,45.0,20150409,"Arabian Peninsula, Saudi Arabia (general), Saudi Arabia",4
+174,24.6408,46.7728,20150420,"Riyadh, Ar Riya?, Saudi Arabia",4
+120,24.6408,46.7728,20150420,"Riyadh, Ar Riya?, Saudi Arabia",4
+116,15.0,48.0,20150423,Yemen,1
+220,28.0,84.0,20150426,Nepal,1
+160,28.2172,85.5226,20150501,"Langtang, Nepal (general), Nepal",4
+252,62.0,10.0,20150507,Norway,1
+378,60.0,-95.0,20150507,Canada,1
+144,27.7167,85.3167,20150513,"Kathmandu, Bagmati, Nepal",4
+710,27.7167,85.3167,20150513,"Kathmandu, Bagmati, Nepal",4
+110,13.0,122.0,20150526,Philippines,1
+140,15.461,45.3253,20150527,"Marib, Ma'rib, Yemen",4
+712,15.3547,44.2067,20150527,"Sanaa, San‘a', Yemen",4
+790,15.6942,43.6058,20150527,"Hajjah, ?ajjah, Yemen",4
+125,-27.0,133.0,20150601,Australia,1
+200,43.7333,7.4,20150609,Monaco,1
+200,31.6667,35.25,20150808,West Bank,1
+210,31.6667,35.25,20150808,West Bank,1
+240,59.15,-2.61667,20150904,"Whitehall, Orkney Islands, United Kingdom",4
+290,35.0,38.0,20150905,Syria,1
+160,-27.0,133.0,20150906,Australia,1
+128,-27.0,133.0,20150906,Australia,1
+168,25.0,17.0,20150907,Libya,1
+478,52.5167,13.4,20150916,"Berlin, Berlin, Germany",4
+424,-19.6667,-40.25,20151002,"Guarana, Espíto Santo, Brazil",4
+106,-29.0,24.0,20151002,South Africa,1
+312,-19.6667,-40.25,20151003,"Guarana, Espíto Santo, Brazil",4
+712,-19.6667,-40.25,20151004,"Guarana, Espíto Santo, Brazil",4
+178,-29.0,24.0,20151004,South Africa,1
+392,-19.6667,-40.25,20151005,"Guarana, Espíto Santo, Brazil",4
+190,50.6,-2.03333,20151005,"Worth Matravers, Dorset, United Kingdom",4
+400,52.6,-3.2,20151005,"Berriew, Powys, United Kingdom",4
+150,49.75,6.1667,20151005,Luxembourg,1
+103,43.75,20.75,20151007,Serbia,1
+214,39.0,35.0,20151009,Turkey,1
+160,39.0,35.0,20151010,Turkey,1
+460,,,20151223,,0
+467,46.8167,9.83333,20160118,"Davos, Switzerland (general), Switzerland",4
+260,-10.0,-55.0,20160118,Brazil,1
+238,54.0,-2.0,20160118,United Kingdom,1
+128,16.45,120.55,20160118,"Philippine, Benguet, Philippines",4
+253,51.5,-0.116667,20160118,"London, London, City of, United Kingdom",4
+102,46.8167,9.83333,20160119,"Davos, Switzerland (general), Switzerland",4
+272,16.45,120.55,20160119,"Philippine, Benguet, Philippines",4
+170,-38.3308,144.326,20160220,"Torquay, Victoria, Australia",4
+117,35.0,105.0,20160220,China,1
+126,-38.3308,144.326,20160220,"Torquay, Victoria, Australia",4
+176,-38.3308,144.326,20160220,"Torquay, Victoria, Australia",4
+264,-38.3308,144.326,20160220,"Torquay, Victoria, Australia",4
+167,-38.3308,144.326,20160221,"Torquay, Victoria, Australia",4
+222,-38.3308,144.326,20160221,"Torquay, Victoria, Australia",4
+729,-17.3167,179.383,20160221,"Koro Island, Eastern, Fiji",4
+332,-38.3308,144.326,20160221,"Torquay, Victoria, Australia",4
+236,-38.3308,144.326,20160221,"Torquay, Victoria, Australia",4
+163,35.0,105.0,20160221,China,1
+726,-17.3167,179.383,20160221,"Koro Island, Eastern, Fiji",4
+378,31.3701,34.8145,20160301,"Lehavim, HaDarom, Israel",4
+1140,33.6667,35.8333,20160315,"Bekaa, Béa, Lebanon",5
+308,33.6667,35.8333,20160315,"Bekaa, Béa, Lebanon",5
+297,35.0,38.0,20160329,Syria,1
+920,54.0,-2.0,20160422,United Kingdom,1
+1382,-33.8833,151.217,20160429,"Sydney, New South Wales, Australia",4
+268,-33.8833,151.217,20160429,"Sydney, New South Wales, Australia",4
+105,32.799,-86.8073,20160512,"Alabama, United States",2
+230,,,20160512,,0
+336,34.9513,-92.3809,20160513,"Arkansas, United States",2
+560,34.9513,-92.3809,20160513,"Arkansas, United States",2
+158,54.0,-2.0,20160516,United Kingdom,1
+237,54.0,-2.0,20160516,United Kingdom,1
+170,24.6408,46.7728,20160608,"Riyadh, Ar Riya?, Saudi Arabia",4
+170,24.6408,46.7728,20160608,"Riyadh, Ar Riya?, Saudi Arabia",4
+170,24.6408,46.7728,20160608,"Riyadh, Ar Riya?, Saudi Arabia",4
+194,50.8333,4.33333,20160616,"Brussels, Bruxelles-Capitale, Belgium",4
+248,53.7333,-1.65,20160616,"Birstall, Kirklees, United Kingdom",4
+188,55.95,-3.2,20160622,"Edinburgh, Edinburgh, City of, United Kingdom",4
+180,7.1,124.65,20160717,"Tawi-Tawi, Maguindanao, Philippines",4
+184,35.0,38.0,20160718,Syria,1
+936,35.0,105.0,20160804,China,1
+978,25.0,45.0,20160823,Saudi Arabia,1
+111,25.0,45.0,20160823,Saudi Arabia,1
+246,54.0,-2.0,20160823,United Kingdom,1
+1050,54.0,-2.0,20160913,United Kingdom,1
+549,54.0,-2.0,20160913,United Kingdom,1
+102,51.5,-0.116667,20160923,"London, London, City of, United Kingdom",4
+102,51.5,-0.116667,20160923,"London, London, City of, United Kingdom",4
+663,-35.2833,149.217,20161113,"Canberra, Australian Capital Territory, Australia",4
+662,-35.2833,149.217,20161113,"Canberra, Australian Capital Territory, Australia",4
+130,15.3547,44.2067,20161216,"Sanaa, San‘a', Yemen",4
+250,,,20161219,,0
+250,,,20161219,,0
+204,9.0,-80.0,20170116,Panama,1
+181,42.1497,-74.9384,20170116,"New York, United States",2
+488,46.8167,9.83333,20170116,"Davos, Switzerland (general), Switzerland",4
+246,42.1497,-74.9384,20170116,"New York, United States",2
+654,46.8167,9.83333,20170116,"Davos, Switzerland (general), Switzerland",4
+140,9.0,-80.0,20170116,Panama,1
+130,35.0,105.0,20170117,China,1
+260,35.0,105.0,20170118,China,1
+132,29.7633,-95.3633,20170125,"Houston, Texas, United States",3
+324,38.8951,-77.0364,20170128,"Washington, District of Columbia, United States",3
+108,38.8951,-77.0364,20170128,"Washington, District of Columbia, United States",3
+130,38.8951,-77.0364,20170129,"Washington, District of Columbia, United States",3
+198,38.8951,-77.0364,20170129,"Washington, District of Columbia, United States",3
+216,32.896,-97.0372,20170130,"Dallas Fort Worth International Airport, Texas, United States",3
+145,13.4667,-16.5667,20170131,Gambia,1
+124,35.0,38.0,20170201,Syria,1
+124,38.8951,-77.0364,20170201,"White House, District of Columbia, United States",3
+124,35.0,38.0,20170201,Syria,1
+128,15.0,30.0,20170201,Sudan,1
+108,38.8951,-77.0364,20170202,"White House, District of Columbia, United States",3
+300,35.0,38.0,20170202,Syria,1
+201,35.0,38.0,20170202,Syria,1
+201,38.8951,-77.0364,20170202,"White House, District of Columbia, United States",3
+272,15.0,30.0,20170202,Sudan,1
+268,35.0,38.0,20170202,Syria,1
+201,38.8951,-77.0364,20170202,"White House, District of Columbia, United States",3
+268,38.8951,-77.0364,20170202,"White House, District of Columbia, United States",3
+201,35.0,38.0,20170202,Syria,1
+201,38.8951,-77.0364,20170202,"White House, District of Columbia, United States",3
+220,40.0,-4.0,20170202,Spain,1
+201,35.0,38.0,20170202,Syria,1
+113,54.0,-2.0,20170208,United Kingdom,1
+202,54.0,-2.0,20170208,United Kingdom,1
+146,19.0,-72.416667,20170211,Haiti,1
+219,51.5,-0.116667,20170211,"London, London, City of, United Kingdom",4
+136,19.0,-72.416667,20170212,Haiti,1
+190,51.5,-0.116667,20170212,"London, London, City of, United Kingdom",4
+320,28.6667,77.2167,20170311,"Delhi, Delhi, India",4
+155,18.975,72.8258,20170311,"Mumbai, Maharashtra, India",4
+296,54.0,-2.0,20170316,United Kingdom,1
+160,54.0,-2.0,20170316,United Kingdom,1
+270,,,20170426,,0
+130,8.0,38.0,20170427,Ethiopia,1
+210,35.0,38.0,20170502,Syria,1
+150,1.0,32.0,20170505,Uganda,1
+150,1.0,32.0,20170505,Uganda,1
+110,9.08333,7.53333,20170517,"Abuja, Abuja Federal Capital Territory, Nigeria",4
+270,10.0,8.0,20170518,Nigeria,1
+310,10.0,8.0,20170519,Nigeria,1
+205,48.8667,2.33333,20170602,"Paris, France (general), France",4
+400,48.8667,2.33333,20170602,"Paris, France (general), France",4
+115,15.3547,44.2067,20170622,"Sanaa, San‘a', Yemen",4
+476,15.0,48.0,20170721,Yemen,1
+1010,15.3547,44.2067,20170721,"Sanaa, San‘a', Yemen",4
+909,15.3547,44.2067,20170721,"Sanaa, San‘a', Yemen",4
+140,42.1497,-74.9384,20170918,"New York, United States",2
+361,42.1497,-74.9384,20170919,"New York, United States",2
+361,42.1497,-74.9384,20170919,"New York, United States",2
+165,42.1497,-74.9384,20170919,"New York, United States",2
+206,47.0,8.0,20180122,Switzerland,1
+490,,,20180122,,0
+280,16.166667,107.833333,20180124,"Vietnam, Republic Of",1
+222,33.5,36.3,20180131,"Damascus, Dimashq, Syria",4
+102,19.0,-72.416667,20180209,Haiti,1
+135,19.0,-72.416667,20180209,Haiti,1
+330,51.5,-0.116667,20180210,"London, London, City of, United Kingdom",4
+1025,19.0,-72.416667,20180210,Haiti,1
+180,19.0,-72.416667,20180210,Haiti,1
+1142,19.0,-72.416667,20180210,Haiti,1
+370,54.0,-4.0,20180211,United Kingdom,1
+209,19.0,-72.416667,20180211,Haiti,1
+132,51.5,-0.116667,20180211,"London, London, City of, United Kingdom",4
+294,19.0,-72.416667,20180211,Haiti,1
+554,19.0,-72.416667,20180211,Haiti,1
+670,19.0,-72.416667,20180211,Haiti,1
+711,54.0,-4.0,20180211,United Kingdom,1
+306,54.0,-4.0,20180211,United Kingdom,1
+713,19.0,-72.416667,20180211,Haiti,1
+440,19.0,-72.416667,20180211,Haiti,1
+348,19.0,-72.416667,20180211,Haiti,1
+180,54.0,-4.0,20180211,United Kingdom,1
+502,54.0,-4.0,20180211,United Kingdom,1
+620,19.0,-72.416667,20180211,Haiti,1
+698,51.5,-0.116667,20180211,"London, London, City of, United Kingdom",4
+430,51.5,-0.116667,20180211,"London, London, City of, United Kingdom",4
+238,19.0,-72.416667,20180211,Haiti,1
+200,19.0,-72.416667,20180211,Haiti,1
+386,19.0,-72.416667,20180211,Haiti,1
+112,46.0,2.0,20180212,France,1
+135,19.0,-72.416667,20180212,Haiti,1
+110,54.0,-4.0,20180212,United Kingdom,1
+530,51.5,-0.116667,20180212,"London, London, City of, United Kingdom",4
+578,19.0,-72.416667,20180212,Haiti,1
+166,19.0,-72.416667,20180212,Haiti,1
+220,19.0,-72.416667,20180212,Haiti,1
+329,19.0,-72.416667,20180212,Haiti,1
+912,19.0,-72.416667,20180212,Haiti,1
+184,19.0,-72.416667,20180212,Haiti,1
+794,19.0,-72.416667,20180212,Haiti,1
+217,19.0,-72.416667,20180212,Haiti,1
+460,19.0,-72.416667,20180212,Haiti,1
+129,15.0,19.0,20180212,Chad,1
+770,15.0,19.0,20180212,Chad,1
+184,19.0,-72.416667,20180212,Haiti,1
+606,19.0,-72.416667,20180212,Haiti,1
+212,51.5,-0.116667,20180212,"London, London, City of, United Kingdom",4
+576,51.5,-0.116667,20180212,"London, London, City of, United Kingdom",4
+205,36.17,-119.746,20180212,"California, United States",2
+1066,54.0,-4.0,20180212,United Kingdom,1
+422,54.0,-4.0,20180212,United Kingdom,1
+152,19.0,-72.416667,20180212,Haiti,1
+360,19.0,-72.416667,20180212,Haiti,1
+188,19.0,-72.416667,20180212,Haiti,1
+606,19.0,-72.416667,20180212,Haiti,1
+328,19.0,-72.416667,20180212,Haiti,1
+904,19.0,-72.416667,20180212,Haiti,1
+396,19.0,-72.416667,20180212,Haiti,1
+727,15.0,19.0,20180212,Chad,1
+208,15.5,-90.25,20180213,Guatemala,1
+208,15.5,-90.25,20180213,Guatemala,1
+150,51.5,-0.116667,20180213,"London, London, City of, United Kingdom",4
+200,51.5,-0.116667,20180213,"London, London, City of, United Kingdom",4
+200,54.0,-4.0,20180213,United Kingdom,1
+211,15.5,-90.25,20180213,Guatemala,1
+2324,15.0,19.0,20180213,Chad,1
+111,15.0,19.0,20180213,Chad,1
+208,15.0,100.0,20180213,Thailand,1
+133,19.0,-72.416667,20180213,Haiti,1
+133,19.0,-72.416667,20180213,Haiti,1
+192,19.0,-72.416667,20180213,Haiti,1
+649,15.0,19.0,20180214,Chad,1
+187,54.0,-4.0,20180214,United Kingdom,1
+187,54.0,-4.0,20180214,United Kingdom,1
+508,19.0,-72.416667,20180214,Haiti,1
+460,34.0983,-118.327,20180214,"Hollywood, California, United States",3
+120,54.0,-4.0,20180214,United Kingdom,1
+120,15.0,100.0,20180214,Thailand,1
+480,15.0,100.0,20180214,Thailand,1
+205,35.0,38.0,20180214,Syria,1
+205,13.0,122.0,20180214,Philippines,1
+110,13.0,122.0,20180214,Philippines,1
+130,19.0,-72.416667,20180214,Haiti,1
+128,15.0,19.0,20180214,Chad,1
+763,19.0,-72.416667,20180214,Haiti,1
+115,19.0,-72.416667,20180214,Haiti,1
+294,19.0,-72.416667,20180214,Haiti,1
+1591,19.0,-72.416667,20180214,Haiti,1
+135,19.0,-72.416667,20180214,Haiti,1
+299,15.0,19.0,20180214,Chad,1
+1640,13.0,105.0,20180214,Cambodia,1
+108,15.5,-90.25,20180214,Guatemala,1
+108,15.5,-90.25,20180214,Guatemala,1
+180,15.5,-90.25,20180214,Guatemala,1
+108,15.5,-90.25,20180214,Guatemala,1
+1239,19.0,-72.416667,20180214,Haiti,1
+232,34.0983,-118.327,20180214,"Hollywood, California, United States",3
+184,34.0983,-118.327,20180214,"Hollywood, California, United States",3
+162,19.0,-72.416667,20180214,Haiti,1
+540,19.0,-72.416667,20180214,Haiti,1
+216,19.0,-72.416667,20180214,Haiti,1
+123,19.0,-72.416667,20180214,Haiti,1
+276,19.0,-72.416667,20180214,Haiti,1
+420,19.0,-72.416667,20180215,Haiti,1
+106,19.0,-72.416667,20180215,Haiti,1
+582,19.0,-72.416667,20180215,Haiti,1
+420,19.0,-72.416667,20180215,Haiti,1
+838,19.0,-72.416667,20180215,Haiti,1
+444,19.0,-72.416667,20180215,Haiti,1
+252,19.0,-72.416667,20180215,Haiti,1
+328,16.0,30.0,20180215,Sudan,1
+927,19.0,-72.416667,20180215,Haiti,1
+168,19.0,-72.416667,20180215,Haiti,1
+266,19.0,-72.416667,20180215,Haiti,1
+194,54.0,-4.0,20180215,United Kingdom,1
+1010,19.0,-72.416667,20180215,Haiti,1
+194,54.0,-4.0,20180215,United Kingdom,1
+1416,19.0,-72.416667,20180215,Haiti,1
+444,19.0,-72.416667,20180215,Haiti,1
+266,19.0,-72.416667,20180215,Haiti,1
+513,19.0,-72.416667,20180215,Haiti,1
+650,8.0,30.0,20180216,South Sudan,1
+210,19.0,-72.416667,20180216,Haiti,1
+122,24.0,90.0,20180216,Bangladesh,1
+170,19.0,-72.416667,20180216,Haiti,1
+180,19.0,-72.416667,20180216,Haiti,1
+114,24.0,90.0,20180216,Bangladesh,1
+137,19.0,-72.416667,20180216,Haiti,1
+122,24.0,90.0,20180216,Bangladesh,1
+110,51.5,-0.116667,20180216,"London, London, City of, United Kingdom",4
+590,19.0,-72.416667,20180216,Haiti,1
+252,19.0,-72.416667,20180216,Haiti,1
+650,8.0,30.0,20180216,South Sudan,1
+110,-30.0,26.0,20180216,South Africa,1
+760,19.0,-72.416667,20180217,Haiti,1
+1555,19.0,-72.416667,20180217,Haiti,1
+760,19.0,-72.416667,20180217,Haiti,1
+144,19.0,-72.416667,20180217,Haiti,1
+320,8.0,30.0,20180217,South Sudan,1
+320,8.0,30.0,20180217,South Sudan,1
+1610,19.0,-72.416667,20180217,Haiti,1
+1540,19.0,-72.416667,20180217,Haiti,1
+102,15.0,19.0,20180219,Chad,1
+190,39.828175,-98.5795,20180219,United States,1
+364,19.0,-72.416667,20180219,Haiti,1
+544,39.828175,-98.5795,20180219,United States,1
+136,39.828175,-98.5795,20180219,United States,1
+136,39.828175,-98.5795,20180219,United States,1
+108,-25.0,135.0,20180219,Australia,1
+410,51.5,-0.116667,20180220,"London, London, City of, United Kingdom",4
+138,19.0,-72.416667,20180220,Haiti,1
+182,19.0,-72.416667,20180220,Haiti,1
+110,19.0,-72.416667,20180221,Haiti,1
+540,19.0,-72.416667,20180222,Haiti,1
+406,19.0,-72.416667,20180222,Haiti,1
+1840,19.0,-72.416667,20180222,Haiti,1
+450,19.0,-72.416667,20180222,Haiti,1
+475,19.0,-72.416667,20180222,Haiti,1
+124,51.5,-0.116667,20180305,"London, London, City of, United Kingdom",4
+352,51.5,-0.116667,20180316,"London, London, City of, United Kingdom",4
+394,33.7712,-111.388,20180316,"Arizona, United States",2
+269,51.5,-0.116667,20180317,"London, London, City of, United Kingdom",4
+314,33.7712,-111.388,20180317,"Arizona, United States",2
+370,-25.0,135.0,20180326,Australia,1
+370,-25.0,135.0,20180326,Australia,1
+108,39.828175,-98.5795,20180330,United States,1
+270,1.366667,103.8,20180330,Singapore,1
+162,42.833333,12.833333,20180330,Italy,1
+240,-25.6208,-57.1472,20180421,"Paraguari, Departamento de Quyyndy, Paraguay",4
+408,-25.2667,-57.6667,20180421,"Asuncion, Villeta, Paraguay",4
+321,54.0,-4.0,20180501,United Kingdom,1
+208,54.0,-4.0,20180501,United Kingdom,1
+1350,19.0,-72.416667,20180516,Haiti,1
+472,19.0,-72.416667,20180516,Haiti,1
+108,19.0,-72.416667,20180516,Haiti,1
+228,48.5833,-64.25,20180608,"Malbaie, Quebec, Canada",4
+216,48.5833,-64.25,20180608,"Malbaie, Quebec, Canada",4
+152,51.0,-64.0,20180608,"Saguenay, Quebec, Canada",4
+118,54.0,-4.0,20180611,United Kingdom,1
+104,48.8667,2.33333,20180614,"Paris, France (general), France",4
+130,48.8667,2.33333,20180614,"Paris, France (general), France",4
+144,42.833333,12.833333,20180614,Italy,1
+156,42.833333,12.833333,20180614,Italy,1
+360,48.8667,2.33333,20180615,"Paris, France (general), France",4
+450,48.8667,2.33333,20180615,"Paris, France (general), France",4
+408,42.833333,12.833333,20180615,Italy,1
+438,42.833333,12.833333,20180615,Italy,1
+263,42.3584,-71.0598,20180626,"Boston, Massachusetts, United States",3
+446,42.3584,-71.0598,20180627,"Boston, Massachusetts, United States",3
+105,-31.9333,115.833,20180627,"Perth, Western Australia, Australia",4
+690,42.1497,-74.9384,20180628,"New York, United States",2
+194,19.0,-72.416667,20180731,Haiti,1
+110,-24.5167,-55.7,20180731,"Curuguaty, Canindeyú22, Paraguay",4
+220,-24.5167,-55.7,20180731,"Curuguaty, Canindeyú22, Paraguay",4
+360,-25.0,135.0,20180820,Australia,1
+770,19.0,-72.416667,20180821,Haiti,1
+770,19.0,-72.416667,20180821,Haiti,1
+150,19.0,-72.416667,20180822,Haiti,1
+150,19.0,-72.416667,20180822,Haiti,1
+336,38.8951,-77.0364,20180912,"Washington, District of Columbia, United States",3
+105,35.0,105.0,20181009,China,1
+120,1.366667,103.8,20181010,Singapore,1
+160,54.0,-4.0,20181027,United Kingdom,1
+115,2.0,33.0,20181106,Uganda,1
+550,22.5697,88.3697,20181210,"Kolkata, West Bengal, India",4

@@ -1,0 +1,814 @@
+NumMentions,ActionGeo_Lat,ActionGeo_Long,SQLDATE,ActionGeo_FullName,ActionGeo_Type
+154,2.06667,45.3667,20100105,"Mogadishu, Banaadir, Somalia",4
+109,2.06667,45.3667,20100203,"Mogadishu, Banaadir, Somalia",4
+119,19.25,-72.7833,20101026,"Artibonite River, Haiti (general), Haiti",4
+142,19.0,-70.6667,20101026,Dominican Republic,1
+306,19.25,-72.7833,20101026,"Artibonite River, Haiti (general), Haiti",4
+252,19.0,-70.6667,20101027,Dominican Republic,1
+297,19.25,-72.7833,20101027,"Artibonite River, Haiti (general), Haiti",4
+103,18.5392,-72.335,20101111,"Port-Au-Prince, Ouest, Haiti",4
+126,5.34111,-4.02806,20110404,"Abidjan, Lagunes, Cote D'ivoire",4
+122,34.7406,10.7603,20110404,"Sfax, Safaqis, Tunisia",4
+212,5.34111,-4.02806,20110405,"Abidjan, Lagunes, Cote D'ivoire",4
+172,26.2361,50.5831,20110407,"Manama, Al Manamah, Bahrain",4
+459,12.15,24.45,20110521,"Juba, Janub Darfur, Sudan",4
+126,15.0,30.0,20110521,Sudan,1
+154,2.06667,45.3667,20110726,"Mogadishu, Banaadir, Somalia",4
+146,32.8925,13.18,20110825,"Tripoli, Tarabulus, Libya",4
+160,10.0,49.0,20111013,Somalia,1
+112,38.0,-97.0,20111013,United States,1
+117,0.061283,40.3103,20111013,"Dadaab, North-Eastern, Kenya",4
+162,10.0,49.0,20111014,Somalia,1
+239,40.4,-3.68333,20111015,"Madrid, Madrid, Spain",4
+117,19.0,-72.4167,20111026,Haiti,1
+117,-29.0,24.0,20111121,South Africa,1
+117,-29.0,24.0,20111121,South Africa,1
+136,2.06667,45.3667,20111229,"Mogadishu, Banaadir, Somalia",4
+122,2.06667,45.3667,20111229,"Mogadishu, Banaadir, Somalia",4
+110,0.009522,40.3756,20111230,"Hagadera, North-Eastern, Kenya",4
+148,2.06667,45.3667,20111230,"Mogadishu, Banaadir, Somalia",4
+346,-5.0,120.0,20111231,Indonesia,1
+116,15.0,30.0,20120106,Sudan,1
+214,46.0,2.0,20120205,France,1
+241,32.8925,13.18,20120205,"Tripoli, Tarabulus, Libya",4
+241,32.8925,13.18,20120205,"Tripoli, Tarabulus, Libya",4
+241,32.8925,13.18,20120205,"Tripoli, Tarabulus, Libya",4
+342,34.7129,36.6956,20120208,"Baba Amr, ?ims, Syria",4
+342,18.5392,-72.335,20120519,"Port-Au-Prince, Ouest, Haiti",4
+160,42.8333,12.8333,20120724,Italy,1
+326,2.87555,27.1901,20120909,"Viadana, Orientale, Zaire",4
+205,10.0,32.7,20120919,"Upper Nile, Wilayat A`ali an Nil, South Sudan",5
+144,35.0,105.0,20121003,China,1
+314,13.75,100.517,20121105,"Bangkok, Krung Thep Mahanakhon, Thailand",4
+314,13.75,100.517,20121105,"Bangkok, Krung Thep Mahanakhon, Thailand",4
+110,10.0,8.0,20121115,Nigeria,1
+120,10.0,8.0,20121115,Nigeria,1
+110,11.15,34.1,20130202,"Blue Nile, An Nil al Azraq, Sudan",5
+288,38.0,-97.0,20130702,United States,1
+240,2.06667,45.3667,20130720,"Mogadishu, Banaadir, Somalia",4
+504,2.06667,45.3667,20130814,"Mogadishu, Banaadir, Somalia",4
+130,38.0,-97.0,20130821,United States,1
+124,38.8951,-77.0364,20130821,"Washington, District of Columbia, United States",3
+186,38.8951,-77.0364,20130821,"Washington, District of Columbia, United States",3
+248,38.8951,-77.0364,20130821,"Washington, District of Columbia, United States",3
+104,-1.28333,36.8167,20130821,"Nairobi, Nairobi Area, Kenya",4
+135,48.8667,2.33333,20130824,"Paris, RhôAlpes, France",4
+120,33.5,36.3833,20130825,"Ghouta, Dimashq, Syria",4
+292,38.8951,-77.0364,20130825,"White House, District of Columbia, United States",3
+117,33.5,36.3,20130825,"Damascus, Dimashq, Syria",4
+215,33.5,36.3,20130825,"Damascus, Dimashq, Syria",4
+105,48.8667,2.33333,20130825,"Paris, RhôAlpes, France",4
+186,38.0,-97.0,20130826,United States,1
+193,33.5,36.3,20130826,"Damascus, Dimashq, Syria",4
+212,38.8951,-77.0364,20130826,"White House, District of Columbia, United States",3
+106,33.5,36.3,20130826,"Damascus, Dimashq, Syria",4
+172,33.5,36.3,20130827,"Damascus, Dimashq, Syria",4
+298,33.5,36.3,20130828,"Damascus, Dimashq, Syria",4
+552,33.5,36.3,20130829,"Damascus, Dimashq, Syria",4
+177,38.8951,-77.0364,20130829,"Washington, District of Columbia, United States",3
+135,33.5,36.3,20130830,"Damascus, Dimashq, Syria",4
+248,33.5,36.3,20130830,"Damascus, Dimashq, Syria",4
+190,38.0,-97.0,20130831,United States,1
+200,38.8951,-77.0364,20130901,"White House, District of Columbia, United States",3
+236,38.8951,-77.0364,20130902,"Washington, District of Columbia, United States",3
+180,46.0,2.0,20130902,France,1
+747,38.8951,-77.0364,20130902,"White House, District of Columbia, United States",3
+220,35.0,105.0,20130902,China,1
+210,38.0,-97.0,20130903,United States,1
+106,38.8951,-77.0364,20130903,"Washington, District of Columbia, United States",3
+210,36.2028,37.1586,20130905,"Aleppo, ?alab, Syria",4
+274,36.2028,37.1586,20130905,"Aleppo, ?alab, Syria",4
+664,33.5,36.3,20130908,"Damascus, Dimashq, Syria",4
+124,38.8951,-77.0364,20130908,"White House, District of Columbia, United States",3
+117,60.0,-95.0,20131111,Canada,1
+220,11.2433,125.005,20131114,"Tacloban, Tacloban, Philippines",4
+176,6.51046,18.2733,20131130,"Bouca, , Central African Republic",4
+106,4.36667,18.5833,20131205,"Bangui, Bangui, Central African Republic",4
+130,4.36667,18.5833,20140130,"Bangui, Bangui, Central African Republic",4
+130,8.0,30.0,20140131,South Sudan,1
+123,15.0,19.0,20140207,Chad,1
+123,15.0,19.0,20140207,Chad,1
+110,44.6074,-69.3977,20140228,"Maine, United States",2
+170,15.0,19.0,20140228,Chad,1
+115,44.6074,-69.3977,20140301,"Maine, United States",2
+115,26.0,97.5,20140301,"Kachin, Kachin State, Myanmar",5
+160,16.8053,96.1561,20140301,"Rangoon, Yangon, Myanmar",4
+220,20.15,92.9,20140312,"Sittwe, Rakhine State, Myanmar",4
+105,38.0,-97.0,20140312,United States,1
+126,20.15,92.9,20140313,"Sittwe, Rakhine State, Myanmar",4
+290,20.15,92.9,20140324,"Sittwe, Rakhine State, Myanmar",4
+290,20.15,92.9,20140324,"Sittwe, Rakhine State, Myanmar",4
+120,9.50917,-13.7122,20140327,"Conakry, Capitale d'Etat-Zone Speciale de Conakry, Guinea",4
+190,8.0,30.0,20140409,South Sudan,1
+130,4.84597,31.6012,20140409,"Juba, Wilayat Bahr al Jabal, South Sudan",4
+130,8.51667,33.45,20140418,"Nuer, Wilayat A`ali an Nil, South Sudan",4
+220,-1.28333,36.8167,20140513,"Nairobi, Nairobi Area, Kenya",4
+180,8.0,30.0,20140701,South Sudan,1
+130,7.4,32.4,20140701,"Jonglei State, Wilayat Junqoley, South Sudan",5
+102,6.5,-9.5,20140702,Liberia,1
+160,11.0,-10.0,20140702,Guinea,1
+110,11.0,-10.0,20140703,Guinea,1
+496,8.49,-13.2342,20140714,"Freetown, Western Area, Sierra Leone",4
+306,8.5,-11.5,20140714,Sierra Leone,1
+144,38.0,-97.0,20140718,United States,1
+144,38.0,-97.0,20140718,United States,1
+256,31.4167,34.3333,20140721,"Gaza, Israel (general), Israel",4
+270,31.4167,34.3333,20140721,"Gaza, Israel (general), Israel",4
+218,31.4167,34.3333,20140721,"Gaza, Israel (general), Israel",4
+138,11.0,-10.0,20140730,Guinea,1
+130,11.0,-10.0,20140730,Guinea,1
+225,6.45306,3.39583,20140730,"Lagos, Lagos, Nigeria",4
+266,11.0,-10.0,20140730,Guinea,1
+312,11.0,-10.0,20140730,Guinea,1
+120,11.0,-10.0,20140731,Guinea,1
+358,11.0,-10.0,20140731,Guinea,1
+182,6.45306,3.39583,20140731,"Lagos, Lagos, Nigeria",4
+366,11.0,-10.0,20140731,Guinea,1
+130,8.5,-11.5,20140801,Sierra Leone,1
+108,8.49,-13.2342,20140827,"Freetown, Western Area, Sierra Leone",4
+110,7.87667,-11.1875,20140827,"Kenema, Eastern, Sierra Leone",4
+144,8.5,-11.5,20140828,Sierra Leone,1
+120,5.55,-0.216667,20140828,"Accra, Greater Accra, Ghana",4
+150,8.49,-13.2342,20140828,"Freetown, Western Area, Sierra Leone",4
+148,46.1956,6.14811,20140828,"Geneva, Genè, Switzerland",4
+210,-1.0,15.0,20140828,Congo,1
+112,-26.2,28.0833,20140901,"Johannesburg, Gauteng, South Africa",4
+104,38.0,-97.0,20140908,United States,1
+218,8.54611,-9.46944,20140908,"Macenta, Macenta, Guinea",4
+216,8.54611,-9.46944,20140908,"Macenta, Macenta, Guinea",4
+364,38.8951,-77.0364,20140908,"Washington, District of Columbia, United States",3
+120,38.0,-97.0,20140908,United States,1
+594,38.8951,-77.0364,20140908,"Washington, District of Columbia, United States",3
+240,38.8951,-77.0364,20140909,"Washington, District of Columbia, United States",3
+190,5.55,-0.216667,20140915,"Accra, Greater Accra, Ghana",4
+190,5.55,-0.216667,20140915,"Accra, Greater Accra, Ghana",4
+110,8.5,-11.5,20140917,Sierra Leone,1
+132,6.31056,-10.8047,20140918,"Monrovia, Montserrado, Liberia",4
+109,8.54611,-9.46944,20140919,"Macenta, Macenta, Guinea",4
+189,8.5,-11.5,20140922,Sierra Leone,1
+217,6.5,-9.5,20140924,Liberia,1
+102,8.5,-11.5,20140924,Sierra Leone,1
+104,51.5,-0.116667,20140924,"London, London, City of, United Kingdom",4
+133,6.5,-9.5,20140925,Liberia,1
+132,8.54611,-9.46944,20140925,"Macenta, Macenta, Guinea",4
+340,9.18333,-10.45,20140930,"Mandou, Faranah, Guinea",4
+112,46.1956,6.14811,20141022,"Geneva, Genè, Switzerland",4
+245,42.1497,-74.9384,20141023,"New York, United States",2
+240,42.1497,-74.9384,20141023,"New York, United States",2
+148,42.1497,-74.9384,20141024,"New York, United States",2
+120,42.1497,-74.9384,20141024,"New York, United States",2
+390,8.5625,-10.1325,20141025,"Gueckedou, Guééu, Guinea",4
+180,8.5625,-10.1325,20141025,"Gueckedou, Guééu, Guinea",4
+182,42.1497,-74.9384,20141025,"New York, United States",2
+286,8.5625,-10.1325,20141025,"Gueckedou, Guééu, Guinea",4
+292,42.1497,-74.9384,20141025,"New York, United States",2
+120,49.1961,-2.12585,20141026,Jersey,1
+363,40.4862,-74.4518,20141026,"New Brunswick, New Jersey, United States",3
+273,32.7153,-117.157,20141026,"San Diego, California, United States",3
+363,40.4862,-74.4518,20141026,"New Brunswick, New Jersey, United States",3
+102,42.1497,-74.9384,20141026,"New York, United States",2
+476,40.314,-74.5089,20141026,"New Jersey, United States",2
+276,40.314,-74.5089,20141028,"New Jersey, United States",2
+208,8.5,-11.5,20141029,Sierra Leone,1
+144,44.6074,-69.3977,20141104,"Maine, United States",2
+135,9.50917,-13.7122,20141107,"Conakry, Capitale d'Etat-Zone Speciale de Conakry, Guinea",4
+264,50.8333,4.33333,20141109,"Brussels, Bruxelles-Capitale, Belgium",4
+120,38.0,-97.0,20141109,United States,1
+180,40.7357,-74.1724,20141110,"Newark, New Jersey, United States",3
+470,8.5625,-10.1325,20141110,"Gueckedou, Guééu, Guinea",4
+301,50.8333,4.33333,20141110,"Brussels, Bruxelles-Capitale, Belgium",4
+427,11.0,-10.0,20141110,Guinea,1
+316,11.0,-10.0,20141111,Guinea,1
+136,40.3736,-82.7755,20141111,"Ohio, United States",2
+262,8.5625,-10.1325,20141111,"Gueckedou, Guééu, Guinea",4
+610,40.3736,-82.7755,20141112,"Ohio, United States",2
+180,11.0,-10.0,20141113,Guinea,1
+119,40.3736,-82.7755,20141113,"Ohio, United States",2
+120,38.8951,-77.0364,20141114,"White House, District of Columbia, United States",3
+998,9.50917,-13.7122,20141126,"Conakry, Capitale d'Etat-Zone Speciale de Conakry, Guinea",4
+105,18.5392,-72.335,20141126,"Port-Au-Prince, Ouest, Haiti",4
+102,46.0,2.0,20141128,France,1
+126,46.0,2.0,20141128,France,1
+170,8.5,-11.5,20141209,Sierra Leone,1
+302,9.50917,-13.7122,20141209,"Conakry, Capitale d'Etat-Zone Speciale de Conakry, Guinea",4
+108,21.5,-80.0,20141209,Cuba,1
+104,9.50917,-13.7122,20141210,"Conakry, Capitale d'Etat-Zone Speciale de Conakry, Guinea",4
+502,11.8464,13.1603,20150115,"Maiduguri, Borno, Nigeria",4
+476,11.8464,13.1603,20150115,"Maiduguri, Borno, Nigeria",4
+126,-16.9167,35.2667,20150123,"Nsanje, Nsanje, Malawi",4
+126,36.2028,37.1586,20150215,"Aleppo, ?alab, Syria",4
+124,36.2028,37.1586,20150215,"Aleppo, ?alab, Syria",4
+148,36.2028,37.1586,20150216,"Aleppo, ?alab, Syria",4
+226,36.2028,37.1586,20150216,"Aleppo, ?alab, Syria",4
+305,36.2028,37.1586,20150216,"Aleppo, ?alab, Syria",4
+306,36.2028,37.1586,20150216,"Aleppo, ?alab, Syria",4
+138,38.8951,-77.0364,20150302,"Washington, District of Columbia, United States",3
+231,6.5,-9.5,20150305,Liberia,1
+195,10.0,-14.0,20150305,"Basse Guinee, Guinea (general), Guinea",4
+1566,36.2028,37.1586,20150307,"Aleppo, ?alab, Syria",4
+114,6.31056,-10.8047,20150312,"Monrovia, Montserrado, Liberia",4
+356,6.31056,-10.8047,20150312,"Monrovia, Montserrado, Liberia",4
+134,6.31056,-10.8047,20150313,"Monrovia, Montserrado, Liberia",4
+160,9.50917,-13.7122,20150323,"Conakry, Capitale d'Etat-Zone Speciale de Conakry, Guinea",4
+132,35.0,38.0,20150330,Syria,1
+226,35.0,38.0,20150331,Syria,1
+113,35.0,38.0,20150331,Syria,1
+170,15.3547,44.2067,20150331,"Sanaa, San‘a', Yemen",4
+172,24.6408,46.7728,20150331,"Riyadh, Ar Riya?, Saudi Arabia",4
+128,24.6408,46.7728,20150407,"Riyadh, Ar Riya?, Saudi Arabia",4
+162,15.3547,44.2067,20150414,"Sanaa, San‘a', Yemen",4
+172,15.3547,44.2067,20150414,"Sanaa, San‘a', Yemen",4
+190,-27.0,133.0,20150419,Australia,1
+177,25.1833,85.5167,20150425,"Bihar, Bihar, India",4
+402,23.0,-102.0,20150425,Mexico,1
+549,25.1833,85.5167,20150425,"Bihar, Bihar, India",4
+481,27.7167,85.3167,20150425,"Kathmandu, Bagmati, Nepal",4
+104,23.0,-102.0,20150425,Mexico,1
+274,27.7167,85.3167,20150425,"Kathmandu, Bagmati, Nepal",4
+163,40.7525,-73.8167,20150425,"Hindu Temple Society Of North America, New York, United States",3
+328,27.7167,85.3167,20150426,"Kathmandu, Bagmati, Nepal",4
+215,27.7167,85.3167,20150426,"Kathmandu, Bagmati, Nepal",4
+104,25.1833,85.5167,20150426,"Bihar, Bihar, India",4
+341,25.1833,85.5167,20150426,"Bihar, Bihar, India",4
+216,23.0,-102.0,20150426,Mexico,1
+340,27.7167,85.3167,20150427,"Kathmandu, Bagmati, Nepal",4
+165,27.7167,85.3167,20150427,"Kathmandu, Bagmati, Nepal",4
+258,-41.3,174.783,20150427,"Wellington, New Zealand (general), New Zealand",4
+128,-34.9333,138.6,20150427,"Adelaide, South Australia, Australia",4
+147,36.2028,37.1586,20150428,"Aleppo, ?alab, Syria",4
+240,15.3547,44.2067,20150505,"Sanaa, San‘a', Yemen",4
+159,36.2028,37.1586,20150505,"Aleppo, ?alab, Syria",4
+115,36.2028,37.1586,20150505,"Aleppo, ?alab, Syria",4
+115,36.2028,37.1586,20150505,"Aleppo, ?alab, Syria",4
+162,36.2028,37.1586,20150505,"Aleppo, ?alab, Syria",4
+520,15.6942,43.6058,20150508,"Hajjah, ?ajjah, Yemen",4
+104,25.0,45.0,20150508,Saudi Arabia,1
+114,24.6408,46.7728,20150510,"Riyadh, Ar Riya?, Saudi Arabia",4
+198,8.65,29.85,20150510,"Unity State, Wilayat al Wahda, South Sudan",5
+198,8.65,29.85,20150510,"Unity State, Wilayat al Wahda, South Sudan",5
+133,6.45306,3.39583,20150515,"Lagos, Lagos, Nigeria",4
+114,15.3547,44.2067,20150515,"Sanaa, San‘a', Yemen",4
+335,9.08333,7.53333,20150515,"Abuja, Abuja Federal Capital Territory, Nigeria",4
+537,10.0,32.7,20150518,"Upper Nile, Wilayat A`ali an Nil, South Sudan",5
+560,8.0,30.0,20150518,South Sudan,1
+560,8.0,30.0,20150518,South Sudan,1
+540,10.0,32.7,20150518,"Upper Nile, Wilayat A`ali an Nil, South Sudan",5
+140,10.0,32.7,20150519,"Upper Nile, Wilayat A`ali an Nil, South Sudan",5
+1005,36.2028,37.1586,20150519,"Aleppo, ?alab, Syria",4
+1042,36.2028,37.1586,20150519,"Aleppo, ?alab, Syria",4
+280,31.0,36.0,20150519,Jordan,1
+326,36.2028,37.1586,20150519,"Aleppo, ?alab, Syria",4
+314,36.2028,37.1586,20150520,"Aleppo, ?alab, Syria",4
+219,36.2028,37.1586,20150520,"Aleppo, ?alab, Syria",4
+486,0.060832,40.3086,20150611,"Dadaab, North-Eastern, Kenya",4
+162,0.060832,40.3086,20150611,"Dadaab, North-Eastern, Kenya",4
+226,0.060832,40.3086,20150611,"Dadaab, North-Eastern, Kenya",4
+240,42.8333,12.8333,20150623,Italy,1
+570,38.0,-97.0,20150629,United States,1
+290,20.0,77.0,20150714,India,1
+126,25.0,17.0,20150715,Libya,1
+295,12.887,44.9844,20150719,"Dar Saad, ‘Adan, Yemen",4
+132,39.0,22.0,20150728,Greece,1
+110,4.36667,18.5833,20150731,"Bangui, Bangui, Central African Republic",4
+125,35.0,20.0,20150805,"Mediterranean Sea, Oceans (general), Oceans",4
+252,25.0,17.0,20150806,Libya,1
+198,39.0664,8.45222,20150806,"Santantioco, Sardegna, Italy",4
+120,36.2028,37.1586,20150806,"Aleppo, ?alab, Syria",4
+614,36.2028,37.1586,20150807,"Aleppo, ?alab, Syria",4
+421,33.7712,-111.388,20150814,"Arizona, United States",2
+407,33.7712,-111.388,20150814,"Arizona, United States",2
+138,33.7712,-111.388,20150814,"Arizona, United States",2
+144,33.7712,-111.388,20150814,"Arizona, United States",2
+511,33.7712,-111.388,20150815,"Arizona, United States",2
+1704,33.7712,-111.388,20150815,"Arizona, United States",2
+1737,33.7712,-111.388,20150815,"Arizona, United States",2
+543,33.7712,-111.388,20150815,"Arizona, United States",2
+116,33.0,44.0,20150815,Iraq,1
+107,33.7712,-111.388,20150816,"Arizona, United States",2
+285,37.9833,23.7333,20150816,"Athens, AttikíR, Greece",4
+105,33.7712,-111.388,20150816,"Arizona, United States",2
+503,39.9272,32.8644,20150818,"Ankara, Ankara, Turkey",4
+284,37.1467,26.8425,20150818,"Leros, Perifereia Notiou Aigaiou, Greece",4
+477,4.36667,18.5833,20150818,"Bangui, Bangui, Central African Republic",4
+115,42.1497,-74.9384,20150818,"New York, United States",2
+425,4.84597,31.6012,20150818,"Juba, Wilayat Bahr al Jabal, South Sudan",4
+105,42.1497,-74.9384,20150818,"New York, United States",2
+186,35.0,105.0,20150818,China,1
+264,4.84597,31.6012,20150818,"Juba, Wilayat Bahr al Jabal, South Sudan",4
+111,37.9833,23.7333,20150818,"Athens, AttikíR, Greece",4
+246,39.9272,32.8644,20150818,"Ankara, Ankara, Turkey",4
+227,4.84597,31.6012,20150819,"Juba, Wilayat Bahr al Jabal, South Sudan",4
+138,35.0,105.0,20150819,China,1
+102,4.84597,31.6012,20150819,"Juba, Wilayat Bahr al Jabal, South Sudan",4
+264,41.1392,22.5025,20150821,"Gevgelija, Gevgelija, Macedonia",4
+120,15.3547,44.2067,20150821,"Sanaa, San‘a', Yemen",4
+210,15.0,48.0,20150821,Yemen,1
+137,38.0,-97.0,20150821,United States,1
+420,15.0,50.0,20150821,"Hadramawt, ?a?ramawt, Yemen",4
+156,41.1392,22.5025,20150821,"Gevgelija, Gevgelija, Macedonia",4
+150,15.0,50.0,20150822,"Hadramawt, ?a?ramawt, Yemen",4
+205,42.8333,12.8333,20150823,Italy,1
+215,39.0,22.0,20150823,Greece,1
+522,42.8333,12.8333,20150823,Italy,1
+215,39.0,22.0,20150823,Greece,1
+205,42.8333,12.8333,20150823,Italy,1
+348,42.8333,12.8333,20150823,Italy,1
+104,15.0,19.0,20150829,Chad,1
+104,15.0,19.0,20150829,Chad,1
+528,13.3285,14.1217,20150829,"Lake Chad, Nigeria (general), Nigeria",4
+104,10.3134,9.84327,20150829,"Bauchi, Bauchi, Nigeria",4
+176,13.3285,14.1217,20150829,"Lake Chad, Nigeria (general), Nigeria",4
+612,13.3285,14.1217,20150829,"Lake Chad, Nigeria (general), Nigeria",4
+240,13.3285,14.1217,20150829,"Lake Chad, Nigeria (general), Nigeria",4
+516,13.3285,14.1217,20150829,"Lake Chad, Nigeria (general), Nigeria",4
+135,54.0,-2.0,20150904,United Kingdom,1
+135,54.0,-2.0,20150904,United Kingdom,1
+110,36.2028,37.1586,20150916,"Aleppo, ?alab, Syria",4
+148,35.0,38.0,20150916,Syria,1
+150,36.2028,37.1586,20150916,"Aleppo, ?alab, Syria",4
+128,42.8333,12.8333,20150916,Italy,1
+296,13.3285,14.1217,20150918,"Lake Chad, Nigeria (general), Nigeria",4
+115,36.729,68.857,20150930,"Kunduz, Kondoz, Afghanistan",4
+587,36.729,68.857,20151003,"Kunduz, Kondoz, Afghanistan",4
+130,36.729,68.857,20151003,"Kunduz, Kondoz, Afghanistan",4
+800,36.729,68.857,20151003,"Kunduz, Kondoz, Afghanistan",4
+170,36.729,68.857,20151003,"Kunduz, Kondoz, Afghanistan",4
+2603,60.0,100.0,20151003,Russia,1
+1136,36.729,68.857,20151003,"Kunduz, Kondoz, Afghanistan",4
+296,38.8951,-77.0364,20151003,"Washington, District of Columbia, United States",3
+134,36.729,68.857,20151003,"Kunduz, Kondoz, Afghanistan",4
+409,36.729,68.857,20151003,"Kunduz, Kondoz, Afghanistan",4
+110,38.8951,-77.0364,20151003,"Washington, District of Columbia, United States",3
+287,36.729,68.857,20151003,"Kunduz, Kondoz, Afghanistan",4
+144,36.729,68.857,20151004,"Kunduz, Kondoz, Afghanistan",4
+282,36.729,68.857,20151004,"Kunduz, Kondoz, Afghanistan",4
+284,36.729,68.857,20151004,"Kunduz, Kondoz, Afghanistan",4
+1794,36.729,68.857,20151004,"Kunduz, Kondoz, Afghanistan",4
+830,60.0,100.0,20151004,Russia,1
+375,36.729,68.857,20151004,"Kunduz, Kondoz, Afghanistan",4
+171,36.729,68.857,20151005,"Kunduz, Kondoz, Afghanistan",4
+547,36.729,68.857,20151005,"Kunduz, Kondoz, Afghanistan",4
+126,36.729,68.857,20151005,"Kunduz, Kondoz, Afghanistan",4
+101,36.729,68.857,20151005,"Kunduz, Kondoz, Afghanistan",4
+400,34.5167,69.1833,20151005,"Kabul, Kabol, Afghanistan",4
+109,36.729,68.857,20151005,"Kunduz, Kondoz, Afghanistan",4
+160,36.729,68.857,20151005,"Kunduz, Kondoz, Afghanistan",4
+130,36.729,68.857,20151005,"Kunduz, Kondoz, Afghanistan",4
+260,34.5167,69.1833,20151005,"Kabul, Kabol, Afghanistan",4
+260,34.5167,69.1833,20151005,"Kabul, Kabol, Afghanistan",4
+154,34.5167,69.1833,20151005,"Kabul, Kabol, Afghanistan",4
+839,36.729,68.857,20151006,"Kunduz, Kondoz, Afghanistan",4
+156,36.729,68.857,20151006,"Kunduz, Kondoz, Afghanistan",4
+120,50.8333,4.33333,20151007,"Brussels, Bruxelles-Capitale, Belgium",4
+230,36.729,68.857,20151007,"Kunduz, Kondoz, Afghanistan",4
+296,50.8333,4.33333,20151007,"Brussels, Bruxelles-Capitale, Belgium",4
+704,46.0,2.0,20151007,France,1
+702,46.1956,6.14811,20151007,"Geneva, Genè, Switzerland",4
+242,36.729,68.857,20151007,"Kunduz, Kondoz, Afghanistan",4
+200,36.729,68.857,20151007,"Kunduz, Kondoz, Afghanistan",4
+386,46.1956,6.14811,20151007,"Geneva, Genè, Switzerland",4
+169,36.729,68.857,20151007,"Kunduz, Kondoz, Afghanistan",4
+482,46.1956,6.14811,20151008,"Geneva, Genè, Switzerland",4
+122,38.8951,-77.0364,20151008,"White House, District of Columbia, United States",3
+478,38.8951,-77.0364,20151008,"Washington, District of Columbia, United States",3
+108,46.0,2.0,20151008,France,1
+310,38.8951,-77.0364,20151008,"White House, District of Columbia, United States",3
+107,36.729,68.857,20151008,"Kunduz, Kondoz, Afghanistan",4
+104,36.729,68.857,20151009,"Kunduz, Kondoz, Afghanistan",4
+130,46.1956,6.14811,20151010,"Geneva, Genè, Switzerland",4
+128,36.729,68.857,20151010,"Kunduz, Kondoz, Afghanistan",4
+305,54.0,-2.0,20151010,United Kingdom,1
+138,35.1215,69.2373,20151010,"Parwan, Parvan, Afghanistan",4
+122,54.0,-2.0,20151010,United Kingdom,1
+116,46.1956,6.14811,20151010,"Geneva, Genè, Switzerland",4
+160,36.729,68.857,20151010,"Kunduz, Kondoz, Afghanistan",4
+654,36.729,68.857,20151010,"Kunduz, Kondoz, Afghanistan",4
+183,54.0,-2.0,20151010,United Kingdom,1
+174,36.729,68.857,20151010,"Kunduz, Kondoz, Afghanistan",4
+112,30.199,67.0097,20151010,"Quetta, Balochistan, Pakistan",4
+121,36.729,68.857,20151010,"Kunduz, Kondoz, Afghanistan",4
+280,36.729,68.857,20151010,"Kunduz, Kondoz, Afghanistan",4
+130,46.1956,6.14811,20151010,"Geneva, Genè, Switzerland",4
+864,36.7564,66.8972,20151010,"Balkh, Balkh, Afghanistan",4
+380,36.729,68.857,20151010,"Kunduz, Kondoz, Afghanistan",4
+184,54.0,-2.0,20151010,United Kingdom,1
+250,36.729,68.857,20151011,"Kunduz, Kondoz, Afghanistan",4
+240,36.729,68.857,20151011,"Kunduz, Kondoz, Afghanistan",4
+110,54.0,-2.0,20151011,United Kingdom,1
+123,54.0,-2.0,20151011,United Kingdom,1
+360,46.1956,6.14811,20151011,"Geneva, Genè, Switzerland",4
+199,54.0,-2.0,20151011,United Kingdom,1
+350,46.1956,6.14811,20151011,"Geneva, Genè, Switzerland",4
+304,46.1956,6.14811,20151011,"Geneva, Genè, Switzerland",4
+610,36.729,68.857,20151011,"Kunduz, Kondoz, Afghanistan",4
+248,36.729,68.857,20151013,"Kunduz, Kondoz, Afghanistan",4
+248,36.729,68.857,20151014,"Kunduz, Kondoz, Afghanistan",4
+110,36.729,68.857,20151014,"Kunduz, Kondoz, Afghanistan",4
+251,36.729,68.857,20151015,"Kunduz, Kondoz, Afghanistan",4
+1212,36.729,68.857,20151015,"Kunduz, Kondoz, Afghanistan",4
+654,36.729,68.857,20151015,"Kunduz, Kondoz, Afghanistan",4
+168,36.729,68.857,20151015,"Kunduz, Kondoz, Afghanistan",4
+559,36.729,68.857,20151015,"Kunduz, Kondoz, Afghanistan",4
+702,36.729,68.857,20151015,"Kunduz, Kondoz, Afghanistan",4
+259,30.0,70.0,20151015,Pakistan,1
+2294,36.729,68.857,20151015,"Kunduz, Kondoz, Afghanistan",4
+260,34.5167,69.1833,20151015,"Kabul, Kabol, Afghanistan",4
+1269,36.729,68.857,20151015,"Kunduz, Kondoz, Afghanistan",4
+738,36.729,68.857,20151016,"Kunduz, Kondoz, Afghanistan",4
+952,36.729,68.857,20151016,"Kunduz, Kondoz, Afghanistan",4
+1579,36.729,68.857,20151016,"Kunduz, Kondoz, Afghanistan",4
+575,30.0,70.0,20151016,Pakistan,1
+816,36.729,68.857,20151016,"Kunduz, Kondoz, Afghanistan",4
+1160,36.729,68.857,20151016,"Kunduz, Kondoz, Afghanistan",4
+160,36.729,68.857,20151016,"Kunduz, Kondoz, Afghanistan",4
+110,36.729,68.857,20151016,"Kunduz, Kondoz, Afghanistan",4
+218,38.8951,-77.0364,20151016,"White House, District of Columbia, United States",3
+547,36.729,68.857,20151016,"Kunduz, Kondoz, Afghanistan",4
+319,36.729,68.857,20151016,"Kunduz, Kondoz, Afghanistan",4
+642,38.8951,-77.0364,20151016,"White House, District of Columbia, United States",3
+246,36.729,68.857,20151016,"Kunduz, Kondoz, Afghanistan",4
+150,36.729,68.857,20151018,"Kunduz, Kondoz, Afghanistan",4
+142,60.0,100.0,20151018,Russia,1
+187,36.729,68.857,20151018,"Kunduz, Kondoz, Afghanistan",4
+233,38.8951,-77.0364,20151019,"Washington, District of Columbia, United States",3
+110,36.729,68.857,20151020,"Kunduz, Kondoz, Afghanistan",4
+441,46.0,2.0,20151024,France,1
+990,34.5167,69.1833,20151026,"Kabul, Kabol, Afghanistan",4
+1680,34.5167,69.1833,20151027,"Kabul, Kabol, Afghanistan",4
+130,33.5,36.3,20151031,"Damascus, Dimashq, Syria",4
+604,36.729,68.857,20151103,"Kunduz, Kondoz, Afghanistan",4
+704,36.729,68.857,20151104,"Kunduz, Kondoz, Afghanistan",4
+212,36.729,68.857,20151105,"Kunduz, Kondoz, Afghanistan",4
+112,46.0,2.0,20151105,France,1
+427,46.0,2.0,20151105,France,1
+382,36.729,68.857,20151105,"Kunduz, Kondoz, Afghanistan",4
+382,36.729,68.857,20151105,"Kunduz, Kondoz, Afghanistan",4
+200,36.729,68.857,20151106,"Kunduz, Kondoz, Afghanistan",4
+318,36.729,68.857,20151106,"Kunduz, Kondoz, Afghanistan",4
+318,36.729,68.857,20151106,"Kunduz, Kondoz, Afghanistan",4
+112,42.1497,-74.9384,20151106,"New York, United States",2
+395,46.0,2.0,20151106,France,1
+112,42.1497,-74.9384,20151106,"New York, United States",2
+140,36.729,68.857,20151106,"Kunduz, Kondoz, Afghanistan",4
+118,35.0,63.75,20151116,"Badghis Province, Badghis, Afghanistan",5
+204,46.0,2.0,20151121,France,1
+204,46.0,2.0,20151121,France,1
+730,46.0,2.0,20151121,France,1
+730,46.0,2.0,20151121,France,1
+942,36.729,68.857,20151125,"Kunduz, Kondoz, Afghanistan",4
+106,34.9669,69.265,20151125,"Bagram, Parvan, Afghanistan",4
+200,36.729,68.857,20151125,"Kunduz, Kondoz, Afghanistan",4
+200,42.1497,-74.9384,20151125,"New York, United States",2
+110,36.729,68.857,20151126,"Kunduz, Kondoz, Afghanistan",4
+144,13.3285,14.1217,20151208,"Lake Chad, Nigeria (general), Nigeria",4
+288,36.729,68.857,20151212,"Kunduz, Kondoz, Afghanistan",4
+120,33.8191,-80.9066,20151222,"South Carolina, United States",2
+670,36.729,68.857,20160110,"Kunduz, Kondoz, Afghanistan",4
+391,33.6903,36.1035,20160112,"Madaya, Rif Dimashq, Syria",4
+114,33.8719,35.5097,20160112,"Beirut, Beyrouth, Lebanon",4
+622,25.0,45.0,20160112,Saudi Arabia,1
+141,33.6903,36.1035,20160112,"Madaya, Rif Dimashq, Syria",4
+349,33.6903,36.1035,20160113,"Madaya, Rif Dimashq, Syria",4
+102,33.8719,35.5097,20160113,"Beirut, Beyrouth, Lebanon",4
+288,52.35,4.91667,20160119,"Amsterdam, Noord-Holland, Netherlands",4
+164,36.95,26.9833,20160123,"Kalymnos, Perifereia Notiou Aigaiou, Greece",4
+112,38.8951,-77.0364,20160124,"White House, District of Columbia, United States",3
+122,36.95,26.9833,20160124,"Kalymnos, Perifereia Notiou Aigaiou, Greece",4
+145,33.5,36.3,20160131,"Damascus, Dimashq, Syria",4
+128,25.0,45.0,20160202,Saudi Arabia,1
+110,16.0,8.0,20160204,Niger,1
+106,36.202800750732422,37.158599853515625,20160208,"Aleppo, ?alab, Syria",4
+188,33.771198272705078,-111.38800048828125,20160209,"Arizona, United States",2
+158,33.771198272705078,-111.38800048828125,20160209,"Arizona, United States",2
+1179,33.771198272705078,-111.38800048828125,20160209,"Arizona, United States",2
+188,33.771198272705078,-111.38800048828125,20160209,"Arizona, United States",2
+998,33.771198272705078,-111.38800048828125,20160209,"Arizona, United States",2
+157,33.771198272705078,-111.38800048828125,20160209,"Arizona, United States",2
+188,33.771198272705078,-111.38800048828125,20160209,"Arizona, United States",2
+110,35.9306,36.6339,20160215,"Idlib, Idlib, Syria",4
+116,50.8333,4.33333,20160215,"Brussels, Bruxelles-Capitale, Belgium",4
+129,60.0,100.0,20160215,Russia,1
+1670,36.5866,37.0463,20160215,"Azaz, ?alab, Syria",4
+218,35.9306,36.6339,20160215,"Idlib, Idlib, Syria",4
+202,39.9272,32.8644,20160215,"Ankara, Ankara, Turkey",4
+199,41.0186,28.9647,20160215,"Istanbul, Istanbul, Turkey",4
+181,36.5866,37.0463,20160215,"Azaz, ?alab, Syria",4
+349,41.0186,28.9647,20160215,"Istanbul, Istanbul, Turkey",4
+216,39.9272,32.8644,20160215,"Ankara, Ankara, Turkey",4
+116,50.8333,4.33333,20160215,"Brussels, Bruxelles-Capitale, Belgium",4
+144,35.9306,36.6339,20160215,"Idlib, Idlib, Syria",4
+822,35.9306,36.6339,20160215,"Idlib, Idlib, Syria",4
+563,35.9306,36.6339,20160215,"Idlib, Idlib, Syria",4
+532,46.0,2.0,20160215,France,1
+114,35.9306,36.6339,20160216,"Idlib, Idlib, Syria",4
+156,39.9272,32.8644,20160216,"Ankara, Ankara, Turkey",4
+118,35.9306,36.6339,20160216,"Idlib, Idlib, Syria",4
+146,35.9306,36.6339,20160216,"Idlib, Idlib, Syria",4
+1216,36.5866,37.0463,20160216,"Azaz, ?alab, Syria",4
+126,35.9306,36.6339,20160216,"Idlib, Idlib, Syria",4
+175,46.0,2.0,20160216,France,1
+126,35.9306,36.6339,20160216,"Idlib, Idlib, Syria",4
+234,36.5866,37.0463,20160217,"Azaz, ?alab, Syria",4
+458,36.2028,37.1586,20160217,"Aleppo, ?alab, Syria",4
+240,33.5,36.3,20160217,"Damascus, Dimashq, Syria",4
+646,36.2028,37.1586,20160218,"Aleppo, ?alab, Syria",4
+130,2.78087,45.5005,20160223,"Jowhar, Shabeellaha Dhexe, Somalia",4
+130,2.78087,45.5005,20160223,"Jowhar, Shabeellaha Dhexe, Somalia",4
+130,2.78087,45.5005,20160223,"Jowhar, Shabeellaha Dhexe, Somalia",4
+202,36.729000091552734,68.857002258300781,20160226,"Kunduz, Kondoz, Afghanistan",4
+113,36.729000091552734,68.857002258300781,20160226,"Kunduz, Kondoz, Afghanistan",4
+363,38.0,-97.0,20160226,United States,1
+130,41.8333,22.0,20160301,Macedonia,1
+110,20.0,77.0,20160312,India,1
+612,25.0,45.0,20160315,Saudi Arabia,1
+150,24.6408,46.7728,20160315,"Riyadh, Ar Riya?, Saudi Arabia",4
+1020,25.0,45.0,20160315,Saudi Arabia,1
+120,24.6408,46.7728,20160316,"Riyadh, Ar Riya?, Saudi Arabia",4
+162,36.729,68.857,20160318,"Kunduz, Kondoz, Afghanistan",4
+600,-6.0,147.0,20160320,Papua New Guinea,1
+156,37.9833,23.7333,20160323,"Athens, AttikíR, Greece",4
+125,60.0,-95.0,20160404,Canada,1
+105,36.5866,37.0463,20160415,"Azaz, ?alab, Syria",4
+610,39.0,35.0,20160416,Turkey,1
+116,36.2028,37.1586,20160428,"Aleppo, ?alab, Syria",4
+124,36.2028,37.1586,20160428,"Aleppo, ?alab, Syria",4
+255,36.2028,37.1586,20160428,"Aleppo, ?alab, Syria",4
+412,36.729,68.857,20160429,"Kunduz, Kondoz, Afghanistan",4
+125,36.729,68.857,20160429,"Kunduz, Kondoz, Afghanistan",4
+175,36.729,68.857,20160430,"Kunduz, Kondoz, Afghanistan",4
+540,54.0,-2.0,20160503,United Kingdom,1
+195,36.2028,37.1586,20160504,"Aleppo, ?alab, Syria",4
+270,41.0186,28.9647,20160505,"Istanbul, Istanbul, Turkey",4
+125,48.8667,2.33333,20160505,"Paris, RhôAlpes, France",4
+220,,,20160505,,0
+580,8.0,30.0,20160505,South Sudan,1
+616,36.729,68.857,20160517,"Kunduz, Kondoz, Afghanistan",4
+160,36.729,68.857,20160517,"Kunduz, Kondoz, Afghanistan",4
+154,36.729,68.857,20160517,"Kunduz, Kondoz, Afghanistan",4
+210,-1.0,15.0,20160518,Congo,1
+188,7.0,21.0,20160520,Central African Republic,1
+852,7.0,21.0,20160520,Central African Republic,1
+176,7.0,21.0,20160521,Central African Republic,1
+202,41.0186,28.9647,20160521,"Istanbul, Istanbul, Turkey",4
+336,15.0,48.0,20160523,Yemen,1
+240,36.2028,37.1586,20160523,"Aleppo, ?alab, Syria",4
+102,41.0186,28.9647,20160523,"Istanbul, Istanbul, Turkey",4
+1002,36.2028,37.1586,20160524,"Aleppo, ?alab, Syria",4
+174,15.0,48.0,20160527,Yemen,1
+124,36.5866,37.0463,20160527,"Azaz, ?alab, Syria",4
+123,15.0,48.0,20160528,Yemen,1
+790,42.8333,12.8333,20160529,Italy,1
+790,39.0,22.0,20160529,Greece,1
+435,46.0,2.0,20160530,France,1
+122,38.4833,15.9667,20160608,"Rosarno, Calabria, Italy",4
+105,25.0,17.0,20160608,Libya,1
+440,33.0,65.0,20160617,Afghanistan,1
+114,38.3228,26.3064,20160617,"Cesme, Izmir, Turkey",4
+355,39.0,35.0,20160617,Turkey,1
+894,39.0,35.0,20160617,Turkey,1
+445,39.0,35.0,20160617,Turkey,1
+445,39.0,35.0,20160617,Turkey,1
+1262,50.8333,4.33333,20160617,"Brussels, Bruxelles-Capitale, Belgium",4
+174,38.3228,26.3064,20160617,"Cesme, Izmir, Turkey",4
+606,11.8464,13.1603,20160702,"Maiduguri, Borno, Nigeria",4
+680,42.8333,12.8333,20160706,Italy,1
+272,4.84597,31.6012,20160712,"Juba, Wilayat Bahr al Jabal, South Sudan",4
+402,4.84597,31.6012,20160712,"Juba, Wilayat Bahr al Jabal, South Sudan",4
+110,15.0,30.0,20160712,Sudan,1
+188,39.0,35.0,20160719,Turkey,1
+296,33.2854,35.69,20160721,"Ramtha, Al Qunaytirah, Syria",4
+390,17.0,-4.0,20160721,Mali,1
+177,31.0,36.0,20160721,Jordan,1
+240,45.0492,20.0792,20160723,"Indjija, , Serbia",4
+240,45.0492,20.0792,20160723,"Indjija, , Serbia",4
+344,44.8186,20.4681,20160724,"Belgrade, Serbia (general),",4
+340,44.8186,20.4681,20160724,"Belgrade, Serbia (general),",4
+340,44.8186,20.4681,20160725,"Belgrade, Serbia (general),",4
+332,44.8186,20.4681,20160725,"Belgrade, Serbia (general),",4
+2208,4.84597,31.6012,20160727,"Juba, Wilayat Bahr al Jabal, South Sudan",4
+150,4.84597,31.6012,20160728,"Juba, Wilayat Bahr al Jabal, South Sudan",4
+290,36.2028,37.1586,20160811,"Aleppo, ?alab, Syria",4
+440,14.086,44.2641,20160814,"Haydan, Ibb, Yemen",4
+191,15.3547,44.2067,20160815,"Sanaa, San‘a', Yemen",4
+115,15.3547,44.2067,20160815,"Sanaa, San‘a', Yemen",4
+414,25.0,45.0,20160816,Saudi Arabia,1
+410,25.0,45.0,20160816,Saudi Arabia,1
+374,15.3547,44.2067,20160816,"Sanaa, San‘a', Yemen",4
+153,15.6942,43.6058,20160816,"Hajja, ?ajjah, Yemen",4
+1050,25.0,45.0,20160816,Saudi Arabia,1
+445,15.0,48.0,20160816,Yemen,1
+110,25.0,45.0,20160817,Saudi Arabia,1
+110,25.0,45.0,20160817,Saudi Arabia,1
+216,18.5392,-72.335,20160819,"Port-Au-Prince, Ouest, Haiti",4
+396,15.6942,43.6058,20160819,"Hajjah, ?ajjah, Yemen",4
+180,15.6942,43.6058,20160819,"Hajja, ?ajjah, Yemen",4
+124,15.6942,43.6058,20160819,"Hajjah, ?ajjah, Yemen",4
+394,15.6942,43.6058,20160819,"Hajjah, ?ajjah, Yemen",4
+360,15.6942,43.6058,20160820,"Hajja, ?ajjah, Yemen",4
+140,18.5392,-72.335,20160820,"Port-Au-Prince, Ouest, Haiti",4
+114,15.6942,43.6058,20160820,"Hajjah, ?ajjah, Yemen",4
+794,15.6942,43.6058,20160821,"Hajja, ?ajjah, Yemen",4
+375,15.0,48.0,20160822,Yemen,1
+544,15.0,48.0,20160823,Yemen,1
+132,35.9306,36.6339,20160823,"Idlib, Idlib, Syria",4
+132,35.9306,36.6339,20160823,"Idlib, Idlib, Syria",4
+136,25.0,45.0,20160823,Saudi Arabia,1
+120,35.9306,36.6339,20160824,"Idlib, Idlib, Syria",4
+584,15.0,48.0,20160824,Yemen,1
+146,25.0,45.0,20160824,Saudi Arabia,1
+120,35.9306,36.6339,20160824,"Idlib, Idlib, Syria",4
+112,36.2028,37.1586,20160827,"Aleppo, ?alab, Syria",4
+280,42.8333,12.8333,20160830,Italy,1
+153,52.5167,13.4,20160830,"Berlin, Berlin, Germany",4
+109,42.8333,12.8333,20160830,Italy,1
+520,41.9,12.4833,20160912,"Rome, Lazio, Italy",4
+139,46.0,2.0,20160913,France,1
+133,46.0,2.0,20160921,France,1
+1310,11.8464,13.1603,20160929,"Maiduguri, Borno, Nigeria",4
+1454,36.2028,37.1586,20160929,"Aleppo, ?alab, Syria",4
+428,55.7522,37.6156,20160929,"Moscow, Moskva, Russia",4
+462,36.2028,37.1586,20160929,"Aleppo, ?alab, Syria",4
+126,36.2028,37.1586,20161001,"Aleppo, ?alab, Syria",4
+150,31.95,35.9333,20161001,"Amman, (JO11), Jordan",4
+175,36.2028,37.1586,20161001,"Aleppo, ?alab, Syria",4
+326,-3.5,30.0,20161003,Burundi,1
+350,-3.5,30.0,20161003,Burundi,1
+105,46.1956,6.14811,20161004,"Geneva, Genè, Switzerland",4
+910,46.0,2.0,20161007,France,1
+413,46.0,2.0,20161008,France,1
+117,36.2028,37.1586,20161014,"Aleppo, ?alab, Syria",4
+698,36.2028,37.1586,20161014,"Aleppo, ?alab, Syria",4
+110,25.0,17.0,20161020,Libya,1
+320,25.0,17.0,20161022,Libya,1
+630,25.0,17.0,20161022,Libya,1
+604,25.0,17.0,20161022,Libya,1
+601,25.0,17.0,20161022,Libya,1
+580,25.0,17.0,20161023,Libya,1
+290,25.0,17.0,20161023,Libya,1
+290,25.0,17.0,20161023,Libya,1
+290,25.0,17.0,20161023,Libya,1
+460,15.3547,44.2067,20161116,"Sanaa, San‘a', Yemen",4
+119,15.3547,44.2067,20161116,"Sanaa, San‘a', Yemen",4
+126,15.3547,44.2067,20161116,"Sanaa, San‘a', Yemen",4
+480,37.9833,23.7333,20161125,"Athens, AttikíR, Greece",4
+210,37.9833,23.7333,20161126,"Athens, AttikíR, Greece",4
+200,39.1667,26.25,20161126,"Lesbos, Perifereia Voreiou Aigaiou, Greece",4
+110,37.9833,23.7333,20161127,"Athens, AttikíR, Greece",4
+120,10.0,8.0,20161211,Nigeria,1
+620,11.8464,13.1603,20170107,"Maiduguri, Borno, Nigeria",4
+104,50.8333,4.33333,20170109,"Brussels, Bruxelles-Capitale, Belgium",4
+338,39.1667,26.25,20170109,"Lesbos, Perifereia Voreiou Aigaiou, Greece",4
+310,11.8464,13.1603,20170117,"Maiduguri, Borno, Nigeria",4
+125,10.0,8.0,20170118,Nigeria,1
+280,10.0,8.0,20170120,Nigeria,1
+1206,11.8464,13.1603,20170120,"Maiduguri, Borno, Nigeria",4
+1275,11.8464,13.1603,20170120,"Maiduguri, Borno, Nigeria",4
+200,6.0,12.0,20170121,Cameroon,1
+1876,2.06667,45.3667,20170127,"Mogadishu, Banaadir, Somalia",4
+1846,2.06667,45.3667,20170127,"Mogadishu, Banaadir, Somalia",4
+105,2.06667,45.3667,20170128,"Mogadishu, Banaadir, Somalia",4
+165,,,20170130,,0
+1543,25.0,17.0,20170203,Libya,1
+1558,25.0,17.0,20170203,Libya,1
+920,32.8925,13.18,20170203,"Tripoli, Tarabulus, Libya",4
+132,25.0,17.0,20170204,Libya,1
+112,25.0,17.0,20170204,Libya,1
+333,31.0,36.0,20170215,Jordan,1
+144,-34.0,-64.0,20170216,Argentina,1
+160,15.0,39.0,20170228,Eritrea,1
+598,25.0,17.0,20170228,Libya,1
+748,25.0,17.0,20170228,Libya,1
+487,25.0,17.0,20170228,Libya,1
+152,25.0,17.0,20170228,Libya,1
+270,36.2028,37.1586,20170301,"Aleppo, ?alab, Syria",4
+120,11.0695,32.6739,20170316,"Shilluk, Wilayat A`ali an Nil, South Sudan",4
+145,8.0,30.0,20170403,South Sudan,1
+145,47.0,8.0,20170403,Switzerland,1
+222,33.5,36.3,20170405,"Damascus, Dimashq, Syria",4
+240,33.5,36.3,20170405,"Damascus, Dimashq, Syria",4
+940,39.0,35.0,20170405,Turkey,1
+530,39.0,35.0,20170405,Turkey,1
+761,35.4406,36.65,20170406,"Khan Sheikhoun, Idlib, Syria",4
+335,33.5,36.3,20170406,"Damascus, Dimashq, Syria",4
+1023,33.5,36.3,20170406,"Damascus, Dimashq, Syria",4
+158,35.4406,36.65,20170406,"Khan Sheikhoun, Idlib, Syria",4
+470,33.5,36.3833,20170406,"Ghouta, Dimashq, Syria",4
+680,39.0,35.0,20170406,Turkey,1
+1084,39.0,35.0,20170406,Turkey,1
+170,35.9306,36.6339,20170407,"Idlib, Idlib, Syria",4
+335,11.0,-10.0,20170407,Guinea,1
+275,11.0,-10.0,20170408,Guinea,1
+288,46.0,2.0,20170419,France,1
+290,15.3547,44.2067,20170515,"Sanaa, San‘a', Yemen",4
+290,15.3547,44.2067,20170515,"Sanaa, San‘a', Yemen",4
+110,15.6942,43.6058,20170517,"Hajjah, ?ajjah, Yemen",4
+654,53.5,-2.21667,20170527,"Manchester, Manchester, United Kingdom",4
+160,35.5296,43.8406,20170611,"Khazir, At Ta'mim, Iraq",4
+157,35.5296,43.8406,20170611,"Khazir, At Ta'mim, Iraq",4
+104,32.8925,13.18,20170623,"Tripoli, Tarabulus, Libya",4
+237,42.8333,12.8333,20170628,Italy,1
+237,42.8333,12.8333,20170628,Italy,1
+302,39.0,35.0,20170630,Turkey,1
+225,8.43333,33.2167,20170714,"Pibor, , South Sudan",4
+1095,25.0,17.0,20170801,Libya,1
+157,15.3547,44.2067,20170810,"Sanaa, San‘a', Yemen",4
+120,46.0,2.0,20170810,France,1
+720,42.8333,12.8333,20170812,Italy,1
+720,42.8333,12.8333,20170812,Italy,1
+1038,25.0,17.0,20170813,Libya,1
+150,25.0,17.0,20170813,Libya,1
+140,25.0,17.0,20170813,Libya,1
+404,40.0,-4.0,20170813,Spain,1
+400,32.8925,13.18,20170813,"Tripoli, Tarabulus, Libya",4
+102,25.0,17.0,20170814,Libya,1
+128,25.0,17.0,20170814,Libya,1
+228,25.0,17.0,20170814,Libya,1
+386,25.0,17.0,20170815,Libya,1
+160,32.8925,13.18,20170815,"Tripoli, Tarabulus, Libya",4
+120,38.1167,13.3667,20171013,"Palermo, Sicilia, Italy",4
+132,24.0,90.0,20171023,Bangladesh,1
+805,35.9306,36.6339,20171027,"Idlib, Idlib, Syria",4
+128,25.0,45.0,20171205,Saudi Arabia,1
+835,15.6942,43.6058,20171205,"Hajja, ?ajjah, Yemen",4
+548,-1.0,15.0,20171206,Congo,1
+880,1.0,38.0,20171206,Kenya,1
+880,1.0,38.0,20171206,Kenya,1
+548,-1.0,15.0,20171206,Congo,1
+130,37.75,14.25,20171211,"Sicily, Sicilia, Italy",5
+130,37.75,14.25,20171211,"Sicily, Sicilia, Italy",5
+120,22.128,92.0164,20171215,"Dolu, Chittagong, Bangladesh",4
+113,28.6,77.2,20171220,"New Delhi, Delhi, India",4
+110,24.0,90.0,20171220,Bangladesh,1
+110,24.0,90.0,20171220,Bangladesh,1
+394,49.0,32.0,20171221,Ukraine,1
+160,49.0,32.0,20171222,Ukraine,1
+221,24.0,90.0,20180117,Bangladesh,1
+230,24.0,90.0,20180117,Bangladesh,1
+136,35.9306,36.6339,20180130,"Idlib, Idlib, Syria",4
+170,21.219,92.1643,20180207,"Kutupalong, Chittagong, Bangladesh",4
+140,21.219,92.1643,20180208,"Kutupalong, Chittagong, Bangladesh",4
+120,51.5,-0.116667,20180216,"London, London, City of, United Kingdom",4
+304,51.5,-0.116667,20180217,"London, London, City of, United Kingdom",4
+102,1.43556,31.3436,20180227,"Hoima, Hoima, Uganda",4
+210,24.0,90.0,20180228,Bangladesh,1
+126,32.8925,13.18,20180310,"Tripoli, Tarabulus, Libya",4
+126,15.3547,44.2067,20180404,"Sanaa, San‘a', Yemen",4
+126,15.3547,44.2067,20180404,"Sanaa, San‘a', Yemen",4
+210,15.3547,44.2067,20180405,"Sanaa, San‘a', Yemen",4
+210,15.3547,44.2067,20180405,"Sanaa, San‘a', Yemen",4
+145,0.060832,40.3086,20180409,"Dadaab, North-Eastern, Kenya",4
+153,31.4167,34.3333,20180428,"Gaza City, Israel (general), Israel",4
+130,4.36667,18.5833,20180501,"Bangui, Bangui, Central African Republic",4
+125,4.36667,18.5833,20180501,"Bangui, Bangui, Central African Republic",4
+280,-1.0,15.0,20180508,Congo,1
+120,-0.732804,18.1341,20180509,"Bikoro, Éuateur, Democratic Republic Of The Congo",4
+222,11.0,-10.0,20180518,Guinea,1
+140,-1.02333,16.2164,20180523,"Iboko, Cuvette, Congo",4
+420,46.0,2.0,20180524,France,1
+1290,42.833333,12.833333,20180611,Italy,1
+112,43.6667,-79.4167,20180611,"Toronto, Ontario, Canada",4
+180,38.1,15.65,20180611,"Reggio Calabria, Calabria, Italy",4
+160,41.9,12.4833,20180611,"Rome, Lazio, Italy",4
+495,-1.0,15.0,20180611,Congo,1
+892,10.1806,-68.0039,20180612,"Valencia, Carabobo, Venezuela",4
+307,43.0,35.0,20180612,"Black Sea, Oceans (general), Oceans",4
+656,25.0,45.0,20180612,Saudi Arabia,1
+164,15.6942,43.6058,20180612,"Hajjah, ?ajjah, Yemen",4
+270,-1.0,15.0,20180612,Congo,1
+468,10.1806,-68.0039,20180612,"Valencia, Carabobo, Venezuela",4
+162,40.0,-4.0,20180617,Spain,1
+1034,46.0,2.0,20180704,France,1
+184,46.0,2.0,20180705,France,1
+756,35.5,12.6,20180814,"Lampedusa, Italy (general), Italy",4
+191,43.4063,3.69304,20180814,"Sete, Languedoc-Roussillon, France",4
+671,35.5,12.6,20180814,"Lampedusa, Italy (general), Italy",4
+297,35.5,12.6,20180814,"Lampedusa, Italy (general), Italy",4
+530,42.833333,12.833333,20180815,Italy,1
+306,41.9,12.4833,20180815,"Rome, Lazio, Italy",4
+509,42.833333,12.833333,20180815,Italy,1
+162,42.833333,12.833333,20180815,Italy,1
+216,42.833333,12.833333,20180815,Italy,1
+408,41.9,12.4833,20180815,"Rome, Lazio, Italy",4
+102,41.9,12.4833,20180815,"Rome, Lazio, Italy",4
+156,41.9,12.4833,20180816,"Rome, Lazio, Italy",4
+208,41.9,12.4833,20180816,"Rome, Lazio, Italy",4
+154,31.4167,34.3333,20180824,"Gaza, Israel (general), Israel",4
+200,22.4553,91.5017,20180825,"Aman Ullah, Chittagong, Bangladesh",4
+360,-1.0,15.0,20180827,Congo,1
+132,32.8925,13.18,20180831,"Tripoli, Tarabulus, Libya",4
+420,32.6486,14.2619,20180911,"Khoms, Al Marqab, Libya",4
+194,33.3395,69.9204,20180920,"Khost, Khowst, Afghanistan",4
+105,25.0,17.0,20180924,Libya,1
+200,25.0,17.0,20180924,Libya,1
+182,25.0,17.0,20180925,Libya,1
+615,-0.533333,166.916667,20181006,Nauru,1
+615,-0.533333,166.916667,20181006,Nauru,1
+390,40.314,-74.5089,20181021,"New Jersey, United States",2
+120,40.314,-74.5089,20181022,"New Jersey, United States",2
+1074,16.1667,42.9167,20181102,"Bani Hassan, ?ajjah, Yemen",4
+1074,16.1667,42.9167,20181102,"Bani Hassan, ?ajjah, Yemen",4
+110,14.7978,42.9545,20181106,"Hodeida, Al ?udaydah, Yemen",4
+930,15.3333,43.3,20181107,"Bayda, Al Ma?wit, Yemen",4
+450,15.3333,43.3,20181108,"Bayda, Al Ma?wit, Yemen",4
+276,39.828175,-98.5795,20181120,United States,1
+190,14.7978,42.9545,20181217,"Hodeida, Al ?udaydah, Yemen",4

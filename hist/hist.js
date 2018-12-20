@@ -4,7 +4,7 @@ function convertSqlDateToDate(sqldate) {
   // takes SQLDATE string as argument and gives Date object
   let year = sqldate.substring(0, 4);
   let month = sqldate.substring(4, 6) - 1; // months are 0-indexed in js
-  let day = sqldate.substr(6, 8);
+  let day = "01"
 
   return new Date(year, month, day);
 }
@@ -14,16 +14,16 @@ function convertSqlDateToDate(sqldate) {
 d3.csv('data/amnesty-over-100.csv').then(createHist);
 
 function createHist(data) {
-	
+
 
   const arrayMaxDate = (array) => array.reduce((acc, val) => Math.max(acc, val.SQLDATE), array[0].SQLDATE);
   const arrayMinDate = (array) => array.reduce((acc, val) => Math.min(acc, val.SQLDATE), array[0].SQLDATE);
 
   const arrayMaxNumMentions = (array) => array.reduce((acc, val) => Math.max(acc, val.NumMentions), array[0].NumMentions);
 
- /* // 2. Use the margin convention practice 
+ /* // 2. Use the margin convention practice
   let margin = {top: 50, right: 50, bottom: 50, left: 50}
-    , width = window.innerWidth - margin.left - margin.right // Use the window's width 
+    , width = window.innerWidth - margin.left - margin.right // Use the window's width
     , height = window.innerHeight - margin.top - margin.bottom; // Use the window's height*/
 
   let margin = {top: 50, right: 50, bottom: 50, left: 50};
@@ -34,7 +34,7 @@ function createHist(data) {
   // The number of data points
   let n = data.length;
 
-  
+
   // get min and max SQLDATE and convert
   let maxDate = convertSqlDateToDate(arrayMaxDate(data));
   let minDate = convertSqlDateToDate(arrayMinDate(data));
@@ -55,15 +55,15 @@ function createHist(data) {
       .domain([minDate, maxDate]) // input
       .range([0, width]); // output
 
-  // 6. Y scale will use the NumMentions 
+  // 6. Y scale will use the NumMentions
   let yScale = d3.scaleLinear()
-      .domain([0, maxNumMentions]) // input 
-      .range([height, 0]); // output 
+      .domain([0, maxNumMentions]) // input
+      .range([height, 0]); // output
 
   // 7. d3's line generator
   let line = d3.line()
       .x(function(d) { return xScale(d.date); }) // set the x values for the line generator
-      .y(function(d) { return yScale(d.NumMentions); }) // set the y values for the line generator 
+      .y(function(d) { return yScale(d.NumMentions); }) // set the y values for the line generator
       .curve(d3.curveMonotoneX) // apply smoothing to the line
 
   // 1. Add the SVG to the page and employ #2
@@ -84,13 +84,13 @@ function createHist(data) {
       .attr("class", "y axis")
       .call(d3.axisLeft(yScale)); // Create an axis component with d3.axisLeft
 
-  // 9. Append the path, bind the data, and call the line generator 
+  // 9. Append the path, bind the data, and call the line generator
   svg.append("path")
-      .datum(data) // 10. Binds data to the line 
+      .datum(data) // 10. Binds data to the line
       .attr("class", "line") // Assign a class for styling
-      .attr("d", line); // 11. Calls the line generator 
+      .attr("d", line); // 11. Calls the line generator
 
-  // 12. Appends a circle for each datapoint 
+  // 12. Appends a circle for each datapoint
   svg.selectAll(".dot")
       .data(data)
       .enter().append("circle") // Uses the enter().append() method
@@ -98,7 +98,7 @@ function createHist(data) {
       .attr("cx", function(d) { return xScale(d.date) })
       .attr("cy", function(d) { return yScale(d.NumMentions) })
       .attr("r", 0)
-        .on("mouseover", function(a, b, c) { 
+        .on("mouseover", function(a, b, c) {
           this.attr('class', 'focus')
       })
         .on("mouseout", function() {  })
