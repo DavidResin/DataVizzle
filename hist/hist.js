@@ -4,7 +4,7 @@ function convertSqlDateToDate(sqldate) {
   // takes SQLDATE string as argument and gives Date object
   let year = sqldate.substring(0, 4);
   let month = sqldate.substring(4, 6) - 1; // months are 0-indexed in js
-  let day = "01"
+  let day = sqldate.substring(6,8);
 
   return new Date(year, month, day);
 }
@@ -14,7 +14,6 @@ function convertSqlDateToDate(sqldate) {
 d3.csv('data/amnesty.csv').then(createHist);
 
 function createHist(data) {
-
 
   const arrayMaxDate = (array) => array.reduce((acc, val) => Math.max(acc, val.SQLDATE), array[0].SQLDATE);
   const arrayMinDate = (array) => array.reduce((acc, val) => Math.min(acc, val.SQLDATE), array[0].SQLDATE);
@@ -61,10 +60,11 @@ function createHist(data) {
       .range([height, 0]); // output
 
   // 7. d3's line generator
-  let line = d3.line()
+  let line = d3.area()
       .x(function(d) { return xScale(d.date); }) // set the x values for the line generator
       .y(function(d) { return yScale(d.NumMentions); }) // set the y values for the line generator
-      .curve(d3.curveMonotoneX) // apply smoothing to the line
+      //.curve(d3.curveMonotoneX) // apply smoothing to the line
+      .curve(d3.curveCatmullRom);
 
   // 1. Add the SVG to the page and employ #2
   let svg = d3.select("#hist").append("svg")
@@ -88,7 +88,7 @@ function createHist(data) {
   svg.append("path")
       .datum(data) // 10. Binds data to the line
       .attr("class", "line") // Assign a class for styling
-      .attr("d", line); // 11. Calls the line generator
+      .attr("d", line);	 // 11. Calls the line generator
 
   // 12. Appends a circle for each datapoint
   svg.selectAll(".dot")
@@ -97,9 +97,13 @@ function createHist(data) {
       .attr("class", "dot") // Assign a class for styling
       .attr("cx", function(d) { return xScale(d.date) })
       .attr("cy", function(d) { return yScale(d.NumMentions) })
-      .attr("r", 0)
-        .on("mouseover", function(a, b, c) {
-          this.attr('class', 'focus')
+      .attr("r", 5)
+      .on("mouseover", function() {
+      	  d3.select(this)
+          	.attr('class', 'focus')
       })
-        .on("mouseout", function() {  })
+      .on("mouseout", function() { 
+      	  d3.select(this)
+          	.attr('class', 'dot')
+      })
 }
