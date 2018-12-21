@@ -38,20 +38,20 @@ class MapPlot {
 			return paths.features;
 		});
 
-		const promises = [];
+		this.promises = [];
 
 		for (let key in data) {
-			const point_promise = d3.csv("data/" + key + ".csv").then((data) => {
+			let point_promise = d3.csv("data/" + key + ".csv").then((data) => {
 				let new_data = [];
 
 				for (let idx = 0; idx < data.length; idx++) {
 					new_data.push(data[idx]);
 				}
 
-				return {"key": key, "data": new_data};
+				return new_data;
 			});
 
-			promises.push(point_promise);
+			this.promises.push(point_promise);
 		}
 
 		Promise.all([map_promise]).then((results) => {
@@ -66,18 +66,21 @@ class MapPlot {
 					.style("fill", "white");
 		});
 
-		Promise.all(promises).then((results) => {
-			for (let elem in results) {
-				let key = elem["key"];
-				let point_data = elem["data"];
+		let i = 0;
+		let selected = 0;
+
+		for (let key in data) {
+			let p = this.promises[i];
+
+			Promise.all([p]).then((elem) => {
+				let point_data = elem[0]
 				const r = 3;
 
-				console.log(elem);
-
-				this.point_container.selectAll(".point")
+				this.point_container.selectAll("." + key)
 					.data(point_data)
 					.enter()
 					.append("circle")
+					.classed(key, true)
 					.classed("point", true)
 					.attr("r", 0)
 					.attr("cx", -r)
@@ -90,8 +93,32 @@ class MapPlot {
 					.duration(400)
 					.ease(d3.easeQuad)
 					.attr("r", r);
-			}
-		});
+			});
+
+			i++;
+		}
+	}
+
+	render(id) {
+		let selKey = Object.keys(data)[id];
+		let i = 0;
+
+		for (let key in data) {
+			let p = this.promises[i];
+
+			Promise.all([p]).then((elem) => {
+				let point_data = elem[0]
+				let finish = key == selKey ? 3 : 0;
+
+				this.point_container.selectAll("." + key)
+					.transition()
+					.duration(400)
+					.ease(d3.easeQuad)
+					.attr("r", finish);
+			});
+
+			i++;
+		}
 	}
 }
 
@@ -104,18 +131,23 @@ function whenDocumentLoaded(action) {
 let minYear = 2000;
 let maxYear = 2010;
 
-function render(str) {
-	plot_object = new MapPlot('map-plot');
+function scopepreserver(a) {
+	return function () {
+		return a;
+	}
 }
 
 whenDocumentLoaded(() => {
 	// plot object is global, you can inspect it in the dev-console
+	const plot_object = new MapPlot('map-plot');
+
+	let i = 0
 
 	for (let key in data) {
 		let orgs = document.getElementById("orgs");
 		let temp = document.createElement("li");
-		temp.setAttribute("id", key);
-		temp.onclick = function() { render(key) };
+		temp.setAttribute("id", i);
+		temp.onclick = function() { plot_object.render(this.getAttribute('id')) };
 		let node = document.createTextNode(data[key]["name"]);
 
 		let css = '#' + key + ':hover{ color: #' + data[key]['color_2'] + '; background-color: #' + data[key]['color_1'] + ' }';
@@ -124,7 +156,7 @@ whenDocumentLoaded(() => {
 		temp.appendChild(style);
 		temp.appendChild(node);
 		orgs.appendChild(temp);
-	}
 
-	render("amnesty");
+		i++;
+	}
 });
