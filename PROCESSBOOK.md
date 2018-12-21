@@ -10,7 +10,15 @@
 
 ## Dataset
 
-We use the [Global Database of Events, Language, and Tone (GDELT)]() that was created by Kalev Leetaru of Georgetown University and Yahoo! in cooperation with others as Philip Schrodt who first provided early explorations that led to the creation of the database. GDELT is now available in its version 2, covering event information since 2015. It is hosted on [Google Cloud Platform]() and can be queried with [Google Big Query]().
+We use the [Global Database of Events, Language, and Tone (GDELT)]() that was created by Kalev Leetaru of Georgetown University and Yahoo! in cooperation with others as Philip Schrodt who first provided early explorations that led to the creation of the database.
+
+GDELT is now available in its version 2, covering event information since 2015. It is hosted on [Google Cloud Platform]() and can be queried with [Google BigQuery]().
+
+### Data retrieval and processing
+
+The data can either be retrieved through a web interface or by remotely calling the providing Google BigQuery service's API.
+
+The GDELT data has grown to a size that is not easily searchable because even the simplest SQL query leads to the processing of multiple gigabytes of data. Therefore, it is very helpful that the database queries are carried out by the Google BigQuery servers. Afterwards, the data can simply be downloaded in `csv` or `json` format. We use the `csv` format.
 
 ## Comparison to original proposal
 
