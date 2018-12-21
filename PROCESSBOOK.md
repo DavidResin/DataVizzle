@@ -6,6 +6,10 @@
 
 ## Target audience
 
+The target audience ranges covers a wide range. The simple interested lay can use our visualization to get an overview of the coverage of events that are related to international and non-governmental organizations. They can also see the tone that of the events.
+
+People who are more interested or conduct, e. g., research in the field of media evaluation, news spread, news coverage and related subjects can use the given information and visualization for a better understanding in order to get better insight in the coverage of international and non-governmental organizations. They can, e. g., derive how different organizations are seen on different places of the world.
+
 ## What do we show?
 
 ## Dataset
@@ -31,3 +35,9 @@ However, what we discovered during our research is that there are many internati
 As described above, we focused on showing coverage of international and non-governmental organizations in media. In order to achieve this goal, we provide a world map that shows a point for each media-covered event involving such an organization. The event points are displayed at the location that is given by the GDELT database and colored in the color by which the organization is publicly known.
 
 We also provide a histogram that shows how the coverage of events involving the respective institution evolved over time.
+
+## Implementation
+
+## Evaluation
+
+bipolar gaussian
