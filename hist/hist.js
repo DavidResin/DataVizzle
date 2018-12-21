@@ -22,11 +22,7 @@ function createHist(data) {
 
   const formatTime = d3.timeFormat("%e %B");// Format tooltip date / time
 
- /* // 2. Use the margin convention practice
-  let margin = {top: 50, right: 50, bottom: 50, left: 50}
-    , width = window.innerWidth - margin.left - margin.right // Use the window's width
-    , height = window.innerHeight - margin.top - margin.bottom; // Use the window's height*/
-
+  //  Use the margin convention practice
   let margin = {top: 50, right: 50, bottom: 50, left: 50};
   let clientRect = d3.select("#hist").node().getBoundingClientRect();
   let width = clientRect.width - margin.left - margin.right;
@@ -51,97 +47,69 @@ function createHist(data) {
   // get max NumMentions out of accumulated groups
   let maxNumMentions = arrayMaxNumMentions(groupedByThreeMonths);
 
-  // Determine the first and list dates in the data set
-  let monthExtent = d3.extent(groupedByThreeMonths, function(d) { return new Date(d.key); });
+  // set start and end date manually for the x scale
+  // this improves comparability when switching between different organizations
+  const STARTDATE = new Date("2009-01-01");
+  const ENDDATE = new Date("2019-01-01")
 
-  // console.log(monthExtent);
-
-  // // Create one bin per month, use an offset to include the first and last months
-  // let monthBins = d3.timeMonths(d3.timeMonth.offset(monthExtent[0],-1),
-  //                                d3.timeMonth.offset(monthExtent[1],1));
-
-  // console.log(monthBins);
-
-  // // Use the histogram layout to create a function that will bin the data
-  // let binByMonth = d3.histogram()
-  //   .domain(monthBins)
-  //   .value(function(d) {
-  //     return d.date
-  //   });
-
-  // console.log(binByMonth(data));
-
-  // // Define 'div' for tooltips
-  // let div = d3.select("#hist")
-  //   .append("div")  // declare the tooltip div 
-  //   .attr("class", "tooltip")              // apply the 'tooltip' class
-  //   .style("opacity", 0);                  // set the opacity to nil
-
-  // // some logs for debugging
-  // console.log(data);
-  // console.log(minDate, maxDate);
-  // console.log(maxNumMentions);
-  // console.log(minDate.getMonth())
-
-  // console.log(groupedByThreeMonths);
-
-  // 5. X scale is a time scale
+  // X scale is a time scale
   let xScale = d3.scaleTime()
-      .domain(monthExtent) // input
+      .domain([STARTDATE, ENDDATE]) // input
       .range([0, width]); // output
 
-  // 6. Y scale will use the NumMentions
+  // Y scale will use the NumMentions
   let yScale = d3.scaleLinear()
       .domain([0, maxNumMentions]) // input
       .range([height, 0]); // output
 
-  // 7. d3's line generator
+  // d3's line generator
   let line = d3.area()
       .x(function(d) { return xScale(new Date(d.key)); }) // set the x values for the line generator
       .y(function(d) { return yScale(d.value); }) // set the y values for the line generator
       //.curve(d3.curveMonotoneX) // apply smoothing to the line
       .curve(d3.curveCatmullRom);
 
-  // 1. Add the SVG to the page and employ #2
+  // Add the SVG to the page and employ #2
   let svg = d3.select("#hist").append("svg")
       .attr("width", width + margin.left + margin.right)
       .attr("height", height + margin.top + margin.bottom)
     .append("g")
       .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-  // 3. Call the x axis in a group tag
+  // Call the x axis in a group tag
   svg.append("g")
       .attr("class", "x axis")
       .attr("transform", "translate(0," + height + ")")
       .call(d3.axisBottom(xScale)); // Create an axis component with d3.axisBottom
 
-  // 4. Call the y axis in a group tag
+  // Call the y axis in a group tag
   svg.append("g")
       .attr("class", "y axis")
       .call(d3.axisLeft(yScale)); // Create an axis component with d3.axisLeft
 
-  // 9. Append the path, bind the data, and call the line generator
+  // Append the path, bind the data, and call the line generator
   svg.append("path")
       .datum(data) // 10. Binds data to the line
       .attr("class", "line") // Assign a class for styling
       .attr("d", line);	 // 11. Calls the line generator
 
-  // 12. Appends a circle for each datapoint
+  // Appends a circle for each datapoint
   svg.selectAll(".dot")
       .data(groupedByThreeMonths)
       .enter().append("circle") // Uses the enter().append() method
-      .attr("class", "dot") // Assign a class for styling
-      .attr("cx", function(d) { return xScale(new Date(d.key)) })
-      .attr("cy", function(d) { return yScale(d.value) })
-      .attr("r", 5)
-      .on("mouseover", function() {
-      	  d3.select(this)
-          	.attr('class', 'focus');
-      })
-      .on("mouseout", function() { 
-      	  d3.select(this)
-          	.attr('class', 'dot');
-      })
+      .filter((d) => STARTDATE < new Date(d.key))
+        .attr("class", "dot") // Assign a class for styling
+        .attr("cx", function(d) { return xScale(new Date(d.key)) })
+        .attr("cy", function(d) { return yScale(d.value) })
+        .attr("r", 5)
+        .on("mouseover", function() {
+        	  d3.select(this)
+            	.attr('class', 'focus');
+        })
+        .on("mouseout", function() { 
+        	  d3.select(this)
+            	.attr('class', 'dot');
+        })
       // .on("click", function(d) {
       //     div.transition()
       //       .duration(500)  
