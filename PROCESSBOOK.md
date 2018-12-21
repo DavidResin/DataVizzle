@@ -14,9 +14,9 @@ People who are more interested or conduct, e. g., research in the field of media
 
 ## Dataset
 
-We use the [Global Database of Events, Language, and Tone (GDELT)]() that was created by Kalev Leetaru of Georgetown University and Yahoo! in cooperation with others as Philip Schrodt who first provided early explorations that led to the creation of the database.
+We use the [Global Database of Events, Language, and Tone (GDELT)](https://www.gdeltproject.org/data.html) that was created by Kalev Leetaru of Georgetown University and Yahoo! in cooperation with others as Philip Schrodt who first provided early explorations that led to the creation of the database.
 
-GDELT is now available in its version 2, covering event information since 2015. It is hosted on [Google Cloud Platform]() and can be queried with [Google BigQuery]().
+GDELT is now available in its version 2, covering event information since 2015. It is hosted on [Google Cloud Platform](https://cloud.google.com/) and can be queried with [Google BigQuery]().
 
 ### Data retrieval and processing
 
