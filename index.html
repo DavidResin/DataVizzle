@@ -13,7 +13,7 @@
 		<link rel="stylesheet" href="index.css">
 	</head>
 	<body>
-		<div class="split-v top">
+		<div id="mapbg" class="split-v top">
 			<div class="split-h left">
 				<div class="centered">
 					<ul id="orgs">
@@ -21,7 +21,7 @@
 				</div>
 			</div>
 
-			<div class="split-h right" style="background: black">
+			<div class="split-h right">
 					<svg id="map-plot" viewBox="0 0 1000 550" width="1000px" height="500px">
 						<style>
 							.country {
@@ -30,8 +30,12 @@
 							}
 
 							.point {
-								fill: green;
 								opacity: 1;
+									border-style: solid 3px black;
+							}
+
+							.select {
+								border-style: solid 3px black;
 							}
 						</style>
 					</svg>

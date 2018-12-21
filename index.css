@@ -21,20 +21,19 @@
 .left {
   left: 0;
   width: 40%;
-  background-color: white;
+  border-right: 0px;
 }
 
 /* Control the right side */
 .right {
   right: 0;
   width: 60%;
-  background-color: white;
+  border-left: 0px;
 }
 
 .top {
   top: 0;
   height: 70%;
-  background-color: white;
 }
 
 .bottom {
@@ -61,6 +60,7 @@ ul {
 li {
   font: 200 15px/1.5 Helvetica, Verdana, sans-serif;
   border: 1px solid #ccc;
+  background-color: white;
 }
 
 body {

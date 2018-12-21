@@ -104,25 +104,27 @@ function createHist(data) {
         .attr("r", 5)
         .on("mouseover", function() {
         	  d3.select(this)
-            	.attr('class', 'focus');
+            	.attr('class', 'focus')
+              .attr('r', '10');
         })
-        .on("mouseout", function() { 
+        .on("mouseout", function() {
         	  d3.select(this)
-            	.attr('class', 'dot');
+            	.attr('class', 'dot')
+              .attr('r', 5);
         })
       // .on("click", function(d) {
       //     div.transition()
-      //       .duration(500)  
+      //       .duration(500)
       //       .style("opacity", 0);
       //     div.transition()
-      //       .duration(200)  
-      //       .style("opacity", .9);  
+      //       .duration(200)
+      //       .style("opacity", .9);
       //     div.html(
       //       '<a href= "http://google.com">' + // The first <a> tag
       //       formatTime(d.date) +
       //       "</a>" +                          // closing </a> tag
-      //       "<br/>"  + d.close)  
-      //       .style("left", (d3.event.pageX) + "px")      
+      //       "<br/>"  + d.close)
+      //       .style("left", (d3.event.pageX) + "px")
       //       .style("top", (d3.event.pageY - 28) + "px");
       //     console.log("TESTTS")
       // });
