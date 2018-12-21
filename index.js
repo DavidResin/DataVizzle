@@ -36,6 +36,9 @@ class MapPlot {
 					new_data.push(data[idx]);
 				}
 
+				console.log(new_data);
+				createHist(new_data);
+
 				return new_data;
 			});
 
@@ -122,6 +125,7 @@ class MapPlot {
 	}
 }
 
+
 function whenDocumentLoaded(action) {
 	if (document.readyState === "loading") {
 		document.addEventListener("DOMContentLoaded", action);
@@ -148,7 +152,7 @@ whenDocumentLoaded(() => {
 		let temp = document.createElement("li");
 		temp.setAttribute("id", key);
 		temp.setAttribute("var", i);
-		temp.onclick = function() { plot_object.render(this.getAttribute('var')) };
+		temp.onclick = function() { plot_object.render(this.getAttribute('var')); d3.csv("data/" + this.getAttribute('id') + ".csv").then(createHist) };
 		let node = document.createTextNode(data[key]["name"]);
 
 		let css = '#' + key + ':hover{ color: #' + data[key]['color_2'] + '; background-color: #' + data[key]['color_1'] + ' }';

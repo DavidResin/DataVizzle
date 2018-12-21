@@ -1,19 +1,21 @@
-function convertSqlDateToDate(sqldate) {
-  sqldate = String(sqldate);
 
-  // takes SQLDATE string as argument and gives Date object
-  let year = sqldate.substring(0, 4);
-  let month = sqldate.substring(4, 6) - 1; // months are 0-indexed in js
-  let day = sqldate.substring(6, 8);
-
-  return new Date(year, month, day);
-}
 
 
 // load data
-d3.csv('data/amnesty.csv').then(createHist);
+// d3.csv('data/amnesty.csv').then(createHist);
 
 function createHist(data) {
+
+  function convertSqlDateToDate(sqldate) {
+    sqldate = String(sqldate);
+
+    // takes SQLDATE string as argument and gives Date object
+    let year = sqldate.substring(0, 4);
+    let month = sqldate.substring(4, 6) - 1; // months are 0-indexed in js
+    let day = sqldate.substring(6, 8);
+
+    return new Date(year, month, day);
+  }
 
   const arrayMaxDate = (array) => array.reduce((acc, val) => Math.max(acc, val.SQLDATE), array[0].SQLDATE);
   const arrayMinDate = (array) => array.reduce((acc, val) => Math.min(acc, val.SQLDATE), array[0].SQLDATE);
@@ -29,6 +31,8 @@ function createHist(data) {
     bottom: 50,
     left: 50
   };
+
+
   let clientRect = d3.select("#hist").node().getBoundingClientRect();
   let width = clientRect.width - margin.left - margin.right;
   let height = clientRect.height - margin.top - margin.bottom;
@@ -102,6 +106,8 @@ function createHist(data) {
     .append('div')
     .attr('class', 'tooltip')
     .style('opacity', 0);
+
+  d3.select("#hist").selectAll("*").remove();
 
   // Add the SVG to the page and employ margin convention
   let svg = d3.select("#hist").append("svg")
@@ -198,6 +204,4 @@ function createHist(data) {
           .style('top', d3.event.pageY - 28 + 'px');
       });
 
-
-    console.log(groupedByTwoMonths);
 }
