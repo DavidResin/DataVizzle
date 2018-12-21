@@ -1,452 +1,452 @@
-NumMentions,ActionGeo_Lat,ActionGeo_Long,SQLDATE,ActionGeo_FullName,ActionGeo_Type
-121,34.5167,69.1833,20070628,"Kabul, Kabol, Afghanistan",4
-112,-1.45,-48.4833,20080131,"Para, ParáR, Brazil",4
-112,51.5,-0.116667,20090304,"London, London, City of, United Kingdom",4
-112,51.5,-0.116667,20090304,"London, London, City of, United Kingdom",4
-227,54.0,-2.0,20090420,United Kingdom,1
-239,55.6667,12.5833,20090725,"Copenhagen, Køavn*, Denmark",4
-140,38.0,-97.0,20091030,United States,1
-196,38.0,-97.0,20091030,United States,1
-137,41.9,12.4833,20091118,"Rome, Lazio, Italy",4
-208,55.6667,12.5833,20091212,"Copenhagen, Køavn*, Denmark",4
-223,18.5392,-72.335,20100125,"Port-Au-Prince, Ouest, Haiti",4
-216,18.5392,-72.335,20100125,"Port-Au-Prince, Ouest, Haiti",4
-199,22.2627,89.2637,20100523,"Chakbara, Khulna, Bangladesh",4
-119,25.0,45.0,20100802,Saudi Arabia,1
-171,30.0,70.0,20100828,Pakistan,1
-126,30.0,70.0,20100829,Pakistan,1
-212,54.0,-2.0,20100829,United Kingdom,1
-135,30.0,70.0,20100829,Pakistan,1
-192,24.8667,67.05,20100829,"Karachi, Sindh, Pakistan",4
-135,30.0,70.0,20100829,Pakistan,1
-973,44.0407,-72.7093,20100924,"Vermont, United States",2
-108,30.0,70.0,20101014,Pakistan,1
-459,4.88447,-1.75536,20101214,"Takoradi, Ghana (general), Ghana",4
-170,19.0,-72.4167,20110211,Haiti,1
-468,0.0,0.0,20110501,,
-216,0.0,0.0,20110501,,
-153,49.515,-1.28761,20110520,"Le Havre, Basse-Normandie, France",4
-153,49.515,-1.28761,20110520,"Le Havre, Basse-Normandie, France",4
-123,26.1346,68.7696,20110606,"Sindh, Sindh, Pakistan",5
-198,11.5,43.0,20110719,Djibouti,1
-198,11.5,43.0,20110719,Djibouti,1
-198,11.5,43.0,20110719,Djibouti,1
-198,11.5,43.0,20110719,Djibouti,1
-198,11.5,43.0,20110719,Djibouti,1
-198,11.5,43.0,20110719,Djibouti,1
-297,11.5,43.0,20110719,Djibouti,1
-198,11.5,43.0,20110719,Djibouti,1
-140,1.0,38.0,20110719,Kenya,1
-198,11.5,43.0,20110719,Djibouti,1
-182,3.96983,42.4412,20110720,"Bakool, Gedo, Somalia",4
-147,2.19037,42.8761,20110720,"Shabelle, Bay, Somalia",4
-179,11.5,43.0,20110725,Djibouti,1
-126,19.0,-72.4167,20110805,Haiti,1
-261,-2.26925,40.8991,20111014,"Lamu, Coast, Kenya",4
-136,15.5881,32.5342,20111114,"Khartoum, Al Khartum, Sudan",4
-185,-4.61667,55.45,20111127,"Victoria, Seychelles (general), Seychelles",4
-113,35.0,135.75,20111127,"Kyoto, Kyoto, Japan",4
-108,16.0,106.0,20111128,"Vietnam, Republic Of",1
-198,16.0,8.0,20120325,Niger,1
-189,16.0,8.0,20120325,Niger,1
-403,13.5167,2.11667,20120325,"Niamey, Niamey, Niger",4
-441,13.5167,2.11667,20120325,"Niamey, Niamey, Niger",4
-207,16.0,8.0,20120325,Niger,1
-441,13.5167,2.11667,20120325,"Niamey, Niamey, Niger",4
-110,38.8951,-77.0364,20120518,"Washington, District of Columbia, United States",3
-144,60.0,100.0,20120702,Russia,1
-172,31.106,-97.6475,20120809,"Texas, United States",2
-108,35.5376,-96.9247,20120809,"Oklahoma, United States",2
-180,35.6411,-79.8431,20120809,"North Carolina, United States",2
-138,15.3547,44.2067,20120924,"Sanaa, San‘a', Yemen",4
-173,13.1658,45.3797,20120924,"Abyan, Abyan, Yemen",4
-173,13.1658,45.3797,20120924,"Abyan, Abyan, Yemen",4
-180,18.5392,-72.335,20121031,"Port-Au-Prince, Ouest, Haiti",4
-121,-12.05,-77.05,20121209,"Lima, Lima, Peru",4
-104,38.8951,-77.0364,20130718,"White House, District of Columbia, United States",3
-136,31.0,64.0,20130916,"Helmand, Helmand, Afghanistan",5
-130,54.0,-2.0,20131217,United Kingdom,1
-140,-20.2667,-174.783,20140110,"Matangi Tonga, Ha‘apai, Tonga",4
-112,-20.2667,-174.783,20140110,"Matangi Tonga, Ha‘apai, Tonga",4
-144,31.6667,35.25,20140130,West Bank,1
-275,31.5,34.75,20140130,Israel,1
-196,31.5,34.75,20140130,Israel,1
-680,31.5,34.75,20140130,Israel,1
-130,4.84597,31.6012,20140218,"Juba, Wilayat Bahr al Jabal, South Sudan",4
-176,54.0,-2.0,20140226,United Kingdom,1
-105,35.0,38.0,20140710,Syria,1
-114,21.7667,-104.683,20140720,"Toromocho, Nayarit, Mexico",4
-234,-10.0,-76.0,20140720,Peru,1
-234,-10.0,-76.0,20140720,Peru,1
-210,-10.0,-76.0,20140720,Peru,1
-459,46.8167,9.83333,20150118,"Davos, Switzerland (general), Switzerland",4
-118,46.0,2.0,20150118,France,1
-526,46.8167,9.83333,20150118,"Davos, Switzerland (general), Switzerland",4
-120,15.3547,44.2067,20150125,"Sanaa, San‘a', Yemen",4
-250,8.5,-11.5,20150303,Sierra Leone,1
-190,-17.6667,168.417,20150312,"Efate, Shefa, Vanuatu",4
-1210,-17.6667,168.417,20150314,"Efate, Shefa, Vanuatu",4
-160,-27.0,133.0,20150315,Australia,1
-850,-18.8,169.083,20150316,"Erromango, Tafea, Vanuatu",4
-120,-16.0,167.0,20150317,Vanuatu,1
-150,34.5167,69.1833,20150323,"Kabul, Kabol, Afghanistan",4
-376,15.461,45.3253,20150325,"Marib, Ma'rib, Yemen",4
-616,15.461,45.3253,20150326,"Marib, Ma'rib, Yemen",4
-190,-16.0,167.0,20150330,Vanuatu,1
-114,-27.0,133.0,20150330,Australia,1
-252,35.0,38.0,20150331,Syria,1
-110,25.0,45.0,20150408,"Arabian Peninsula, Saudi Arabia (general), Saudi Arabia",4
-210,25.0,45.0,20150409,"Arabian Peninsula, Saudi Arabia (general), Saudi Arabia",4
-174,24.6408,46.7728,20150420,"Riyadh, Ar Riya?, Saudi Arabia",4
-120,24.6408,46.7728,20150420,"Riyadh, Ar Riya?, Saudi Arabia",4
-116,15.0,48.0,20150423,Yemen,1
-220,28.0,84.0,20150426,Nepal,1
-160,28.2172,85.5226,20150501,"Langtang, Nepal (general), Nepal",4
-252,62.0,10.0,20150507,Norway,1
-378,60.0,-95.0,20150507,Canada,1
-144,27.7167,85.3167,20150513,"Kathmandu, Bagmati, Nepal",4
-710,27.7167,85.3167,20150513,"Kathmandu, Bagmati, Nepal",4
-110,13.0,122.0,20150526,Philippines,1
-140,15.461,45.3253,20150527,"Marib, Ma'rib, Yemen",4
-712,15.3547,44.2067,20150527,"Sanaa, San‘a', Yemen",4
-790,15.6942,43.6058,20150527,"Hajjah, ?ajjah, Yemen",4
-125,-27.0,133.0,20150601,Australia,1
-200,43.7333,7.4,20150609,Monaco,1
-200,31.6667,35.25,20150808,West Bank,1
-210,31.6667,35.25,20150808,West Bank,1
-240,59.15,-2.61667,20150904,"Whitehall, Orkney Islands, United Kingdom",4
-290,35.0,38.0,20150905,Syria,1
-160,-27.0,133.0,20150906,Australia,1
-128,-27.0,133.0,20150906,Australia,1
-168,25.0,17.0,20150907,Libya,1
-478,52.5167,13.4,20150916,"Berlin, Berlin, Germany",4
-424,-19.6667,-40.25,20151002,"Guarana, Espíto Santo, Brazil",4
-106,-29.0,24.0,20151002,South Africa,1
-312,-19.6667,-40.25,20151003,"Guarana, Espíto Santo, Brazil",4
-712,-19.6667,-40.25,20151004,"Guarana, Espíto Santo, Brazil",4
-178,-29.0,24.0,20151004,South Africa,1
-392,-19.6667,-40.25,20151005,"Guarana, Espíto Santo, Brazil",4
-190,50.6,-2.03333,20151005,"Worth Matravers, Dorset, United Kingdom",4
-400,52.6,-3.2,20151005,"Berriew, Powys, United Kingdom",4
-150,49.75,6.1667,20151005,Luxembourg,1
-103,43.75,20.75,20151007,Serbia,1
-214,39.0,35.0,20151009,Turkey,1
-160,39.0,35.0,20151010,Turkey,1
-460,,,20151223,,0
-467,46.8167,9.83333,20160118,"Davos, Switzerland (general), Switzerland",4
-260,-10.0,-55.0,20160118,Brazil,1
-238,54.0,-2.0,20160118,United Kingdom,1
-128,16.45,120.55,20160118,"Philippine, Benguet, Philippines",4
-253,51.5,-0.116667,20160118,"London, London, City of, United Kingdom",4
-102,46.8167,9.83333,20160119,"Davos, Switzerland (general), Switzerland",4
-272,16.45,120.55,20160119,"Philippine, Benguet, Philippines",4
-170,-38.3308,144.326,20160220,"Torquay, Victoria, Australia",4
-117,35.0,105.0,20160220,China,1
-126,-38.3308,144.326,20160220,"Torquay, Victoria, Australia",4
-176,-38.3308,144.326,20160220,"Torquay, Victoria, Australia",4
-264,-38.3308,144.326,20160220,"Torquay, Victoria, Australia",4
-167,-38.3308,144.326,20160221,"Torquay, Victoria, Australia",4
-222,-38.3308,144.326,20160221,"Torquay, Victoria, Australia",4
-729,-17.3167,179.383,20160221,"Koro Island, Eastern, Fiji",4
-332,-38.3308,144.326,20160221,"Torquay, Victoria, Australia",4
-236,-38.3308,144.326,20160221,"Torquay, Victoria, Australia",4
-163,35.0,105.0,20160221,China,1
-726,-17.3167,179.383,20160221,"Koro Island, Eastern, Fiji",4
-378,31.3701,34.8145,20160301,"Lehavim, HaDarom, Israel",4
-1140,33.6667,35.8333,20160315,"Bekaa, Béa, Lebanon",5
-308,33.6667,35.8333,20160315,"Bekaa, Béa, Lebanon",5
-297,35.0,38.0,20160329,Syria,1
-920,54.0,-2.0,20160422,United Kingdom,1
-1382,-33.8833,151.217,20160429,"Sydney, New South Wales, Australia",4
-268,-33.8833,151.217,20160429,"Sydney, New South Wales, Australia",4
-105,32.799,-86.8073,20160512,"Alabama, United States",2
-230,,,20160512,,0
-336,34.9513,-92.3809,20160513,"Arkansas, United States",2
-560,34.9513,-92.3809,20160513,"Arkansas, United States",2
-158,54.0,-2.0,20160516,United Kingdom,1
-237,54.0,-2.0,20160516,United Kingdom,1
-170,24.6408,46.7728,20160608,"Riyadh, Ar Riya?, Saudi Arabia",4
-170,24.6408,46.7728,20160608,"Riyadh, Ar Riya?, Saudi Arabia",4
-170,24.6408,46.7728,20160608,"Riyadh, Ar Riya?, Saudi Arabia",4
-194,50.8333,4.33333,20160616,"Brussels, Bruxelles-Capitale, Belgium",4
-248,53.7333,-1.65,20160616,"Birstall, Kirklees, United Kingdom",4
-188,55.95,-3.2,20160622,"Edinburgh, Edinburgh, City of, United Kingdom",4
-180,7.1,124.65,20160717,"Tawi-Tawi, Maguindanao, Philippines",4
-184,35.0,38.0,20160718,Syria,1
-936,35.0,105.0,20160804,China,1
-978,25.0,45.0,20160823,Saudi Arabia,1
-111,25.0,45.0,20160823,Saudi Arabia,1
-246,54.0,-2.0,20160823,United Kingdom,1
-1050,54.0,-2.0,20160913,United Kingdom,1
-549,54.0,-2.0,20160913,United Kingdom,1
-102,51.5,-0.116667,20160923,"London, London, City of, United Kingdom",4
-102,51.5,-0.116667,20160923,"London, London, City of, United Kingdom",4
-663,-35.2833,149.217,20161113,"Canberra, Australian Capital Territory, Australia",4
-662,-35.2833,149.217,20161113,"Canberra, Australian Capital Territory, Australia",4
-130,15.3547,44.2067,20161216,"Sanaa, San‘a', Yemen",4
-250,,,20161219,,0
-250,,,20161219,,0
-204,9.0,-80.0,20170116,Panama,1
-181,42.1497,-74.9384,20170116,"New York, United States",2
-488,46.8167,9.83333,20170116,"Davos, Switzerland (general), Switzerland",4
-246,42.1497,-74.9384,20170116,"New York, United States",2
-654,46.8167,9.83333,20170116,"Davos, Switzerland (general), Switzerland",4
-140,9.0,-80.0,20170116,Panama,1
-130,35.0,105.0,20170117,China,1
-260,35.0,105.0,20170118,China,1
-132,29.7633,-95.3633,20170125,"Houston, Texas, United States",3
-324,38.8951,-77.0364,20170128,"Washington, District of Columbia, United States",3
-108,38.8951,-77.0364,20170128,"Washington, District of Columbia, United States",3
-130,38.8951,-77.0364,20170129,"Washington, District of Columbia, United States",3
-198,38.8951,-77.0364,20170129,"Washington, District of Columbia, United States",3
-216,32.896,-97.0372,20170130,"Dallas Fort Worth International Airport, Texas, United States",3
-145,13.4667,-16.5667,20170131,Gambia,1
-124,35.0,38.0,20170201,Syria,1
-124,38.8951,-77.0364,20170201,"White House, District of Columbia, United States",3
-124,35.0,38.0,20170201,Syria,1
-128,15.0,30.0,20170201,Sudan,1
-108,38.8951,-77.0364,20170202,"White House, District of Columbia, United States",3
-300,35.0,38.0,20170202,Syria,1
-201,35.0,38.0,20170202,Syria,1
-201,38.8951,-77.0364,20170202,"White House, District of Columbia, United States",3
-272,15.0,30.0,20170202,Sudan,1
-268,35.0,38.0,20170202,Syria,1
-201,38.8951,-77.0364,20170202,"White House, District of Columbia, United States",3
-268,38.8951,-77.0364,20170202,"White House, District of Columbia, United States",3
-201,35.0,38.0,20170202,Syria,1
-201,38.8951,-77.0364,20170202,"White House, District of Columbia, United States",3
-220,40.0,-4.0,20170202,Spain,1
-201,35.0,38.0,20170202,Syria,1
-113,54.0,-2.0,20170208,United Kingdom,1
-202,54.0,-2.0,20170208,United Kingdom,1
-146,19.0,-72.416667,20170211,Haiti,1
-219,51.5,-0.116667,20170211,"London, London, City of, United Kingdom",4
-136,19.0,-72.416667,20170212,Haiti,1
-190,51.5,-0.116667,20170212,"London, London, City of, United Kingdom",4
-320,28.6667,77.2167,20170311,"Delhi, Delhi, India",4
-155,18.975,72.8258,20170311,"Mumbai, Maharashtra, India",4
-296,54.0,-2.0,20170316,United Kingdom,1
-160,54.0,-2.0,20170316,United Kingdom,1
-270,,,20170426,,0
-130,8.0,38.0,20170427,Ethiopia,1
-210,35.0,38.0,20170502,Syria,1
-150,1.0,32.0,20170505,Uganda,1
-150,1.0,32.0,20170505,Uganda,1
-110,9.08333,7.53333,20170517,"Abuja, Abuja Federal Capital Territory, Nigeria",4
-270,10.0,8.0,20170518,Nigeria,1
-310,10.0,8.0,20170519,Nigeria,1
-205,48.8667,2.33333,20170602,"Paris, France (general), France",4
-400,48.8667,2.33333,20170602,"Paris, France (general), France",4
-115,15.3547,44.2067,20170622,"Sanaa, San‘a', Yemen",4
-476,15.0,48.0,20170721,Yemen,1
-1010,15.3547,44.2067,20170721,"Sanaa, San‘a', Yemen",4
-909,15.3547,44.2067,20170721,"Sanaa, San‘a', Yemen",4
-140,42.1497,-74.9384,20170918,"New York, United States",2
-361,42.1497,-74.9384,20170919,"New York, United States",2
-361,42.1497,-74.9384,20170919,"New York, United States",2
-165,42.1497,-74.9384,20170919,"New York, United States",2
-206,47.0,8.0,20180122,Switzerland,1
-490,,,20180122,,0
-280,16.166667,107.833333,20180124,"Vietnam, Republic Of",1
-222,33.5,36.3,20180131,"Damascus, Dimashq, Syria",4
-102,19.0,-72.416667,20180209,Haiti,1
-135,19.0,-72.416667,20180209,Haiti,1
-330,51.5,-0.116667,20180210,"London, London, City of, United Kingdom",4
-1025,19.0,-72.416667,20180210,Haiti,1
-180,19.0,-72.416667,20180210,Haiti,1
-1142,19.0,-72.416667,20180210,Haiti,1
-370,54.0,-4.0,20180211,United Kingdom,1
-209,19.0,-72.416667,20180211,Haiti,1
-132,51.5,-0.116667,20180211,"London, London, City of, United Kingdom",4
-294,19.0,-72.416667,20180211,Haiti,1
-554,19.0,-72.416667,20180211,Haiti,1
-670,19.0,-72.416667,20180211,Haiti,1
-711,54.0,-4.0,20180211,United Kingdom,1
-306,54.0,-4.0,20180211,United Kingdom,1
-713,19.0,-72.416667,20180211,Haiti,1
-440,19.0,-72.416667,20180211,Haiti,1
-348,19.0,-72.416667,20180211,Haiti,1
-180,54.0,-4.0,20180211,United Kingdom,1
-502,54.0,-4.0,20180211,United Kingdom,1
-620,19.0,-72.416667,20180211,Haiti,1
-698,51.5,-0.116667,20180211,"London, London, City of, United Kingdom",4
-430,51.5,-0.116667,20180211,"London, London, City of, United Kingdom",4
-238,19.0,-72.416667,20180211,Haiti,1
-200,19.0,-72.416667,20180211,Haiti,1
-386,19.0,-72.416667,20180211,Haiti,1
-112,46.0,2.0,20180212,France,1
-135,19.0,-72.416667,20180212,Haiti,1
-110,54.0,-4.0,20180212,United Kingdom,1
-530,51.5,-0.116667,20180212,"London, London, City of, United Kingdom",4
-578,19.0,-72.416667,20180212,Haiti,1
-166,19.0,-72.416667,20180212,Haiti,1
-220,19.0,-72.416667,20180212,Haiti,1
-329,19.0,-72.416667,20180212,Haiti,1
-912,19.0,-72.416667,20180212,Haiti,1
-184,19.0,-72.416667,20180212,Haiti,1
-794,19.0,-72.416667,20180212,Haiti,1
-217,19.0,-72.416667,20180212,Haiti,1
-460,19.0,-72.416667,20180212,Haiti,1
-129,15.0,19.0,20180212,Chad,1
-770,15.0,19.0,20180212,Chad,1
-184,19.0,-72.416667,20180212,Haiti,1
-606,19.0,-72.416667,20180212,Haiti,1
-212,51.5,-0.116667,20180212,"London, London, City of, United Kingdom",4
-576,51.5,-0.116667,20180212,"London, London, City of, United Kingdom",4
-205,36.17,-119.746,20180212,"California, United States",2
-1066,54.0,-4.0,20180212,United Kingdom,1
-422,54.0,-4.0,20180212,United Kingdom,1
-152,19.0,-72.416667,20180212,Haiti,1
-360,19.0,-72.416667,20180212,Haiti,1
-188,19.0,-72.416667,20180212,Haiti,1
-606,19.0,-72.416667,20180212,Haiti,1
-328,19.0,-72.416667,20180212,Haiti,1
-904,19.0,-72.416667,20180212,Haiti,1
-396,19.0,-72.416667,20180212,Haiti,1
-727,15.0,19.0,20180212,Chad,1
-208,15.5,-90.25,20180213,Guatemala,1
-208,15.5,-90.25,20180213,Guatemala,1
-150,51.5,-0.116667,20180213,"London, London, City of, United Kingdom",4
-200,51.5,-0.116667,20180213,"London, London, City of, United Kingdom",4
-200,54.0,-4.0,20180213,United Kingdom,1
-211,15.5,-90.25,20180213,Guatemala,1
-2324,15.0,19.0,20180213,Chad,1
-111,15.0,19.0,20180213,Chad,1
-208,15.0,100.0,20180213,Thailand,1
-133,19.0,-72.416667,20180213,Haiti,1
-133,19.0,-72.416667,20180213,Haiti,1
-192,19.0,-72.416667,20180213,Haiti,1
-649,15.0,19.0,20180214,Chad,1
-187,54.0,-4.0,20180214,United Kingdom,1
-187,54.0,-4.0,20180214,United Kingdom,1
-508,19.0,-72.416667,20180214,Haiti,1
-460,34.0983,-118.327,20180214,"Hollywood, California, United States",3
-120,54.0,-4.0,20180214,United Kingdom,1
-120,15.0,100.0,20180214,Thailand,1
-480,15.0,100.0,20180214,Thailand,1
-205,35.0,38.0,20180214,Syria,1
-205,13.0,122.0,20180214,Philippines,1
-110,13.0,122.0,20180214,Philippines,1
-130,19.0,-72.416667,20180214,Haiti,1
-128,15.0,19.0,20180214,Chad,1
-763,19.0,-72.416667,20180214,Haiti,1
-115,19.0,-72.416667,20180214,Haiti,1
-294,19.0,-72.416667,20180214,Haiti,1
-1591,19.0,-72.416667,20180214,Haiti,1
-135,19.0,-72.416667,20180214,Haiti,1
-299,15.0,19.0,20180214,Chad,1
-1640,13.0,105.0,20180214,Cambodia,1
-108,15.5,-90.25,20180214,Guatemala,1
-108,15.5,-90.25,20180214,Guatemala,1
-180,15.5,-90.25,20180214,Guatemala,1
-108,15.5,-90.25,20180214,Guatemala,1
-1239,19.0,-72.416667,20180214,Haiti,1
-232,34.0983,-118.327,20180214,"Hollywood, California, United States",3
-184,34.0983,-118.327,20180214,"Hollywood, California, United States",3
-162,19.0,-72.416667,20180214,Haiti,1
-540,19.0,-72.416667,20180214,Haiti,1
-216,19.0,-72.416667,20180214,Haiti,1
-123,19.0,-72.416667,20180214,Haiti,1
-276,19.0,-72.416667,20180214,Haiti,1
-420,19.0,-72.416667,20180215,Haiti,1
-106,19.0,-72.416667,20180215,Haiti,1
-582,19.0,-72.416667,20180215,Haiti,1
-420,19.0,-72.416667,20180215,Haiti,1
-838,19.0,-72.416667,20180215,Haiti,1
-444,19.0,-72.416667,20180215,Haiti,1
-252,19.0,-72.416667,20180215,Haiti,1
-328,16.0,30.0,20180215,Sudan,1
-927,19.0,-72.416667,20180215,Haiti,1
-168,19.0,-72.416667,20180215,Haiti,1
-266,19.0,-72.416667,20180215,Haiti,1
-194,54.0,-4.0,20180215,United Kingdom,1
-1010,19.0,-72.416667,20180215,Haiti,1
-194,54.0,-4.0,20180215,United Kingdom,1
-1416,19.0,-72.416667,20180215,Haiti,1
-444,19.0,-72.416667,20180215,Haiti,1
-266,19.0,-72.416667,20180215,Haiti,1
-513,19.0,-72.416667,20180215,Haiti,1
-650,8.0,30.0,20180216,South Sudan,1
-210,19.0,-72.416667,20180216,Haiti,1
-122,24.0,90.0,20180216,Bangladesh,1
-170,19.0,-72.416667,20180216,Haiti,1
-180,19.0,-72.416667,20180216,Haiti,1
-114,24.0,90.0,20180216,Bangladesh,1
-137,19.0,-72.416667,20180216,Haiti,1
-122,24.0,90.0,20180216,Bangladesh,1
-110,51.5,-0.116667,20180216,"London, London, City of, United Kingdom",4
-590,19.0,-72.416667,20180216,Haiti,1
-252,19.0,-72.416667,20180216,Haiti,1
-650,8.0,30.0,20180216,South Sudan,1
-110,-30.0,26.0,20180216,South Africa,1
-760,19.0,-72.416667,20180217,Haiti,1
-1555,19.0,-72.416667,20180217,Haiti,1
-760,19.0,-72.416667,20180217,Haiti,1
-144,19.0,-72.416667,20180217,Haiti,1
-320,8.0,30.0,20180217,South Sudan,1
-320,8.0,30.0,20180217,South Sudan,1
-1610,19.0,-72.416667,20180217,Haiti,1
-1540,19.0,-72.416667,20180217,Haiti,1
-102,15.0,19.0,20180219,Chad,1
-190,39.828175,-98.5795,20180219,United States,1
-364,19.0,-72.416667,20180219,Haiti,1
-544,39.828175,-98.5795,20180219,United States,1
-136,39.828175,-98.5795,20180219,United States,1
-136,39.828175,-98.5795,20180219,United States,1
-108,-25.0,135.0,20180219,Australia,1
-410,51.5,-0.116667,20180220,"London, London, City of, United Kingdom",4
-138,19.0,-72.416667,20180220,Haiti,1
-182,19.0,-72.416667,20180220,Haiti,1
-110,19.0,-72.416667,20180221,Haiti,1
-540,19.0,-72.416667,20180222,Haiti,1
-406,19.0,-72.416667,20180222,Haiti,1
-1840,19.0,-72.416667,20180222,Haiti,1
-450,19.0,-72.416667,20180222,Haiti,1
-475,19.0,-72.416667,20180222,Haiti,1
-124,51.5,-0.116667,20180305,"London, London, City of, United Kingdom",4
-352,51.5,-0.116667,20180316,"London, London, City of, United Kingdom",4
-394,33.7712,-111.388,20180316,"Arizona, United States",2
-269,51.5,-0.116667,20180317,"London, London, City of, United Kingdom",4
-314,33.7712,-111.388,20180317,"Arizona, United States",2
-370,-25.0,135.0,20180326,Australia,1
-370,-25.0,135.0,20180326,Australia,1
-108,39.828175,-98.5795,20180330,United States,1
-270,1.366667,103.8,20180330,Singapore,1
-162,42.833333,12.833333,20180330,Italy,1
-240,-25.6208,-57.1472,20180421,"Paraguari, Departamento de Quyyndy, Paraguay",4
-408,-25.2667,-57.6667,20180421,"Asuncion, Villeta, Paraguay",4
-321,54.0,-4.0,20180501,United Kingdom,1
-208,54.0,-4.0,20180501,United Kingdom,1
-1350,19.0,-72.416667,20180516,Haiti,1
-472,19.0,-72.416667,20180516,Haiti,1
-108,19.0,-72.416667,20180516,Haiti,1
-228,48.5833,-64.25,20180608,"Malbaie, Quebec, Canada",4
-216,48.5833,-64.25,20180608,"Malbaie, Quebec, Canada",4
-152,51.0,-64.0,20180608,"Saguenay, Quebec, Canada",4
-118,54.0,-4.0,20180611,United Kingdom,1
-104,48.8667,2.33333,20180614,"Paris, France (general), France",4
-130,48.8667,2.33333,20180614,"Paris, France (general), France",4
-144,42.833333,12.833333,20180614,Italy,1
-156,42.833333,12.833333,20180614,Italy,1
-360,48.8667,2.33333,20180615,"Paris, France (general), France",4
-450,48.8667,2.33333,20180615,"Paris, France (general), France",4
-408,42.833333,12.833333,20180615,Italy,1
-438,42.833333,12.833333,20180615,Italy,1
-263,42.3584,-71.0598,20180626,"Boston, Massachusetts, United States",3
-446,42.3584,-71.0598,20180627,"Boston, Massachusetts, United States",3
-105,-31.9333,115.833,20180627,"Perth, Western Australia, Australia",4
-690,42.1497,-74.9384,20180628,"New York, United States",2
-194,19.0,-72.416667,20180731,Haiti,1
-110,-24.5167,-55.7,20180731,"Curuguaty, Canindeyú22, Paraguay",4
-220,-24.5167,-55.7,20180731,"Curuguaty, Canindeyú22, Paraguay",4
-360,-25.0,135.0,20180820,Australia,1
-770,19.0,-72.416667,20180821,Haiti,1
-770,19.0,-72.416667,20180821,Haiti,1
-150,19.0,-72.416667,20180822,Haiti,1
-150,19.0,-72.416667,20180822,Haiti,1
-336,38.8951,-77.0364,20180912,"Washington, District of Columbia, United States",3
-105,35.0,105.0,20181009,China,1
-120,1.366667,103.8,20181010,Singapore,1
-160,54.0,-4.0,20181027,United Kingdom,1
-115,2.0,33.0,20181106,Uganda,1
-550,22.5697,88.3697,20181210,"Kolkata, West Bengal, India",4
+GLOBALEVENTID,NumMentions,ActionGeo_Lat,ActionGeo_Long,SQLDATE,ActionGeo_FullName,ActionGeo_Type,AvgTone,SOURCEURL
+808986173,550,22.5697,88.3697,20181210,"Kolkata, West Bengal, India",4,5.20425248494149,https://www.spenboroughguardian.co.uk/lifestyle/here-s-our-selection-of-ethical-stocking-fillers-for-christmas-1-9485591
+800335960,115,2.0,33.0,20181106,Uganda,1,-1.54207437869875,https://www.news24.com/Africa/News/ugandas-museveni-under-fire-for-saying-men-shouldnt-cook-20181105
+797874475,160,54.0,-4.0,20181027,United Kingdom,1,-8.89379386046696,https://www.siasat.com/news/one-civilian-killed-every-three-hours-yemen-oxfam-1424858/
+793481283,120,1.366667,103.8,20181010,Singapore,1,-4.68990535560298,https://www.yahoo.com/news/oxfam-rejects-singapore-defense-low-taxes-103208776--business.html
+793090087,105,35.0,105.0,20181009,China,1,-3.43892696818421,https://af.reuters.com/article/commoditiesNews/idAFL8N1WO2G9
+786481507,336,38.8951,-77.0364,20180912,"Washington, District of Columbia, United States",3,-6.95966483642884,https://www.daytondailynews.com/news/national-govt--politics/says-saudi-arabia-uae-protecting-civilians-yemen-war/nZmWCaWJrux5UiYnjs9q8M/
+781050916,150,19.0,-72.416667,20180822,Haiti,1,-3.52332433533967,https://www.goldcoastbulletin.com.au/news/breaking-news/nsw-plane-crash-victim-gives-big-to-oxfam/news-story/c5cba1e353f6dcba4685274e2b6bb7a4?nk=04cb5963b05c35f49d38f18cdd6a509b-1534899727
+781050915,150,19.0,-72.416667,20180822,Haiti,1,-3.52332433533967,https://www.goldcoastbulletin.com.au/news/breaking-news/nsw-plane-crash-victim-gives-big-to-oxfam/news-story/c5cba1e353f6dcba4685274e2b6bb7a4?nk=04cb5963b05c35f49d38f18cdd6a509b-1534899727
+780902504,770,19.0,-72.416667,20180821,Haiti,1,-3.35647986609909,http://www.stalbansreview.co.uk/news/national/16589009.businessman-killed-in-sydney-helicopter-crash-leaves-41m-to-oxfam/
+780902503,770,19.0,-72.416667,20180821,Haiti,1,-3.35647986609909,http://www.stalbansreview.co.uk/news/national/16589009.businessman-killed-in-sydney-helicopter-crash-leaves-41m-to-oxfam/
+780541081,360,-25.0,135.0,20180820,Australia,1,-3.96529147194498,https://www.sbs.com.au/news/labor-ramps-up-calls-to-get-kids-off-nauru
+775858505,194,19.0,-72.416667,20180731,Haiti,1,-6.64446824145436,http://www.dailymail.co.uk/news/fb-6008989/Oxfam-cared-brand-victims.html
+775842203,110,-24.5167,-55.7,20180731,"Curuguaty, Canindeyú22, Paraguay",4,-4.87934155697753,https://www.tbo.com/ap/world/paraguay-calls-in-uk-envoy-over-tweet-on-freed-peasants-ap_world9f11a910c76946ab89221d3afa018995
+775842207,220,-24.5167,-55.7,20180731,"Curuguaty, Canindeyú22, Paraguay",4,-4.87934155697753,https://www.tbo.com/ap/world/paraguay-calls-in-uk-envoy-over-tweet-on-freed-peasants-ap_world9f11a910c76946ab89221d3afa018995
+767908682,690,42.1497,-74.9384,20180628,"New York, United States",2,-3.21603235768815,http://nepr.net/post/warring-parties-sign-cease-fire-south-sudan
+767529673,105,-31.9333,115.833,20180627,"Perth, Western Australia, Australia",4,-6.36432350718065,https://www.dailyliberal.com.au/story/5493346/fundraisers-deny-rape-threat-to-wa-woman/
+767458154,446,42.3584,-71.0598,20180627,"Boston, Massachusetts, United States",3,-4.09059974826977,https://www.stltoday.com/news/national/the-latest-pro-trump-group-calls-court-decision-a-victory/article_1fcda864-fb6d-583c-91ff-8b29e70027ad.html
+767395750,263,42.3584,-71.0598,20180626,"Boston, Massachusetts, United States",3,-4.4525286616085,http://www.wacotrib.com/news/ap_nation/the-latest-oxfam-america-dismayed-with-travel-ban-ruling/article_9df61abc-610f-5da4-8a29-31b622064592.html
+764412005,438,42.833333,12.833333,20180615,Italy,1,-6.02071838108989,https://tucson.com/news/world/oxfam-slams-treatment-of-migrants-at-french-italian-border/article_fb7ab801-71fd-5fdc-a9eb-1ecfaeb760e4.html
+764412011,408,42.833333,12.833333,20180615,Italy,1,-6.17656096429783,https://tucson.com/news/world/oxfam-slams-treatment-of-migrants-at-french-italian-border/article_fb7ab801-71fd-5fdc-a9eb-1ecfaeb760e4.html
+764412007,450,48.8667,2.33333,20180615,"Paris, France (general), France",4,-6.03251353653987,https://tucson.com/news/world/oxfam-slams-treatment-of-migrants-at-french-italian-border/article_fb7ab801-71fd-5fdc-a9eb-1ecfaeb760e4.html
+764412009,360,48.8667,2.33333,20180615,"Paris, France (general), France",4,-6.03251353653987,https://tucson.com/news/world/oxfam-slams-treatment-of-migrants-at-french-italian-border/article_fb7ab801-71fd-5fdc-a9eb-1ecfaeb760e4.html
+764395365,156,42.833333,12.833333,20180614,Italy,1,-5.98516594979876,https://www.mysanantonio.com/news/world/article/Oxfam-slams-treatment-of-migrants-at-12995426.php
+764395378,144,42.833333,12.833333,20180614,Italy,1,-5.92649421934789,https://www.mysanantonio.com/news/world/article/Oxfam-slams-treatment-of-migrants-at-12995426.php
+764395368,130,48.8667,2.33333,20180614,"Paris, France (general), France",4,-5.82256379601298,https://www.mysanantonio.com/news/world/article/Oxfam-slams-treatment-of-migrants-at-12995426.php
+764395372,104,48.8667,2.33333,20180614,"Paris, France (general), France",4,-5.82256379601298,https://www.mysanantonio.com/news/world/article/Oxfam-slams-treatment-of-migrants-at-12995426.php
+763426244,118,54.0,-4.0,20180611,United Kingdom,1,-4.59431519005847,https://www.cnn.com/2018/06/11/middleeast/un-hodeidah-yemen-intl/
+762539518,152,51.0,-64.0,20180608,"Saguenay, Quebec, Canada",4,-3.04940358400917,https://www.nelsonstar.com/news/masked-activists-in-quebec-city-begin-protests-against-g7-leaders-summit/
+762539515,228,48.5833,-64.25,20180608,"Malbaie, Quebec, Canada",4,-3.04940358400917,https://www.nelsonstar.com/news/masked-activists-in-quebec-city-begin-protests-against-g7-leaders-summit/
+762539516,216,48.5833,-64.25,20180608,"Malbaie, Quebec, Canada",4,-3.06852025937658,https://www.nelsonstar.com/news/masked-activists-in-quebec-city-begin-protests-against-g7-leaders-summit/
+756524223,108,19.0,-72.416667,20180516,Haiti,1,-5.10160581709165,https://www.reuters.com/article/us-britain-oxfam/oxfam-boss-hit-by-haiti-scandal-to-stand-down-idUSKCN1IH29J
+756524226,472,19.0,-72.416667,20180516,Haiti,1,-4.17880424820178,https://www.shropshirestar.com/news/uk-news/2018/05/16/oxfam-chief-executive-resigns-after-navigating-haiti-scandal/
+756529178,1350,19.0,-72.416667,20180516,Haiti,1,-4.19586828915595,http://www.borehamwoodtimes.co.uk/news/national/16230324.Oxfam_chief_executive_resigns_after_navigating_Haiti_scandal/
+752308957,321,54.0,-4.0,20180501,United Kingdom,1,-1.95899819617446,http://www.yeovilexpress.co.uk/news/national/16197618.mps-back-public-registers-of-ownership-in-bid-to-improve-tax-haven-transparency/
+752308958,208,54.0,-4.0,20180501,United Kingdom,1,-1.89383828257577,http://www.yeovilexpress.co.uk/news/national/16197618.mps-back-public-registers-of-ownership-in-bid-to-improve-tax-haven-transparency/
+749558960,408,-25.2667,-57.6667,20180421,"Asuncion, Villeta, Paraguay",4,0.200277029868003,https://www.seattletimes.com/nation-world/son-of-stroessner-era-figure-expected-to-win-paraguay-vote/
+749558961,240,-25.6208,-57.1472,20180421,"Paraguari, Departamento de Quyyndy, Paraguay",4,0.934547276014152,http://www.dailymail.co.uk/wires/ap/article-5641009/Son-Stroessner-era-figure-expected-win-Paraguay-vote.html
+743275011,270,1.366667,103.8,20180330,Singapore,1,0.41237113402062,http://my.tvguide.co.uk/channellisting.asp?ch=444&cTime=3/30/2018%208:00:00%20AM&thisTime=&thisDay=
+743275012,108,39.828175,-98.5795,20180330,United States,1,0.41237113402062,http://my.tvguide.co.uk/channellisting.asp?ch=444&cTime=3/30/2018%208:00:00%20AM&thisTime=&thisDay=
+743275010,162,42.833333,12.833333,20180330,Italy,1,0.41237113402062,http://my.tvguide.co.uk/channellisting.asp?ch=444&cTime=3/30/2018%208:00:00%20AM&thisTime=&thisDay=
+741951683,370,-25.0,135.0,20180326,Australia,1,-3.06345733041576,http://www.bordermail.com.au/story/5305005/aust-considers-aid-boost-for-yemen/
+741951682,370,-25.0,135.0,20180326,Australia,1,-3.06345733041576,http://www.bordermail.com.au/story/5305005/aust-considers-aid-boost-for-yemen/
+739488149,269,51.5,-0.116667,20180317,"London, London, City of, United Kingdom",4,-2.46769534937128,http://kenw.org/post/after-oxfams-sex-scandal-shocking-revelations-scramble-solutions
+739488152,314,33.7712,-111.388,20180317,"Arizona, United States",2,-2.44709553634187,http://kenw.org/post/after-oxfams-sex-scandal-shocking-revelations-scramble-solutions
+739452486,352,51.5,-0.116667,20180316,"London, London, City of, United Kingdom",4,-2.47930140080611,http://news.wjct.org/post/after-oxfams-sex-scandal-shocking-revelations-scramble-solutions
+739452489,394,33.7712,-111.388,20180316,"Arizona, United States",2,-2.45219408673979,http://news.wjct.org/post/after-oxfams-sex-scandal-shocking-revelations-scramble-solutions
+735937887,124,51.5,-0.116667,20180305,"London, London, City of, United Kingdom",4,0.15014837582725,http://www.dailymail.co.uk/news/article-5463163/Charity-commission-says-aid-organisations-reported-80-cases-abuse.html
+733168522,540,19.0,-72.416667,20180222,Haiti,1,-5.08975249208678,http://www.sthelensstar.co.uk/news/national/16042195.Haiti_suspends_Oxfam_GB_amid_sexual_misconduct_probe/
+733161543,406,19.0,-72.416667,20180222,Haiti,1,-5.0477126401326,https://www.lmtonline.com/news/crime/article/Haiti-government-minister-Aid-group-Oxfam-12633881.php
+733151292,1840,19.0,-72.416667,20180222,Haiti,1,-9.00943011062184,http://www.gazetteherald.co.uk/news/national/16042195.Haiti_suspends_Oxfam_amid_sexual_misconduct_probe/
+732954953,450,19.0,-72.416667,20180222,Haiti,1,-5.05105745791236,https://news.sky.com/story/live-oxfam-boss-mark-goldring-grilled-by-mps-11258795
+733178762,475,19.0,-72.416667,20180222,Haiti,1,-3.33532775068714,http://www.milfordmercury.co.uk/news/national/16042290.oxfam-gb-suspended-in-haiti-in-wake-of-exploitation-allegations/
+732576281,110,19.0,-72.416667,20180221,Haiti,1,-6.74482097892534,https://news.trust.org/item/20180220113324-ag02f
+732405665,410,51.5,-0.116667,20180220,"London, London, City of, United Kingdom",4,-6.24236723009251,http://www.xinhuanet.com/english/2018-02/20/c_136987322.htm
+732264935,182,19.0,-72.416667,20180220,Haiti,1,-4.9720012522562,https://uk.reuters.com/article/uk-britain-oxfam-haiti/haiti-vows-abuse-review-of-all-charities-after-oxfam-hid-crimes-idUKKCN1G403I
+732264936,138,19.0,-72.416667,20180220,Haiti,1,-3.6466327071074,https://uk.reuters.com/article/uk-britain-oxfam-haiti/haiti-vows-abuse-review-of-all-charities-after-oxfam-hid-crimes-idUKKCN1G403I
+732000464,108,-25.0,135.0,20180219,Australia,1,-4.81955088226465,http://www.macarthuradvertiser.com.au/story/5237054/aust-aid-groups-trumpet-ethical-conduct/
+732190311,136,39.828175,-98.5795,20180219,United States,1,-1.96641691142213,http://www.dailymail.co.uk/wires/pa/article-5410147/Oxfam-offers-formal-apology-Haitian-government.html
+732190313,136,39.828175,-98.5795,20180219,United States,1,-1.96641691142213,http://www.dailymail.co.uk/wires/pa/article-5410147/Oxfam-offers-formal-apology-Haitian-government.html
+732190312,544,39.828175,-98.5795,20180219,United States,1,-1.96641691142213,http://www.dailymail.co.uk/wires/pa/article-5410147/Oxfam-offers-formal-apology-Haitian-government.html
+732190310,190,39.828175,-98.5795,20180219,United States,1,-1.96641691142213,http://www.dailymail.co.uk/wires/pa/article-5410147/Oxfam-offers-formal-apology-Haitian-government.html
+732193284,364,19.0,-72.416667,20180219,Haiti,1,-1.99127018389385,http://www.thenorthernecho.co.uk/news/national/16033694.Oxfam_offers_formal_apology_to_Haitian_government/
+732026870,102,15.0,19.0,20180219,Chad,1,-6.46569937977578,http://www.cnn.com/2018/02/19/americas/oxfam-report-haiti-threats-intl/
+731571607,1555,19.0,-72.416667,20180217,Haiti,1,-2.69001222772184,https://www.dailyexaminer.com.au/news/oxfam-told-aid-workers-raping-children-decade-ago/3337872/
+731593562,1540,19.0,-72.416667,20180217,Haiti,1,-2.56192987934448,http://www.witneygazette.co.uk/news/national/16029370.What_the_papers_say_____February_17/
+731593563,760,19.0,-72.416667,20180217,Haiti,1,-2.61358206675212,http://www.witneygazette.co.uk/news/national/16029370.What_the_papers_say_____February_17/
+731586407,144,19.0,-72.416667,20180217,Haiti,1,-5.15650179233644,https://www.metro.us/news/reuters/exclusive-haiti-president-says-many-aid-organizations-hid-misconduct
+731593556,320,8.0,30.0,20180217,South Sudan,1,-4.19681035418702,http://www.clydebankpost.co.uk/news/national/16029196.Oxfam_worker_describes_two_cases_of_alleged_abuse_in_Haiti_and_South_Sudan/
+731593560,320,8.0,30.0,20180217,South Sudan,1,-4.19681035418702,http://www.clydebankpost.co.uk/news/national/16029196.Oxfam_worker_describes_two_cases_of_alleged_abuse_in_Haiti_and_South_Sudan/
+731635649,1610,19.0,-72.416667,20180217,Haiti,1,-4.73783839972751,http://www.penarthtimes.co.uk/news/national/16029633.Abuse_by_aid_workers_and_peacekeepers_in_Haiti_known_about_10_years_ago/
+731593559,760,19.0,-72.416667,20180217,Haiti,1,-2.61358206675212,http://www.witneygazette.co.uk/news/national/16029370.What_the_papers_say_____February_17/
+731519096,650,8.0,30.0,20180216,South Sudan,1,-4.21152578601144,http://www.dudleynews.co.uk/news/national/16029196.Oxfam_worker_describes_two_cases_of_alleged_abuse_in_Haiti_and_South_Sudan/
+731300844,110,-30.0,26.0,20180216,South Africa,1,-5.0263863035652,https://www.expatica.com/uk/news/country-news/Britain-Belgium-Oxfam-aid_1708271.html
+731376193,122,24.0,90.0,20180216,Bangladesh,1,-6.04836577486391,https://au.news.yahoo.com/a/39132738/oxfam-unveils-action-plan-after-stain-of-sex-scandal/
+731519097,650,8.0,30.0,20180216,South Sudan,1,-4.21152578601144,http://www.dudleynews.co.uk/news/national/16029196.Oxfam_worker_describes_two_cases_of_alleged_abuse_in_Haiti_and_South_Sudan/
+731519098,180,19.0,-72.416667,20180216,Haiti,1,-3.26134665397319,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2018-02-16-EU--Britain-Oxfam/id-15397cb0ddcb40f2a766d3f995b496d4
+731290448,210,19.0,-72.416667,20180216,Haiti,1,-4.6547780117955,http://www.msn.com/en-gb/news/uknews/oxfam-ambassador-livia-firth-speaks-of-betrayal/ar-BBJa3qW
+731276395,137,19.0,-72.416667,20180216,Haiti,1,0.758780154864647,http://www.dailymail.co.uk/news/article-5397815/Charity-Commission-launches-probe-Oxfam-scandal.html
+731349301,590,19.0,-72.416667,20180216,Haiti,1,-2.73300793914651,http://www.thetottenhamindependent.co.uk/news/national/15998858.independent-commission-to-investigate-claims-of-sexual-exploitation-at-oxfam/
+731504838,252,19.0,-72.416667,20180216,Haiti,1,-2.22923350630174,http://www.bromsgroveadvertiser.co.uk/news/national/16029148.Mordaunt__No_more_taxpayer_cash_to_Oxfam_until_it_meets_high_standards_expected/
+731376191,114,24.0,90.0,20180216,Bangladesh,1,-6.04836577486391,https://au.news.yahoo.com/a/39132738/oxfam-unveils-action-plan-after-stain-of-sex-scandal/
+731376187,122,24.0,90.0,20180216,Bangladesh,1,-6.04836577486391,https://au.news.yahoo.com/a/39132738/oxfam-unveils-action-plan-after-stain-of-sex-scandal/
+731270517,170,19.0,-72.416667,20180216,Haiti,1,-2.31857904561426,http://wglt.org/post/why-sex-scandals-persist-humanitarian-aid-world
+731508399,110,51.5,-0.116667,20180216,"London, London, City of, United Kingdom",4,2.79293490748849,https://uk.reuters.com/article/uk-britain-oxfam-funding/oxfam-agrees-not-to-bid-for-new-funding-from-uk-government-idUKKCN1G023T
+730995332,927,19.0,-72.416667,20180215,Haiti,1,-5.77930826349133,http://www.themalaymailonline.com/world/article/msf-reveals-sex-abuse-cases-as-oxfam-scandal-widens
+731199599,444,19.0,-72.416667,20180215,Haiti,1,-2.18609217207552,http://www.cravenherald.co.uk/news/national/15997915.Mordaunt_holds____productive____meeting_with_National_Crime_Agency_amid_Oxfam_sex_scandal/
+730973392,838,19.0,-72.416667,20180215,Haiti,1,-5.72128239242429,https://www.geo.tv/latest/182014-uk-tells-charities-no-more-cash-if-you-dont-come-clean-on-abuse
+731235490,420,19.0,-72.416667,20180215,Haiti,1,-2.32280503408189,https://www.npr.org/sections/goatsandsoda/2018/02/15/586135767/why-sex-scandals-persist-in-the-humanitarian-aid-world
+731235489,420,19.0,-72.416667,20180215,Haiti,1,-2.32280503408189,https://www.npr.org/sections/goatsandsoda/2018/02/15/586135767/why-sex-scandals-persist-in-the-humanitarian-aid-world
+731239028,328,16.0,30.0,20180215,Sudan,1,-2.3197066382317,http://kclu.org/post/why-sex-scandals-persist-humanitarian-aid-world
+731235488,252,19.0,-72.416667,20180215,Haiti,1,-2.32280503408189,https://www.npr.org/sections/goatsandsoda/2018/02/15/586135767/why-sex-scandals-persist-in-the-humanitarian-aid-world
+730952396,1416,19.0,-72.416667,20180215,Haiti,1,-2.36475741354522,http://www.redditchadvertiser.co.uk/news/national/15994533.Oxfam_sacked_Haiti_chief_following_allegations_of____mismanagement___/
+731167190,582,19.0,-72.416667,20180215,Haiti,1,-5.6668618903608,https://www.thecourier.co.uk/news/uk-world/601258/oxfam-admits-serious-mistake-over-rehiring-worker-sacked-amid-haiti-sex-claims/
+731004066,513,19.0,-72.416667,20180215,Haiti,1,-5.56767338607145,http://www.dailymail.co.uk/wires/pa/article-5391851/Charities-Oxfam-s-sex-allegations-response-wake-call--Mordaunt.html
+730952398,266,19.0,-72.416667,20180215,Haiti,1,-3.7005157108536,http://www.redditchadvertiser.co.uk/news/national/15994533.Oxfam_sacked_Haiti_chief_following_allegations_of____mismanagement___/
+731167191,194,54.0,-4.0,20180215,United Kingdom,1,-5.6668618903608,https://www.thecourier.co.uk/news/uk-world/601258/oxfam-admits-serious-mistake-over-rehiring-worker-sacked-amid-haiti-sex-claims/
+731167192,194,54.0,-4.0,20180215,United Kingdom,1,-5.6668618903608,https://www.thecourier.co.uk/news/uk-world/601258/oxfam-admits-serious-mistake-over-rehiring-worker-sacked-amid-haiti-sex-claims/
+730995330,106,19.0,-72.416667,20180215,Haiti,1,-6.20564932668338,http://www.themalaymailonline.com/world/article/msf-reveals-sex-abuse-cases-as-oxfam-scandal-widens
+731199600,444,19.0,-72.416667,20180215,Haiti,1,-2.18609217207552,http://www.cravenherald.co.uk/news/national/15997915.Mordaunt_holds____productive____meeting_with_National_Crime_Agency_amid_Oxfam_sex_scandal/
+730952403,168,19.0,-72.416667,20180215,Haiti,1,-3.87394200913531,http://www.redditchadvertiser.co.uk/news/national/15994533.Oxfam_sacked_Haiti_chief_following_allegations_of____mismanagement___/
+730952402,266,19.0,-72.416667,20180215,Haiti,1,-3.63796381062621,http://www.redditchadvertiser.co.uk/news/national/15994533.Oxfam_sacked_Haiti_chief_following_allegations_of____mismanagement___/
+731235487,1010,19.0,-72.416667,20180215,Haiti,1,-2.32694159417348,https://www.npr.org/sections/goatsandsoda/2018/02/15/586135767/why-sex-scandals-persist-in-the-humanitarian-aid-world
+730643416,108,15.5,-90.25,20180214,Guatemala,1,-7.27002000255399,https://www.myplainview.com/news/crime/article/UK-charity-watchdog-to-probe-Oxfam-amid-sex-abuse-12609324.php
+730818107,187,54.0,-4.0,20180214,United Kingdom,1,-7.28517050214018,https://www.channelnewsasia.com/news/world/uk-tells-charities-no-more-cash-if-you-don-t-come-clean-on-abuse-9958332
+730703259,180,15.5,-90.25,20180214,Guatemala,1,-3.0496981280375,https://www.oxfam.org/en/pressroom/pressreleases/2018-02-13/chair-oxfam-internationals-board-supervisors-dr-juan-alberto
+730771698,128,15.0,19.0,20180214,Chad,1,-6.72543491344493,http://www.digitaljournal.com/news/world/uk-aid-chief-warns-charities-after-oxfam-sex-scandal/article/514848
+730818105,187,54.0,-4.0,20180214,United Kingdom,1,-7.28517050214018,https://www.channelnewsasia.com/news/world/uk-tells-charities-no-more-cash-if-you-don-t-come-clean-on-abuse-9958332
+730643413,120,54.0,-4.0,20180214,United Kingdom,1,-3.57583774250441,http://www.winsfordguardian.co.uk/news/national/15991765.Minnie_Driver_quits_as_Oxfam_ambassador_following_sex_scandal/
+730643408,120,15.0,100.0,20180214,Thailand,1,-3.57583774250441,http://www.winsfordguardian.co.uk/news/national/15991765.Minnie_Driver_quits_as_Oxfam_ambassador_following_sex_scandal/
+730643407,480,15.0,100.0,20180214,Thailand,1,-3.57583774250441,http://www.winsfordguardian.co.uk/news/national/15991765.Minnie_Driver_quits_as_Oxfam_ambassador_following_sex_scandal/
+730769073,205,35.0,38.0,20180214,Syria,1,1.35167064150626,http://www.bromsgroveadvertiser.co.uk/news/national/15993051.Oxfam___s_corporate_partners_monitoring_charity___s_response_to_sex_scandal/
+730769071,205,13.0,122.0,20180214,Philippines,1,1.35167064150626,http://www.bromsgroveadvertiser.co.uk/news/national/15993051.Oxfam___s_corporate_partners_monitoring_charity___s_response_to_sex_scandal/
+730769072,110,13.0,122.0,20180214,Philippines,1,1.3518384432445,http://www.bromsgroveadvertiser.co.uk/news/national/15993051.Oxfam___s_corporate_partners_monitoring_charity___s_response_to_sex_scandal/
+730660905,130,19.0,-72.416667,20180214,Haiti,1,-3.48672937938703,http://www.ktvq.com/story/37498875/minnie-driver-is-stepping-down-as-an-oxfam-ambassador
+730643412,508,19.0,-72.416667,20180214,Haiti,1,-3.50762201651867,http://www.winsfordguardian.co.uk/news/national/15991765.Minnie_Driver_quits_as_Oxfam_ambassador_following_sex_scandal/
+730643402,763,19.0,-72.416667,20180214,Haiti,1,-4.07182827174211,https://www.irishmirror.ie/showbiz/celebrity-news/horrified-minnie-driver-quits-role-12022261
+730643406,115,19.0,-72.416667,20180214,Haiti,1,-1.51806245944574,https://www.cnn.com/2018/02/13/europe/oxfam-minnie-driver-steps-down/
+730818102,294,19.0,-72.416667,20180214,Haiti,1,-3.05322783563073,http://www.dumbartonreporter.co.uk/news/15993661.Oxfam_cancels_all_female_comedy_night_amid_sex_scandal/
+730643410,1591,19.0,-72.416667,20180214,Haiti,1,-3.31583799307358,http://www.winsfordguardian.co.uk/news/national/15991765.Minnie_Driver_quits_as_Oxfam_ambassador_following_sex_scandal/
+730669884,135,19.0,-72.416667,20180214,Haiti,1,-4.14898243469498,https://www.upi.com/Oxfam-executive-resigns-amid-prostitution-scandal/2881518449238/
+730655632,299,15.0,19.0,20180214,Chad,1,-3.14452652828687,http://www.halesowennews.co.uk/news/national/15991797.Minnie_Driver_steps_down_as_Oxfam_ambassador_in_wake_of_sex_scandal/
+730643409,649,15.0,19.0,20180214,Chad,1,-3.28485291791688,http://www.winsfordguardian.co.uk/news/national/15991765.Minnie_Driver_quits_as_Oxfam_ambassador_following_sex_scandal/
+730643411,1640,13.0,105.0,20180214,Cambodia,1,-3.47904854759094,http://www.parramattasun.com.au/story/5227584/minne-driver-dumps-oxfam-after-sex-scandal/
+730643419,162,19.0,-72.416667,20180214,Haiti,1,-2.48814477299569,https://www.cnn.com/2018/02/13/europe/oxfam-minnie-driver-steps-down/
+730762472,276,19.0,-72.416667,20180214,Haiti,1,-3.72900544270163,http://www.tivysideadvertiser.co.uk/news/national/15992934.Oxfam_warned_about_Government_funding_over_sex_allegations/
+730771693,123,19.0,-72.416667,20180214,Haiti,1,-6.04343584957484,http://www.digitaljournal.com/news/world/uk-aid-chief-warns-charities-after-oxfam-sex-scandal/article/514848
+730920369,540,19.0,-72.416667,20180214,Haiti,1,-4.67661909902596,http://www.harwichandmanningtreestandard.co.uk/news/national/15994533.Oxfam_sacked_Haiti_chief_following_allegations_of____mismanagement___/
+730762479,216,19.0,-72.416667,20180214,Haiti,1,-3.73496522333736,http://www.tivysideadvertiser.co.uk/news/national/15992934.Oxfam_warned_about_Government_funding_over_sex_allegations/
+730762476,1239,19.0,-72.416667,20180214,Haiti,1,-4.2608862179796,http://www.tivysideadvertiser.co.uk/news/national/15992934.Oxfam_warned_about_Government_funding_over_sex_allegations/
+730643417,108,15.5,-90.25,20180214,Guatemala,1,-7.27002000255399,https://www.myplainview.com/news/crime/article/UK-charity-watchdog-to-probe-Oxfam-amid-sex-abuse-12609324.php
+730762471,184,34.0983,-118.327,20180214,"Hollywood, California, United States",3,-3.72900544270163,http://www.tivysideadvertiser.co.uk/news/national/15992934.Oxfam_warned_about_Government_funding_over_sex_allegations/
+730762473,460,34.0983,-118.327,20180214,"Hollywood, California, United States",3,-3.74270907090376,http://www.tivysideadvertiser.co.uk/news/national/15992934.Oxfam_warned_about_Government_funding_over_sex_allegations/
+730762475,232,34.0983,-118.327,20180214,"Hollywood, California, United States",3,-3.61578347152834,http://www.tivysideadvertiser.co.uk/news/national/15992934.Oxfam_warned_about_Government_funding_over_sex_allegations/
+730643415,108,15.5,-90.25,20180214,Guatemala,1,-7.27002000255399,https://www.myplainview.com/news/crime/article/UK-charity-watchdog-to-probe-Oxfam-amid-sex-abuse-12609324.php
+730556731,211,15.5,-90.25,20180213,Guatemala,1,-6.69031616134497,http://www.gbcghana.com/1.11769460
+730340757,133,19.0,-72.416667,20180213,Haiti,1,-5.15010160481516,http://www.oxfordmail.co.uk/news/15988739.Charity_Commission_launches_full_inquiry_into_Oxfam/
+730500830,200,51.5,-0.116667,20180213,"London, London, City of, United Kingdom",4,-6.08847456435668,http://wesa.fm/post/oxfam-official-resigns-amid-allegations-prostitutes-hired-disaster-zones
+730632755,208,15.0,100.0,20180213,Thailand,1,-3.57744107744108,http://www.stourbridgenews.co.uk/news/national/15991765.Minnie_Driver_quits_as_Oxfam_ambassador_following_sex_scandal/
+730345852,133,19.0,-72.416667,20180213,Haiti,1,-5.98307775108283,http://www.bbc.co.uk/news/av/uk-43031123/oxfam-did-not-disclose-full-details-says-charity-commission
+730573610,208,15.5,-90.25,20180213,Guatemala,1,-7.02392442680183,http://www.islandpacket.com/news/nation-world/world/article199790809.html
+730500827,111,15.0,19.0,20180213,Chad,1,-3.66592157976395,http://www.ealingtimes.co.uk/news/national/15990798.Decision_on_Oxfam_funding_will_not_be_rushed__says_Penny_Mordaunt/
+730356119,192,19.0,-72.416667,20180213,Haiti,1,-3.76760699632255,http://www.allmediany.com/news/96583-top-oxfam-executive-resigns-over-haiti-chad-scandals
+730440527,200,54.0,-4.0,20180213,United Kingdom,1,-4.69116696260514,http://home.bt.com/home.bt.com/news/uk-news/regulator-to-examine-oxfam-behaviour-after-fresh-sex-claims-11364250089355
+730500831,150,51.5,-0.116667,20180213,"London, London, City of, United Kingdom",4,-6.18761400548217,https://www.npr.org/sections/thetwo-way/2018/02/13/585304983/oxfam-official-resigns-amid-allegations-that-prostitutes-hired-in-disaster-zones
+730350989,2324,15.0,19.0,20180213,Chad,1,-3.920722343612,http://www.darlingtonandstocktontimes.co.uk/news/national/15989545.Regulator_to_examine_Oxfam_behaviour_after_fresh_sex_claims/
+730573609,208,15.5,-90.25,20180213,Guatemala,1,-7.02392442680183,http://www.islandpacket.com/news/nation-world/world/article199790809.html
+730056323,904,19.0,-72.416667,20180212,Haiti,1,-5.60214771587733,http://www.macon.com/news/business/article199558719.html
+730226870,110,54.0,-4.0,20180212,United Kingdom,1,-8.48329642143454,http://www.journal-news.com/news/world/the-latest-oxfam-deputy-executive-resigns-haiti-scandal/rngUE8JmBT1SrWvpRp4b5M/
+730178757,328,19.0,-72.416667,20180212,Haiti,1,-5.4142679277393,http://www.suttonguardian.co.uk/news/national/15988379.Oxfam_scandal__No_10_refuses_to_say_if_it_has_full_confidence_in_DfID_officials/
+730056322,396,19.0,-72.416667,20180212,Haiti,1,-5.45151881285991,http://www.macon.com/news/business/article199558719.html
+730305842,727,15.0,19.0,20180212,Chad,1,-3.70541047880481,https://www.eveningexpress.co.uk/news/uk/charity-watchdog-launches-probe-into-scandal-hit-oxfam/
+730178759,220,19.0,-72.416667,20180212,Haiti,1,-5.68230483819921,http://www.suttonguardian.co.uk/news/national/15988379.Oxfam_scandal__No_10_refuses_to_say_if_it_has_full_confidence_in_DfID_officials/
+730299147,794,19.0,-72.416667,20180212,Haiti,1,-4.32501400131301,http://www.leighjournal.co.uk/news/national/15989438.Oxfam_apologises_with_multimillion_pound_Government_funding_under_threat/
+730091801,422,54.0,-4.0,20180212,United Kingdom,1,-5.50868093304439,http://www.wiltshiretimes.co.uk/news/national/15986886.Oxfam_lied_and_failed_in_moral_leadership_over_Haiti_sex_allegations_____minister/
+730167370,217,19.0,-72.416667,20180212,Haiti,1,-2.99016966888512,http://www.kxlh.com/story/37482098/5-things-for-february-12-immigration-puerto-rico-oxfam
+730056325,606,19.0,-72.416667,20180212,Haiti,1,-5.54789201423672,http://www.macon.com/news/business/article199558719.html
+730056324,606,19.0,-72.416667,20180212,Haiti,1,-5.54789201423672,http://www.macon.com/news/business/article199558719.html
+730305843,188,19.0,-72.416667,20180212,Haiti,1,-3.67307213850614,https://www.eveningexpress.co.uk/news/uk/charity-watchdog-launches-probe-into-scandal-hit-oxfam/
+730153476,460,19.0,-72.416667,20180212,Haiti,1,-8.4589140449249,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2018-02-12-EU-Britain-Oxfam/id-2123862a80034da2ab21f3ae939bb020
+730178758,360,19.0,-72.416667,20180212,Haiti,1,-5.40955991614379,http://www.suttonguardian.co.uk/news/national/15988379.Oxfam_scandal__No_10_refuses_to_say_if_it_has_full_confidence_in_DfID_officials/
+730273743,152,19.0,-72.416667,20180212,Haiti,1,-3.73641235946276,http://www.wfnc640am.com/news/corporate-backers-demand-answers-over-oxfam-sex-crimes-scandal/
+730153480,530,51.5,-0.116667,20180212,"London, London, City of, United Kingdom",4,-7.60966538568414,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2018-02-12-EU-Britain-Oxfam/id-2123862a80034da2ab21f3ae939bb020
+730206499,129,15.0,19.0,20180212,Chad,1,-5.39591115777603,http://www.wandsworthguardian.co.uk/news/national/15988379.Oxfam_scandal__No_10_refuses_to_say_if_it_has_full_confidence_in_DfID_officials/
+730273746,112,46.0,2.0,20180212,France,1,-6.79318778808824,https://www.yahoo.com/news/oxfam-deputy-head-resigns-haiti-sex-scandal-175245036.html
+732050628,184,19.0,-72.416667,20180212,Haiti,1,-5.09401940059117,http://kccu.org/post/oxfam-witness-threatened-sexual-exploitation-inquiry
+732050625,184,19.0,-72.416667,20180212,Haiti,1,-5.09401940059117,http://kccu.org/post/oxfam-witness-threatened-sexual-exploitation-inquiry
+730153475,212,51.5,-0.116667,20180212,"London, London, City of, United Kingdom",4,-6.04367089188521,http://www.fredericksburg.com/news/news-wire/oxfam-to-meet-with-development-officials-amid-haiti-scandal/article_f52376f4-8bbe-5323-baf9-9de60143df97.html
+730062679,576,51.5,-0.116667,20180212,"London, London, City of, United Kingdom",4,-7.27485375058226,http://www.orlandosentinel.com/news/nationworld/ct-oxfam-sex-abuse-haiti-20180211-story.html
+730056327,135,19.0,-72.416667,20180212,Haiti,1,-6.82959422383196,http://www.macon.com/news/business/article199558719.html
+730060268,912,19.0,-72.416667,20180212,Haiti,1,-4.50970233999379,https://www.thetimes.co.uk/edition/news/charity-may-have-broken-law-on-gender-equality-538rc23dl
+730056326,329,19.0,-72.416667,20180212,Haiti,1,-5.52829114014527,http://www.macon.com/news/business/article199558719.html
+730167369,205,36.17,-119.746,20180212,"California, United States",2,-2.80906618465627,http://www.kxlh.com/story/37482098/5-things-for-february-12-immigration-puerto-rico-oxfam
+730299146,770,15.0,19.0,20180212,Chad,1,-4.33846257685979,http://www.leighjournal.co.uk/news/national/15989438.Oxfam_apologises_with_multimillion_pound_Government_funding_under_threat/
+730273745,166,19.0,-72.416667,20180212,Haiti,1,-3.73270983171525,http://www.wfnc640am.com/news/corporate-backers-demand-answers-over-oxfam-sex-crimes-scandal/
+730153478,578,19.0,-72.416667,20180212,Haiti,1,-6.87204601716109,http://www.fredericksburg.com/news/news-wire/oxfam-to-meet-with-development-officials-amid-haiti-scandal/article_f52376f4-8bbe-5323-baf9-9de60143df97.html
+730108502,1066,54.0,-4.0,20180212,United Kingdom,1,-6.46972817293726,https://lowvelder.co.za/afp/360113/oxfam-vows-shake-up-after-haiti-sex-abuse
+729873646,370,54.0,-4.0,20180211,United Kingdom,1,-4.16968027066142,http://www.winsfordguardian.co.uk/news/national/15986659.Minister_warns_Oxfam_over_funding_after_Haiti_sex_allegations/
+729873647,554,19.0,-72.416667,20180211,Haiti,1,-5.09000295486489,http://www.winsfordguardian.co.uk/news/national/15986659.Minister_warns_Oxfam_over_funding_after_Haiti_sex_allegations/
+729873643,294,19.0,-72.416667,20180211,Haiti,1,-4.72056580501935,http://www.winsfordguardian.co.uk/news/national/15986659.Minister_warns_Oxfam_over_funding_after_Haiti_sex_allegations/
+729881651,200,19.0,-72.416667,20180211,Haiti,1,-7.97804501327596,http://www.ksby.com/story/37474205/uk-reviews-oxfam-ties-after-sex-abuse-scandal-in-haiti
+730000508,670,19.0,-72.416667,20180211,Haiti,1,-5.46161386127761,http://www.wfmz.com/news/ap-world-news/uk-official-warns-oxfam-to-hand-over-all-info-on-sex-case/700027075
+729873644,209,19.0,-72.416667,20180211,Haiti,1,-4.119540385556,http://www.winsfordguardian.co.uk/news/national/15986659.Minister_warns_Oxfam_over_funding_after_Haiti_sex_allegations/
+730000507,348,19.0,-72.416667,20180211,Haiti,1,-5.58557273352108,http://www.wfmz.com/news/ap-world-news/uk-official-warns-oxfam-to-hand-over-all-info-on-sex-case/700027075
+729881648,713,19.0,-72.416667,20180211,Haiti,1,-6.40267141299934,http://www.ksby.com/story/37474205/uk-reviews-oxfam-ties-after-sex-abuse-scandal-in-haiti
+729881647,132,51.5,-0.116667,20180211,"London, London, City of, United Kingdom",4,-8.35978091362592,http://www.ksby.com/story/37474205/uk-reviews-oxfam-ties-after-sex-abuse-scandal-in-haiti
+729867705,440,19.0,-72.416667,20180211,Haiti,1,-5.49272480223638,https://www.sfgate.com/world/article/Abuse-scandal-ensnares-Oxfam-12604244.php
+729973760,430,51.5,-0.116667,20180211,"London, London, City of, United Kingdom",4,-5.06247680180376,https://www.sfgate.com/news/world/article/UK-official-warns-Oxfam-to-hand-over-all-info-on-12605061.php
+729960678,502,54.0,-4.0,20180211,United Kingdom,1,-5.82947751637405,http://www.dailymail.co.uk/wires/pa/article-5377867/Oxfam-lied-failed-moral-leadership-Haiti-sex-allegations--minister.html
+729973759,620,19.0,-72.416667,20180211,Haiti,1,-5.04442038478114,https://www.sfgate.com/news/world/article/UK-official-warns-Oxfam-to-hand-over-all-info-on-12605061.php
+729897933,386,19.0,-72.416667,20180211,Haiti,1,-5.54653794395292,http://www.bbc.co.uk/news/uk-43020875
+729873645,306,54.0,-4.0,20180211,United Kingdom,1,-4.07501112753987,http://www.winsfordguardian.co.uk/news/national/15986659.Minister_warns_Oxfam_over_funding_after_Haiti_sex_allegations/
+729973758,698,51.5,-0.116667,20180211,"London, London, City of, United Kingdom",4,-5.04442038478114,https://www.sfgate.com/news/world/article/UK-official-warns-Oxfam-to-hand-over-all-info-on-12605061.php
+729994425,238,19.0,-72.416667,20180211,Haiti,1,-4.91197626848367,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2018-02-11-EU--Britain-Oxfam-The%20Latest/id-cfd2e1a5da7144f8906b7c695cafec01
+729960677,180,54.0,-4.0,20180211,United Kingdom,1,-6.10457736729097,http://www.dailymail.co.uk/wires/pa/article-5377867/Oxfam-lied-failed-moral-leadership-Haiti-sex-allegations--minister.html
+729873648,711,54.0,-4.0,20180211,United Kingdom,1,-5.12002461231946,http://www.winsfordguardian.co.uk/news/national/15986659.Minister_warns_Oxfam_over_funding_after_Haiti_sex_allegations/
+729791519,1142,19.0,-72.416667,20180210,Haiti,1,-8.91528720645018,https://www.sfgate.com/news/crime/article/UK-reviews-charity-ties-over-Haiti-aid-worker-12602195.php
+729800506,330,51.5,-0.116667,20180210,"London, London, City of, United Kingdom",4,-8.07159207900579,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2018-02-10-EU-Britain-Oxfam/id-57d5120b43424fa9835d5997b1b09f02
+729693383,1025,19.0,-72.416667,20180210,Haiti,1,-8.83379089117305,http://www.scmp.com/news/world/americas/article/2132822/appalling-abuse-vulnerable-people-oxfam-staff-hired-haitian
+729749933,180,19.0,-72.416667,20180210,Haiti,1,-5.34363000342655,http://www.theweek.co.uk/daily-briefing/91546/ten-things-you-need-to-know-today-saturday-10-feb-2018
+729393906,135,19.0,-72.416667,20180209,Haiti,1,-4.46147996000357,http://www.themalaymailonline.com/world/article/the-times-oxfam-aid-workers-accused-of-using-prostitutes-in-haiti
+729393905,102,19.0,-72.416667,20180209,Haiti,1,-4.93095074466182,http://www.themalaymailonline.com/world/article/the-times-oxfam-aid-workers-accused-of-using-prostitutes-in-haiti
+726883392,222,33.5,36.3,20180131,"Damascus, Dimashq, Syria",4,-0.115621489662761,http://kticradio.com/abc_world/syrians-wait-in-fear-as-decision-to-extend-protected-status-looms-abcid36028373/
+725133816,280,16.166667,107.833333,20180124,"Vietnam, Republic Of",1,-1.59814943953426,http://wmot.org/post/why-internet-loves-and-hates-oxfams-global-inequality-report
+724289049,490,,,20180122,,0,-0.763312017308929,http://www.erienewsnow.com/story/37315011/the-1-grabbed-82-of-all-wealth-created-in-2017
+724289047,206,47.0,8.0,20180122,Switzerland,1,1.36220297768808,http://www.fredericksburg.com/business/business-wire/oxfam-highlights-sharp-inequality-as-davos-elite-gathers/article_5ae2345a-8bfc-5806-a28b-5c643ed29b83.html
+690948467,361,42.1497,-74.9384,20170919,"New York, United States",2,-4.15058358250652,http://www.wcyb.com/news/national/a-charity-rented-out-trumps-childhood-home-and-invited-refugees/622980737
+690948466,165,42.1497,-74.9384,20170919,"New York, United States",2,-4.15058358250652,http://www.wcyb.com/news/national/a-charity-rented-out-trumps-childhood-home-and-invited-refugees/622980737
+690948469,361,42.1497,-74.9384,20170919,"New York, United States",2,-4.15058358250652,http://www.wcyb.com/news/national/a-charity-rented-out-trumps-childhood-home-and-invited-refugees/622980737
+690555225,140,42.1497,-74.9384,20170918,"New York, United States",2,-3.01499372604296,http://reliefweb.int/report/united-states-america/oxfam-declares-refugees-welcome-trump-s-childhood-home-queens-new-york
+674850779,476,15.0,48.0,20170721,Yemen,1,-8.42424251475414,http://www.bgdailynews.com/news/international/oxfam-yemen-s-cholera-epidemic-to-worsen-in-rainy-season/article_92e8ce6f-94e7-518b-ba01-824479133d3e.html
+674865326,1010,15.3547,44.2067,20170721,"Sanaa, San‘a', Yemen",4,-8.12170998346396,http://www.newsobserver.com/news/article162836328.html
+674865325,909,15.3547,44.2067,20170721,"Sanaa, San‘a', Yemen",4,-8.12170998346396,http://www.newsobserver.com/news/article162836328.html
+667177111,115,15.3547,44.2067,20170622,"Sanaa, San‘a', Yemen",4,-6.90584982051701,http://www.thestar.com.my/news/world/2017/06/22/un-blames-warring-sides-for-yemens-manmade-cholera-catastrophe/
+661133392,400,48.8667,2.33333,20170602,"Paris, France (general), France",4,-2.48321714688039,https://www.nst.com.my/node/244918
+661133390,205,48.8667,2.33333,20170602,"Paris, France (general), France",4,-2.48338270005178,https://www.nst.com.my/node/244918
+656969271,310,10.0,8.0,20170519,Nigeria,1,-6.60134505621086,http://wqcs.org/post/oxfam-combined-wealth-5-richest-nigerians-could-lift-country-out-poverty
+656938823,270,10.0,8.0,20170518,Nigeria,1,-6.64156768909603,http://kccu.org/post/oxfam-combined-wealth-5-richest-nigerians-could-lift-country-out-poverty
+656406066,110,9.08333,7.53333,20170517,"Abuja, Abuja Federal Capital Territory, Nigeria",4,-0.76603903472491,http://thenewsnigeria.com.ng/2017/05/wealth-of-5-richest-nigerians-can-end-extreme-poverty-oxfam/
+652901594,150,1.0,32.0,20170505,Uganda,1,-7.65816589053414,http://www.dailymail.co.uk/wires/afp/article-4475734/Charity-warns-S-Sudan-man-famine-kill-6-million.html
+652901595,150,1.0,32.0,20170505,Uganda,1,-7.65816589053414,http://www.dailymail.co.uk/wires/afp/article-4475734/Charity-warns-S-Sudan-man-famine-kill-6-million.html
+651896309,210,35.0,38.0,20170502,Syria,1,-3.48675034867503,http://dagblog.com/comment/237317
+650417822,130,8.0,38.0,20170427,Ethiopia,1,-5.51777656636168,http://news.trust.org/item/20170427000855-1u333
+650342559,270,,,20170426,,0,0.257315125544063,http://redriverradio.org/post/tyson-foods-promises-better-conditions-and-safety-meat-workers
+637480770,160,54.0,-2.0,20170316,United Kingdom,1,-6.68542773640314,http://www.cravenherald.co.uk/news/national/15161313.Campaigners_urge_action_over____truly_shocking____child_poverty_figures/
+637480773,296,54.0,-2.0,20170316,United Kingdom,1,-6.68542773640314,http://www.cravenherald.co.uk/news/national/15161313.Campaigners_urge_action_over____truly_shocking____child_poverty_figures/
+635840025,155,18.975,72.8258,20170311,"Mumbai, Maharashtra, India",4,-0.0283341502986303,http://www.npr.org/sections/goatsandsoda/2017/03/11/519627414/india-bans-award-winning-indian-film-for-being-too-lady-orientated
+635840026,320,28.6667,77.2167,20170311,"Delhi, Delhi, India",4,-0.0313696616777078,http://www.npr.org/sections/goatsandsoda/2017/03/11/519627414/india-bans-award-winning-indian-film-for-being-too-lady-orientated
+730054317,190,51.5,-0.116667,20170212,"London, London, City of, United Kingdom",4,-5.5509430028711,http://www.macon.com/news/business/article199558719.html
+730054318,136,19.0,-72.416667,20170212,Haiti,1,-5.5209605666918,http://www.macon.com/news/business/article199558719.html
+729999784,146,19.0,-72.416667,20170211,Haiti,1,-5.29591769113839,http://www.wfmz.com/news/ap-world-news/uk-official-warns-oxfam-to-hand-over-all-info-on-sex-case/700027075
+729865978,219,51.5,-0.116667,20170211,"London, London, City of, United Kingdom",4,-5.90922853348314,https://www.sfgate.com/world/article/Abuse-scandal-ensnares-Oxfam-12604244.php
+625387104,113,54.0,-2.0,20170208,United Kingdom,1,-8.46265129504157,http://news.trust.org/item/20170208111629-ge05v
+625387101,202,54.0,-2.0,20170208,United Kingdom,1,-8.52187735856507,http://news.trust.org/item/20170208111629-ge05v
+623247601,201,38.8951,-77.0364,20170202,"White House, District of Columbia, United States",3,-4.70170447133079,http://wtaq.com/news/articles/2017/feb/01/aid-group-joins-massachusetts-lawsuit-over-trump-travel-ban/
+623247604,201,35.0,38.0,20170202,Syria,1,-4.70170447133079,http://wtaq.com/news/articles/2017/feb/01/aid-group-joins-massachusetts-lawsuit-over-trump-travel-ban/
+623247578,108,38.8951,-77.0364,20170202,"White House, District of Columbia, United States",3,-4.70170447133079,http://wtaq.com/news/articles/2017/feb/01/aid-group-joins-massachusetts-lawsuit-over-trump-travel-ban/
+623247596,300,35.0,38.0,20170202,Syria,1,-4.70170447133079,http://wtaq.com/news/articles/2017/feb/01/aid-group-joins-massachusetts-lawsuit-over-trump-travel-ban/
+623247580,201,35.0,38.0,20170202,Syria,1,-4.70170447133079,http://wtaq.com/news/articles/2017/feb/01/aid-group-joins-massachusetts-lawsuit-over-trump-travel-ban/
+623247582,268,38.8951,-77.0364,20170202,"White House, District of Columbia, United States",3,-4.70170447133079,http://wtaq.com/news/articles/2017/feb/01/aid-group-joins-massachusetts-lawsuit-over-trump-travel-ban/
+623247584,268,35.0,38.0,20170202,Syria,1,-4.70170447133079,http://wtaq.com/news/articles/2017/feb/01/aid-group-joins-massachusetts-lawsuit-over-trump-travel-ban/
+623247588,201,38.8951,-77.0364,20170202,"White House, District of Columbia, United States",3,-4.70170447133079,http://wtaq.com/news/articles/2017/feb/01/aid-group-joins-massachusetts-lawsuit-over-trump-travel-ban/
+623247591,201,35.0,38.0,20170202,Syria,1,-4.70170447133079,http://wtaq.com/news/articles/2017/feb/01/aid-group-joins-massachusetts-lawsuit-over-trump-travel-ban/
+623283669,220,40.0,-4.0,20170202,Spain,1,-4.87114933843435,http://news.trust.org/item/20170202023409-2vyqn
+623247577,201,38.8951,-77.0364,20170202,"White House, District of Columbia, United States",3,-4.70170447133079,http://wtaq.com/news/articles/2017/feb/01/aid-group-joins-massachusetts-lawsuit-over-trump-travel-ban/
+623247597,272,15.0,30.0,20170202,Sudan,1,-4.70170447133079,http://wtaq.com/news/articles/2017/feb/01/aid-group-joins-massachusetts-lawsuit-over-trump-travel-ban/
+623179780,124,35.0,38.0,20170201,Syria,1,-3.44152622471271,http://www.reuters.com/article/us-usa-trump-immigration-challenges-idUSKBN15G5K8
+623179794,128,15.0,30.0,20170201,Sudan,1,-3.44152622471271,http://www.reuters.com/article/us-usa-trump-immigration-challenges-idUSKBN15G5K8
+623179778,124,38.8951,-77.0364,20170201,"White House, District of Columbia, United States",3,-3.44152622471271,http://www.reuters.com/article/us-usa-trump-immigration-challenges-idUSKBN15G5K8
+623179793,124,35.0,38.0,20170201,Syria,1,-3.44152622471271,http://www.reuters.com/article/us-usa-trump-immigration-challenges-idUSKBN15G5K8
+622798801,145,13.4667,-16.5667,20170131,Gambia,1,-3.41650586612558,http://www.theglobeandmail.com/feeds/canadian-press/world/african-leaders-ok-strategy-for-mass-withdrawal-from-icc/article33851301/
+622134992,216,32.896,-97.0372,20170130,"Dallas Fort Worth International Airport, Texas, United States",3,-3.93405921558944,http://www.dallassun.com/index.php/sid/251307149
+621850824,198,38.8951,-77.0364,20170129,"Washington, District of Columbia, United States",3,-4.33473125385643,http://www.iranherald.com/index.php/sid/251284193
+621850825,130,38.8951,-77.0364,20170129,"Washington, District of Columbia, United States",3,-4.50414975289584,http://www.iranherald.com/index.php/sid/251284193
+621619570,324,38.8951,-77.0364,20170128,"Washington, District of Columbia, United States",3,-5.01601609694896,http://mobile.bignewsnetwork.com/news/251284193/american-borders-officially-closed-for-refugees-as-trump-spells-life-into-his-most-controversial-campaign-promise
+621619571,108,38.8951,-77.0364,20170128,"Washington, District of Columbia, United States",3,-5.01601609694896,http://mobile.bignewsnetwork.com/news/251284193/american-borders-officially-closed-for-refugees-as-trump-spells-life-into-his-most-controversial-campaign-promise
+620426566,132,29.7633,-95.3633,20170125,"Houston, Texas, United States",3,0.995734403374075,http://www.india.com/business/bill-gates-could-become-worlds-1st-trillionaire-oxfam-1781300/
+618098583,260,35.0,105.0,20170118,China,1,-2.00698223880696,http://redriverradio.org/post/gulf-between-richest-and-poorest-wider-previously-thought-oxfam-says
+618070994,130,35.0,105.0,20170117,China,1,-1.93551623897764,http://www.npr.org/sections/thetwo-way/2017/01/17/510271789/gulf-between-richest-and-poorest-is-wider-than-previously-thought-oxfam-says
+617622664,181,42.1497,-74.9384,20170116,"New York, United States",2,-0.0526617408636213,http://thefreethoughtproject.com/8-richest-men-wealth-half-world/
+617426631,488,46.8167,9.83333,20170116,"Davos, Switzerland (general), Switzerland",4,-1.28298123139594,http://www.greenwichtime.com/news/world/article/Stark-inequality-Oxfam-says-8-men-as-rich-as-10859324.php
+617412875,140,9.0,-80.0,20170116,Panama,1,-2.54325475872886,http://www.nytimes.com/aponline/2017/01/15/world/europe/ap-eu-davos-inequality.html
+617426627,654,46.8167,9.83333,20170116,"Davos, Switzerland (general), Switzerland",4,-1.23504348470647,http://www.greenwichtime.com/news/world/article/Stark-inequality-Oxfam-says-8-men-as-rich-as-10859324.php
+617412873,204,9.0,-80.0,20170116,Panama,1,-2.54127031930708,http://www.nytimes.com/aponline/2017/01/15/world/europe/ap-eu-davos-inequality.html
+617527091,246,42.1497,-74.9384,20170116,"New York, United States",2,0.0259279286270713,https://www.theindiantalks.com/obscene-these-8-men-own-half-of-the-worlds-wealth-reveals-oxfam/34393
+609688918,250,,,20161219,,0,1.01721892332293,http://m.philstar.com/314190/show/c3f0c16ac91efbe9e60434d795229b15?t=2p7lqja79q236imjs0u08jq657
+609688919,250,,,20161219,,0,1.01721892332293,http://m.philstar.com/314190/show/c3f0c16ac91efbe9e60434d795229b15?t=2p7lqja79q236imjs0u08jq657
+609124063,130,15.3547,44.2067,20161216,"Sanaa, San‘a', Yemen",4,-0.988443923226533,http://www.pri.org/stories/2016-12-16/us-just-made-it-harder-saudi-arabia-bomb-yemen-people-yemen-barely-noticed
+598504746,663,-35.2833,149.217,20161113,"Canberra, Australian Capital Territory, Australia",4,-3.60872658757617,http://www.kpax.com/story/33696050/australia-to-resettle-refugees-in-us-under-one-off-deal
+598504745,662,-35.2833,149.217,20161113,"Canberra, Australian Capital Territory, Australia",4,-3.6198356774142,http://www.kpax.com/story/33696050/australia-to-resettle-refugees-in-us-under-one-off-deal
+581841317,102,51.5,-0.116667,20160923,"London, London, City of, United Kingdom",4,2.58414278984787,http://www.belfasttelegraph.co.uk/entertainment/news/fatboy-slim-to-play-oxjam-gig-in-bid-to-help-fight-global-poverty-35072478.html
+581841314,102,51.5,-0.116667,20160923,"London, London, City of, United Kingdom",4,2.58414278984787,http://www.belfasttelegraph.co.uk/entertainment/news/fatboy-slim-to-play-oxjam-gig-in-bid-to-help-fight-global-poverty-35072478.html
+578393984,1050,54.0,-2.0,20160913,United Kingdom,1,-0.791890097746647,http://www.dailyecho.co.uk/news/national/14738450.Oxfam_urges_Theresa_May_to_close_gap_between__haves_and_have_nots_/
+578393987,549,54.0,-2.0,20160913,United Kingdom,1,-0.81033881404546,http://www.dailyecho.co.uk/news/national/14738450.Oxfam_urges_Theresa_May_to_close_gap_between__haves_and_have_nots_/
+571712356,978,25.0,45.0,20160823,Saudi Arabia,1,-6.35420862928798,http://www.gazetteseries.co.uk/news/national/14698239.Government__in_disarray__over_arms_sales_to_Saudi_Arabia___Oxfam/
+571816218,111,25.0,45.0,20160823,Saudi Arabia,1,-3.88453907226216,https://www.theguardian.com/world/2016/aug/23/uk-in-denial-over-saudi-arms-sales-being-used-in-yemen-claims-oxfam
+571712357,246,54.0,-2.0,20160823,United Kingdom,1,-6.35595803623902,http://www.gazetteseries.co.uk/news/national/14698239.Government__in_disarray__over_arms_sales_to_Saudi_Arabia___Oxfam/
+566243431,936,35.0,105.0,20160804,China,1,-1.33716344434881,http://www.falmouthpacket.co.uk/news/national/14660433.Government_facing_both_ways_on_tax_avoidance__cross_party_MPs_say/
+560902581,184,35.0,38.0,20160718,Syria,1,-6.97017438718441,http://www.kvor.com/news/oxfam-poorest-nations-shouldering-responsibility-for-worlds-refugees/
+560656391,180,7.1,124.65,20160717,"Tawi-Tawi, Maguindanao, Philippines",4,4.37720924483995,http://m.philstar.com/nation/show/cd882586d3834694ef4afc149d63010c
+552871122,188,55.95,-3.2,20160622,"Edinburgh, Edinburgh, City of, United Kingdom",4,0.460965091643929,http://www.standard.co.uk/news/london/thousands-gather-in-trafalgar-square-for-moving-tribute-to-mp-jo-cox-a3278431.html
+551071822,194,50.8333,4.33333,20160616,"Brussels, Bruxelles-Capitale, Belgium",4,-0.739734164153467,http://www.warwickdailynews.com.au/news/jo-cox-slain-mp-who-fought-tirelessly-refugees/3047030/
+550967479,248,53.7333,-1.65,20160616,"Birstall, Kirklees, United Kingdom",4,-4.69885907888628,http://www.mirror.co.uk/all-about/jo-cox
+548503007,170,24.6408,46.7728,20160608,"Riyadh, Ar Riya?, Saudi Arabia",4,-8.59518037234331,http://uk.reuters.com/article/uk-yemen-security-saudi-un-idUKKCN0YU2HP
+548503009,170,24.6408,46.7728,20160608,"Riyadh, Ar Riya?, Saudi Arabia",4,-8.59518037234331,http://uk.reuters.com/article/uk-yemen-security-saudi-un-idUKKCN0YU2HP
+548503006,170,24.6408,46.7728,20160608,"Riyadh, Ar Riya?, Saudi Arabia",4,-8.59518037234331,http://uk.reuters.com/article/uk-yemen-security-saudi-un-idUKKCN0YU2HP
+540798672,158,54.0,-2.0,20160516,United Kingdom,1,-4.64857205380402,http://www.lancashiretelegraph.co.uk/news/national/14495587.display/
+540798675,237,54.0,-2.0,20160516,United Kingdom,1,-4.64857205380402,http://www.lancashiretelegraph.co.uk/news/national/14495587.display/
+540059303,336,34.9513,-92.3809,20160513,"Arkansas, United States",2,-2.29071945738395,http://wtov9.com/news/nation-world/report-poultry-workers-allegedly-denied-breaks-forced-to-wear-diapers
+540059301,560,34.9513,-92.3809,20160513,"Arkansas, United States",2,-2.29071945738395,http://wtov9.com/news/nation-world/report-poultry-workers-allegedly-denied-breaks-forced-to-wear-diapers
+539452317,230,,,20160512,,0,-0.304830287461038,http://www.austin360.com/news/news/national/poultry-plant-workers-are-reportedly-being-denied-/nrLgN/
+539423799,105,32.799,-86.8073,20160512,"Alabama, United States",2,-1.64973590391669,http://www.heraldnet.com/article/20160511/BIZ02/160519762
+535472442,1382,-33.8833,151.217,20160429,"Sydney, New South Wales, Australia",4,-1.19434795714921,http://www.smh.com.au/national/lunch-with-lawyer-and-asylum-seeker-advocate-shen-narayanasamy-20160428-goh09z.html
+535478653,268,-33.8833,151.217,20160429,"Sydney, New South Wales, Australia",4,-1.1965811965812,http://www.blayneychronicle.com.au/story/3879823/lunch-with-lawyer-and-asylum-seeker-advocate-shen-narayanasamy/
+533032389,920,54.0,-2.0,20160422,United Kingdom,1,-6.74595443977517,https://www.eveningexpress.co.uk/pipe/news/uk/syria-refugee-crisis-underestimated-by-uk-public/
+525321998,297,35.0,38.0,20160329,Syria,1,-5.83105681231775,http://www.times-series.co.uk/news/national/14388672.display/
+521227970,308,33.6667,35.8333,20160315,"Bekaa, Béa, Lebanon",5,-7.46971789643212,http://abcnews.go.com/Entertainment/wireStory/angelina-jolie-lebanon-world-failed-refugees-37655775
+521227969,1140,33.6667,35.8333,20160315,"Bekaa, Béa, Lebanon",5,-7.46971789643212,http://abcnews.go.com/Entertainment/wireStory/angelina-jolie-lebanon-world-failed-refugees-37655775
+516928815,378,31.3701,34.8145,20160301,"Lehavim, HaDarom, Israel",4,-3.80437162057098,http://wlns.com/ap/sodastream-layoffs-expose-israel-boycott-conundrum/
+513864346,163,35.0,105.0,20160221,China,1,-3.07314915039527,http://www.bordermail.com.au/story/3741298/surf-clothing-label-rip-curl-using-slave-labour/?cs=4067
+513922974,726,-17.3167,179.383,20160221,"Koro Island, Eastern, Fiji",4,-6.55654335544241,http://www.smh.com.au/world/tropical-cyclone-winston-scale-of-devastation-in-fiji-unknown-20160221-gmzl2m.html
+513864343,222,-38.3308,144.326,20160221,"Torquay, Victoria, Australia",4,-3.06134890319765,http://www.bordermail.com.au/story/3741298/surf-clothing-label-rip-curl-using-slave-labour/?cs=4067
+513864345,167,-38.3308,144.326,20160221,"Torquay, Victoria, Australia",4,-3.06134890319765,http://www.bordermail.com.au/story/3741298/surf-clothing-label-rip-curl-using-slave-labour/?cs=4067
+513864344,236,-38.3308,144.326,20160221,"Torquay, Victoria, Australia",4,-3.06134890319765,http://www.bordermail.com.au/story/3741298/surf-clothing-label-rip-curl-using-slave-labour/?cs=4067
+513922972,729,-17.3167,179.383,20160221,"Koro Island, Eastern, Fiji",4,-6.56032314810831,http://www.watoday.com.au/world/tropical-cyclone-winston-scale-of-devastation-in-fiji-unknown-20160221-gmzl2m.html
+513864342,332,-38.3308,144.326,20160221,"Torquay, Victoria, Australia",4,-3.07314915039527,http://www.bordermail.com.au/story/3741298/surf-clothing-label-rip-curl-using-slave-labour/?cs=4067
+513764405,170,-38.3308,144.326,20160220,"Torquay, Victoria, Australia",4,-3.05819086938012,http://www.brisbanetimes.com.au/business/surf-clothing-label-rip-curl-using-slave-labour-to-manufacture-clothes-in-north-korea-20160219-gmz375.html
+513764404,176,-38.3308,144.326,20160220,"Torquay, Victoria, Australia",4,-3.05819086938012,http://www.brisbanetimes.com.au/business/surf-clothing-label-rip-curl-using-slave-labour-to-manufacture-clothes-in-north-korea-20160219-gmz375.html
+513767073,117,35.0,105.0,20160220,China,1,-3.07594507966,http://www.smh.com.au/business/surf-clothing-label-rip-curl-using-slave-labour-to-manufacture-clothes-in-north-korea-20160219-gmz375.html
+513764406,126,-38.3308,144.326,20160220,"Torquay, Victoria, Australia",4,-3.05819086938012,http://www.brisbanetimes.com.au/business/surf-clothing-label-rip-curl-using-slave-labour-to-manufacture-clothes-in-north-korea-20160219-gmz375.html
+513764403,264,-38.3308,144.326,20160220,"Torquay, Victoria, Australia",4,-3.05819086938012,http://www.brisbanetimes.com.au/business/surf-clothing-label-rip-curl-using-slave-labour-to-manufacture-clothes-in-north-korea-20160219-gmz375.html
+503458566,272,16.45,120.55,20160119,"Philippine, Benguet, Philippines",4,-1.5576323987539,http://m.philstar.com/business/show/705fc2e56e6d0ac40f32b4dc7d331e40?t=16oke6maan0hi77f778qcessu6
+503466733,102,46.8167,9.83333,20160119,"Davos, Switzerland (general), Switzerland",4,-2.16571946206476,http://www.brisbanetimes.com.au/world/worlds-richest-1-per-cent-own-more-than-the-other-99-per-cent-put-together-oxfam-report-20160118-gm8nxl
+503144709,467,46.8167,9.83333,20160118,"Davos, Switzerland (general), Switzerland",4,-2.11730142618718,http://www.reuters.com/article/davos-meeting-divisions-idUSL8N151092
+503147297,253,51.5,-0.116667,20160118,"London, London, City of, United Kingdom",4,1.89926675670032,http://www.bbc.co.uk/news/business-35339475
+503147298,260,-10.0,-55.0,20160118,Brazil,1,-2.3262949463293,http://news.asiaone.com/news/business/richest-62-people-own-same-half-worlds-population-oxfam
+503188351,238,54.0,-2.0,20160118,United Kingdom,1,-2.17257084850452,http://www.euronews.com/newswires/3129128-a-world-divided-elites-descend-on-swiss-alps-amid-rising-inequality/
+503367729,128,16.45,120.55,20160118,"Philippine, Benguet, Philippines",4,-1.58405217825409,http://m.philstar.com/315469/show/705fc2e56e6d0ac40f32b4dc7d331e40?t=fuflmefgi8lg0j5oc118a4qie4
+496739414,460,,,20151223,,0,-4.8709043763949,http://www.thewestmorlandgazette.co.uk/news/national/14164551.Help_to_Work_branded__cruel_joke__after_unemployed_claimants_fail_to_secure_work/
+474699698,160,39.0,35.0,20151010,Turkey,1,-5.41679546828429,http://www.tradingroom.com.au/apps/view_article.ac?articleId=6917694
+474593209,214,39.0,35.0,20151009,Turkey,1,-5.27718454938805,http://www.mb.com.ph/g20-ministers-endorse-crackdown-on-corporate-tax-evasion/
+473647676,103,43.75,20.75,20151007,Serbia,1,-0.346651285640628,http://www.bromsgroveadvertiser.co.uk/news/national/13807642.UK__not_taking_fair_share_of_Syrian_refugees_/
+473138096,150,49.75,6.1667,20151005,Luxembourg,1,-5.96718515056023,https://au.news.yahoo.com/a/29724912/oecd-reveals-plan-for-tax-clampdown-on-multinationals/
+475137730,400,52.6,-3.2,20151005,"Berriew, Powys, United Kingdom",4,-4.33735783689298,https://www.eveningexpress.co.uk/pipe/news/uk/lawyers-slam-governments-response-to-syrian-refugee-crisis/
+475146027,190,50.6,-2.03333,20151005,"Worth Matravers, Dorset, United Kingdom",4,-4.20508823784269,http://www.buxtonadvertiser.co.uk/news/national/lawyers-slam-government-s-response-to-syrian-refugee-crisis-1-7509164
+472980267,392,-19.6667,-40.25,20151005,"Guarana, Espíto Santo, Brazil",4,0.59084194977843,http://www.slowfood.com/international/food-for-thought/focus/294337/terra-madre-giovani-we-feed-the-planet/q=F4DE43?-session=query_session:92943B2A188a303914quKAFAD11A
+472778447,712,-19.6667,-40.25,20151004,"Guarana, Espíto Santo, Brazil",4,0.59084194977843,http://www.slowfood.com/international/food-for-thought/focus/294337/terra-madre-giovani-we-feed-the-planet/q=83916A?-session=query_session:9294303D1883f04E5BmJDD48385A
+472778448,178,-29.0,24.0,20151004,South Africa,1,0.59084194977843,http://www.slowfood.com/international/food-for-thought/focus/294337/terra-madre-giovani-we-feed-the-planet/q=83916A?-session=query_session:9294303D1883f04E5BmJDD48385A
+472549847,312,-19.6667,-40.25,20151003,"Guarana, Espíto Santo, Brazil",4,0.59084194977843,http://www.slowfood.com/international/food-for-thought/focus/294337/terra-madre-giovani-we-feed-the-planet/q=122C61?-session=query_session:82D3A425187db03919OK8B06F5F5
+472361974,424,-19.6667,-40.25,20151002,"Guarana, Espíto Santo, Brazil",4,0.59084194977843,http://www.slowfood.com/international/food-for-thought/focus/294337/terra-madre-giovani-we-feed-the-planet/q=21CC6F?-session=query_session:82D3A425187771E101UrtB2525BA
+472361975,106,-29.0,24.0,20151002,South Africa,1,0.59084194977843,http://www.slowfood.com/international/food-for-thought/focus/294337/terra-madre-giovani-we-feed-the-planet/q=21CC6F?-session=query_session:82D3A425187771E101UrtB2525BA
+467441782,478,52.5167,13.4,20150916,"Berlin, Berlin, Germany",4,-1.90307426092526,http://www.channel3000.com/money/google-pledges-millions-to-match-refugee-crisis-donations/35304186
+464580387,168,25.0,17.0,20150907,Libya,1,-5.80795785189166,http://www.channelnewsasia.com/news/world/britain-to-take-in-20-000/2109752.html
+464288392,128,-27.0,133.0,20150906,Australia,1,-4.43168510653173,http://www.sbs.com.au/news/article/2015/09/06/aust-nz-urged-help-pacific-neighbours
+464288390,160,-27.0,133.0,20150906,Australia,1,-4.43168510653173,http://www.sbs.com.au/news/article/2015/09/06/aust-nz-urged-help-pacific-neighbours
+463974636,290,35.0,38.0,20150905,Syria,1,-2.66875981161696,http://www.cqnews.com.au/news/new-zealand-pm-rejects-claims-it-taking-extra-refu/2764758/
+463605342,240,59.15,-2.61667,20150904,"Whitehall, Orkney Islands, United Kingdom",4,-5.46087692294964,http://www.thisiswiltshire.co.uk/news/national/news/13645485.David_Cameron_set_to_unveil_plans_to_help_more_Syrian_refugees/
+464376058,200,31.6667,35.25,20150808,West Bank,1,-5.71901171988501,http://www.themalaymailonline.com/world/article/under-threat-thousands-of-palestinian-structures-under-israeli-demolition-o
+464376059,210,31.6667,35.25,20150808,West Bank,1,-5.63554163499299,http://www.themalaymailonline.com/world/article/under-threat-thousands-of-palestinian-structures-under-israeli-demolition-o
+439620311,200,43.7333,7.4,20150609,Monaco,1,-2.79760572835086,http://www.independent.co.uk/news/business/cartier-boss-with-75bn-fortune-says-prospect-poor-rising-up-keeps-him-awake-at-night-10307485.html
+437545459,125,-27.0,133.0,20150601,Australia,1,0.294382843838119,http://www.dailymail.co.uk/wires/aap/article-3105379/Aust-evading-hard-climate-questions.html
+436521956,712,15.3547,44.2067,20150527,"Sanaa, San‘a', Yemen",4,-5.95950412607871,http://www.sabanews.net/en/news396452.htm
+436493951,140,15.461,45.3253,20150527,"Marib, Ma'rib, Yemen",4,-4.40772602896154,http://thepeninsulaqatar.com/news/middle-east/340492/coalition-pounds-rebel-troops-in-yemen-capital-36-dead
+436478860,790,15.6942,43.6058,20150527,"Hajjah, ?ajjah, Yemen",4,-4.98177134126695,http://www.newswest9.com/story/29165012/saudi-led-airstrikes-hit-yemeni-capital
+436239116,110,13.0,122.0,20150526,Philippines,1,-1.68458742693862,http://www.trust.org/item/20150526160727-eym3h/
+433021535,144,27.7167,85.3167,20150513,"Kathmandu, Bagmati, Nepal",4,-7.14516710223778,http://www.dailymail.co.uk/wires/aap/article-3080336/Traumatised-Nepalese-spend-night-tents.html
+432942958,710,27.7167,85.3167,20150513,"Kathmandu, Bagmati, Nepal",4,-1.03548136916114,http://mashable.com/2015/05/13/nepal-relief-oxfam-ads/
+431278092,378,60.0,-95.0,20150507,Canada,1,-4.74285709531276,http://www.startribune.com/politics/national/302853021.html
+431278093,252,62.0,10.0,20150507,Norway,1,-4.74285709531276,http://www.startribune.com/politics/national/302853021.html
+429983918,160,28.2172,85.5226,20150501,"Langtang, Nepal (general), Nepal",4,-1.03857566765578,http://www.bluemountainsgazette.com.au/story/3051622/canberran-run-health-centre-in-nepal-crushed-by-earthquake/
+428469986,220,28.0,84.0,20150426,Nepal,1,2.59797562172712,http://wqad.com/2015/04/25/how-to-help-victims-of-the-nepal-earthquake/
+427766395,116,15.0,48.0,20150423,Yemen,1,-5.47507362526601,http://zeenews.india.com/news/world/air-strike-on-yemen-aid-facility-could-be-violation-hrw_1583610.html
+426785290,120,24.6408,46.7728,20150420,"Riyadh, Ar Riya?, Saudi Arabia",4,-1.27421967794627,https://uk.news.yahoo.com/aid-agency-oxfam-condemns-saudi-air-strike-yemen-055225080.html
+426785291,174,24.6408,46.7728,20150420,"Riyadh, Ar Riya?, Saudi Arabia",4,-1.66924079959774,https://uk.news.yahoo.com/aid-agency-oxfam-condemns-saudi-air-strike-yemen-055225080.html
+423984206,210,25.0,45.0,20150409,"Arabian Peninsula, Saudi Arabia (general), Saudi Arabia",4,-3.51775306634403,http://far30news.com/2015/04/civilians-flee-yemen-for-somalia/
+423657215,110,25.0,45.0,20150408,"Arabian Peninsula, Saudi Arabia (general), Saudi Arabia",4,-3.6507175606727,http://www.wdsu.com/national/war-in-yemen-6-things-to-know/32249574
+421549315,252,35.0,38.0,20150331,Syria,1,-6.75036739005248,http://www.naharnet.com/stories/en/173733
+421245463,114,-27.0,133.0,20150330,Australia,1,3.37035119418703,http://www.coffscoastadvocate.com.au/news/flow-hive-inventors-donate-97300-help-vanuatu/2590851/
+421245460,190,-16.0,167.0,20150330,Vanuatu,1,3.37035119418703,http://www.coffscoastadvocate.com.au/news/flow-hive-inventors-donate-97300-help-vanuatu/2590851/
+420185903,616,15.461,45.3253,20150326,"Marib, Ma'rib, Yemen",4,-3.40477942483021,http://democratherald.com/news/world/middle-east/president-of-yemen-flees-by-sea-amid-rebel-advance-in/article_39ba95a1-5973-5fa0-a984-0773037a96e4.html
+420164697,376,15.461,45.3253,20150325,"Marib, Ma'rib, Yemen",4,-3.7095060891655,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2015-03-25-ML-Yemen/id-8ad7ab003caa4c19919a38762ff24a49
+419264371,150,34.5167,69.1833,20150323,"Kabul, Kabol, Afghanistan",4,-7.81500657578996,http://uk.reuters.com/article/2015/03/23/uk-afghanistan-women-idUKKBN0MJ00120150323
+417675880,120,-16.0,167.0,20150317,Vanuatu,1,-0.596367611641399,http://www.perthnow.com.au/news/breaking-news/aid-scrambling-to-reach-vanuatus-islands/story-fnhrvfuw-1227266526058?nk=cffd582ccb364ab04608674384afb5fa
+417354621,850,-18.8,169.083,20150316,"Erromango, Tafea, Vanuatu",4,-6.39503535076737,http://www.neworleanssun.com/index.php/sid/231101915
+417144697,160,-27.0,133.0,20150315,Australia,1,-6.45583366354774,http://www.dailymail.co.uk/wires/aap/article-2995338/Vanuatu-grapples-cyclone-devastation.html
+417009835,1210,-17.6667,168.417,20150314,"Efate, Shefa, Vanuatu",4,-6.35171444961177,https://www.oxfam.org/en/pressroom/pressreleases/2015-03-14/stories-devastation-vanuatu-aftermath-cyclone-pam
+416584363,190,-17.6667,168.417,20150312,"Efate, Shefa, Vanuatu",4,-4.82315112540193,http://www.warwickdailynews.com.au/news/cyclone-pam-set-hammer-new-zealands-north-island/2573207/
+413852149,250,8.5,-11.5,20150303,Sierra Leone,1,-3.79412386105853,http://www.eubusiness.com/news-eu/health-ebola.1015
+333618049,120,15.3547,44.2067,20150125,"Sanaa, San‘a', Yemen",4,1.52753102943552,http://www.i24news.tv/en/news/international/middle-east/58957-150126-obama-pledges-to-maintain-us-pressure-on-al-qaida-in-yemen
+503145564,459,46.8167,9.83333,20150118,"Davos, Switzerland (general), Switzerland",4,-2.0729125689455,http://lifestyle.inquirer.net/219641/richest-1-own-more-than-the-rest-of-us-oxfam
+503145565,526,46.8167,9.83333,20150118,"Davos, Switzerland (general), Switzerland",4,-2.90238215033652,http://lifestyle.inquirer.net/219641/richest-1-own-more-than-the-rest-of-us-oxfam
+503155936,118,46.0,2.0,20150118,France,1,-1.79065211322361,http://www.bigstory.ap.org/article/76a4d5d5259d4e779d2fb0b5d2edf94d/get-grip-inequality-leaders-urged-run-davos
+305998229,210,-10.0,-76.0,20140720,Peru,1,2.45763393120088,http://www.mariettatimes.com/page/content.detail/id/547389/New-Peru-law-weakens-environmental-safeguards.html?isap=1&nav=5021
+305998217,234,-10.0,-76.0,20140720,Peru,1,2.47875082193136,http://www.mariettatimes.com/page/content.detail/id/547389/New-Peru-law-weakens-environmental-safeguards.html?isap=1&nav=5021
+305998206,114,21.7667,-104.683,20140720,"Toromocho, Nayarit, Mexico",4,2.40594983991867,http://www.mariettatimes.com/page/content.detail/id/547389/New-Peru-law-weakens-environmental-safeguards.html?isap=1&nav=5021
+305998226,234,-10.0,-76.0,20140720,Peru,1,2.47875082193136,http://www.mariettatimes.com/page/content.detail/id/547389/New-Peru-law-weakens-environmental-safeguards.html?isap=1&nav=5021
+304524097,105,35.0,38.0,20140710,Syria,1,4.84061577290293,http://www.foxnews.com/world/2014/07/10/italian-swedish-diplomat-named-new-un-point-man-on-syria-peace-deal-eluded-2/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29
+287540303,176,54.0,-2.0,20140226,United Kingdom,1,1.09654289137909,http://www.stuff.co.nz/business/world/9769865/Companies-clean-up-act-to-avoid-consumer-scorn
+286407405,130,4.84597,31.6012,20140218,"Juba, Wilayat Bahr al Jabal, South Sudan",4,2.05586255644561,http://www.seattlepi.com/business/energy/article/Fresh-fighting-resumes-in-South-Sudan-5243569.php
+284156339,275,31.5,34.75,20140130,Israel,1,4.03171891516248,http://globalnews.ca/news/1117471/scarlett-johansson-cuts-ties-with-oxfam/
+284156309,196,31.5,34.75,20140130,Israel,1,4.11175355583284,http://mondoweiss.net/2014/01/scarlett-johansson-abandons.html
+284156324,144,31.6667,35.25,20140130,West Bank,1,3.46500566658214,http://www.nst.com.my/latest/scarlett-johansson-leaves-oxfam-after-israeli-settlement-uproar-1.473919?cache=03%2F7.188446%3Fpage%3D0%3Fpage%3D0%3Fpage%3D0%3Fpage%3D0%2F7.339134%3Fpage%3D0%2F7.557712%2F7.557712%2F7.557712%2F7.557712%2F7.557712%2F7.557712
+284156330,680,31.5,34.75,20140130,Israel,1,4.11758542734241,http://www.contracostatimes.com/rss/ci_25027255
+282542283,112,-20.2667,-174.783,20140110,"Matangi Tonga, Ha‘apai, Tonga",4,1.89541627064111,http://www.sbs.com.au/news/article/2014/01/11/cyclone-ian-winds-could-be-par-typhoon-haiyan-forecaster
+282542286,140,-20.2667,-174.783,20140110,"Matangi Tonga, Ha‘apai, Tonga",4,1.89541627064111,http://www.sbs.com.au/news/article/2014/01/11/cyclone-ian-winds-could-be-par-typhoon-haiyan-forecaster
+279951206,130,54.0,-2.0,20131217,United Kingdom,1,1.55005801855869,http://www.dawn.com/news/1074828/hundreds-killed-as-rival-troops-battle-in-south-sudan
+267914586,136,31.0,64.0,20130916,"Helmand, Helmand, Afghanistan",5,1.00592484756634,http://www.channelafrica.org/portal/site/ChannelAfrica/menuitem.0440eb803775db47ee41ee41674daeb9/?vgnextoid=6d278b8806121410VgnVCM10000077d4ea9bRCRD&vgnextfmt=default
+259995141,104,38.8951,-77.0364,20130718,"White House, District of Columbia, United States",3,4.20069728292208,http://www.knau.org/post/how-better-protect-farm-workers-pesticides-spanish
+225394014,121,-12.05,-77.05,20121209,"Lima, Lima, Peru",4,1.54774949850218,unspecified
+221834798,180,18.5392,-72.335,20121031,"Port-Au-Prince, Ouest, Haiti",4,4.13259521880772,unspecified
+218579612,173,13.1658,45.3797,20120924,"Abyan, Abyan, Yemen",4,5.81452363595294,unspecified
+218579609,173,13.1658,45.3797,20120924,"Abyan, Abyan, Yemen",4,5.81452363595294,unspecified
+218579614,138,15.3547,44.2067,20120924,"Sanaa, San‘a', Yemen",4,6.8886519299853,unspecified
+212804267,172,31.106,-97.6475,20120809,"Texas, United States",2,4.40358290501701,unspecified
+212804265,180,35.6411,-79.8431,20120809,"North Carolina, United States",2,4.40549763553863,unspecified
+212804266,108,35.5376,-96.9247,20120809,"Oklahoma, United States",2,4.42391099672953,unspecified
+209484932,144,60.0,100.0,20120702,Russia,1,6.08221559388017,unspecified
+205317112,110,38.8951,-77.0364,20120518,"Washington, District of Columbia, United States",3,6.64003435094549,unspecified
+91795433,189,16.0,8.0,20120325,Niger,1,3.44534106063822,unspecified
+91795423,198,16.0,8.0,20120325,Niger,1,3.4635598236162,unspecified
+91795425,207,16.0,8.0,20120325,Niger,1,3.47340665304024,unspecified
+91795426,403,13.5167,2.11667,20120325,"Niamey, Niamey, Niger",4,3.78178761081996,unspecified
+91795422,441,13.5167,2.11667,20120325,"Niamey, Niamey, Niger",4,3.77222643412291,unspecified
+91795424,441,13.5167,2.11667,20120325,"Niamey, Niamey, Niger",4,3.77222643412291,unspecified
+81621310,108,16.0,106.0,20111128,"Vietnam, Republic Of",1,3.36235727290082,unspecified
+81543479,185,-4.61667,55.45,20111127,"Victoria, Seychelles (general), Seychelles",4,7.37101745722434,unspecified
+81543485,113,35.0,135.75,20111127,"Kyoto, Kyoto, Japan",4,6.62944590402247,unspecified
+80540597,136,15.5881,32.5342,20111114,"Khartoum, Al Khartum, Sudan",4,4.92475004398897,unspecified
+78152201,261,-2.26925,40.8991,20111014,"Lamu, Coast, Kenya",4,3.70501865207227,unspecified
+72225486,126,19.0,-72.4167,20110805,Haiti,1,6.18268312765251,unspecified
+71251841,179,11.5,43.0,20110725,Djibouti,1,5.26361019993345,unspecified
+70831898,147,2.19037,42.8761,20110720,"Shabelle, Bay, Somalia",4,6.37412479349701,unspecified
+70831896,182,3.96983,42.4412,20110720,"Bakool, Gedo, Somalia",4,6.39492880780497,unspecified
+70727197,297,11.5,43.0,20110719,Djibouti,1,6.59329684493382,unspecified
+70727226,198,11.5,43.0,20110719,Djibouti,1,6.59329684493382,unspecified
+70727209,198,11.5,43.0,20110719,Djibouti,1,6.59329684493382,unspecified
+70727202,198,11.5,43.0,20110719,Djibouti,1,6.59329684493382,unspecified
+70727214,198,11.5,43.0,20110719,Djibouti,1,6.59329684493382,unspecified
+70727200,198,11.5,43.0,20110719,Djibouti,1,6.59329684493382,unspecified
+70727206,198,11.5,43.0,20110719,Djibouti,1,6.59329684493382,unspecified
+70727218,198,11.5,43.0,20110719,Djibouti,1,6.59329684493382,unspecified
+70727222,198,11.5,43.0,20110719,Djibouti,1,6.59329684493382,unspecified
+70727194,140,1.0,38.0,20110719,Kenya,1,6.81564395931607,unspecified
+125904951,123,26.1346,68.7696,20110606,"Sindh, Sindh, Pakistan",5,9.13382997168519,unspecified
+124642563,153,49.515,-1.28761,20110520,"Le Havre, Basse-Normandie, France",4,4.15706388432131,unspecified
+124642562,153,49.515,-1.28761,20110520,"Le Havre, Basse-Normandie, France",4,4.15706388432131,unspecified
+123127721,468,0.0,0.0,20110501,,,2.58164326154939,unspecified
+123127719,216,0.0,0.0,20110501,,,2.49747438556217,unspecified
+115563917,170,19.0,-72.4167,20110211,Haiti,1,4.74978254268463,unspecified
+110861301,459,4.88447,-1.75536,20101214,"Takoradi, Ghana (general), Ghana",4,7.06710848180924,unspecified
+105960337,108,30.0,70.0,20101014,Pakistan,1,5.07018264691086,unspecified
+104241812,973,44.0407,-72.7093,20100924,"Vermont, United States",2,10.5994426708412,unspecified
+101824679,135,30.0,70.0,20100829,Pakistan,1,6.94147144656137,unspecified
+101824670,212,54.0,-2.0,20100829,United Kingdom,1,4.573882543097,unspecified
+101824675,126,30.0,70.0,20100829,Pakistan,1,6.94889034720098,unspecified
+101824678,135,30.0,70.0,20100829,Pakistan,1,6.94147144656137,unspecified
+101824667,192,24.8667,67.05,20100829,"Karachi, Sindh, Pakistan",4,4.41387642347773,unspecified
+101762666,171,30.0,70.0,20100828,Pakistan,1,4.66293464527608,unspecified
+99550120,119,25.0,45.0,20100802,Saudi Arabia,1,1.93924634931899,unspecified
+146199934,199,22.2627,89.2637,20100523,"Chakbara, Khulna, Bangladesh",4,3.99645694536306,unspecified
+141514408,216,18.5392,-72.335,20100125,"Port-Au-Prince, Ouest, Haiti",4,5.24486588620381,unspecified
+141514412,223,18.5392,-72.335,20100125,"Port-Au-Prince, Ouest, Haiti",4,5.36559369980443,unspecified
+138590024,208,55.6667,12.5833,20091212,"Copenhagen, Køavn*, Denmark",4,4.37228189841047,unspecified
+136989484,137,41.9,12.4833,20091118,"Rome, Lazio, Italy",4,5.61176054150299,unspecified
+135848332,196,38.0,-97.0,20091030,United States,1,7.13804092800888,unspecified
+135848357,140,38.0,-97.0,20091030,United States,1,7.18006397918284,unspecified
+128968956,239,55.6667,12.5833,20090725,"Copenhagen, Køavn*, Denmark",4,7.8028119177893,unspecified
+159956946,227,54.0,-2.0,20090420,United Kingdom,1,6.63421533577006,unspecified
+157284764,112,51.5,-0.116667,20090304,"London, London, City of, United Kingdom",4,5.91214835704455,unspecified
+157284768,112,51.5,-0.116667,20090304,"London, London, City of, United Kingdom",4,5.91214835704455,unspecified
+170092450,112,-1.45,-48.4833,20080131,"Para, ParáR, Brazil",4,0.0,unspecified
+186389426,121,34.5167,69.1833,20070628,"Kabul, Kabol, Afghanistan",4,3.26694262410965,unspecified

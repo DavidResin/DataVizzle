@@ -1,126 +1,126 @@
-NumMentions,ActionGeo_Lat,ActionGeo_Long,SQLDATE,ActionGeo_FullName,ActionGeo_Type
-235,37.5664,127.0,20090618,"Seoul, Soul-t'ukpyolsi, South Korea",4
-109,60.0,-95.0,20090726,Canada,1
-106,11.8464,13.1603,20090730,"Maiduguri, Borno, Nigeria",4
-265,33.0,65.0,20090730,Afghanistan,1
-280,33.0,65.0,20090821,Afghanistan,1
-101,-6.76556,107.425,20091009,"Garuda, Jawa Barat, Indonesia",4
-114,31.7667,35.2333,20100601,"Jerusalem, Israel (general), Israel",4
-123,31.106,-97.6475,20100923,"Texas, United States",2
-117,37.5664,127.0,20101225,"Seoul, Soul-t'ukpyolsi, South Korea",4
-120,15.3547,44.2067,20110528,"Sanaa, San‘a', Yemen",4
-329,13.075,45.4003,20110603,"Sheikh Abdullah, Abyan, Yemen",4
-108,30.7555,20.2263,20110606,"Ajdabiyah, Al Wahat, Libya",4
-198,30.7555,20.2263,20110607,"Ajdabiyah, Al Wahat, Libya",4
-171,30.7555,20.2263,20110607,"Ajdabiyah, Al Wahat, Libya",4
-262,-1.0,15.0,20110814,Congo,1
-442,34.5167,69.1833,20110901,"Kabul, Kabol, Afghanistan",4
-198,4.00414,9.62138,20110929,"Wouri, Littoral, Cameroon",4
-215,33.5,36.3,20111104,"Damascus, Dimashq, Syria",4
-200,16.8053,96.1561,20120707,"Rangoon, Yangon, Myanmar",4
-108,35.75,51.5148,20120715,"Tehran, Tehran, Iran",4
-160,17.0,-4.0,20120726,Mali,1
-112,62.0,10.0,20121006,Norway,1
-170,22.0,98.0,20121026,Myanmar,1
-170,22.0,98.0,20121026,Myanmar,1
-117,34.5167,69.1833,20121031,"Kabul, Kabol, Afghanistan",4
-258,-2.1741,29.2933,20121120,"Goma, Ouest, Rwanda",4
-302,-2.1741,29.2933,20121120,"Goma, Ouest, Rwanda",4
-340,31.7667,35.2333,20121122,"Jerusalem, Israel (general), Israel",4
-120,31.4167,34.3333,20121123,"Gaza, Israel (general), Israel",4
-132,31.4167,34.3333,20121123,"Gaza City, Israel (general), Israel",4
-134,31.7667,35.2333,20121123,"Jerusalem, Israel (general), Israel",4
-120,31.4167,34.3333,20121123,"Gaza, Israel (general), Israel",4
-112,12.65,-8.0,20121211,"Bamako, Bamako, Mali",4
-210,28.9684,50.8385,20130416,"Bushehr, Bushehr, Iran",4
-380,-17.8581,31.0372,20130731,"Mbare, Harare, Zimbabwe",4
-260,-17.8581,31.0372,20130801,"Mbare, Harare, Zimbabwe",4
-148,34.0167,44.3833,20130801,"Hawijah, DiyaláZ, Iraq",4
-1139,15.5881,32.5342,20131221,"Khartoum, Al Khartum, Sudan",4
-175,15.5881,32.5342,20131222,"Khartoum, Al Khartum, Sudan",4
-108,34.5167,69.1833,20140712,"Kabul, Kabol, Afghanistan",4
-111,34.5167,69.1833,20140830,"Kabul, Kabol, Afghanistan",4
-118,15.3547,44.2067,20140909,"Sanaa, San‘a', Yemen",4
-131,15.0,30.0,20141215,Sudan,1
-140,4.84597,31.6012,20141220,"Juba, Wilayat Bahr al Jabal, South Sudan",4
-112,36.8028,10.1797,20141221,"Tunis, (TS26), Tunisia",4
-140,36.8028,10.1797,20141221,"Tunis, (TS26), Tunisia",4
-110,4.84597,31.6012,20150206,"Juba, Wilayat Bahr al Jabal, South Sudan",4
-498,34.5167,69.1833,20150322,"Kabul, Kabol, Afghanistan",4
-195,12.9719,44.8917,20150331,"Alwaht, La?ij, Yemen",4
-195,12.9719,44.8917,20150331,"Alwaht, La?ij, Yemen",4
-280,1.3667,103.8,20150531,Singapore,1
-204,34.5167,69.1833,20150603,"Kabul, Kabol, Afghanistan",4
-489,34.5167,69.1833,20150603,"Kabul, Kabol, Afghanistan",4
-702,34.5167,69.1833,20150603,"Kabul, Kabol, Afghanistan",4
-222,34.5167,69.1833,20150604,"Kabul, Kabol, Afghanistan",4
-144,34.5167,69.1833,20150604,"Kabul, Kabol, Afghanistan",4
-200,12.65,-8.0,20150611,"Bamako, Bamako, Mali",4
-236,39.0194,125.755,20150821,"Pyongyang, P'yongyang-si, North Korea",4
-120,39.0194,125.755,20150821,"Pyongyang, P'yongyang-si, North Korea",4
-116,39.0194,125.755,20150821,"Pyongyang, P'yongyang-si, North Korea",4
-120,39.0194,125.755,20150821,"Pyongyang, P'yongyang-si, North Korea",4
-384,24.6333,77.9667,20150910,"Tarai, Madhya Pradesh, India",4
-294,24.6333,77.9667,20150911,"Tarai, Madhya Pradesh, India",4
-300,42.8731,74.6003,20151004,"Bishkek, Bishkek, Kyrgyzstan",4
-126,-3.37611,29.36,20151107,"Bujumbura, Burundi (general), Burundi",4
-739,12.65,-8.0,20151121,"Bamako, Bamako, Mali",4
-142,4.36667,18.5833,20151213,"Bangui, Bangui, Central African Republic",4
-344,2.06667,45.3667,20151222,"Mogadishu, Banaadir, Somalia",4
-516,2.06667,45.3667,20151222,"Mogadishu, Banaadir, Somalia",4
-175,15.354700088500977,44.206699371337891,20160209,"Sanaa, San‘a', Yemen",4
-170,15.354700088500977,44.206699371337891,20160209,"Sanaa, San‘a', Yemen",4
-170,15.354700088500977,44.206699371337891,20160209,"Sanaa, San‘a', Yemen",4
-240,10.0,49.0,20160501,Somalia,1
-1290,37.8333,69.0,20160508,"Khatlon, Khatlon, Tajikistan",5
-125,36.729,68.857,20160508,"Kunduz, Kondoz, Afghanistan",4
-512,37.8333,69.0,20160508,"Khatlon, Khatlon, Tajikistan",5
-221,31.2089,16.5887,20160516,"Sirte, Sha`biyat Surt, Libya",4
-1060,14.4519,-2.242,20160710,"Dinangourou, Mopti, Mali",4
-180,24.0,90.0,20161226,Bangladesh,1
-108,24.0,90.0,20161226,Bangladesh,1
-110,0.9476,120.315,20170131,"Ko Ni, Sulawesi Tengah, Indonesia",4
-200,15.0,48.0,20170203,Yemen,1
-200,15.0,48.0,20170203,Yemen,1
-110,39.9272,32.8644,20170221,"Ankara, Ankara, Turkey",4
-110,25.0,45.0,20170225,Saudi Arabia,1
-110,25.0,45.0,20170225,Saudi Arabia,1
-214,55.7522,37.6156,20170404,"Kremlin, Moskva, Russia",4
-162,42.1497,-74.9384,20170404,"New York, United States",2
-114,9.0,49.0,20170524,"Puntland, Somalia (general), Somalia",4
-138,11.2842,49.1816,20170524,"Bosaso, Bari, Somalia",4
-147,11.2842,49.1816,20170524,"Bosaso, Bari, Somalia",4
-171,32.767,22.6367,20170713,"Derna, Sha`biyat Darnah, Libya",4
-327,-1.28333,36.8167,20170731,"Nairobi, Nairobi Area, Kenya",4
-120,11.4553,7.75004,20170917,"Audu, Kano, Nigeria",4
-315,35.0,38.0,20171012,Syria,1
-108,-1.28333,36.8167,20171027,"Nairobi, Nairobi Area, Kenya",4
-192,54.0,-4.0,20171102,United Kingdom,1
-248,17.0,-4.0,20171213,Mali,1
-120,8.31667,8.51667,20180207,"Benue, Nigeria (general), Nigeria",4
-141,36.2251,37.3266,20180211,"Afrin, ?alab, Syria",4
-180,33.0,66.0,20180315,Afghanistan,1
-110,39.9289,116.388,20180315,"Beijing, Beijing, China",4
-140,33.0,66.0,20180316,Afghanistan,1
-520,48.8667,2.33333,20180529,"Paris, France (general), France",4
-226,38.8951,-77.0364,20180612,"Washington, District of Columbia, United States",3
-4308,38.8951,-77.0364,20180612,"Washington, District of Columbia, United States",3
-386,38.8951,-77.0364,20180612,"Washington, District of Columbia, United States",3
-233,1.36667,103.8,20180612,"Singapore Island, Singapore (general), Singapore",4
-116,1.36667,103.8,20180612,"Singapore Island, Singapore (general), Singapore",4
-284,38.8951,-77.0364,20180614,"Washington, District of Columbia, United States",3
-200,32.8925,13.18,20180626,"Tripoli, Tarabulus, Libya",4
-200,32.8925,13.18,20180626,"Tripoli, Tarabulus, Libya",4
-144,35.9306,36.6339,20180904,"Idlib, Idlib, Syria",4
-125,34.5167,69.1833,20180914,"Kabul, Kabol, Afghanistan",4
-303,16.0,30.0,20181026,Sudan,1
-279,21.4201,110.292,20181211,"Wanzhou, Guangdong, China",4
-387,21.4201,110.292,20181211,"Wanzhou, Guangdong, China",4
-216,21.4201,110.292,20181211,"Wanzhou, Guangdong, China",4
-171,21.4201,110.292,20181211,"Wanzhou, Guangdong, China",4
-240,21.4201,110.292,20181211,"Wanzhou, Guangdong, China",4
-119,39.9289,116.388,20181212,"Beijing, Beijing, China",4
-156,22.25,114.166667,20181215,Hong Kong,1
-104,22.25,114.166667,20181215,Hong Kong,1
-128,32.25,67.25,20181216,"Zabul, Zabol, Afghanistan",5
-138,32.25,67.25,20181217,"Zabul, Zabol, Afghanistan",5
+GLOBALEVENTID,NumMentions,ActionGeo_Lat,ActionGeo_Long,SQLDATE,ActionGeo_FullName,ActionGeo_Type,AvgTone,SOURCEURL
+810492627,138,32.25,67.25,20181217,"Zabul, Zabol, Afghanistan",5,-3.08567017562457,https://www.asiabulletin.com/news/258610557/the-forgotten-afghan-province-that-became-taliban-country
+810462479,128,32.25,67.25,20181216,"Zabul, Zabol, Afghanistan",5,-3.21582731035335,https://www.rferl.org/a/the-forgotten-afghan-province-that-became-taliban-country/29659327.html
+810230257,104,22.25,114.166667,20181215,Hong Kong,1,-3.01507537688442,https://www.taiwansun.com/news/258599724/us-canada-promise-fair-process-for-chinese-tech-executive
+810230255,156,22.25,114.166667,20181215,Hong Kong,1,-3.01507537688442,https://www.taiwansun.com/news/258599724/us-canada-promise-fair-process-for-chinese-tech-executive
+809446777,119,39.9289,116.388,20181212,"Beijing, Beijing, China",4,-5.60286058790324,https://www.expressnews.com/news/crime/article/China-says-no-information-on-detained-ex-Canadian-13459521.php
+809254278,216,21.4201,110.292,20181211,"Wanzhou, Guangdong, China",4,-2.30727298227333,https://www.bowenislandundercurrent.com/former-canadian-diplomat-detained-in-china-amid-rising-tensions-reports-1.23528190
+809251084,171,21.4201,110.292,20181211,"Wanzhou, Guangdong, China",4,-5.99206570195269,https://www.princegeorgecitizen.com/former-canadian-diplomat-detained-in-china-amid-rising-tensions-reports-1.23528190
+809251086,240,21.4201,110.292,20181211,"Wanzhou, Guangdong, China",4,-3.38530341728501,https://www.princegeorgecitizen.com/former-canadian-diplomat-detained-in-china-amid-rising-tensions-reports-1.23528190
+809251087,279,21.4201,110.292,20181211,"Wanzhou, Guangdong, China",4,-3.38530341728501,https://www.princegeorgecitizen.com/former-canadian-diplomat-detained-in-china-amid-rising-tensions-reports-1.23528190
+809254279,387,21.4201,110.292,20181211,"Wanzhou, Guangdong, China",4,-2.30727298227333,https://www.bowenislandundercurrent.com/former-canadian-diplomat-detained-in-china-amid-rising-tensions-reports-1.23528190
+797670840,303,16.0,30.0,20181026,Sudan,1,-6.02141606192027,http://mynorthwest.com/1161147/south-sudan-peace-deal-bumpy-as-rebel-leader-doesnt-return/
+786943352,125,34.5167,69.1833,20180914,"Kabul, Kabol, Afghanistan",4,-7.80994766427913,http://www.digitaljournal.com/news/world/afghan-conflict-could-be-deadlier-than-syria-in-2018-analysts/article/532010
+784221019,144,35.9306,36.6339,20180904,"Idlib, Idlib, Syria",4,-7.84090784745741,https://www.yahoo.com/news/trump-warns-syria-russia-iran-against-idlib-tragedy-230000601.html
+767347110,200,32.8925,13.18,20180626,"Tripoli, Tarabulus, Libya",4,-4.66765431826472,https://www.kentucky.com/news/business/article213836144.html
+767347111,200,32.8925,13.18,20180626,"Tripoli, Tarabulus, Libya",4,-4.66765431826472,https://www.kentucky.com/news/business/article213836144.html
+764107615,284,38.8951,-77.0364,20180614,"Washington, District of Columbia, United States",3,-1.68032760126477,http://www.muskogeephoenix.com/cnhi_network/trump-declares-north-korean-threat-a-thing-of-the-past/article_f2afe9d5-bf6d-5a2f-9fa4-a8f2596020ec.html
+763595090,386,38.8951,-77.0364,20180612,"Washington, District of Columbia, United States",3,-1.09774793276081,http://www.ksby.com/story/38401547/trump-pledges-security-guarantees-to-nkorea-after-summit
+763585810,116,1.36667,103.8,20180612,"Singapore Island, Singapore (general), Singapore",4,-0.798202030562521,https://www.1065thearch.com/2018/06/12/trump-pledges-security-guarantees-to-nkorea-after-summit/
+763574170,233,1.36667,103.8,20180612,"Singapore Island, Singapore (general), Singapore",4,-0.824162970560025,http://www.kfvs12.com/story/38391989/trump-north-koreas-kim-jong-un-sign-unspecified-document
+763574171,226,38.8951,-77.0364,20180612,"Washington, District of Columbia, United States",3,-0.837322695419165,http://www.wbtw.com/news/national/officials-mulling-final-preparations-for-trumpkim-summit/1230901884
+763574169,4308,38.8951,-77.0364,20180612,"Washington, District of Columbia, United States",3,-0.929831001996459,http://www.wbtw.com/news/national/officials-mulling-final-preparations-for-trumpkim-summit/1230901884
+759935899,520,48.8667,2.33333,20180529,"Paris, France (general), France",4,-2.98862599531692,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2018-05-29-EU--France-Libya%20Conference/id-18a742a38d284f408611e271c3d0a591
+739183176,140,33.0,66.0,20180316,Afghanistan,1,-2.11221446330926,https://www.houstonchronicle.com/news/world/article/Report-China-ramps-up-security-presence-in-12755531.php
+739032455,180,33.0,66.0,20180315,Afghanistan,1,-2.06993307803387,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2018-03-15-AS--China-Tajikistan/id-de4be750873e432c90ed3513e5d272e3
+739018142,110,39.9289,116.388,20180315,"Beijing, Beijing, China",4,-3.75003690140491,https://www.seattletimes.com/nation-world/report-china-ramps-up-security-presence-in-tajikistan/
+729928025,141,36.2251,37.3266,20180211,"Afrin, ?alab, Syria",4,-2.19906262587802,https://in.reuters.com/article/mideast-crisis-syria-turkey-kurds/friend-or-foe-assad-quietly-aids-syrian-kurds-against-turkey-idINKBN1FV06P
+728932356,120,8.31667,8.51667,20180207,"Benue, Nigeria (general), Nigeria",4,-10.7506459022705,http://www.dailymail.co.uk/wires/afp/article-5363219/Nigeria-send-troops-restive-central-states-army.html
+714731221,248,17.0,-4.0,20171213,Mali,1,-2.54214678701543,http://www.digitaljournal.com/news/world/africa-europe-hope-to-rally-support-for-sahel-anti-terror-force/article/509844
+703260650,192,54.0,-4.0,20171102,United Kingdom,1,-5.50900427453371,http://www.therepublic.com/2017/11/02/af-kenyas-future/
+701531470,108,-1.28333,36.8167,20171027,"Nairobi, Nairobi Area, Kenya",4,-9.58334081692177,http://news.trust.org/item/20171027060400-f3rzi
+697104103,315,35.0,38.0,20171012,Syria,1,-2.78010344445717,http://www.kpbs.org/news/2017/oct/11/what-is-and-isnt-covered-by-the-iranian-nuclear/
+698542324,120,11.4553,7.75004,20170917,"Audu, Kano, Nigeria",4,-11.4107740128004,https://www.modernghana.com/news/809934/at-least-29-killed-in-central-nigeria-violence.html
+677432894,327,-1.28333,36.8167,20170731,"Nairobi, Nairobi Area, Kenya",4,-9.43421841940229,http://news.trust.org/item/20170731125148-0zs1d
+672711969,171,32.767,22.6367,20170713,"Derna, Sha`biyat Darnah, Libya",4,-7.01260369769605,http://hosted.ap.org/dynamic/stories/M/ML_LIBYA_WILD_SOUTH?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2017-07-13-03-16-21
+658569093,138,11.2842,49.1816,20170524,"Bosaso, Bari, Somalia",4,-8.21746954307265,http://www.outlookindia.com/newsscroll/is-kills-five-in-first-suicide-attack-in-somalia/1058771
+658569094,147,11.2842,49.1816,20170524,"Bosaso, Bari, Somalia",4,-8.21746954307265,http://journalducameroun.com/en/is-kills-five-in-first-suicide-attack-in-somalia-3/
+658569092,114,9.0,49.0,20170524,"Puntland, Somalia (general), Somalia",4,-8.2483968404209,http://www.outlookindia.com/newsscroll/is-kills-five-in-first-suicide-attack-in-somalia/1058771
+643410749,214,55.7522,37.6156,20170404,"Kremlin, Moskva, Russia",4,-7.55874475147805,http://abcnews.go.com/International/chechen-authorities-rounding-killing-gay-men-prophylactic-purge/story?id=46541508
+643410750,162,42.1497,-74.9384,20170404,"New York, United States",2,-7.5449321606599,http://abcnews.go.com/International/chechen-authorities-rounding-killing-gay-men-prophylactic-purge/story?id=46541508
+631161419,110,25.0,45.0,20170225,Saudi Arabia,1,-12.4862544431654,https://www.yahoo.com/news/senior-myanmar-police-jailed-over-rakhine-border-raids-072445236.html
+631161420,110,25.0,45.0,20170225,Saudi Arabia,1,-12.4862544431654,https://www.yahoo.com/news/senior-myanmar-police-jailed-over-rakhine-border-raids-072445236.html
+629740041,110,39.9272,32.8644,20170221,"Ankara, Ankara, Turkey",4,-6.02893620058612,https://www.samaa.tv/international/2017/02/regional-rivals-iran-turkey-trade-barbs-over-syria/
+623647836,200,15.0,48.0,20170203,Yemen,1,-5.8013512194593,http://www.charlotteobserver.com/news/politics-government/article130443534.html
+623647835,200,15.0,48.0,20170203,Yemen,1,-5.8013512194593,http://www.charlotteobserver.com/news/politics-government/article130443534.html
+622454171,110,0.9476,120.315,20170131,"Ko Ni, Sulawesi Tengah, Indonesia",4,-5.55642897904672,http://www.philippinetimes.com/index.php/sid/251330833
+611850007,108,24.0,90.0,20161226,Bangladesh,1,-9.78794847447827,http://www.metro.us/news/myanmar-says-muslim-with-links-to-government-murdered-in-troubled-rakhine/Lmiplz---XNjFgoKcW7tkWSZS52jkLw/
+611850008,180,24.0,90.0,20161226,Bangladesh,1,-9.78794847447827,http://www.metro.us/news/myanmar-says-muslim-with-links-to-government-murdered-in-troubled-rakhine/Lmiplz---XNjFgoKcW7tkWSZS52jkLw/
+558413524,1060,14.4519,-2.242,20160710,"Dinangourou, Mopti, Mali",4,-8.70023200363,https://www.yahoo.com/news/mali-gunmen-kill-2-soldiers-near-burkina-faso-125244577.html
+540668750,221,31.2089,16.5887,20160516,"Sirte, Sha`biyat Surt, Libya",4,-3.41748870081755,https://in.news.yahoo.com/powers-gather-discuss-mounting-threat-035903594.html
+538209692,125,36.729,68.857,20160508,"Kunduz, Kondoz, Afghanistan",4,-7.19317449947243,http://www.capradio.org/news/npr/story?storyid=477057772
+538209694,1290,37.8333,69.0,20160508,"Khatlon, Khatlon, Tajikistan",5,-7.18416951353832,http://www.capradio.org/news/npr/story?storyid=477057772
+538209691,512,37.8333,69.0,20160508,"Khatlon, Khatlon, Tajikistan",5,-7.19519070324856,http://www.npr.org/sections/parallels/2016/05/08/477057772/u-s-russia-both-worry-about-growing-turmoil-in-tajikistan
+535948124,240,10.0,49.0,20160501,Somalia,1,-6.34933323267733,http://www.freemalaysiatoday.com/category/world/2016/05/01/five-years-after-bin-laden-al-qaeda-down-but-far-from-out/
+509940154,170,15.354700088500977,44.206699371337891,20160209,"Sanaa, San‘a', Yemen",4,-6.5686469078063965,http://news.trust.org//item/20160209063241-jv3oi
+509940152,170,15.354700088500977,44.206699371337891,20160209,"Sanaa, San‘a', Yemen",4,-6.5686469078063965,http://news.trust.org//item/20160209063241-jv3oi
+509940153,175,15.354700088500977,44.206699371337891,20160209,"Sanaa, San‘a', Yemen",4,-6.5662846565246582,http://news.trust.org//item/20160209063241-jv3oi
+496425310,516,2.06667,45.3667,20151222,"Mogadishu, Banaadir, Somalia",4,-5.75850631163087,http://cnsnews.com/news/article/un-official-says-somalia-no-longer-failed-state
+496425309,344,2.06667,45.3667,20151222,"Mogadishu, Banaadir, Somalia",4,-5.75850631163087,http://cnsnews.com/news/article/un-official-says-somalia-no-longer-failed-state
+493722388,142,4.36667,18.5833,20151213,"Bangui, Bangui, Central African Republic",4,-4.49804666154689,http://www.globalpost.com/article/6704338/2015/12/12/volatile-c-africa-holds-make-or-break-vote-end-decades-strife
+487110193,739,12.65,-8.0,20151121,"Bamako, Bamako, Mali",4,-6.80887527909855,http://newsok.com/mali-awakes-to-state-of-emergency-after-hotel-assault/article/feed/923785
+482626924,126,-3.37611,29.36,20151107,"Bujumbura, Burundi (general), Burundi",4,-13.1997395405591,http://www.modernghana.com/news/654477/1/world-alarm-as-burundi-poised-to-crush-opponents.html
+472815096,300,42.8731,74.6003,20151004,"Bishkek, Bishkek, Kyrgyzstan",4,-4.05269308978663,http://news.yahoo.com/kyrgyzstan-goes-polls-parliamentary-vote-034905972.html
+465739653,294,24.6333,77.9667,20150911,"Tarai, Madhya Pradesh, India",4,-6.71715918762049,http://ualrpublicradio.org/post/i-am-nepal-now-says-new-tourist-campaign-only-nepal-chaos
+465693310,384,24.6333,77.9667,20150910,"Tarai, Madhya Pradesh, India",4,-6.66425445339246,http://krcu.org/post/i-am-nepal-now-says-new-tourist-campaign-only-nepal-chaos
+459634758,120,39.0194,125.755,20150821,"Pyongyang, P'yongyang-si, North Korea",4,-5.82461017286995,http://mobile.reuters.com/article/worldNews/idUSKCN0QQ08H20150821
+459634760,120,39.0194,125.755,20150821,"Pyongyang, P'yongyang-si, North Korea",4,-5.82461017286995,http://mobile.reuters.com/article/worldNews/idUSKCN0QQ08H20150821
+459634759,116,39.0194,125.755,20150821,"Pyongyang, P'yongyang-si, North Korea",4,-5.82461017286995,http://mobile.reuters.com/article/worldNews/idUSKCN0QQ08H20150821
+459596932,236,39.0194,125.755,20150821,"Pyongyang, P'yongyang-si, North Korea",4,-6.48100164260043,http://www.trust.org/item/20150821031033-s63mx/
+440109993,200,12.65,-8.0,20150611,"Bamako, Bamako, Mali",4,-6.46073339862941,http://news.yahoo.com/french-troops-mali-struggle-identify-enemy-041002381.html
+438311051,222,34.5167,69.1833,20150604,"Kabul, Kabol, Afghanistan",4,-7.49089465567105,http://lancasteronline.com/news/health/research-group-afghan-pro-government-militias-running-amok/article_2751750c-a2c9-590c-8907-44692692d2f8.html
+438311052,144,34.5167,69.1833,20150604,"Kabul, Kabol, Afghanistan",4,-6.51037510719073,http://lancasteronline.com/news/health/research-group-afghan-pro-government-militias-running-amok/article_2751750c-a2c9-590c-8907-44692692d2f8.html
+438295441,489,34.5167,69.1833,20150603,"Kabul, Kabol, Afghanistan",4,-6.41662822084008,http://mynorthwest.com/17/2769361/Research-group-Afghan-progovernment-militias-running-amok
+438295440,702,34.5167,69.1833,20150603,"Kabul, Kabol, Afghanistan",4,-7.48291132551591,http://mynorthwest.com/17/2769361/Research-group-Afghan-progovernment-militias-running-amok
+438295439,204,34.5167,69.1833,20150603,"Kabul, Kabol, Afghanistan",4,-7.58604956393226,http://www.therepublic.com/view/story/fcc3492164634b63812cd39ac2e655ad/AS--Afghanistan-Militias
+437405245,280,1.3667,103.8,20150531,Singapore,1,-2.36293106601012,https://au.news.yahoo.com/world/a/28288954/drought-hit-north-korea-seen-able-to-avoid-food-crisis/
+421491402,195,12.9719,44.8917,20150331,"Alwaht, La?ij, Yemen",4,-8.34403080872914,http://www.crookwellgazette.com.au/story/2981042/yemen-civilian-death-toll-mounts-as-families-flee-saudi-led-air-strikes/
+421491403,195,12.9719,44.8917,20150331,"Alwaht, La?ij, Yemen",4,-8.34403080872914,http://www.crookwellgazette.com.au/story/2981042/yemen-civilian-death-toll-mounts-as-families-flee-saudi-led-air-strikes/
+419117462,498,34.5167,69.1833,20150322,"Kabul, Kabol, Afghanistan",4,-4.93824501997611,http://www.dailymail.co.uk/wires/reuters/article-3006138/Fearing-Islamic-State-Afghanistans-Shiites-seek-help-old-enemies.html
+335585088,110,4.84597,31.6012,20150206,"Juba, Wilayat Bahr al Jabal, South Sudan",4,2.87148564323233,http://finance.yahoo.com/news/sudan-fighters-carried-month-rape-un-082013255.html
+328998127,140,36.8028,10.1797,20141221,"Tunis, (TS26), Tunisia",4,3.14111767355196,http://nation.com.pk/international/22-Dec-2014/tunisians-vote-in-historic-election
+328998123,112,36.8028,10.1797,20141221,"Tunis, (TS26), Tunisia",4,3.14111767355196,http://nation.com.pk/international/22-Dec-2014/tunisians-vote-in-historic-election
+328900715,140,4.84597,31.6012,20141220,"Juba, Wilayat Bahr al Jabal, South Sudan",4,1.18561818677662,http://news.yahoo.com/south-sudan-rebels-killed-11-bentiu-raped-women-004554301.html
+328104648,131,15.0,30.0,20141215,Sudan,1,2.14200570812995,http://www.kenyastar.com/index.php/sid/228556647
+313216966,118,15.3547,44.2067,20140909,"Sanaa, San‘a', Yemen",4,1.05666949626861,http://www.dawn.com/news/1130958/yemen-at-dangerous-crossroads-as-troops-clash-with-rebels
+311796733,111,34.5167,69.1833,20140830,"Kabul, Kabol, Afghanistan",4,1.45551614460521,http://www.asianage.com/international/six-killed-afghan-intel-agency-hit-taliban-729
+304869753,108,34.5167,69.1833,20140712,"Kabul, Kabol, Afghanistan",4,2.33521997882624,http://www.wsbt.com/news/nationworld/kerry-stays-in-afghanistan-for-election-talks/26921766
+280587811,175,15.5881,32.5342,20131222,"Khartoum, Al Khartum, Sudan",4,1.27031484010278,http://www.timesargus.com/article/20131222/NEWS04/712229898/0/FEATURES08&c=_7LHLfQPtaysNy0HhkqsjHEQqKBQVoPFcuWNh0mvVwo&mkt=en-us
+280504837,1139,15.5881,32.5342,20131221,"Khartoum, Al Khartum, Sudan",4,0.929598286728835,http://www.concordmonitor.com/news/nation/world/9903123-95/3-us-military-aircraft-hit-in-south-sudan-4-wounded
+261661215,148,34.0167,44.3833,20130801,"Hawijah, DiyaláZ, Iraq",4,0.61003977039304,http://www.nation.com.pk/pakistan-news-newspaper-daily-english-online/international/02-Aug-2013/1-000-killed-in-deadliest-month-for-iraq-in-5-years
+261661212,260,-17.8581,31.0372,20130801,"Mbare, Harare, Zimbabwe",4,2.28241508007924,http://www.chicagodefender.com/index.php/news/world/21995-zimbabwe-challenger-poll
+261523767,380,-17.8581,31.0372,20130731,"Mbare, Harare, Zimbabwe",4,1.81778554047777,http://www.osundefender.org/?p=114310
+253999461,210,28.9684,50.8385,20130416,"Bushehr, Bushehr, Iran",4,0.741394691803638,http://www.iol.co.za/news/world/pakistan-bears-brunt-of-earthquake-1.1501338
+225587921,112,12.65,-8.0,20121211,"Bamako, Bamako, Mali",4,1.79013696345199,unspecified
+224004522,120,31.4167,34.3333,20121123,"Gaza, Israel (general), Israel",4,2.61051174353714,unspecified
+224004520,120,31.4167,34.3333,20121123,"Gaza, Israel (general), Israel",4,2.61051174353714,unspecified
+224004516,134,31.7667,35.2333,20121123,"Jerusalem, Israel (general), Israel",4,2.53861468762873,unspecified
+224004517,132,31.4167,34.3333,20121123,"Gaza City, Israel (general), Israel",4,2.6405261138162,unspecified
+223921297,340,31.7667,35.2333,20121122,"Jerusalem, Israel (general), Israel",4,2.51405430591346,unspecified
+223708723,258,-2.1741,29.2933,20121120,"Goma, Ouest, Rwanda",4,2.5393508193749,unspecified
+223708710,302,-2.1741,29.2933,20121120,"Goma, Ouest, Rwanda",4,2.53167868000234,unspecified
+221834740,117,34.5167,69.1833,20121031,"Kabul, Kabol, Afghanistan",4,3.83219500619287,unspecified
+221441711,170,22.0,98.0,20121026,Myanmar,1,4.58460141562156,unspecified
+221441710,170,22.0,98.0,20121026,Myanmar,1,4.58460141562156,unspecified
+219673465,112,62.0,10.0,20121006,Norway,1,5.45382881829086,unspecified
+211605290,160,17.0,-4.0,20120726,Mali,1,5.9015518209859,unspecified
+210617747,108,35.75,51.5148,20120715,"Tehran, Tehran, Iran",4,6.9679309051739,unspecified
+209958701,200,16.8053,96.1561,20120707,"Rangoon, Yangon, Myanmar",4,3.91899787502005,unspecified
+79821963,215,33.5,36.3,20111104,"Damascus, Dimashq, Syria",4,5.32365348328907,unspecified
+77256688,198,4.00414,9.62138,20110929,"Wouri, Littoral, Cameroon",4,3.26913528867243,unspecified
+74617833,442,34.5167,69.1833,20110901,"Kabul, Kabol, Afghanistan",4,5.94069764840779,unspecified
+72957200,262,-1.0,15.0,20110814,Congo,1,6.10004503121802,unspecified
+125998807,171,30.7555,20.2263,20110607,"Ajdabiyah, Al Wahat, Libya",4,2.88840119130902,unspecified
+125998811,198,30.7555,20.2263,20110607,"Ajdabiyah, Al Wahat, Libya",4,2.9220825977525,unspecified
+125904904,108,30.7555,20.2263,20110606,"Ajdabiyah, Al Wahat, Libya",4,3.02044672448091,unspecified
+125656799,329,13.075,45.4003,20110603,"Sheikh Abdullah, Abyan, Yemen",4,5.76049726586052,unspecified
+125251807,120,15.3547,44.2067,20110528,"Sanaa, San‘a', Yemen",4,5.44280139037756,unspecified
+111761957,117,37.5664,127.0,20101225,"Seoul, Soul-t'ukpyolsi, South Korea",4,1.63461792849761,unspecified
+104137940,123,31.106,-97.6475,20100923,"Texas, United States",2,4.26951816359231,unspecified
+146460375,114,31.7667,35.2333,20100601,"Jerusalem, Israel (general), Israel",4,4.53503133124336,unspecified
+134359378,101,-6.76556,107.425,20091009,"Garuda, Jawa Barat, Indonesia",4,4.64829082306466,unspecified
+130866763,280,33.0,65.0,20090821,Afghanistan,1,4.44884873492256,unspecified
+129325993,106,11.8464,13.1603,20090730,"Maiduguri, Borno, Nigeria",4,2.33950380866998,unspecified
+129326001,265,33.0,65.0,20090730,Afghanistan,1,2.55029972023906,unspecified
+129017060,109,60.0,-95.0,20090726,Canada,1,6.86885511965717,unspecified
+163478037,235,37.5664,127.0,20090618,"Seoul, Soul-t'ukpyolsi, South Korea",4,4.80504236008443,unspecified
