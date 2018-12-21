@@ -52,12 +52,22 @@ function createHist(data) {
     })
     .rollup(function(d) {
       return d3.sum(d, function(g) {
-        return g.NumMentions
+        return g.AvgTone >= 0 ? g.NumMentions : 0;
       });
     }).entries(data);
 
+    let groupedByTwoMonthsNeg = d3.nest()
+      .key(function(d) {
+        return d3.timeMonth.every(2)(d.date);
+      })
+      .rollup(function(d) {
+        return d3.sum(d, function(g) {
+          return g.AvgTone < 0 ? g.NumMentions : 0;
+        });
+      }).entries(data);
+
   // get max NumMentions out of accumulated groups
-  let maxNumMentions = arrayMaxNumMentions(groupedByTwoMonths);
+  let maxNumMentions = Math.max(arrayMaxNumMentions(groupedByTwoMonths),arrayMaxNumMentions(groupedByTwoMonthsNeg));
 
   // set start and end date manually for the x scale
   // this improves comparability when switching between different organizations
@@ -118,11 +128,11 @@ function createHist(data) {
     .attr("d", line); // 11. Calls the line generator
 
   // Appends a circle for each datapoint
-  svg.selectAll(".rect")
+  svg.selectAll(".rectPlus")
     .data(groupedByTwoMonths)
     .enter().append("rect") // Uses the enter().append() method
     .filter((d) => STARTDATE < new Date(d.key))
-    .attr("class", "rect") // Assign a class for styling
+    .attr("class", "rectPlus") // Assign a class for styling
     .attr("x", function(d) {
       return xScale(new Date(d.key))
     })
@@ -139,7 +149,7 @@ function createHist(data) {
     })
     .on("mouseout", function() {
       d3.select(this)
-        .attr('class', 'rect');
+        .attr('class', 'rectPlus');
     })
     .on('mouseover', d => {
       div
@@ -147,11 +157,47 @@ function createHist(data) {
         .duration(200)
         .style('opacity', 0.9);
       div
-        .html( /*'<a href= "https://www.google.com/">' +*/ formatTime(new Date(d.key)) + '</a>' +
+        .html(formatTime(new Date(d.key)) + '</a>' +
           '<br/>' + d.value + ' Mentions')
         .style('left', d3.event.pageX + 'px')
         .style('top', d3.event.pageY - 28 + 'px');
     });
+
+    svg.selectAll(".rectMinus")
+      .data(groupedByTwoMonthsNeg)
+      .enter().append("rect") // Uses the enter().append() method
+      .filter((d) => STARTDATE < new Date(d.key))
+      .attr("class", "rectMinus") // Assign a class for styling
+      .attr("x", function(d) {
+        return xScale(new Date(d.key))
+      })
+      .attr("y", function(d) {
+        return yScale(0)
+      })
+      .attr("width", 20)
+      .attr("height", function(d) {
+        return yScale(maxNumMentions - d.value)
+      })
+      .on("mouseover", function() {
+        d3.select(this)
+          .attr('class', 'focus');
+      })
+      .on("mouseout", function() {
+        d3.select(this)
+          .attr('class', 'rectMinus');
+      })
+      .on('mouseover', d => {
+        div
+          .transition()
+          .duration(200)
+          .style('opacity', 0.9);
+        div
+          .html( formatTime(new Date(d.key)) + '</a>' +
+            '<br/>' + d.value + ' Mentions')
+          .style('left', d3.event.pageX + 'px')
+          .style('top', d3.event.pageY - 28 + 'px');
+      });
+
 
     console.log(groupedByTwoMonths);
 }
