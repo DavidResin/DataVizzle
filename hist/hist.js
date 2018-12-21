@@ -38,14 +38,14 @@ function createHist(data) {
   // convert SQLDATE to Date objects and store in 'date' column
   data.map(d => { d.date = convertSqlDateToDate(d.SQLDATE); });
 
-  let groupedByThreeMonths = d3.nest()
+  let groupedByTwoMonths = d3.nest()
     .key(function(d) { return d3.timeMonth.every(2)(d.date); })
     .rollup(function(d) {
       return d3.sum(d, function(g) { return g.NumMentions });
     }).entries(data);
 
   // get max NumMentions out of accumulated groups
-  let maxNumMentions = arrayMaxNumMentions(groupedByThreeMonths);
+  let maxNumMentions = arrayMaxNumMentions(groupedByTwoMonths);
 
   // set start and end date manually for the x scale
   // this improves comparability when switching between different organizations
@@ -95,7 +95,7 @@ function createHist(data) {
 
   // Appends a circle for each datapoint
   svg.selectAll(".dot")
-      .data(groupedByThreeMonths)
+      .data(groupedByTwoMonths)
       .enter().append("circle") // Uses the enter().append() method
       .filter((d) => STARTDATE < new Date(d.key))
         .attr("class", "dot") // Assign a class for styling
