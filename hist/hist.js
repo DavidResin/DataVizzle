@@ -71,7 +71,7 @@ function createHist(data) {
 
   // Y scale will use the NumMentions
   let yScale = d3.scaleLinear()
-    .domain([0, maxNumMentions]) // input
+    .domain([-maxNumMentions, maxNumMentions]) // input
     .range([height, 0]); // output
 
   // d3's line generator
@@ -118,27 +118,30 @@ function createHist(data) {
     .attr("d", line); // 11. Calls the line generator
 
   // Appends a circle for each datapoint
-  svg.selectAll(".dot")
+  svg.selectAll(".rect")
     .data(groupedByTwoMonths)
-    .enter().append("circle") // Uses the enter().append() method
+    .enter().append("rect") // Uses the enter().append() method
     .filter((d) => STARTDATE < new Date(d.key))
-    .attr("class", "dot") // Assign a class for styling
-    .attr("cx", function(d) {
+    .attr("class", "rect") // Assign a class for styling
+    .attr("x", function(d) {
       return xScale(new Date(d.key))
     })
-    .attr("cy", function(d) {
+    .attr("y", function(d) {
       return yScale(d.value)
     })
-    .attr("r", 5)
+    .attr("width", 20)
+    .attr("height", function(d) {
+      return yScale(maxNumMentions - d.value)
+    })
     .on("mouseover", function() {
       d3.select(this)
         .attr('class', 'focus');
     })
     .on("mouseout", function() {
       d3.select(this)
-        .attr('class', 'dot');
+        .attr('class', 'rect');
     })
-    .on('click', d => {
+    .on('mouseover', d => {
       div
         .transition()
         .duration(200)
@@ -149,4 +152,6 @@ function createHist(data) {
         .style('left', d3.event.pageX + 'px')
         .style('top', d3.event.pageY - 28 + 'px');
     });
+
+    console.log(groupedByTwoMonths);
 }
