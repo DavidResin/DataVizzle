@@ -1,0 +1,78 @@
+/* Split the screen in half */
+.split-h {
+  height: 100%;
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  overflow: hidden;
+}
+
+.split-v {
+	width: 100%;
+	position: fixed;
+	z-index: 1;
+	left: 0;
+  overflow: hidden;
+}
+
+/* Control the left side */
+.left {
+  left: 0;
+  width: 30%;
+}
+
+/* Control the right side */
+.right {
+  right: 0;
+  width: 70%;
+}
+
+.top {
+  top: 0;
+  height: 60%;
+}
+
+.bottom {
+  bottom: 0;
+  height: 40%;
+}
+
+/* If you want the content centered horizontally and vertically */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  font: 200 15px/1.5 Helvetica, Verdana, sans-serif;
+  border: 1px solid #ccc;
+  background-color: white;
+}
+
+body {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}
+
+svg {
+	max-height: inherit;
+	max-width: inherit;
+}
+
+body {
+  background-color: grey;
+}

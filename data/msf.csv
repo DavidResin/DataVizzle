@@ -1,0 +1,814 @@
+GLOBALEVENTID,NumMentions,ActionGeo_Lat,ActionGeo_Long,SQLDATE,ActionGeo_FullName,ActionGeo_Type,AvgTone,SOURCEURL
+810577585,190,14.7978,42.9545,20181217,"Hodeida, Al ?udaydah, Yemen",4,-6.74676306424593,https://www.pulse.com.gh/news/world/truce-in-yemens-hodeida-due-to-start-tuesday-after-new-clashes/dpzrk4w
+804079551,276,39.828175,-98.5795,20181120,United States,1,-8.28436855337277,https://www.npr.org/2018/11/20/669596607/italy-wants-rescue-ship-seized-accuses-doctors-without-borders-of-illegal-dumpin
+800929405,450,15.3333,43.3,20181108,"Bayda, Al Ma?wit, Yemen",4,-7.10214740007744,https://www.texomashomepage.com/news/troops-from-saudiled-coalition-take-yemen-port-neighborhood/1578695721
+800747136,930,15.3333,43.3,20181107,"Bayda, Al Ma?wit, Yemen",4,-6.52665391608486,https://www.krqe.com/news/world-news/troops-from-saudiled-coalition-take-yemen-port-neighborhood/1578684614
+800413703,110,14.7978,42.9545,20181106,"Hodeida, Al ?udaydah, Yemen",4,-6.81274471067843,https://www.msn.com/en-us/news/world/fears-for-civilians-rise-as-clashes-rattle-yemen-port-city/ar-BBPoSJl
+799451835,1074,16.1667,42.9167,20181102,"Bani Hassan, ?ajjah, Yemen",4,-7.48371875565046,https://www.chron.com/news/article/AP-PHOTOS-Yemen-s-displaced-live-on-bread-13356897.php
+799451832,1074,16.1667,42.9167,20181102,"Bani Hassan, ?ajjah, Yemen",4,-7.48371875565046,https://www.chron.com/news/article/AP-PHOTOS-Yemen-s-displaced-live-on-bread-13356897.php
+796383168,120,40.314,-74.5089,20181022,"New Jersey, United States",2,-5.40788795282646,https://www.westport-news.com/news/article/Quarantined-nurse-returns-to-Doctors-Without-13324380.php
+796296925,390,40.314,-74.5089,20181021,"New Jersey, United States",2,-5.37903189316253,https://www.sfgate.com/news/article/Quarantined-nurse-returns-to-Doctors-Without-13324380.php
+792611968,615,-0.533333,166.916667,20181006,Nauru,1,-2.93007476107257,https://www.walchanewsonline.com.au/story/5687826/mental-health-carers-poised-to-leave-nauru/
+792611967,615,-0.533333,166.916667,20181006,Nauru,1,-2.93007476107257,https://www.walchanewsonline.com.au/story/5687826/mental-health-carers-poised-to-leave-nauru/
+789548696,182,25.0,17.0,20180925,Libya,1,-4.42930057009337,https://koaa.com/ap-world-news/2018/09/24/the-latest-charities-call-on-eu-to-save-migrant-rescue-ship/
+789489500,200,25.0,17.0,20180924,Libya,1,-4.26481272618299,https://www.icflorida.com/news/the-latest-charities-call-on-eu-to-save-migrant-rescue-ship/840431090
+789482747,105,25.0,17.0,20180924,Libya,1,-3.21373223349029,http://www.wect.com/story/39159116/the-latest-france-seeks-eu-solution-to-migrant-rescue-ship
+788412395,194,33.3395,69.9204,20180920,"Khost, Khowst, Afghanistan",4,-2.24269606969773,http://www.digitaljournal.com/news/world/giving-birth-in-afghanistan-inside-msf-s-baby-factory/article/532507
+786090935,420,32.6486,14.2619,20180911,"Khoms, Al Marqab, Libya",4,-8.07968548995236,https://www.news.com.au/world/breaking-news/100-migrants-die-off-libyan-coast-group/news-story/ba2f27cd53d5361aa29564aac2fe5e34
+783510117,132,32.8925,13.18,20180831,"Tripoli, Tarabulus, Libya",4,-12.9984254901809,https://www.ksl.com/article/46384008/aid-group-warns-of-militia-fighting-in-libyas-tripoli
+782362652,360,-1.0,15.0,20180827,Congo,1,-1.4271149712091,https://www.npr.org/sections/goatsandsoda/2018/08/27/641536981/a-dangerous-twist-to-the-latest-ebola-outbreak
+781867272,200,22.4553,91.5017,20180825,"Aman Ullah, Chittagong, Bangladesh",4,-6.9391810936652,http://www.dailymail.co.uk/wires/afp/article-6096707/Rohingya-mark-black-day-one-year-Myanmar-violence.html
+781681994,154,31.4167,34.3333,20180824,"Gaza, Israel (general), Israel",4,-5.60070932189511,http://www.dailymail.co.uk/wires/afp/article-6094123/Israel-says-MSF-nurse-shot-troops-Gaza-border.html
+779683415,156,41.9,12.4833,20180816,"Rome, Lazio, Italy",4,-0.739936116172574,http://www.wbrc.com/story/38889699/the-latest-malta-says-italy-taking-some-aquarius-migrants
+779683412,208,41.9,12.4833,20180816,"Rome, Lazio, Italy",4,-0.739936116172574,http://www.wbrc.com/story/38889699/the-latest-malta-says-italy-taking-some-aquarius-migrants
+779567454,162,42.833333,12.833333,20180815,Italy,1,0.39510658571354,http://www.wfmz.com/news/ap-world-news/the-latest-ship-carrying-141-migrants-reaches-maltese-port/781807425
+779633035,408,41.9,12.4833,20180815,"Rome, Lazio, Italy",4,-0.62371420738504,https://www.ctpost.com/news/world/article/The-Latest-Ship-carrying-141-migrants-reaches-13157698.php
+779633036,102,41.9,12.4833,20180815,"Rome, Lazio, Italy",4,-0.62371420738504,https://www.ctpost.com/news/world/article/The-Latest-Ship-carrying-141-migrants-reaches-13157698.php
+779570535,216,42.833333,12.833333,20180815,Italy,1,0.298274227353334,https://www.mysanantonio.com/news/world/article/The-Latest-Ship-carrying-141-migrants-reaches-13157698.php
+779567453,530,42.833333,12.833333,20180815,Italy,1,0.39510658571354,http://www.wfmz.com/news/ap-world-news/the-latest-ship-carrying-141-migrants-reaches-maltese-port/781807425
+779567452,509,42.833333,12.833333,20180815,Italy,1,0.258601567068926,http://www.wfmz.com/news/ap-world-news/the-latest-ship-carrying-141-migrants-reaches-maltese-port/781807425
+779633037,306,41.9,12.4833,20180815,"Rome, Lazio, Italy",4,-0.62371420738504,https://www.ctpost.com/news/world/article/The-Latest-Ship-carrying-141-migrants-reaches-13157698.php
+779309797,756,35.5,12.6,20180814,"Lampedusa, Italy (general), Italy",4,-0.167317446793759,https://www.mrt.com/news/world/article/The-Latest-Malta-to-let-rescue-ship-with-141-13154756.php
+779309799,297,35.5,12.6,20180814,"Lampedusa, Italy (general), Italy",4,-0.165945992311843,https://www.mrt.com/news/world/article/The-Latest-Malta-to-let-rescue-ship-with-141-13154756.php
+779309796,191,43.4063,3.69304,20180814,"Sete, Languedoc-Roussillon, France",4,-0.386355217201058,https://www.mrt.com/news/world/article/The-Latest-Malta-to-let-rescue-ship-with-141-13154756.php
+779309800,671,35.5,12.6,20180814,"Lampedusa, Italy (general), Italy",4,-0.165945992311843,https://www.mrt.com/news/world/article/The-Latest-Malta-to-let-rescue-ship-with-141-13154756.php
+769533006,184,46.0,2.0,20180705,France,1,-4.79158026357606,https://www.barrietoday.com/world-news/60-migrants-refused-by-italy-and-malta-arrive-in-barcelona-974602
+769383810,1034,46.0,2.0,20180704,France,1,-4.33093783792926,https://www.tri-cityherald.com/news/nation-world/world/article214320624.html
+764920911,162,40.0,-4.0,20180617,Spain,1,-1.24367631662008,http://www.kesq.com/news/national-world/migrants-disembark-in-spain-after-mediterranean-standoff/754326572
+763684774,656,25.0,45.0,20180612,Saudi Arabia,1,-5.25811745534898,http://kcbx.org/post/un-withdraws-yemeni-port-city-amid-fears-devastating-attack
+763727236,307,43.0,35.0,20180612,"Black Sea, Oceans (general), Oceans",4,-2.13840339822499,http://wvasfm.org/post/migrant-ship-italian-support-will-make-dayslong-journey-spain
+763673734,892,10.1806,-68.0039,20180612,"Valencia, Carabobo, Venezuela",4,-2.25644793405809,https://www.msn.com/en-us/news/world/italy-sends-2-ships-to-help-bring-migrants-to-spain/ar-AAyxjqQ
+763666266,468,10.1806,-68.0039,20180612,"Valencia, Carabobo, Venezuela",4,-2.21245079734411,https://www.geo.tv/latest/199032-activists-protest-as-italy-prepares-to-ship-migrants-to-spain
+763485949,270,-1.0,15.0,20180612,Congo,1,-2.63784280267604,http://www.wbko.com/content/news/Crucial-test-of-Ebola-vaccine-raises-hopes-doubts-in-Congo-485167851.html
+763684775,164,15.6942,43.6058,20180612,"Hajjah, ?ajjah, Yemen",4,-5.25811745534898,http://kcbx.org/post/un-withdraws-yemeni-port-city-amid-fears-devastating-attack
+763330588,1290,42.833333,12.833333,20180611,Italy,1,-2.8834261269282,https://www.newstimes.com/news/world/article/The-Latest-EU-urges-Italy-Malta-to-resolve-ship-12983767.php
+763326975,112,43.6667,-79.4167,20180611,"Toronto, Ontario, Canada",4,2.5871993063722,http://www.theaurora.ca/living/baie-verte-physician-raising-funds-for-doctors-without-borders-217356/
+763334358,180,38.1,15.65,20180611,"Reggio Calabria, Calabria, Italy",4,-2.52380408845993,http://www.charlotteobserver.com/news/nation-world/world/article212936564.html
+763344979,160,41.9,12.4833,20180611,"Rome, Lazio, Italy",4,-2.4057612311801,http://www.koamtv.com/story/38393418/the-latest-spanish-pm-lets-migrant-boat-dock-at-valencia
+763293523,495,-1.0,15.0,20180611,Congo,1,-2.58459204713663,https://www.chron.com/news/science/article/Crucial-test-of-Ebola-vaccine-raises-hopes-12983593.php
+758725030,420,46.0,2.0,20180524,France,1,-5.8633959508392,https://www.cnn.com/2018/05/24/health/ebola-congo-outbreak-patients-escape/
+758455009,140,-1.02333,16.2164,20180523,"Iboko, Cuvette, Congo",4,-5.98552372607723,http://www.myarklamiss.com/news/who-says-9-nations-mobilize-to-prevent-possible-ebola-spread/1194060065
+756967623,222,11.0,-10.0,20180518,Guinea,1,-6.49577550486569,http://www.gazette-news.co.uk/news/national/16233868.Major__major_game-changer__Ebola_spreads_to_big_Congo_city/
+754228163,120,-0.732804,18.1341,20180509,"Bikoro, Éuateur, Democratic Republic Of The Congo",4,-6.64962852902345,http://www.whistalkradio.com/syndicated-article/?id=726982
+754133106,280,-1.0,15.0,20180508,Congo,1,-4.37546059090052,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2018-05-08-AF-Congo-Ebola/id-4a49ed46b90c40a4a220000e886ca015
+752312525,125,4.36667,18.5833,20180501,"Bangui, Bangui, Central African Republic",4,-7.317658672554,https://www.journalducameroun.com/en/at-least-16-killed-in-c-african-flare-up/
+752312526,130,4.36667,18.5833,20180501,"Bangui, Bangui, Central African Republic",4,-7.317658672554,https://www.journalducameroun.com/en/at-least-16-killed-in-c-african-flare-up/
+751479894,153,31.4167,34.3333,20180428,"Gaza City, Israel (general), Israel",4,-7.0795756883718,http://www.dailymail.co.uk/wires/afp/article-5668097/Israeli-gunfire-spotlight-hundreds-wounded-Gaza.html
+745806496,145,0.060832,40.3086,20180409,"Dadaab, North-Eastern, Kenya",4,-4.37205121951322,https://isp.netscape.com/news/story/0002/20180409/M1L5N1RG0AI_1833492332
+744714955,210,15.3547,44.2067,20180405,"Sanaa, San‘a', Yemen",4,1.49890056463464,http://wesm913.org/post/irony-930-million-donation-help-yemen
+744714958,210,15.3547,44.2067,20180405,"Sanaa, San‘a', Yemen",4,1.49890056463464,http://wesm913.org/post/irony-930-million-donation-help-yemen
+744681123,126,15.3547,44.2067,20180404,"Sanaa, San‘a', Yemen",4,1.49977817407141,http://wemu.org/post/irony-930-million-donation-help-yemen
+744681120,126,15.3547,44.2067,20180404,"Sanaa, San‘a', Yemen",4,1.49977817407141,http://wemu.org/post/irony-930-million-donation-help-yemen
+737589926,126,32.8925,13.18,20180310,"Tripoli, Tarabulus, Libya",4,-6.20501344661356,http://news.trust.org/item/20180310145525-hq3hs
+734628326,210,24.0,90.0,20180228,Bangladesh,1,-7.19687707361223,http://www.dailymail.co.uk/wires/afp/article-5444531/Rohingya-flee-no-mans-land-Myanmar-threat.html
+736194661,102,1.43556,31.3436,20180227,"Hoima, Hoima, Uganda",4,-8.61297508808804,https://au.news.yahoo.com/world/a/39418804/dr-congo-survivors-recount-nightmare-of-ethnic-massacre/
+731586401,304,51.5,-0.116667,20180217,"London, London, City of, United Kingdom",4,-5.36698931830227,https://www.metro.us/news/reuters/exclusive-haiti-president-says-many-aid-organizations-hid-misconduct
+731542644,120,51.5,-0.116667,20180216,"London, London, City of, United Kingdom",4,-5.04556540743723,http://news.trust.org/item/20180216213426-a9t7q
+729044566,140,21.219,92.1643,20180208,"Kutupalong, Chittagong, Bangladesh",4,-6.8213899524932,http://wesm913.org/post/monsoon-rains-could-devastate-rohingya-camps
+729016328,170,21.219,92.1643,20180207,"Kutupalong, Chittagong, Bangladesh",4,-6.95892926451928,https://www.npr.org/sections/goatsandsoda/2018/02/07/583419363/monsoon-rains-could-devastate-rohingya-camps
+726672299,136,35.9306,36.6339,20180130,"Idlib, Idlib, Syria",4,-6.09415752477694,http://www.tri-cityherald.com/news/business/health-care/article197334284.html
+723013406,230,24.0,90.0,20180117,Bangladesh,1,-5.28621270672507,http://www.dailymail.co.uk/wires/afp/article-5278241/Bangladesh-says-hosting-million-Rohingya.html
+723013405,221,24.0,90.0,20180117,Bangladesh,1,-5.28621270672507,http://www.dailymail.co.uk/wires/afp/article-5278241/Bangladesh-says-hosting-million-Rohingya.html
+717106927,160,49.0,32.0,20171222,Ukraine,1,-8.12083243266925,https://www.wthr.com/article/us-levies-sanctions-against-myanmar-general-dozen-others
+717028135,394,49.0,32.0,20171221,Ukraine,1,-7.98691534349621,http://www.roanoke.com/news/politics/wire/us-levies-sanctions-against-myanmar-general-dozen-others/article_42f41fc3-1534-520c-a283-98ec895ff960.html
+716592664,110,24.0,90.0,20171220,Bangladesh,1,-8.16738305381602,http://www.dailymail.co.uk/wires/afp/article-5197197/Ten-bodies-Myanmar-mass-grave-army.html
+716597837,113,28.6,77.2,20171220,"New Delhi, Delhi, India",4,-3.61817549179624,http://www.canindia.com/jaishankar-in-myanmar-to-discuss-security-cooperation/
+716592663,110,24.0,90.0,20171220,Bangladesh,1,-8.16738305381602,http://www.dailymail.co.uk/wires/afp/article-5197197/Ten-bodies-Myanmar-mass-grave-army.html
+715421053,120,22.128,92.0164,20171215,"Dolu, Chittagong, Bangladesh",4,-8.74875961351582,http://www.dailymail.co.uk/wires/afp/article-5182177/Rohingya-die-return-oppression-Myanmar.html
+714279683,130,37.75,14.25,20171211,"Sicily, Sicilia, Italy",5,-4.44424177912638,http://www.thesundaily.my/news/2017/12/12/nearly-900-migrants-rescued-libya-arrive-italy
+714279684,130,37.75,14.25,20171211,"Sicily, Sicilia, Italy",5,-4.44424177912638,http://www.thesundaily.my/news/2017/12/12/nearly-900-migrants-rescued-libya-arrive-italy
+712694547,548,-1.0,15.0,20171206,Congo,1,-3.18464882557207,http://www.sfgate.com/news/medical/article/Hundreds-of-thousands-of-poor-people-detained-in-12406952.php
+712694546,880,1.0,38.0,20171206,Kenya,1,-3.18806966047695,http://www.sfgate.com/news/medical/article/Hundreds-of-thousands-of-poor-people-detained-in-12406952.php
+712694548,880,1.0,38.0,20171206,Kenya,1,-3.18806966047695,http://www.sfgate.com/news/medical/article/Hundreds-of-thousands-of-poor-people-detained-in-12406952.php
+712694545,548,-1.0,15.0,20171206,Congo,1,-3.18464882557207,http://www.sfgate.com/news/medical/article/Hundreds-of-thousands-of-poor-people-detained-in-12406952.php
+712511554,128,25.0,45.0,20171205,Saudi Arabia,1,-7.48977777322273,http://billingsgazette.com/news/world/the-latest-icrc-says-killed-in-clashes-in-yemen-s/article_04ccd029-b016-51f8-ad39-93ce55d87455.html
+712507402,835,15.6942,43.6058,20171205,"Hajja, ?ajjah, Yemen",4,-7.48869435630707,http://www.dailymail.co.uk/wires/ap/article-5147283/The-Latest-ICRC-says-234-killed-clashes-Yemens-Sanaa.html
+701525456,805,35.9306,36.6339,20171027,"Idlib, Idlib, Syria",4,-9.55422160963007,http://www.npr.org/sections/thetwo-way/2017/10/27/560335242/u-n-watchdog-syrian-government-responsible-for-april-sarin-gas-attack
+700336132,132,24.0,90.0,20171023,Bangladesh,1,-4.27483436339177,http://www.foreigndesknews.com/news/politics/rohingyas-must-go-home/
+697620471,120,38.1167,13.3667,20171013,"Palermo, Sicilia, Italy",4,-1.87474149603678,http://www.digitaljournal.com/news/world/more-than-200-migrant-children-rescued-in-med/article/504951
+681450630,160,32.8925,13.18,20170815,"Tripoli, Tarabulus, Libya",4,-4.48226542722252,http://www.tbo.com/ap/world/the-latest-libyan-coastguard-threatens-spanish-ship-ap_world3b9a44c91d0b4f78a91a9550c5826665
+681214402,386,25.0,17.0,20170815,Libya,1,-6.25922805304326,http://fremonttribune.com/news/world/the-latest-greece-arrests-suspected-migrant-smugglers/article_b333969a-e44e-5659-acee-f88fb28c4513.html
+680951520,128,25.0,17.0,20170814,Libya,1,-5.49344218378142,http://www.fairfieldcitizenonline.com/news/world/article/The-Latest-Romanian-coastguard-intercepts-Iraq-11815728.php
+680951519,228,25.0,17.0,20170814,Libya,1,-3.08586752014822,http://www.fairfieldcitizenonline.com/news/world/article/The-Latest-Romanian-coastguard-intercepts-Iraq-11815728.php
+680957171,102,25.0,17.0,20170814,Libya,1,0.423721785256179,http://www.4zzzfm.org.au/news/headlines/2017/08/14/qld-premier-demands-apology-queensland-rail-after-latest-train-debacle-and
+680858785,1038,25.0,17.0,20170813,Libya,1,-4.94113469926856,http://www.sfchronicle.com/news/world/article/The-Latest-Romanian-coastguard-intercepts-Iraq-11815728.php
+680909811,140,25.0,17.0,20170813,Libya,1,0.33484005356283,http://www.digitaljournal.com/news/world/italy-applauds-libya-s-decision-on-migrant-search-and-rescue-zone/article/499915
+680879924,400,32.8925,13.18,20170813,"Tripoli, Tarabulus, Libya",4,-3.81853602376598,http://nanaimonewsnow.com/article/546042/another-ship-suspends-migrant-rescues-citing-libyan-threats
+680879923,404,40.0,-4.0,20170813,Spain,1,-3.81153607156544,http://nanaimonewsnow.com/article/546042/another-ship-suspends-migrant-rescues-citing-libyan-threats
+680909812,150,25.0,17.0,20170813,Libya,1,0.107178574290401,http://www.digitaljournal.com/news/world/italy-applauds-libya-s-decision-on-migrant-search-and-rescue-zone/article/499915
+680734919,720,42.8333,12.8333,20170812,Italy,1,-4.6048765172445,http://mynorthwest.com/717215/migrant-aid-group-suspends-rescue-ship-off-libya-cites-risk/
+680734918,720,42.8333,12.8333,20170812,Italy,1,-4.6048765172445,http://mynorthwest.com/717215/migrant-aid-group-suspends-rescue-ship-off-libya-cites-risk/
+680215787,120,46.0,2.0,20170810,France,1,-5.14749719900951,http://kdhnews.com/living/health/yemen-national-blood-bank-faces-threat-of-closure/article_565cb5af-0bc2-5784-ab3e-f78798b3f835.html
+680215784,157,15.3547,44.2067,20170810,"Sanaa, San‘a', Yemen",4,-5.14749719900951,http://kdhnews.com/living/health/yemen-national-blood-bank-faces-threat-of-closure/article_565cb5af-0bc2-5784-ab3e-f78798b3f835.html
+677715346,1095,25.0,17.0,20170801,Libya,1,-4.54451588378939,http://www.startribune.com/italy-focuses-on-libya-mission-to-manage-migrant-crisis/437822673/
+673075944,225,8.43333,33.2167,20170714,"Pibor, , South Sudan",4,-1.05549509307996,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2017-07-14-AF--South%20Sudan-Aid%20Workers%20Attacked/id-78a771f9d8dc4509aa37d31f1b9889cf
+669388250,302,39.0,35.0,20170630,Turkey,1,-9.57147381692206,http://www.npr.org/sections/thetwo-way/2017/06/30/534983929/syrian-civilians-exposed-to-sarin-in-april-attack-international-watchdog-says
+668812694,237,42.8333,12.8333,20170628,Italy,1,-0.919549261148022,http://www.mysanantonio.com/news/world/article/Italy-seeks-more-EU-support-amid-wave-of-migrant-11253128.php
+668812695,237,42.8333,12.8333,20170628,Italy,1,-0.919549261148022,http://www.mysanantonio.com/news/world/article/Italy-seeks-more-EU-support-amid-wave-of-migrant-11253128.php
+667415269,104,32.8925,13.18,20170623,"Tripoli, Tarabulus, Libya",4,-4.58115418827004,http://news.trust.org/item/20170623060213-fid6z
+663800372,160,35.5296,43.8406,20170611,"Khazir, At Ta'mim, Iraq",4,-6.97343468793694,http://www.dailymail.co.uk/wires/afp/article-4592596/Tired-traumatised-Mosul-mothers-unable-breastfeed.html
+663800373,157,35.5296,43.8406,20170611,"Khazir, At Ta'mim, Iraq",4,-6.97343468793694,http://www.dailymail.co.uk/wires/afp/article-4592596/Tired-traumatised-Mosul-mothers-unable-breastfeed.html
+659612966,654,53.5,-2.21667,20170527,"Manchester, Manchester, United Kingdom",4,-2.80620515478549,http://www.kpbs.org/news/2017/may/27/g7-summit-ends-without-us-joining-consensus-on/
+656522266,110,15.6942,43.6058,20170517,"Hajjah, ?ajjah, Yemen",4,-3.22580645161291,http://capeandislands.org/post/thousands-yemen-get-sick-entirely-preventable-cholera-outbreak
+655684791,290,15.3547,44.2067,20170515,"Sanaa, San‘a', Yemen",4,-7.74534392652831,http://www.thesundaily.my/news/2017/05/15/yemen-declares-state-emergency-over-cholera-outbreak
+655684790,290,15.3547,44.2067,20170515,"Sanaa, San‘a', Yemen",4,-7.74534392652831,http://www.thesundaily.my/news/2017/05/15/yemen-declares-state-emergency-over-cholera-outbreak
+648159011,288,46.0,2.0,20170419,France,1,-6.89360440399143,http://www.bigstory.ap.org/article/1e1367246c324b48a4694ac5d011e5b2/aid-group-says-cameroon-expelling-refugees-nigeria
+644722923,275,11.0,-10.0,20170408,Guinea,1,-5.60690460813109,http://mtpr.org/post/measles-surges-europe-officials-brace-rough-year
+644658373,335,11.0,-10.0,20170407,Guinea,1,-5.59446065306161,http://www.capradio.org/news/npr/story?storyid=522867040
+644359744,170,35.9306,36.6339,20170407,"Idlib, Idlib, Syria",4,-6.03016942771563,http://www.mcclatchydc.com/news/politics-government/white-house/article143242259.html
+643934369,335,33.5,36.3,20170406,"Damascus, Dimashq, Syria",4,-5.8081465069685,http://www.14news.com/story/35072815/mounting-confidence-nerve-gas-was-used-in-syria-attack
+644090731,761,35.4406,36.65,20170406,"Khan Sheikhoun, Idlib, Syria",4,-6.70185446132494,http://www.hawaiinewsnow.com/story/35082947/turkey-syria-autopsies-show-chemical-weapons-used-in-attack
+643934372,680,39.0,35.0,20170406,Turkey,1,-7.90148121644785,http://www.wboc.com/story/35080774/chemical-attack-kills-22-members-of-a-single-family-in-syria
+643934368,1084,39.0,35.0,20170406,Turkey,1,-7.90148121644785,http://www.wboc.com/story/35080774/chemical-attack-kills-22-members-of-a-single-family-in-syria
+643934366,1023,33.5,36.3,20170406,"Damascus, Dimashq, Syria",4,-6.75961313352165,http://www.14news.com/story/35072815/mounting-confidence-nerve-gas-was-used-in-syria-attack
+644090727,158,35.4406,36.65,20170406,"Khan Sheikhoun, Idlib, Syria",4,-6.64709511731544,http://www.dailymail.co.uk/wires/ap/article-4386202/Turkey-Syria-autopsies-chemical-weapons-used-attack.html
+644264181,470,33.5,36.3833,20170406,"Ghouta, Dimashq, Syria",4,-5.70809248554914,http://wfxl.com/news/nation-world/senate-resolution-condemning-assad-chemical-attacks
+643913838,530,39.0,35.0,20170405,Turkey,1,-7.72982343894272,http://www.seattlepi.com/news/world/article/Chemical-attack-kills-22-members-of-a-single-11053278.php
+643832407,240,33.5,36.3,20170405,"Damascus, Dimashq, Syria",4,-9.43114884359299,http://radio.wpsu.org/post/experts-suspect-nerve-agent-was-used-syrian-attack
+643913836,940,39.0,35.0,20170405,Turkey,1,-7.72982343894272,http://www.seattlepi.com/news/world/article/Chemical-attack-kills-22-members-of-a-single-11053278.php
+643897073,222,33.5,36.3,20170405,"Damascus, Dimashq, Syria",4,-6.2916125824457,http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2017-04-05-ML--Syria/id-8625ef859f094ddc80d30f2238f8633d
+643007560,145,47.0,8.0,20170403,Switzerland,1,-5.49703257099898,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2017-04-03-AF--South%20Sudan-Aid%20Workers%20Released/id-6dbf47bcc9f94799b0bc98843aede7ba
+643007561,145,8.0,30.0,20170403,South Sudan,1,-5.49703257099898,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2017-04-03-AF--South%20Sudan-Aid%20Workers%20Released/id-6dbf47bcc9f94799b0bc98843aede7ba
+637480763,120,11.0695,32.6739,20170316,"Shilluk, Wilayat A`ali an Nil, South Sudan",4,-6.61021199195539,http://www.dailymail.co.uk/wires/reuters/article-4320268/Attack-aid-convoy-South-Sudan-kills-two-wounds-three.html
+632454394,270,36.2028,37.1586,20170301,"Aleppo, ?alab, Syria",4,-9.09709757328264,http://www.digitaljournal.com/news/world/syria-regime-rebels-committed-war-crimes-in-aleppo-un-probe/article/486910
+632077650,160,15.0,39.0,20170228,Eritrea,1,-4.67955516841353,https://www.washingtonpost.com/world/africa/the-latest-report-eritreans-suffer-as-eu-closes-ways-there/2017/02/28/9ad0306e-fdba-11e6-9b78-824ccab94435_story.html
+632073159,152,25.0,17.0,20170228,Libya,1,-4.97176578359754,http://www.mysanantonio.com/news/world/article/The-Latest-Report-Eritreans-suffer-as-EU-closes-10964848.php
+632073158,487,25.0,17.0,20170228,Libya,1,-4.99924142542193,http://www.mysanantonio.com/news/world/article/The-Latest-Report-Eritreans-suffer-as-EU-closes-10964848.php
+632073157,748,25.0,17.0,20170228,Libya,1,-4.97176578359754,http://www.mysanantonio.com/news/world/article/The-Latest-Report-Eritreans-suffer-as-EU-closes-10964848.php
+632073160,598,25.0,17.0,20170228,Libya,1,-4.97176578359754,http://www.mysanantonio.com/news/world/article/The-Latest-Report-Eritreans-suffer-as-EU-closes-10964848.php
+628227940,144,-34.0,-64.0,20170216,Argentina,1,-3.59692381580204,https://www.democracynow.org/2017/2/16/headlines
+627757916,333,31.0,36.0,20170215,Jordan,1,-5.1975386766006,http://abcnews.go.com/International/wireStory/medical-group-warns-severe-shortages-yemens-taiz-45506585
+624009654,112,25.0,17.0,20170204,Libya,1,-7.24618180335041,http://www.WLOX.com/story/34422553/the-latest-poland-refuses-to-take-in-10-orphans-from-aleppo
+624009652,132,25.0,17.0,20170204,Libya,1,-7.23775468127635,http://www.WLOX.com/story/34422553/the-latest-poland-refuses-to-take-in-10-orphans-from-aleppo
+623897945,1543,25.0,17.0,20170203,Libya,1,-7.41928328331996,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2017-02-03-EU-Europe-Migrants-The-Latest/id-ddedd1dc04ef4b3681aa93b3008bc4ff
+623897944,1558,25.0,17.0,20170203,Libya,1,-7.41803438497748,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2017-02-03-EU-Europe-Migrants-The-Latest/id-ddedd1dc04ef4b3681aa93b3008bc4ff
+623833937,920,32.8925,13.18,20170203,"Tripoli, Tarabulus, Libya",4,-4.0418847140048,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2017-02-03-EU--Europe-Migrants/id-203ac90e596649d59dc8df05ea11794f
+622208672,165,,,20170130,,0,-1.16950431728152,http://muscatinejournal.com/news/national/the-latest-doctors-without-borders-trump-endangers-lives/image_d63b9ea2-2d1e-5fe8-947b-fada9dc176f8.html
+621511714,105,2.06667,45.3667,20170128,"Mogadishu, Banaadir, Somalia",4,-6.9272408963001,http://www.bentoneveningnews.com/news/20170127/doctors-without-borders-says-it-plans-to-return-to-somalia
+621269356,1876,2.06667,45.3667,20170127,"Mogadishu, Banaadir, Somalia",4,-6.5367769077868,https://www.washingtonpost.com/world/africa/doctors-without-borders-says-it-plans-to-return-to-somalia/2017/01/27/3711997a-e472-11e6-a419-eefe8eff0835_story.html
+621269355,1846,2.06667,45.3667,20170127,"Mogadishu, Banaadir, Somalia",4,-6.5362564084752,https://www.washingtonpost.com/world/africa/doctors-without-borders-says-it-plans-to-return-to-somalia/2017/01/27/3711997a-e472-11e6-a419-eefe8eff0835_story.html
+619411523,200,6.0,12.0,20170121,Cameroon,1,-9.05156927428159,http://www.reuters.com/article/us-nigeria-security-idUSKBN1550RU
+619015488,1206,11.8464,13.1603,20170120,"Maiduguri, Borno, Nigeria",4,-5.76269078869557,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2017-01-20-AF-Nigeria-Bombing-Error/id-d91d115beaae4a48ae50b5f2a35a2a6f
+619013647,1275,11.8464,13.1603,20170120,"Maiduguri, Borno, Nigeria",4,-5.90246391864871,http://www.sfgate.com/news/world/article/Boko-Haram-attacks-camp-bombed-by-Nigeria-s-air-10871038.php
+619013648,280,10.0,8.0,20170120,Nigeria,1,-8.72221879020687,http://abcnews.go.com/International/wireStory/boko-haram-attacks-camp-bombed-nigerias-air-force-44911752
+618170976,125,10.0,8.0,20170118,Nigeria,1,-7.7785111092053,http://krvn.com/abc_world/dozens-dead-after-nigerian-air-force-bombs-refugee-camp-aid-group-says-abcid35846692/
+618023288,310,11.8464,13.1603,20170117,"Maiduguri, Borno, Nigeria",4,-7.48296801147186,http://www.cnn.com/2017/01/17/africa/nigeria-airstrike-refugee-camp-aid-workers-killed/
+615459314,338,39.1667,26.25,20170109,"Lesbos, Perifereia Voreiou Aigaiou, Greece",4,-4.7392124959761,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2017-01-09-EU-Europe-Migrants/id-b0c7abe08e324ea3a881e973176d1181
+615469555,104,50.8333,4.33333,20170109,"Brussels, Bruxelles-Capitale, Belgium",4,-4.51013705607973,http://www.seattletimes.com/nation-world/eu-commission-untenable-situation-in-greek-refugee-camps/
+614950180,620,11.8464,13.1603,20170107,"Maiduguri, Borno, Nigeria",4,-9.23307780441484,http://bigstory.ap.org/article/d660608747c04635aed2c6c1c65aa57d/doctors-without-borders-giving-food-boko-haram-refugees
+607429247,120,10.0,8.0,20161211,Nigeria,1,1.77123696682813,https://www.yahoo.com/news/rescuers-save-1-164-migrants-mediterranean-six-bodies-195538478.html
+602854968,110,37.9833,23.7333,20161127,"Athens, AttikíR, Greece",4,-9.01026113844966,http://www.dailyamerican.com/news/nation/greek-pm-expresses-shock-at-refugee-deaths-in-camp-blaze/article_7b4813b3-5ef3-5dac-ab9e-e0d77615b1f6.html
+602622661,210,37.9833,23.7333,20161126,"Athens, AttikíR, Greece",4,-8.3635409641977,http://www.sunherald.com/news/nation-world/article116950658.html
+602614795,200,39.1667,26.25,20161126,"Lesbos, Perifereia Voreiou Aigaiou, Greece",4,-8.99852093799759,http://www.voanews.com/a/migrant-tensions-growing-bulgaria-greece/3612058.html
+602555849,480,37.9833,23.7333,20161125,"Athens, AttikíR, Greece",4,-9.08235301302329,http://www.sfchronicle.com/news/world/article/Greek-PM-expresses-shock-at-refugee-deaths-in-10635396.php
+599569400,460,15.3547,44.2067,20161116,"Sanaa, San‘a', Yemen",4,-5.84930650843284,http://www.sfgate.com/news/world/article/US-backed-air-campaign-in-Yemen-raises-war-crimes-10617632.php
+599569401,119,15.3547,44.2067,20161116,"Sanaa, San‘a', Yemen",4,-5.88958425515585,http://www.sfgate.com/news/world/article/US-backed-air-campaign-in-Yemen-raises-war-crimes-10617632.php
+599569402,126,15.3547,44.2067,20161116,"Sanaa, San‘a', Yemen",4,-5.84903452522119,http://www.sfgate.com/news/world/article/US-backed-air-campaign-in-Yemen-raises-war-crimes-10617632.php
+591727562,290,25.0,17.0,20161023,Libya,1,-2.4191759031217,http://www.mywabashvalley.com/news/3300-migrants-rescued-off-libyan-coast
+591727564,290,25.0,17.0,20161023,Libya,1,-2.4191759031217,http://www.mywabashvalley.com/news/3300-migrants-rescued-off-libyan-coast
+591727565,290,25.0,17.0,20161023,Libya,1,-2.4191759031217,http://www.mywabashvalley.com/news/3300-migrants-rescued-off-libyan-coast
+591727563,580,25.0,17.0,20161023,Libya,1,-2.4191759031217,http://www.mywabashvalley.com/news/3300-migrants-rescued-off-libyan-coast
+591573258,604,25.0,17.0,20161022,Libya,1,-1.86892644515502,http://www.kpax.com/story/33450714/3300-migrants-rescued-off-libyan-coast
+591631934,320,25.0,17.0,20161022,Libya,1,-2.12424002843059,"http://www.thefinancialexpress-bd.com/2016/10/22/50314/Rescuers-help-3,300-migrants-off-Libyan-coast"
+591631935,630,25.0,17.0,20161022,Libya,1,-2.12424002843059,"http://www.thefinancialexpress-bd.com/2016/10/22/50314/Rescuers-help-3,300-migrants-off-Libyan-coast"
+591573259,601,25.0,17.0,20161022,Libya,1,-1.87216925579559,http://www.kpax.com/story/33450714/3300-migrants-rescued-off-libyan-coast
+591049073,110,25.0,17.0,20161020,Libya,1,-6.26856206900184,http://www.dailymail.co.uk/wires/afp/article-3856880/Some-1-400-migrants-rescued-Libyan-coast.html
+588956533,117,36.2028,37.1586,20161014,"Aleppo, ?alab, Syria",4,-5.87030680978172,http://hosted.ap.org/dynamic/stories/M/ML_SYRIA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2016-10-14-09-27-52
+588956532,698,36.2028,37.1586,20161014,"Aleppo, ?alab, Syria",4,-5.88686565279865,http://hosted.ap.org/dynamic/stories/M/ML_SYRIA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2016-10-14-09-27-52
+586817383,413,46.0,2.0,20161008,France,1,-5.55655317209432,http://www.dailyprogress.com/news/world/wire/the-latest-russia-floats-rival-un-resolution-on-syria/article_f7704a66-2fda-5e4a-8064-584b56bcaf9f.html
+586709111,910,46.0,2.0,20161007,France,1,-5.22514776731778,http://wbt.com/the-latest-al-qaida-faction-refuses-to-leave-aleppo/
+585312387,105,46.1956,6.14811,20161004,"Geneva, Genè, Switzerland",4,-5.03935929600908,http://wjsu.org/post/one-year-after-tragic-us-attack-kunduz-taliban-gains-ground-again
+585228045,326,-3.5,30.0,20161003,Burundi,1,-7.46054669653947,http://abcnews.go.com/Politics/forced-home-exhibit-shows-visitors-refugee/story?id=42483458
+585228043,350,-3.5,30.0,20161003,Burundi,1,-7.46054669653947,http://abcnews.go.com/Politics/forced-home-exhibit-shows-visitors-refugee/story?id=42483458
+584710693,150,31.95,35.9333,20161001,"Amman, (JO11), Jordan",4,-5.75932024917859,http://www.chron.com/news/world/article/Syrians-refuse-attempted-relocation-along-Jordan-9518744.php
+584625294,175,36.2028,37.1586,20161001,"Aleppo, ?alab, Syria",4,-7.83274753508858,https://www.yahoo.com/news/artillery-fire-rocks-aleppo-syria-army-presses-assault-081649677.html
+584625293,126,36.2028,37.1586,20161001,"Aleppo, ?alab, Syria",4,-7.93289180071745,https://www.yahoo.com/news/artillery-fire-rocks-aleppo-syria-army-presses-assault-081649677.html
+583943837,462,36.2028,37.1586,20160929,"Aleppo, ?alab, Syria",4,-6.44487205106814,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2016-09-29-Syria-The%20Latest/id-e22732974c8444109b12a9741b9184c7
+583928281,428,55.7522,37.6156,20160929,"Moscow, Moskva, Russia",4,-6.47188591975365,http://hosted.ap.org/dynamic/stories/S/SYRIA_THE_LATEST?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2016-09-29-05-39-17
+583924002,1454,36.2028,37.1586,20160929,"Aleppo, ?alab, Syria",4,-6.44412167375381,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2016-09-29-Syria-The-Latest/id-2f64591ee20d41238efde81d779cd7e7
+583914481,1310,11.8464,13.1603,20160929,"Maiduguri, Borno, Nigeria",4,-5.93526262109109,http://www.krmg.com/ap/ap/top-news/75000-could-starve-to-death-in-nigeria-after-boko-/nsg5s/
+581348874,133,46.0,2.0,20160921,France,1,-3.92011747642724,http://hosted.ap.org/dynamic/stories/U/UN_UNITED_NATIONS_ANTIMICROBIAL_RESISTANCE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2016-09-21-14-25-44
+578572544,139,46.0,2.0,20160913,France,1,-0.898014993878832,http://abcnews.go.com/International/baby-born-migrant-rescue-ship-mediterranean-sea/story?id=42034727
+578179677,520,41.9,12.4833,20160912,"Rome, Lazio, Italy",4,-1.65958297895783,http://www.4029tv.com/national/baby-boy-born-on-migrant-rescue-vessel/41625818
+574235068,153,52.5167,13.4,20160830,"Berlin, Berlin, Germany",4,-3.25854895368864,http://wbt.com/newborn-twins-among-thousands-rescued-in-the-mediterranean/
+574235069,109,42.8333,12.8333,20160830,Italy,1,-3.25854895368864,http://wbt.com/newborn-twins-among-thousands-rescued-in-the-mediterranean/
+574235070,280,42.8333,12.8333,20160830,Italy,1,-3.25854895368864,http://wbt.com/newborn-twins-among-thousands-rescued-in-the-mediterranean/
+573344408,112,36.2028,37.1586,20160827,"Aleppo, ?alab, Syria",4,-1.35860934910479,http://www.dailyprogress.com/prescott-playground-dedicated-to-kayla-mueller-to-open/article_c44667d6-a5cf-5fa9-8ef5-41a3f600ad93.html
+581809119,120,35.9306,36.6339,20160824,"Idlib, Idlib, Syria",4,-7.3464674920914,http://kwbu.org/post/syrian-president-bashar-assad-says-us-not-genuine-about-cease-fire
+581809120,120,35.9306,36.6339,20160824,"Idlib, Idlib, Syria",4,-7.3464674920914,http://kwbu.org/post/syrian-president-bashar-assad-says-us-not-genuine-about-cease-fire
+581809117,584,15.0,48.0,20160824,Yemen,1,-6.75828557773656,http://www.stourbridgenews.co.uk/news/national/14759945.Boris_Johnson_rejects_calls_to_back_inquiry_over__Saudi_human_rights_breaches_/
+581809116,146,25.0,45.0,20160824,Saudi Arabia,1,-6.75828557773656,http://www.stourbridgenews.co.uk/news/national/14759945.Boris_Johnson_rejects_calls_to_back_inquiry_over__Saudi_human_rights_breaches_/
+581758159,132,35.9306,36.6339,20160823,"Idlib, Idlib, Syria",4,-7.35281406131339,http://www.npr.org/sections/thetwo-way/2016/09/22/495031063/syrian-president-bashar-assad-says-u-s-not-genuine-about-cease-fire
+581767864,136,25.0,45.0,20160823,Saudi Arabia,1,-6.76295638794926,http://www.nwemail.co.uk/news/national/article/Boris-Johnson-rejects-calls-to-back-inquiry-over-Saudi-human-rights-breaches-a7b47a3d-85a1-4428-aea0-d07f9034b658-ds
+581758160,132,35.9306,36.6339,20160823,"Idlib, Idlib, Syria",4,-7.35281406131339,http://www.npr.org/sections/thetwo-way/2016/09/22/495031063/syrian-president-bashar-assad-says-u-s-not-genuine-about-cease-fire
+581767865,544,15.0,48.0,20160823,Yemen,1,-6.76295638794926,http://www.nwemail.co.uk/news/national/article/Boris-Johnson-rejects-calls-to-back-inquiry-over-Saudi-human-rights-breaches-a7b47a3d-85a1-4428-aea0-d07f9034b658-ds
+573753836,375,15.0,48.0,20160822,Yemen,1,-8.25445443127115,http://www.npr.org/sections/thetwo-way/2016/08/29/491780546/suicide-bombing-in-yemen-kills-at-least-45-attack-claimed-by-islamic-state
+571199866,794,15.6942,43.6058,20160821,"Hajja, ?ajjah, Yemen",4,-6.78157228946291,http://www.nigeriasun.com/index.php/sid/246919445
+571110819,360,15.6942,43.6058,20160820,"Hajja, ?ajjah, Yemen",4,-6.5444840107505,http://www.voanews.com/a/kerry-kenya-nigeria-saudi-arabia/3473055.html
+570988715,114,15.6942,43.6058,20160820,"Hajjah, ?ajjah, Yemen",4,-3.47349177330896,http://radio.wpsu.org/post/doctors-without-borders-evacuates-teams-hospitals-north-yemen
+570980909,140,18.5392,-72.335,20160820,"Port-Au-Prince, Ouest, Haiti",4,-4.18246804861345,http://www.wect.com/story/32795071/haiti-welcomes-un-admission-plans-to-assist-cholera-victims
+570722540,216,18.5392,-72.335,20160819,"Port-Au-Prince, Ouest, Haiti",4,-3.1624316074914,http://www.dailymail.co.uk/wires/ap/article-3748314/US-appeals-court-upholds-UN-immunity-Haiti-cholera-suit.html
+570897305,396,15.6942,43.6058,20160819,"Hajjah, ?ajjah, Yemen",4,-3.46967118069683,http://kawc.org/post/doctors-without-borders-evacuates-teams-hospitals-north-yemen
+570713653,180,15.6942,43.6058,20160819,"Hajja, ?ajjah, Yemen",4,-5.3404387811803,http://www.globalsecurity.org/military/library/news/2016/08/mil-160818-voa02.htm
+570687974,394,15.6942,43.6058,20160819,"Hajjah, ?ajjah, Yemen",4,-3.53885357921217,https://thearabianpost.com/TAP/2016/08/doctors-without-borders-is-pulling-staff-after-hospital-bombings-in-yemen.html
+570878590,124,15.6942,43.6058,20160819,"Hajjah, ?ajjah, Yemen",4,-5.23169603994325,http://www.cnn.com/2016/08/19/world/yemen-msf-withdraws/
+569977297,110,25.0,45.0,20160817,Saudi Arabia,1,-7.0697042999135,http://m.philstar.com/314190/show/7a6e3e85ece7569f95f027da96c7d3fd?t=i6ldaiplet6tmomt574lhskr44
+569977298,110,25.0,45.0,20160817,Saudi Arabia,1,-7.0697042999135,http://m.philstar.com/314190/show/7a6e3e85ece7569f95f027da96c7d3fd?t=i6ldaiplet6tmomt574lhskr44
+569822831,153,15.6942,43.6058,20160816,"Hajja, ?ajjah, Yemen",4,-7.59421524074334,http://wsau.com/news/articles/2016/aug/16/saudi-led-coalition-air-strike-kills-nine-yemeni-civilians-residents/
+579327303,445,15.0,48.0,20160816,Yemen,1,-5.15372033579476,http://www.yorkshirepost.co.uk/news/national/mps-urge-halt-to-uk-arms-sales-over-saudi-arabia-human-rights-breaches-1-8128463
+579331010,1050,25.0,45.0,20160816,Saudi Arabia,1,-5.13832030452235,http://www.dailymail.co.uk/wires/pa/article-3791195/MPs-urge-halt-UK-arms-sales-Saudi-Arabia-human-rights-breaches.html
+569844111,414,25.0,45.0,20160816,Saudi Arabia,1,-7.04383701320799,http://wtop.com/middle-east/2016/08/yemens-houthi-rebels-condemn-hospital-airstrike/
+569881697,410,25.0,45.0,20160816,Saudi Arabia,1,-7.01920642145287,http://hosted.ap.org/dynamic/stories/M/ML_YEMEN?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2016-08-16-12-34-45
+569839740,374,15.3547,44.2067,20160816,"Sanaa, San‘a', Yemen",4,-7.58617639906662,http://hosted.ap.org/dynamic/stories/M/ML_YEMEN?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2016-08-16-10-09-32
+569534695,115,15.3547,44.2067,20160815,"Sanaa, San‘a', Yemen",4,-4.52919553306428,http://www.sfgate.com/news/world/article/Airstrike-hits-aid-group-s-hospital-in-northern-9143250.php
+569534694,191,15.3547,44.2067,20160815,"Sanaa, San‘a', Yemen",4,-4.22559330165316,http://www.sfgate.com/news/world/article/Airstrike-hits-aid-group-s-hospital-in-northern-9143250.php
+569216581,440,14.086,44.2641,20160814,"Haydan, Ibb, Yemen",4,-5.59061091474824,http://www.middleeaststar.com/index.php/sid/246712091
+568465502,290,36.2028,37.1586,20160811,"Aleppo, ?alab, Syria",4,-7.96848739261221,http://www.sharenet.co.za/news/Intensifying_fight_for_Aleppo_chokes_civilian_population/204cf3083af71d1f0636abbd1123383d
+564121646,150,4.84597,31.6012,20160728,"Juba, Wilayat Bahr al Jabal, South Sudan",4,-5.58719925753612,http://www.neworleanssun.com/index.php/sid/246203345
+563880331,2208,4.84597,31.6012,20160727,"Juba, Wilayat Bahr al Jabal, South Sudan",4,-5.63837977380488,https://www.yahoo.com/news/witnesses-south-sudan-soldiers-raped-dozens-near-un-081600135.html
+563079370,340,44.8186,20.4681,20160725,"Belgrade, Serbia (general),",4,-9.24821748380041,http://indianexpress.com/article/india/india-news-india/migrants-protest-against-eu-leaders-ask-why-the-borders-are-being-closed-2933912/
+563079371,332,44.8186,20.4681,20160725,"Belgrade, Serbia (general),",4,-9.24821748380041,http://indianexpress.com/article/india/india-news-india/migrants-protest-against-eu-leaders-ask-why-the-borders-are-being-closed-2933912/
+563056647,344,44.8186,20.4681,20160724,"Belgrade, Serbia (general),",4,-9.11417047670917,http://www.seattletimes.com/nation-world/protesting-migrants-ask-eu-leaders-why-borders-are-closed/
+563056648,340,44.8186,20.4681,20160724,"Belgrade, Serbia (general),",4,-9.11417047670917,http://www.seattletimes.com/nation-world/protesting-migrants-ask-eu-leaders-why-borders-are-closed/
+562771482,240,45.0492,20.0792,20160723,"Indjija, , Serbia",4,-7.62316989910297,https://www.washingtonpost.com/world/europe/migrants-brave-heat-to-march-to-serbia-hungary-border/2016/07/23/e7952c60-50cc-11e6-bf27-405106836f96_story.html
+562771480,240,45.0492,20.0792,20160723,"Indjija, , Serbia",4,-7.62316989910297,https://www.washingtonpost.com/world/europe/migrants-brave-heat-to-march-to-serbia-hungary-border/2016/07/23/e7952c60-50cc-11e6-bf27-405106836f96_story.html
+562170549,177,31.0,36.0,20160721,Jordan,1,-5.30601903409884,http://infotel.ca/newsitem/ml-syria/cp1511602968
+561951970,390,17.0,-4.0,20160721,Mali,1,-8.17268728022023,http://wamu.org/news/16/07/20/mali_extends_state_of_emergency_after_series_of_deadly_attacks
+562170550,296,33.2854,35.69,20160721,"Ramtha, Al Qunaytirah, Syria",4,-5.30601903409884,http://infotel.ca/newsitem/ml-syria/cp1511602968
+561420577,188,39.0,35.0,20160719,Turkey,1,-3.96495139264761,https://www.yahoo.com/news/italy-says-2-500-boat-migrants-rescued-one-145046996.html
+559073431,110,15.0,30.0,20160712,Sudan,1,-7.43884696005939,http://customwire.ap.org/dynamic/stories/A/AF_SOUTH_SUDAN_SHOOTING?SITE=NDBIS&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2016-07-12-09-20-11
+559078130,402,4.84597,31.6012,20160712,"Juba, Wilayat Bahr al Jabal, South Sudan",4,-7.50301912174878,http://www.krmg.com/ap/ap/top-news/precarious-calm-in-south-sudans-capital-as-foreign/nrw8h/
+559055604,272,4.84597,31.6012,20160712,"Juba, Wilayat Bahr al Jabal, South Sudan",4,-6.99549410068359,http://wbt.com/precarious-calm-in-south-sudans-capital-as-foreigners-flee/
+557115841,680,42.8333,12.8333,20160706,Italy,1,-5.50588801947294,http://www.cnn.com/2016/07/06/europe/italy-migrants-rescued/
+556011831,606,11.8464,13.1603,20160702,"Maiduguri, Borno, Nigeria",4,-6.42591347430935,http://www.nigeriasun.com/index.php/sid/245485441
+551253928,355,39.0,35.0,20160617,Turkey,1,-6.36537088772731,http://www.heraldbulletin.com/region/doctors-without-borders-says-it-will-no-longer-seek-eu/article_0ace3c8a-43f2-5cff-b9c8-4cf50f296424.html
+551305871,174,38.3228,26.3064,20160617,"Cesme, Izmir, Turkey",4,-5.46953351415429,http://www.dailymail.co.uk/wires/ap/article-3646691/The-Latest-Turkeys-coast-guard-stops-dozens-migrants.html
+551264678,1262,50.8333,4.33333,20160617,"Brussels, Bruxelles-Capitale, Belgium",4,-1.6694865314115,http://www.therepublic.com/2016/06/17/eu-europe-migrants-15/
+551352062,445,39.0,35.0,20160617,Turkey,1,-7.1186902732736,http://kazu.org/post/doctors-without-borders-rejects-eu-funds-over-migrant-policies
+551352060,445,39.0,35.0,20160617,Turkey,1,-7.1186902732736,http://kazu.org/post/doctors-without-borders-rejects-eu-funds-over-migrant-policies
+551253931,894,39.0,35.0,20160617,Turkey,1,-5.25109559801459,http://www.sfgate.com/news/article/Doctors-Without-Borders-says-it-will-no-longer-8283589.php
+551352061,440,33.0,65.0,20160617,Afghanistan,1,-7.17272006788562,http://kazu.org/post/doctors-without-borders-rejects-eu-funds-over-migrant-policies
+551305872,114,38.3228,26.3064,20160617,"Cesme, Izmir, Turkey",4,-5.12575533368215,http://www.chron.com/news/article/The-Latest-Turkey-s-coast-guard-stops-dozens-of-8291994.php
+548415308,105,25.0,17.0,20160608,Libya,1,-8.8352369103499,http://timesofindia.indiatimes.com/world/europe/Sudan-extradites-kingpin-of-migrant-smugglers-to-Italy/articleshow/52658149.cms
+548368792,122,38.4833,15.9667,20160608,"Rosarno, Calabria, Italy",4,-12.6321966609073,http://zeenews.india.com/news/world/italy-policeman-shoots-dead-migrant-who-stabbed-him_1893052.html
+545514930,435,46.0,2.0,20160530,France,1,-7.36542241441146,http://www.wistv.com/story/32095470/the-latest-france-commits-funds-to-run-migrant-camp
+545184980,790,42.8333,12.8333,20160529,Italy,1,-11.3585469270139,http://www.4029tv.com/national/more-than-700-migrants-feared-missing-or-dead-in-shipwrecks-un-says/39778322
+545184981,790,39.0,22.0,20160529,Greece,1,-11.3585469270139,http://www.4029tv.com/national/more-than-700-migrants-feared-missing-or-dead-in-shipwrecks-un-says/39778322
+544831961,123,15.0,48.0,20160528,Yemen,1,-8.04944271767592,http://www.heraldglobe.com/index.php/sid/244446855
+544443330,174,15.0,48.0,20160527,Yemen,1,-6.96749375941004,http://www.austinglobe.com/index.php/sid/244425959
+544718254,124,36.5866,37.0463,20160527,"Azaz, ?alab, Syria",4,-7.51597950009213,http://kenw.org/post/doctors-without-borders-evacuating-key-syrian-hospital-amid-isis-offensive
+545581690,1002,36.2028,37.1586,20160524,"Aleppo, ?alab, Syria",4,-6.9387430489687,http://www.fox30jax.com/news/as-peace-talks-stall-syrian-opposition-negotiator-resigns/311254722
+545421523,240,36.2028,37.1586,20160523,"Aleppo, ?alab, Syria",4,-6.61631325353955,https://www.washingtonpost.com/world/middle_east/as-peace-talks-stall-syrian-opposition-negotiator-resigns/2016/05/30/8b7036e8-264f-11e6-8329-6104954928d2_story.html
+542950608,102,41.0186,28.9647,20160523,"Istanbul, Istanbul, Turkey",4,-3.42864722550212,http://www.nst.com.my/news/2016/05/147238/leaders-ngos-meet-istanbul-first-humanitarian-summit
+542999701,336,15.0,48.0,20160523,Yemen,1,-5.46026841361558,http://www.sfgate.com/news/article/Hospitals-a-deadly-target-in-Middle-East-conflicts-7939252.php
+542509559,202,41.0186,28.9647,20160521,"Istanbul, Istanbul, Turkey",4,-3.53616025785217,http://www.digitaljournal.com/news/world/istanbul-summit-seeks-to-transform-aid-response-defy-critics/article/465894
+542456831,176,7.0,21.0,20160521,Central African Republic,1,-6.34328358208956,http://wlrn.org/post/doctors-without-borders-suspends-work-parts-central-african-republic
+542396366,188,7.0,21.0,20160520,Central African Republic,1,-6.34328358208956,http://wmot.org/post/doctors-without-borders-suspends-work-parts-central-african-republic
+542396367,852,7.0,21.0,20160520,Central African Republic,1,-6.30702054194315,http://www.wlrh.org/NPR-News/doctors-without-borders-suspends-work-parts-central-african-republic
+551327854,210,-1.0,15.0,20160518,Congo,1,-7.56395088860654,https://www.yahoo.com/news/fresh-violence-central-african-republic-kills-several-forces-133222951.html
+541144643,154,36.729,68.857,20160517,"Kunduz, Kondoz, Afghanistan",4,-6.76264793095012,http://mynorthwest.com/293956/medical-charity-msf-urges-us-to-pay-afghan-hospital-victims/
+541244547,160,36.729,68.857,20160517,"Kunduz, Kondoz, Afghanistan",4,-6.6601087277341,http://www.mysanantonio.com/news/world/article/Medical-charity-MSF-urges-US-to-pay-Afghan-7521128.php
+541144644,616,36.729,68.857,20160517,"Kunduz, Kondoz, Afghanistan",4,-6.76264793095012,http://mynorthwest.com/293956/medical-charity-msf-urges-us-to-pay-afghan-hospital-victims/
+537476222,125,48.8667,2.33333,20160505,"Paris, RhôAlpes, France",4,-2.78527351991146,http://www.washingtontimes.com/news/2016/may/5/doctors-without-borders-pulls-out-of-un-humanitari/
+537480278,580,8.0,30.0,20160505,South Sudan,1,-2.88084786985165,http://www.kten.com/story/31901201/doctors-without-borders-pulls-out-of-un-humanitarian-summit
+537468277,270,41.0186,28.9647,20160505,"Istanbul, Istanbul, Turkey",4,-3.57154312439812,http://bigstory.ap.org/article/6c0caeb0c86043dd8698f38907346a00/doctors-without-borders-pulls-out-un-humanitarian-summit
+537480277,220,,,20160505,,0,1.9094349564646,http://www.usnews.com/news/world/articles/2016-05-05/doctors-without-borders-pulls-out-of-un-humanitarian-summit
+536910175,195,36.2028,37.1586,20160504,"Aleppo, ?alab, Syria",4,-6.53559241368547,http://www.cnn.com/2016/05/04/middleeast/aleppo-syria-civil-war/
+536711245,540,54.0,-2.0,20160503,United Kingdom,1,-6.88253571125538,http://www.wtma.com/news/bill-gross-fast-facts/
+535678868,175,36.729,68.857,20160430,"Kunduz, Kondoz, Afghanistan",4,-5.37655936584306,http://kwit.org/post/pentagon-report-says-airstrike-afghan-hospital-wasnt-war-crime
+535365318,412,36.729,68.857,20160429,"Kunduz, Kondoz, Afghanistan",4,-5.51357768896753,http://nation.com.pk/international/29-Apr-2016/us-disciplines-16-for-deadly-attack-on-hospital-in-afghanistan
+535324523,125,36.729,68.857,20160429,"Kunduz, Kondoz, Afghanistan",4,-6.85919397995535,http://www.todayonline.com/world/us-military-punishes-16-over-2015-afghan-hospital-bombing
+535142352,116,36.2028,37.1586,20160428,"Aleppo, ?alab, Syria",4,-7.00803243050341,http://www.nbcnews.com/news/world/doctors-without-borders-airstrike-aleppo-syria-hospital-kills-14-n563966
+535100696,255,36.2028,37.1586,20160428,"Aleppo, ?alab, Syria",4,-3.27123857576286,http://www.cbsnews.com/news/syria-airstrike-al-quds-hospital-rebel-held-aleppo-doctor-cease-fire/
+535100695,124,36.2028,37.1586,20160428,"Aleppo, ?alab, Syria",4,-7.60077129636673,http://www.cbsnews.com/news/syria-airstrike-al-quds-hospital-rebel-held-aleppo-doctor-cease-fire/
+531191302,610,39.0,35.0,20160416,Turkey,1,-6.60254843115819,http://www.hawaiinewsnow.com/story/31741863/is-captures-several-villages-from-syrian-troops-in-aleppo
+530968396,105,36.5866,37.0463,20160415,"Azaz, ?alab, Syria",4,-5.48815196109992,http://www.journal-news.com/news/ap/top-news/syrian-government-delegation-arrives-in-geneva-for/nq52j/
+527280979,125,60.0,-95.0,20160404,Canada,1,-5.00891097723677,http://www.usatoday.com/story/news/world/2016/04/04/dailychatter-europe-failure/82606444/
+523792131,156,37.9833,23.7333,20160323,"Athens, AttikíR, Greece",4,-6.3161575586685,http://www.newser.com/article/04a04d6822f3406a85074e48b1f926e3/greece-refugee-protests-at-border-islands.html
+638514562,600,-6.0,147.0,20160320,Papua New Guinea,1,-0.696643445218491,http://www.wellingtontimes.com.au/story/4541358/the-conundrum-of-foreign-aid/
+522126290,162,36.729,68.857,20160318,"Kunduz, Kondoz, Afghanistan",4,-8.47510649456761,http://www.timesofisrael.com/us-troops-said-punished-over-afghan-hospital-attack/
+521406450,120,24.6408,46.7728,20160316,"Riyadh, Ar Riya?, Saudi Arabia",4,-9.41366702526322,http://www.sungazette.com/page/content.detail/id/1113539/Witnesses--Warplanes-bomb-Yemeni-market--killing-dozens.html?isap=1&nav=5022
+521290681,1020,25.0,45.0,20160315,Saudi Arabia,1,-9.38867088149064,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2016-03-15-ML--Yemen/id-18523b046bf2415f8954f1ed8b1f10f8
+521290682,612,25.0,45.0,20160315,Saudi Arabia,1,-9.38867088149064,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2016-03-15-ML--Yemen/id-18523b046bf2415f8954f1ed8b1f10f8
+521332158,150,24.6408,46.7728,20160315,"Riyadh, Ar Riya?, Saudi Arabia",4,-9.39521704989943,http://www.daytondailynews.com/ap/ap/top-news/witnesses-warplanes-bomb-yemeni-market-killing-doz/nqkz5/
+520354908,110,20.0,77.0,20160312,India,1,-3.47064959092636,http://www.ajc.com/ap/ap/business/msf-challenges-pfizers-india-vaccine-patent-applic/nqjfB/
+516717588,130,41.8333,22.0,20160301,Macedonia,1,-9.28059528860584,http://www.emirates247.com/news/migrants-try-to-storm-greece-macedonia-border-fence-2016-03-01-1.622735
+515630541,363,38.0,-97.0,20160226,United States,1,-6.9730939865112305,http://www.beaumontenterprise.com/news/world/article/US-payments-to-Afghans-in-clinic-attack-called-6855544.php
+515636927,113,36.729000091552734,68.857002258300781,20160226,"Kunduz, Kondoz, Afghanistan",4,-7.03467321395874,http://missoulian.com/news/world/asia/us-payments-to-afghans-in-clinic-attack-called-inadequate/article_eabcafbd-6d43-5174-b53a-ca60ae49a2ec.html
+515630542,202,36.729000091552734,68.857002258300781,20160226,"Kunduz, Kondoz, Afghanistan",4,-6.8385872840881348,http://www.beaumontenterprise.com/news/world/article/US-payments-to-Afghans-in-clinic-attack-called-6855544.php
+514490641,130,2.78087,45.5005,20160223,"Jowhar, Shabeellaha Dhexe, Somalia",4,-3.75965182688533,http://www.voanews.com/content/reu-aid-cuts-trigger-health-crisis-in-somalia/3202743.html
+514490640,130,2.78087,45.5005,20160223,"Jowhar, Shabeellaha Dhexe, Somalia",4,-3.75965182688533,http://www.voanews.com/content/reu-aid-cuts-trigger-health-crisis-in-somalia/3202743.html
+514490642,130,2.78087,45.5005,20160223,"Jowhar, Shabeellaha Dhexe, Somalia",4,-3.75965182688533,http://www.voanews.com/content/reu-aid-cuts-trigger-health-crisis-in-somalia/3202743.html
+512885723,646,36.2028,37.1586,20160218,"Aleppo, ?alab, Syria",4,-1.39120344375992,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2016-02-17-Syria-The%20Latest/id-6310f8fd47b448d9a5abe1e9da2503ca
+512753052,240,33.5,36.3,20160217,"Damascus, Dimashq, Syria",4,-1.110639629623,http://www.kfbb.com/story/31240619/the-latest-syria-aid-convoys-arrive-to-besieged-suburbs
+512483512,234,36.5866,37.0463,20160217,"Azaz, ?alab, Syria",4,-4.22433283450913,http://theworldlink.com/news/world/europe/the-latest-syria-accuses-alliance-of-striking-hospital/article_a19db86d-91d2-5424-acfc-7cda99c7ada9.html
+512771234,458,36.2028,37.1586,20160217,"Aleppo, ?alab, Syria",4,-1.46236548060312,http://www.roanoke.com/news/politics/wire/the-latest-msf-says-death-toll-in-syria-airstrike-now/article_de687381-547d-50b0-868a-14cdcd9dd88c.html
+512111272,114,35.9306,36.6339,20160216,"Idlib, Idlib, Syria",4,-5.68794290414746,http://abc30.com/news/doctors-without-borders-calls-hospital-attack-deliberate/1201488/
+512331096,126,35.9306,36.6339,20160216,"Idlib, Idlib, Syria",4,-3.42922560889538,http://www.usatoday.com/story/news/world/2016/02/16/russia-denies-syria-hospital-bombing/80443066/
+512149244,126,35.9306,36.6339,20160216,"Idlib, Idlib, Syria",4,-5.40125163199921,http://www.ibtimes.com.au/ceasefire-agreement-forgotten-another-doctors-without-borders-hospital-syria-destroyed-50-civilians
+512123350,175,46.0,2.0,20160216,France,1,-5.38288355950573,http://www.kpvi.com/news/the-latest-assad-warns-against-ground-incursion/article_b1738949-e146-5833-85fe-7840bc8a0a9a.html
+512123351,146,35.9306,36.6339,20160216,"Idlib, Idlib, Syria",4,-6.25264944512641,http://www.koco.com/national/syria-hospitals-school-hit-15-dead-8-missing/37999192
+512111282,1216,36.5866,37.0463,20160216,"Azaz, ?alab, Syria",4,-4.84694555350203,http://helenair.com/news/world/europe/the-latest-french-condemns-attack-on-syrian-hospital/article_262ce5df-7e83-579f-be4d-300ac250332f.html
+512123352,118,35.9306,36.6339,20160216,"Idlib, Idlib, Syria",4,-6.5320709859909,http://www.koco.com/national/syria-hospitals-school-hit-15-dead-8-missing/37999192
+512111283,156,39.9272,32.8644,20160216,"Ankara, Ankara, Turkey",4,-5.17580065203801,http://helenair.com/news/world/europe/the-latest-french-condemns-attack-on-syrian-hospital/article_262ce5df-7e83-579f-be4d-300ac250332f.html
+511933412,563,35.9306,36.6339,20160215,"Idlib, Idlib, Syria",4,-5.12697406704439,http://www.zawya.com/story/Missiles_hit_school_hospital_in_Syria_14_dead-TR20160215nL8N15U1RRX2/
+511950745,822,35.9306,36.6339,20160215,"Idlib, Idlib, Syria",4,-5.56142967449104,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2016-02-15-Syria/id-48d7a386fee1433996bb54c2a4d31c65
+512014425,216,39.9272,32.8644,20160215,"Ankara, Ankara, Turkey",4,-5.36206664654964,http://www.longisland.com/news/ap-news/the-latest-turkey-astonished-us-remarks-syrian-kurds-021516.html
+511997741,116,50.8333,4.33333,20160215,"Brussels, Bruxelles-Capitale, Belgium",4,-5.38922832978045,http://hosted.ap.org/dynamic/stories/S/SYRIA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2016-02-15-10-13-36
+512006013,181,36.5866,37.0463,20160215,"Azaz, ?alab, Syria",4,-7.65927406171582,http://www.abc17news.com/national-news/syria-hospitals-school-hit-15-dead-8-missing/37999192
+511917489,116,50.8333,4.33333,20160215,"Brussels, Bruxelles-Capitale, Belgium",4,-5.57988377176956,http://www.daytondailynews.com/ap/ap/top-news/eu-calls-on-turkey-to-halt-military-action-in-syri/nqQKJ/
+511997738,199,41.0186,28.9647,20160215,"Istanbul, Istanbul, Turkey",4,-5.37829919230094,http://www.voiceofalexandria.com/news/world/airstrikes-in-northern-syria-hit-hospitals-school/article_fa155ab6-5c18-56a4-830f-db2aa3d86f1f.html
+511955157,349,41.0186,28.9647,20160215,"Istanbul, Istanbul, Turkey",4,-5.34390904759483,http://www.bonnercountydailybee.com/news/world/article_336d4bf9-0c05-593e-a0be-ffd68d63c80d.html
+511997747,532,46.0,2.0,20160215,France,1,-5.36361421524003,http://www.10news.com/news/national/airstrike-destroys-msf-supported-clinic-in-northern-syria
+512083847,129,60.0,100.0,20160215,Russia,1,-5.52580803605132,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2016-02-15-Syria-The%20Latest/id-184e72da9a4642c39d8a0b6f6a9a4e3b
+512054659,202,39.9272,32.8644,20160215,"Ankara, Ankara, Turkey",4,-5.22470806773332,http://foxbaltimore.com/news/nation-world/merkel-calls-for-kind-of-no-fly-zone-in-syria
+511933413,144,35.9306,36.6339,20160215,"Idlib, Idlib, Syria",4,-6.83328257981854,http://www.independent.ie/world-news/middle-east/at-least-14-dead-after-russian-air-strike-destroys-mdecins-sans-frontires-clinic-in-northern-syria-34454052.html
+512014424,1670,36.5866,37.0463,20160215,"Azaz, ?alab, Syria",4,-5.2956876204231,http://www.longisland.com/news/ap-news/the-latest-turkey-astonished-us-remarks-syrian-kurds-021516.html
+511950739,218,35.9306,36.6339,20160215,"Idlib, Idlib, Syria",4,-5.5646415593093,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2016-02-15-Syria/id-48d7a386fee1433996bb54c2a4d31c65
+511959242,110,35.9306,36.6339,20160215,"Idlib, Idlib, Syria",4,-7.5127668162112,http://www.kvia.com/news/syria-hospitals-school-hit-15-dead-8-missing/37999192
+509874375,188,33.771198272705078,-111.38800048828125,20160209,"Arizona, United States",2,-4.9897050857543945,http://bigstory.ap.org/article/c2f97325d3e84641b1ba8023ac37701d/iraqi-woman-charged-role-kayla-muellers-death
+509874374,1179,33.771198272705078,-111.38800048828125,20160209,"Arizona, United States",2,-5.0255579948425293,http://bigstory.ap.org/article/c2f97325d3e84641b1ba8023ac37701d/iraqi-woman-charged-role-kayla-muellers-death
+509874372,188,33.771198272705078,-111.38800048828125,20160209,"Arizona, United States",2,-4.9897050857543945,http://bigstory.ap.org/article/c2f97325d3e84641b1ba8023ac37701d/iraqi-woman-charged-role-kayla-muellers-death
+509874370,188,33.771198272705078,-111.38800048828125,20160209,"Arizona, United States",2,-4.9897050857543945,http://bigstory.ap.org/article/c2f97325d3e84641b1ba8023ac37701d/iraqi-woman-charged-role-kayla-muellers-death
+509874371,998,33.771198272705078,-111.38800048828125,20160209,"Arizona, United States",2,-5.0477495193481445,http://bigstory.ap.org/article/c2f97325d3e84641b1ba8023ac37701d/iraqi-woman-charged-role-kayla-muellers-death
+509874368,158,33.771198272705078,-111.38800048828125,20160209,"Arizona, United States",2,-4.9946284294128418,http://news-sentinel.com/news/us-and-world/Iraqi-woman-charged-with-role-in-Kayla-Mueller-s-death
+509874369,157,33.771198272705078,-111.38800048828125,20160209,"Arizona, United States",2,-4.9946284294128418,http://news-sentinel.com/news/us-and-world/Iraqi-woman-charged-with-role-in-Kayla-Mueller-s-death
+509663931,106,36.202800750732422,37.158599853515625,20160208,"Aleppo, ?alab, Syria",4,-4.900547981262207,http://www.globalpost.com/article/6730347/2016/02/08/turkey-sends-aid-stranded-syrian-refugees
+508369059,110,16.0,8.0,20160204,Niger,1,-3.21219190771272,https://news.yahoo.com/no-boost-seen-giving-antibiotics-starving-kids-225639798.html
+507900855,128,25.0,45.0,20160202,Saudi Arabia,1,-5.59115317719651,http://www.democracynow.org/2016/2/2/headlines/report_south_sudan_faces_violence_and_economic_decline
+507134276,145,33.5,36.3,20160131,"Damascus, Dimashq, Syria",4,-4.1196557548679,http://www.kionrightnow.com/news/nation-world/syrian-opposition-group-not-negotiating-in-geneva/37725334
+505065914,122,36.95,26.9833,20160124,"Kalymnos, Perifereia Notiou Aigaiou, Greece",4,-4.94627053884696,http://recordpub.com/latest%20headlines/2016/01/24/protests-at-greek-border-after-more-migrants-drown-in-aegean
+505065916,112,38.8951,-77.0364,20160124,"White House, District of Columbia, United States",3,-6.97155066607188,http://www.dailymail.co.uk/wires/reuters/article-3413888/White-House-raises-concerns-harm-civilians-Yemen.html
+504970373,164,36.95,26.9833,20160123,"Kalymnos, Perifereia Notiou Aigaiou, Greece",4,-4.80350013754673,http://www.tribtown.com/view/story/a20643c628d549109456749c4671e022/EU--Europe-Migrants
+503653212,288,52.35,4.91667,20160119,"Amsterdam, Noord-Holland, Netherlands",4,-6.20445727065174,http://mynorthwest.com/17/2895527/Doctors-Without-Borders-condemns-attempts-to-deter-migrants
+501689147,102,33.8719,35.5097,20160113,"Beirut, Beyrouth, Lebanon",4,-6.74297696394019,http://www.wpxi.com/news/ap/top-news/aid-convoys-reach-3-syria-communities-besieged-for/np3YS/
+501689146,349,33.6903,36.1035,20160113,"Madaya, Rif Dimashq, Syria",4,-6.48995913160597,http://beatricedailysun.com/news/world/siege-starvation-left-syrian-town-in-grim-state-un-says/article_eb89cda5-2958-5992-acbb-50e0f0a9f90a.html
+501370645,391,33.6903,36.1035,20160112,"Madaya, Rif Dimashq, Syria",4,-6.42379385370479,http://www.straitstimes.com/world/middle-east/aid-trucks-head-to-besieged-syrian-town
+501535058,622,25.0,45.0,20160112,Saudi Arabia,1,-1.54340406532871,https://www.washingtonpost.com/world/europe/foreign-secretary-uk-helping-saudi-led-yemen-campaign/2016/01/12/09b57184-b937-11e5-85cd-5ad59bc19432_story.html
+501578759,114,33.8719,35.5097,20160112,"Beirut, Beyrouth, Lebanon",4,-6.93509218943963,http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2016-01-12-ML--Syria/id-a0997aaa09644ef896c8b6d4b520d91b
+501353802,141,33.6903,36.1035,20160112,"Madaya, Rif Dimashq, Syria",4,-6.41349583028952,http://www.globalsecurity.org/wmd/library/news/syria/2016/syria-160111-voa02.htm
+500953883,670,36.729,68.857,20160110,"Kunduz, Kondoz, Afghanistan",4,-4.44899937870344,http://www.kclu.org/npr/?id=462559003
+496421886,120,33.8191,-80.9066,20151222,"South Carolina, United States",2,-6.29058346012306,http://www.democracynow.org/2015/12/22/headlines/bill_cosby_sues_women_who_accused_him_of_sexual_assault
+493592891,288,36.729,68.857,20151212,"Kunduz, Kondoz, Afghanistan",4,-8.17652465132321,http://www.tribtown.com/view/story/defd5d6e471c4a49b3cf572316d9635f/AS--Afghanistan-UN-Report
+492273544,144,13.3285,14.1217,20151208,"Lake Chad, Nigeria (general), Nigeria",4,-8.82013822046057,http://www.startribune.com/extremist-attacks-displace-thousands-from-chad-islands/360924111/
+488515061,110,36.729,68.857,20151126,"Kunduz, Kondoz, Afghanistan",4,-5.0555281355318,http://www.thefrontierpost.com/article/356069//
+488140012,942,36.729,68.857,20151125,"Kunduz, Kondoz, Afghanistan",4,-4.61380523625431,http://blogs.abcnews.com/International/us-aircraft-struck-doctors-borders-hospital-mistaking-taliban/story?id=35400424
+488140013,200,36.729,68.857,20151125,"Kunduz, Kondoz, Afghanistan",4,-2.77928626468897,http://blogs.abcnews.com/International/us-aircraft-struck-doctors-borders-hospital-mistaking-taliban/story?id=35400424
+488432086,106,34.9669,69.265,20151125,"Bagram, Parvan, Afghanistan",4,-8.54057131734415,http://www.thestar.com.my/News/World/2015/11/26/US-probe-says-Afghan-hospital-strike-was-tragic-accident/
+488140011,200,42.1497,-74.9384,20151125,"New York, United States",2,-2.77928626468897,http://blogs.abcnews.com/International/us-aircraft-struck-doctors-borders-hospital-mistaking-taliban/story?id=35400424
+487057885,730,46.0,2.0,20151121,France,1,-3.1747246033502,http://www.usnews.com/news/world/articles/2015/11/21/survivors-of-afghan-hospital-attack-tell-of-terror
+487057884,204,46.0,2.0,20151121,France,1,-3.20934034089219,http://www.usnews.com/news/world/articles/2015/11/21/survivors-of-afghan-hospital-attack-tell-of-terror
+487057886,730,46.0,2.0,20151121,France,1,-3.1747246033502,http://www.usnews.com/news/world/articles/2015/11/21/survivors-of-afghan-hospital-attack-tell-of-terror
+487057883,204,46.0,2.0,20151121,France,1,-3.20934034089219,http://www.usnews.com/news/world/articles/2015/11/21/survivors-of-afghan-hospital-attack-tell-of-terror
+485198807,118,35.0,63.75,20151116,"Badghis Province, Badghis, Afghanistan",5,-4.12263925769493,"http://www.tomdispatch.com/blog/176069/tomgram:_laura_gottesdiener,_the_angel_of_death/"
+482292810,318,36.729,68.857,20151106,"Kunduz, Kondoz, Afghanistan",4,-3.7071636727102,http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=11541125
+482292808,318,36.729,68.857,20151106,"Kunduz, Kondoz, Afghanistan",4,-3.7071636727102,http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=11541125
+482314717,112,42.1497,-74.9384,20151106,"New York, United States",2,-8.83435582822086,http://www.couriermail.com.au/news/world/doctors-without-borders-posts-grim-details-from-us-strike-on-afghanistan-hospital/story-fnihsmjt-1227598476519?nk=f680101faa0b2d2f062889d9d5174f4c-1446770864
+482292809,200,36.729,68.857,20151106,"Kunduz, Kondoz, Afghanistan",4,-3.7071636727102,http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=11541125
+482292815,395,46.0,2.0,20151106,France,1,-3.74701741327835,http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=11541125
+482314718,140,36.729,68.857,20151106,"Kunduz, Kondoz, Afghanistan",4,-8.83435582822086,http://www.couriermail.com.au/news/world/doctors-without-borders-posts-grim-details-from-us-strike-on-afghanistan-hospital/story-fnihsmjt-1227598476519?nk=f680101faa0b2d2f062889d9d5174f4c-1446770864
+482314720,112,42.1497,-74.9384,20151106,"New York, United States",2,-8.83435582822086,http://www.couriermail.com.au/news/world/doctors-without-borders-posts-grim-details-from-us-strike-on-afghanistan-hospital/story-fnihsmjt-1227598476519?nk=f680101faa0b2d2f062889d9d5174f4c-1446770864
+482272108,212,36.729,68.857,20151105,"Kunduz, Kondoz, Afghanistan",4,-3.74855152679583,http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-11-05-US--Hospital%20Attack/id-ce69d78db66f4ef9be5d3e465099d925
+482272107,382,36.729,68.857,20151105,"Kunduz, Kondoz, Afghanistan",4,-3.74855152679583,http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-11-05-US--Hospital%20Attack/id-ce69d78db66f4ef9be5d3e465099d925
+482272111,112,46.0,2.0,20151105,France,1,-3.75927540409802,http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-11-05-US--Hospital%20Attack/id-ce69d78db66f4ef9be5d3e465099d925
+482272112,427,46.0,2.0,20151105,France,1,-3.74855152679583,http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-11-05-US--Hospital%20Attack/id-ce69d78db66f4ef9be5d3e465099d925
+482272109,382,36.729,68.857,20151105,"Kunduz, Kondoz, Afghanistan",4,-3.74855152679583,http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-11-05-US--Hospital%20Attack/id-ce69d78db66f4ef9be5d3e465099d925
+481592540,704,36.729,68.857,20151104,"Kunduz, Kondoz, Afghanistan",4,-4.06648308062782,http://www.bonnercountydailybee.com/news/national/article_254dd1b1-74a1-5c5b-b487-c71f36e1d7ed.html
+481574109,604,36.729,68.857,20151103,"Kunduz, Kondoz, Afghanistan",4,-4.44659321014519,http://www.mysanantonio.com/news/us/article/Doctors-Without-Borders-marks-1-month-since-6608171.php
+480720682,130,33.5,36.3,20151031,"Damascus, Dimashq, Syria",4,-8.57143722422378,http://www.trust.org/item/20151031161037-paur0
+479168471,1680,34.5167,69.1833,20151027,"Kabul, Kabol, Afghanistan",4,-4.45770678580426,http://www.pjstar.com/article/20151026/NEWS/151029516
+479095072,990,34.5167,69.1833,20151026,"Kabul, Kabol, Afghanistan",4,-4.28450538154776,http://www.sfgate.com/news/politics/article/Troops-who-sought-strike-thought-Taliban-had-6591110.php
+478600094,441,46.0,2.0,20151024,France,1,-5.63207979438866,http://kazu.org/post/nato-investigators-deem-reports-civilian-casualties-kunduz-credible
+477593755,110,36.729,68.857,20151020,"Kunduz, Kondoz, Afghanistan",4,-3.58650151199423,http://www.euronews.com/newswires/3080534-pentagon-says-us-military-personnel-rammed-gate-of-msf-hospital/
+477435177,233,38.8951,-77.0364,20151019,"Washington, District of Columbia, United States",3,-2.7615711577718,http://www.jsonline.com/news/usandworld/national/afghan-defense-minister-says-taliban-hid-in-bombed-hospital-mjsurnpublicidaporg4ae0135dc5fd4cf4b7619-334091141.html
+477154134,187,36.729,68.857,20151018,"Kunduz, Kondoz, Afghanistan",4,-4.45594078615191,http://www.salon.com/2015/10/18/ap_interview_msf_says_bombing_of_afghan_hospital_no_mistake/
+477154135,142,60.0,100.0,20151018,Russia,1,-4.37465450703565,http://www.salon.com/2015/10/18/ap_interview_msf_says_bombing_of_afghan_hospital_no_mistake/
+477179048,150,36.729,68.857,20151018,"Kunduz, Kondoz, Afghanistan",4,-8.20575025030311,http://www.dailymail.co.uk/wires/reuters/article-3277970/Afghan-government-rights-groups-accuse-Taliban-abuses-Kunduz-battle.html
+476499140,547,36.729,68.857,20151016,"Kunduz, Kondoz, Afghanistan",4,-3.44568158123864,http://www.nwfdailynews.com/article/20151015/NEWS/151019482/16024/NEWS
+476499142,952,36.729,68.857,20151016,"Kunduz, Kondoz, Afghanistan",4,-2.43147602150631,http://westhawaiitoday.com/news/nation-world-news/obama-says-he-ll-keep-more-troops-fragile-afghanistan
+476631268,738,36.729,68.857,20151016,"Kunduz, Kondoz, Afghanistan",4,-3.35767559076111,http://www.morganton.com/news/us/ap/us-analysts-suspected-taliban-at-hospital-doctors-deny-it/article_eca73bd6-9ea6-5dac-8b86-6c972c376acf.html
+476499143,319,36.729,68.857,20151016,"Kunduz, Kondoz, Afghanistan",4,-2.33639133798255,http://www.wflx.com/story/30266230/obama-extends-us-military-mission-in-afghanistan-into-2017
+476499144,816,36.729,68.857,20151016,"Kunduz, Kondoz, Afghanistan",4,-2.28440754006474,http://www.wflx.com/story/30266230/obama-extends-us-military-mission-in-afghanistan-into-2017
+476631270,218,38.8951,-77.0364,20151016,"White House, District of Columbia, United States",3,-3.30350020782837,http://www.morganton.com/news/us/ap/us-analysts-suspected-taliban-at-hospital-doctors-deny-it/article_eca73bd6-9ea6-5dac-8b86-6c972c376acf.html
+476579114,110,36.729,68.857,20151016,"Kunduz, Kondoz, Afghanistan",4,-6.67145601056231,http://www.macon.com/news/nation-world/world/article39380301.html
+476499138,642,38.8951,-77.0364,20151016,"White House, District of Columbia, United States",3,-3.49062019274775,http://www.yourhoustonnews.com/courier/news/us-analysts-knew-afghan-site-was-hospital/article_c415ffb0-1b5b-583d-b342-f368a523f893.html
+476631269,246,36.729,68.857,20151016,"Kunduz, Kondoz, Afghanistan",4,-3.35767559076111,http://www.morganton.com/news/us/ap/us-analysts-suspected-taliban-at-hospital-doctors-deny-it/article_eca73bd6-9ea6-5dac-8b86-6c972c376acf.html
+476499134,1579,36.729,68.857,20151016,"Kunduz, Kondoz, Afghanistan",4,-3.41777552835411,http://www.nwfdailynews.com/article/20151015/NEWS/151019482/16024/NEWS
+476499149,160,36.729,68.857,20151016,"Kunduz, Kondoz, Afghanistan",4,-6.74890981172489,http://www.KOB.com/article/stories/S3937158.shtml?cat=500
+476499136,1160,36.729,68.857,20151016,"Kunduz, Kondoz, Afghanistan",4,-3.43228277351696,http://www.nwfdailynews.com/article/20151015/NEWS/151019482/16024/NEWS
+476499146,575,30.0,70.0,20151016,Pakistan,1,-3.80546696051266,http://www.timesdaily.com/news/politics/apnewsbreak-us-analysts-knew-afghan-site-was-hospital/article_7972835c-c16d-51fe-98f3-18f924eae5b2.html
+476422656,702,36.729,68.857,20151015,"Kunduz, Kondoz, Afghanistan",4,-2.20068805956359,http://www.chron.com/news/politics/article/APNewsBreak-US-spec-ops-knew-Afghan-site-was-6572534.php
+476410667,168,36.729,68.857,20151015,"Kunduz, Kondoz, Afghanistan",4,-6.460006845522,http://www.daytondailynews.com/ap/ap/international/msf-us-tank-forced-its-way-into-bombed-afghan-hosp/nn3xg/
+476422655,654,36.729,68.857,20151015,"Kunduz, Kondoz, Afghanistan",4,-3.34962101894732,http://www.wral.com/apnewsbreak-us-spec-ops-knew-afghan-site-was-hospital/14971766/
+476422654,1269,36.729,68.857,20151015,"Kunduz, Kondoz, Afghanistan",4,-3.37603313998409,http://www.wral.com/apnewsbreak-us-spec-ops-knew-afghan-site-was-hospital/14971766/
+476426642,251,36.729,68.857,20151015,"Kunduz, Kondoz, Afghanistan",4,-2.22497326188169,http://www.wacotrib.com/news/ap_nation/headlines/apnewsbreak-us-analysts-knew-afghan-site-was-hospital/article_f8209229-2097-5c74-abe1-f654cac0bc33.html
+476406721,260,34.5167,69.1833,20151015,"Kabul, Kabol, Afghanistan",4,-6.42795144170306,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2015-10-15-AS-Afghanistan/id-a8e081b961084820be1c4a30433b4da4
+476402674,559,36.729,68.857,20151015,"Kunduz, Kondoz, Afghanistan",4,-6.68530381501409,http://www.newswest9.com/story/30269699/msf-us-tank-forced-its-way-into-bombed-afghan-hospital
+476297217,1212,36.729,68.857,20151015,"Kunduz, Kondoz, Afghanistan",4,-3.36743221939566,http://www.abc.net.au/news/2015-10-15/family-of-australian-survivor-of-bombing-on-msf/6858536
+476426643,259,30.0,70.0,20151015,Pakistan,1,-3.41684597324449,http://www.usnews.com/news/world/articles/2015/10/15/apnewsbreak-us-spec-ops-knew-afghan-site-was-hospital
+476377117,2294,36.729,68.857,20151015,"Kunduz, Kondoz, Afghanistan",4,-2.25689822705387,http://www.newser.com/article/76d74add4f3e489884bb75bc9d0e153f/officials-obama-to-keep-5500-us-troops-in-afghanistan-when-he-leaves-office.html
+475798541,248,36.729,68.857,20151014,"Kunduz, Kondoz, Afghanistan",4,-4.00666553260468,http://wvasfm.org/post/taliban-announces-it-has-withdrawn-afghan-city-kunduz
+475869204,110,36.729,68.857,20151014,"Kunduz, Kondoz, Afghanistan",4,-1.02202335557618,http://www.nytimes.com/2015/10/14/world/asia/obama-is-rethinking-pullout-in-afghanistan-officials-say.html
+475772626,248,36.729,68.857,20151013,"Kunduz, Kondoz, Afghanistan",4,-4.00075357445578,http://www.kvlu.org/taliban-announces-it-has-withdrawn-from-afghan-city-of-kunduz/
+474926131,304,46.1956,6.14811,20151011,"Geneva, Genè, Switzerland",4,-9.10488269533831,http://www.clickorlando.com/news/politics/pentagon-payments-for-afghan-strike-victims/35770908
+474926136,199,54.0,-2.0,20151011,United Kingdom,1,-2.75412309397083,http://www.freenewspos.com/en/pop-news-article/c/4705169/building/afghan-president-orders-investigation-into-fall-of-kunduz-us-airstrike
+474926134,110,54.0,-2.0,20151011,United Kingdom,1,-2.54603012094724,http://www.freenewspos.com/en/pop-news-article/c/4705169/building/afghan-president-orders-investigation-into-fall-of-kunduz-us-airstrike
+474938943,240,36.729,68.857,20151011,"Kunduz, Kondoz, Afghanistan",4,-5.62685089450337,http://abcnews.go.com/Politics/us-military-make-condolence-payments-deadly-airstrike/story?id=34395408
+474938944,250,36.729,68.857,20151011,"Kunduz, Kondoz, Afghanistan",4,-5.6126996459172,http://abcnews.go.com/Politics/us-military-make-condolence-payments-deadly-airstrike/story?id=34395408
+474926132,360,46.1956,6.14811,20151011,"Geneva, Genè, Switzerland",4,-9.28400028310449,http://www.kotatv.com/pentagon-payments-for-afghan-strike-victims/35770908
+474926128,610,36.729,68.857,20151011,"Kunduz, Kondoz, Afghanistan",4,-8.60750311052642,http://www.clickorlando.com/news/politics/pentagon-payments-for-afghan-strike-victims/35770908
+474926139,123,54.0,-2.0,20151011,United Kingdom,1,-2.75412309397083,http://www.freenewspos.com/en/pop-news-article/c/4705169/building/afghan-president-orders-investigation-into-fall-of-kunduz-us-airstrike
+474926127,350,46.1956,6.14811,20151011,"Geneva, Genè, Switzerland",4,-9.32306695785986,http://www.kotatv.com/pentagon-payments-for-afghan-strike-victims/35770908
+474840288,122,54.0,-2.0,20151010,United Kingdom,1,-2.11523257560421,http://www.hastingstribune.com/afghan-president-appoints-investigators-for-kunduz-airstrike/article_a607ee11-ba62-5327-897f-bb48e3a4a1c9.html
+474840285,184,54.0,-2.0,20151010,United Kingdom,1,-2.11523257560421,http://www.hastingstribune.com/afghan-president-appoints-investigators-for-kunduz-airstrike/article_a607ee11-ba62-5327-897f-bb48e3a4a1c9.html
+474782829,654,36.729,68.857,20151010,"Kunduz, Kondoz, Afghanistan",4,-1.69730954950704,http://ktar.com/story/690444/portraits-of-some-of-the-victims-in-kunduz-hospital-bombing/
+474840287,183,54.0,-2.0,20151010,United Kingdom,1,-2.11523257560421,http://www.hastingstribune.com/afghan-president-appoints-investigators-for-kunduz-airstrike/article_a607ee11-ba62-5327-897f-bb48e3a4a1c9.html
+474840284,121,36.729,68.857,20151010,"Kunduz, Kondoz, Afghanistan",4,-2.11523257560421,http://www.hastingstribune.com/afghan-president-appoints-investigators-for-kunduz-airstrike/article_a607ee11-ba62-5327-897f-bb48e3a4a1c9.html
+474795128,116,46.1956,6.14811,20151010,"Geneva, Genè, Switzerland",4,-0.782623663937107,http://www.wsoctv.com/ap/ap/top-news/afghan-president-appoints-investigators-for-kunduz/nny97/
+474802764,160,36.729,68.857,20151010,"Kunduz, Kondoz, Afghanistan",4,-1.25667031536025,http://wrbl.com/ap/afghan-president-appoints-investigators-for-kunduz-airstrike/
+474916699,130,46.1956,6.14811,20151010,"Geneva, Genè, Switzerland",4,-8.98094635600589,http://www.cnn.com/2015/10/10/politics/pentagon-condolence-payments-kunduz/
+474840286,305,54.0,-2.0,20151010,United Kingdom,1,-2.11523257560421,http://www.hastingstribune.com/afghan-president-appoints-investigators-for-kunduz-airstrike/article_a607ee11-ba62-5327-897f-bb48e3a4a1c9.html
+474787770,174,36.729,68.857,20151010,"Kunduz, Kondoz, Afghanistan",4,-1.77820957894864,http://townhall.com/news/world/2015/10/10/afghan-president-appoints-investigators-for-kunduz-airstrike-n2063925
+474916696,130,46.1956,6.14811,20151010,"Geneva, Genè, Switzerland",4,-8.98094635600589,http://www.cnn.com/2015/10/10/politics/pentagon-condolence-payments-kunduz/
+474782830,380,36.729,68.857,20151010,"Kunduz, Kondoz, Afghanistan",4,-1.69730954950704,http://ktar.com/story/690444/portraits-of-some-of-the-victims-in-kunduz-hospital-bombing/
+474782834,864,36.7564,66.8972,20151010,"Balkh, Balkh, Afghanistan",4,-1.69678106417922,http://ktar.com/story/690444/portraits-of-some-of-the-victims-in-kunduz-hospital-bombing/
+474784985,138,35.1215,69.2373,20151010,"Parwan, Parvan, Afghanistan",4,-1.78684081153367,http://www.seattlepi.com/news/world/article/Portraits-of-some-of-the-victims-in-Kunduz-6563046.php
+474784989,128,36.729,68.857,20151010,"Kunduz, Kondoz, Afghanistan",4,-2.91672029059409,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2015-10-10-AS-Afghanistan-Airstrike-Victims/id-39f6cc4db9f24ddaa4513dfa8dd63de3
+474782832,112,30.199,67.0097,20151010,"Quetta, Balochistan, Pakistan",4,-1.72570745168128,http://ktar.com/story/690444/portraits-of-some-of-the-victims-in-kunduz-hospital-bombing/
+474795127,280,36.729,68.857,20151010,"Kunduz, Kondoz, Afghanistan",4,-1.05350746475033,http://www.wsoctv.com/ap/ap/top-news/afghan-president-appoints-investigators-for-kunduz/nny97/
+474398799,104,36.729,68.857,20151009,"Kunduz, Kondoz, Afghanistan",4,-6.12463222915223,http://foreignpolicy.com/2015/10/08/will-heads-roll-at-the-pentagon-for-the-msf-hospital-mistake/
+476157579,310,38.8951,-77.0364,20151008,"White House, District of Columbia, United States",3,-0.0837322982709242,http://www.newschannel6now.com/story/30256903/fact-finding-group-ready-to-probe-deadly-kunduz-airstrike
+474018789,107,36.729,68.857,20151008,"Kunduz, Kondoz, Afghanistan",4,-5.17811509619461,http://www.china.org.cn/world/2015-10/08/content_36756392.htm
+474028386,478,38.8951,-77.0364,20151008,"Washington, District of Columbia, United States",3,-0.999116880307801,http://www.theindependent.com/news/world/aid-group-seeks-fact-finding-mission-over-kunduz-strike/article_9a41884d-5f40-53b4-a97c-b8c72cc9489f.html
+474006953,482,46.1956,6.14811,20151008,"Geneva, Genè, Switzerland",4,-2.8397847707666,http://www.dothaneagle.com/news/ap/politics/obama-apologizes-to-aid-group-for-us-attack-on-afghan/article_7d7368b7-fe7c-521b-a106-99da799ce9cd.html
+474013460,122,38.8951,-77.0364,20151008,"White House, District of Columbia, United States",3,-4.44582479209865,http://www.ghanaweb.com/GhanaHomePage/worldNews/Obama-sorry-we-bombed-the-MSF-hospital-386350
+474006952,108,46.0,2.0,20151008,France,1,-2.81132980129367,http://www.abqjournal.com/656246/news/nation/obama-apologizes-to-aid-group-for-u-s-attack-on-afghan-clinic.html
+473882790,230,36.729,68.857,20151007,"Kunduz, Kondoz, Afghanistan",4,-1.93230651173065,http://abc11.com/news/doctors-without-borders-calls-for-independent-probe-into-deadly-air-strike/1021201/
+473659243,200,36.729,68.857,20151007,"Kunduz, Kondoz, Afghanistan",4,-4.98398329969985,http://www.freep.com/story/news/world/2015/10/06/united-states-afghanistan-carter/73486890/
+473969033,386,46.1956,6.14811,20151007,"Geneva, Genè, Switzerland",4,-2.83935205610322,http://www.kirotv.com/ap/ap/top-news/obama-apologizes-to-aid-group-for-us-attack-on-afg/nnxRH/
+473926525,296,50.8333,4.33333,20151007,"Brussels, Bruxelles-Capitale, Belgium",4,-1.15100987668175,http://www.12newsnow.com/story/30203987/aid-group-seeks-fact-finding-mission-over-kunduz-strike
+473926523,120,50.8333,4.33333,20151007,"Brussels, Bruxelles-Capitale, Belgium",4,-1.21580473526678,http://www.12newsnow.com/story/30203987/aid-group-seeks-fact-finding-mission-over-kunduz-strike
+473718266,169,36.729,68.857,20151007,"Kunduz, Kondoz, Afghanistan",4,-5.14900653366069,http://original.antiwar.com/shane_smith/2015/10/06/glossing-the-hospital-massacre/
+473949234,702,46.1956,6.14811,20151007,"Geneva, Genè, Switzerland",4,-4.00211124105993,http://www.cbs46.com/story/30208474/obama-apologizes-to-aid-group-for-us-attack-on-afghan-clinic
+473882791,242,36.729,68.857,20151007,"Kunduz, Kondoz, Afghanistan",4,-1.97809236696402,http://abc11.com/news/doctors-without-borders-calls-for-independent-probe-into-deadly-air-strike/1021201/
+473810781,704,46.0,2.0,20151007,France,1,-5.07956710230007,http://wspa.com/ap/afghanistan-says-troops-hold-kunduz-square-calm-returning/
+473477990,839,36.729,68.857,20151006,"Kunduz, Kondoz, Afghanistan",4,-4.28200510068563,http://www.csmonitor.com/USA/Military/2015/1005/Why-did-US-attack-an-MSF-hospital-Kunduz-s-troubling-questions
+473300242,156,36.729,68.857,20151006,"Kunduz, Kondoz, Afghanistan",4,-6.13478466096949,http://www.cairnspost.com.au/news/world/doctors-without-borders-demand-independent-investigation-after-hospital-bombed-in-afghanistan/story-fnjbobef-1227557305679
+473019237,109,36.729,68.857,20151005,"Kunduz, Kondoz, Afghanistan",4,-2.7584674854828,http://www.blueprint.ng/2015/10/05/afghan-conflict-msf-demands-kunduz-hospital-inquiry/
+473171199,260,34.5167,69.1833,20151005,"Kabul, Kabol, Afghanistan",4,-4.66071376533375,http://www.digitaljournal.com/news/world/afghan-forces-asked-for-air-strike-at-kunduz-hospital-us-general/article/445678
+473171198,260,34.5167,69.1833,20151005,"Kabul, Kabol, Afghanistan",4,-4.66071376533375,http://www.digitaljournal.com/news/world/afghan-forces-asked-for-air-strike-at-kunduz-hospital-us-general/article/445678
+472983576,171,36.729,68.857,20151005,"Kunduz, Kondoz, Afghanistan",4,-4.29799350631611,http://www.ledger-enquirer.com/news/nation-world/national/article37742967.html
+473095650,400,34.5167,69.1833,20151005,"Kabul, Kabol, Afghanistan",4,-5.93588348431378,http://www.wsbt.com/news/nationworld/bombing-of-msf-hospital-what-we-know-so-far/35655708
+473111434,126,36.729,68.857,20151005,"Kunduz, Kondoz, Afghanistan",4,-4.15937390463434,http://www.theweek.co.uk/65561/afghan-hospital-bombing-msf-labels-air-strike-a-war-crime
+473171200,154,34.5167,69.1833,20151005,"Kabul, Kabol, Afghanistan",4,-4.72293290053839,http://www.digitaljournal.com/news/world/afghan-forces-asked-for-air-strike-at-kunduz-hospital-us-general/article/445678
+472983573,101,36.729,68.857,20151005,"Kunduz, Kondoz, Afghanistan",4,-5.21677697173715,http://www.couriermail.com.au/news/world/doctors-without-borders-demand-independent-investigation-after-hospital-bombed-in-afghanistan/story-fnihsmjt-1227557305679?nk=853ffacf7a8bc73580c7e444eab19363-1444003353
+473210213,160,36.729,68.857,20151005,"Kunduz, Kondoz, Afghanistan",4,-4.25631799463079,http://www.npr.org/sections/thetwo-way/2015/10/05/446002476/u-s-general-says-afghan-forces-called-for-kunduz-airstrike
+472987307,547,36.729,68.857,20151005,"Kunduz, Kondoz, Afghanistan",4,-6.33120561090592,http://www.theledger.com/article/20151003/NEWS/151009838/1410
+472983575,130,36.729,68.857,20151005,"Kunduz, Kondoz, Afghanistan",4,-3.65620788112132,http://www.ledger-enquirer.com/news/nation-world/national/article37742967.html
+472841424,1794,36.729,68.857,20151004,"Kunduz, Kondoz, Afghanistan",4,-6.86675205068547,http://mynorthwest.com/17/2820691/Doctors-Without-Borders-leaves-Afghan-city-after-airstrike
+472781510,375,36.729,68.857,20151004,"Kunduz, Kondoz, Afghanistan",4,-7.1118275813115,http://www.middletownpress.com/general-news/20151003/doctors-without-borders-19-dead-in-afghan-clinic-airstrike
+472775594,830,60.0,100.0,20151004,Russia,1,-6.85087778804174,http://www.flamboroughreview.com/news-story/5941863-doctors-without-borders-19-dead-in-afghan-clinic-airstrike/
+472890160,284,36.729,68.857,20151004,"Kunduz, Kondoz, Afghanistan",4,-4.5991377021714,http://www.channel4000.com/news/msf-urges-independent-inquiry-into-bombing/35645778
+472778442,144,36.729,68.857,20151004,"Kunduz, Kondoz, Afghanistan",4,-3.74769977769319,http://www.foxsanantonio.com/template/inews_wire/wires.international/3457dc41-www.foxsanantonio.com.shtml
+472775593,282,36.729,68.857,20151004,"Kunduz, Kondoz, Afghanistan",4,-6.90310990843012,http://www.timesfreepress.com/news/breakingnews/story/2015/oct/03/doctors-without-borders-19-dead-afghan-clinic-airstrike/328590/
+472700018,800,36.729,68.857,20151003,"Kunduz, Kondoz, Afghanistan",4,-6.66025961266194,http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-10-03-AS--Afghanistan/id-3e4a289f32cc4c2590592dde4da3f7a4
+472730754,287,36.729,68.857,20151003,"Kunduz, Kondoz, Afghanistan",4,-4.07250363464588,http://kdhnews.com/news/world/the-latest-msf-believes-hospital-bombed-by-us-nato-planes/article_9441b073-8ac5-5bba-b9d7-7cf89852153d.html
+472690920,110,38.8951,-77.0364,20151003,"Washington, District of Columbia, United States",3,-6.25261525030767,http://www.stargazette.com/story/news/world/2015/10/03/doctors-without-borders-killed-afghanistan/73271370/
+472709040,587,36.729,68.857,20151003,"Kunduz, Kondoz, Afghanistan",4,-7.20122696950467,http://kdwn.com/2015/10/03/international-charitys-afghan-clinic-bombed-9-staff-dead/
+472624997,170,36.729,68.857,20151003,"Kunduz, Kondoz, Afghanistan",4,-5.99032265796835,http://www.nytimes.com/2015/10/04/world/asia/afghanistan-bombing-hospital-kunduz.html
+472697829,2603,60.0,100.0,20151003,Russia,1,-6.36457214828997,http://www.fox8live.com/story/30176886/international-charitys-afghan-clinic-bombed-9-staff-dead
+472622887,1136,36.729,68.857,20151003,"Kunduz, Kondoz, Afghanistan",4,-6.28687330098801,http://www.usatoday.com/story/news/world/2015/10/03/doctors-without-borders-killed-afghanistan/73271370/
+472654664,134,36.729,68.857,20151003,"Kunduz, Kondoz, Afghanistan",4,-3.65378994607797,http://www.ksbw.com/national-news/3-msf-staff-killed-in-afghanistan-bombing/35633286
+472693225,296,38.8951,-77.0364,20151003,"Washington, District of Columbia, United States",3,-6.29638081076776,http://www.postcrescent.com/story/news/world/2015/10/03/doctors-without-borders-killed-afghanistan/73271370/
+472693226,130,36.729,68.857,20151003,"Kunduz, Kondoz, Afghanistan",4,-2.08924646762654,http://www.firstlightradio.com/news/urgent-afghanistan-hostpial-bombing-us-investigation/
+472617884,409,36.729,68.857,20151003,"Kunduz, Kondoz, Afghanistan",4,-6.72257584968195,http://www.stuff.co.nz/world/asia/72673412/US-may-have-bombed-Afghan-hospital-killing-3-staff-from-Doctors-Without-Borders
+473932631,115,36.729,68.857,20150930,"Kunduz, Kondoz, Afghanistan",4,-2.51326126180737,http://abc13.com/news/obama-apologizes-to-doctors-without-borders-for-airstrike/1021487/
+467929602,296,13.3285,14.1217,20150918,"Lake Chad, Nigeria (general), Nigeria",4,-7.30764963156727,http://reliefweb.int/report/nigeria/500000-more-children-uprooted-boko-haram-unicef
+467320818,110,36.2028,37.1586,20150916,"Aleppo, ?alab, Syria",4,-5.68518426608541,http://www.kspr.com/news/nationworld/refugee-crisis-migrants-detour-to-croatia/21051646_35298356
+467328646,148,35.0,38.0,20150916,Syria,1,-5.78732748992804,http://edition.cnn.com/2015/09/16/world/europe-migrant-crisis/
+467474215,128,42.8333,12.8333,20150916,Italy,1,-5.80244744529351,http://www.local10.com/news/refugee-crisis-migrants-detour-to-croatia/35298356
+467320817,150,36.2028,37.1586,20150916,"Aleppo, ?alab, Syria",4,-5.85322052187263,http://www.kspr.com/news/nationworld/refugee-crisis-migrants-detour-to-croatia/21051646_35298356
+463640594,135,54.0,-2.0,20150904,United Kingdom,1,-6.95038250907015,http://www.durhamtimes.co.uk/news/national/13645588.Aid_worker_sees_first_hand_tragic_situation_of_desperate_refugee_families/
+463640596,135,54.0,-2.0,20150904,United Kingdom,1,-6.95038250907015,http://www.durhamtimes.co.uk/news/national/13645588.Aid_worker_sees_first_hand_tragic_situation_of_desperate_refugee_families/
+461894544,240,13.3285,14.1217,20150829,"Lake Chad, Nigeria (general), Nigeria",4,-8.42562083272176,http://www.newschannel6now.com/story/29901096/extremists-kill-28-in-villages-in-northeastern-nigeria
+462043664,104,15.0,19.0,20150829,Chad,1,-7.46312641240417,http://www.huffingtonpost.com/huff-wires/20150829/af--boko-haram/
+461894543,528,13.3285,14.1217,20150829,"Lake Chad, Nigeria (general), Nigeria",4,-8.42562083272176,http://www.newschannel6now.com/story/29901096/extremists-kill-28-in-villages-in-northeastern-nigeria
+462043663,104,15.0,19.0,20150829,Chad,1,-7.46312641240417,http://www.huffingtonpost.com/huff-wires/20150829/af--boko-haram/
+461894546,516,13.3285,14.1217,20150829,"Lake Chad, Nigeria (general), Nigeria",4,-8.32143777339881,http://www.newschannel6now.com/story/29901096/extremists-kill-28-in-villages-in-northeastern-nigeria
+461894545,176,13.3285,14.1217,20150829,"Lake Chad, Nigeria (general), Nigeria",4,-8.42562083272176,http://www.newschannel6now.com/story/29901096/extremists-kill-28-in-villages-in-northeastern-nigeria
+461894542,612,13.3285,14.1217,20150829,"Lake Chad, Nigeria (general), Nigeria",4,-8.44620691540178,http://www.newschannel6now.com/story/29901096/extremists-kill-28-in-villages-in-northeastern-nigeria
+462043660,104,10.3134,9.84327,20150829,"Bauchi, Bauchi, Nigeria",4,-7.3924658247526,http://www.huffingtonpost.com/huff-wires/20150829/af--boko-haram/
+460241300,348,42.8333,12.8333,20150823,Italy,1,-4.76155653286355,http://www.4029tv.com/national/4400-migrants-rescued-off-libya-in-a-day/34870104
+460241298,205,42.8333,12.8333,20150823,Italy,1,-4.23349742407533,http://www.cnn.com/2015/08/23/europe/migrant-crisis/
+460241296,205,42.8333,12.8333,20150823,Italy,1,-4.23349742407533,http://www.cnn.com/2015/08/23/europe/migrant-crisis/
+460241297,215,39.0,22.0,20150823,Greece,1,-5.2989296746745,http://www.4029tv.com/national/4400-migrants-rescued-off-libya-in-a-day/34870104
+460241301,522,42.8333,12.8333,20150823,Italy,1,-4.76155653286355,http://www.4029tv.com/national/4400-migrants-rescued-off-libya-in-a-day/34870104
+460241299,215,39.0,22.0,20150823,Greece,1,-5.2989296746745,http://www.4029tv.com/national/4400-migrants-rescued-off-libya-in-a-day/34870104
+459847993,150,15.0,50.0,20150822,"Hadramawt, ?a?ramawt, Yemen",4,-7.00291133390355,http://www.journal-news.com/ap/ap/top-news/aid-group-makes-dramatic-plea-day-after-65-killed-/nnN7S/
+459777099,120,15.3547,44.2067,20150821,"Sanaa, San‘a', Yemen",4,-6.8066957737548,http://mynorthwest.com/17/2799126/Aid-group-makes-dramatic-plea-day-after-65-killed-in-Yemen
+459786760,210,15.0,48.0,20150821,Yemen,1,-7.4240285193744,https://www.dailystar.com.lb/News/World/2015/Aug-21/312169-aid-group-makes-dramatic-plea-day-after-65-killed-in-yemen.ashx
+459780436,420,15.0,50.0,20150821,"Hadramawt, ?a?ramawt, Yemen",4,-6.77935715410486,http://www.businessinsider.com/ap-aid-group-makes-dramatic-plea-day-after-65-killed-in-yemen-2015-8
+459780438,264,41.1392,22.5025,20150821,"Gevgelija, Gevgelija, Macedonia",4,-7.51582602958255,http://www.greenwichtime.com/news/world/article/Macedonian-troops-fire-stun-grenades-at-migrants-6457060.php
+461583370,137,38.0,-97.0,20150821,United States,1,-5.66248821154505,http://www.perthnow.com.au/news/breaking-news/panel-to-probe-syria-chemical-weapons/story-fnhrvfwz-1227502239476?nk=b362c6a33f44c6f9a717d89550616c1d-1440719248
+459780437,156,41.1392,22.5025,20150821,"Gevgelija, Gevgelija, Macedonia",4,-7.51582602958255,http://www.greenwichtime.com/news/world/article/Macedonian-troops-fire-stun-grenades-at-migrants-6457060.php
+460969082,138,35.0,105.0,20150819,China,1,-6.08322707189947,http://www.kxxv.com/story/29874748/official-s-sudan-president-may-sign-peace-deal-wednesday
+460969079,227,4.84597,31.6012,20150819,"Juba, Wilayat Bahr al Jabal, South Sudan",4,-6.14323890106144,http://www.kxxv.com/story/29874748/official-s-sudan-president-may-sign-peace-deal-wednesday
+460969081,102,4.84597,31.6012,20150819,"Juba, Wilayat Bahr al Jabal, South Sudan",4,-6.14323890106144,http://www.kxxv.com/story/29874748/official-s-sudan-president-may-sign-peace-deal-wednesday
+458761587,503,39.9272,32.8644,20150818,"Ankara, Ankara, Turkey",4,-2.81589821617487,https://news.yahoo.com/5-migrants-trying-reach-greece-drown-off-turkish-070754854.html
+458660082,477,4.36667,18.5833,20150818,"Bangui, Bangui, Central African Republic",4,-5.10929958344004,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2015-08-18-UN--United%20Nations-Chasing%20the%20Accused/id-92fce133d6f34e328ce3d9bf18070f10
+460838374,425,4.84597,31.6012,20150818,"Juba, Wilayat Bahr al Jabal, South Sudan",4,-4.70628097699867,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2015-08-25-AP-AF-South-Sudan-Peace-Agreement/id-6aa0b4f0bba040e29d399d635a795353
+458761589,111,37.9833,23.7333,20150818,"Athens, AttikíR, Greece",4,-3.12150853502344,http://mynorthwest.com/17/2797711/6-migrants-drown-off-Turkish-coast-trying-to-reach-Greece
+460838375,264,4.84597,31.6012,20150818,"Juba, Wilayat Bahr al Jabal, South Sudan",4,-4.56724388305418,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2015-08-25-AP-AF-South-Sudan-Peace-Agreement/id-6aa0b4f0bba040e29d399d635a795353
+460884383,186,35.0,105.0,20150818,China,1,-5.88612363288972,http://www.WLOX.com/story/29874749/official-s-sudan-president-may-sign-peace-deal-wednesday
+460854242,115,42.1497,-74.9384,20150818,"New York, United States",2,-1.46984384977823,http://www.washingtonpost.com/national/official-south-sudan-president-may-sign-peace-deal/2015/08/25/1f2d98e8-4b46-11e5-80c2-106ea7fb80d4_story.html
+458761586,246,39.9272,32.8644,20150818,"Ankara, Ankara, Turkey",4,-2.81589821617487,https://news.yahoo.com/5-migrants-trying-reach-greece-drown-off-turkish-070754854.html
+460854241,105,42.1497,-74.9384,20150818,"New York, United States",2,-1.43976095111765,http://www.washingtonpost.com/national/official-south-sudan-president-may-sign-peace-deal/2015/08/25/1f2d98e8-4b46-11e5-80c2-106ea7fb80d4_story.html
+458730361,284,37.1467,26.8425,20150818,"Leros, Perifereia Notiou Aigaiou, Greece",4,-2.44597557804224,http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-08-18-EU-Turkey-Migrants/id-9cb81f197ee946908ce4fd2b51ee19a6
+458130256,285,37.9833,23.7333,20150816,"Athens, AttikíR, Greece",4,-8.25451254148127,http://www.ndtv.com/world-news/40-migrants-die-off-italy-as-europe-faces-worst-crisis-since-world-war-ii-1207759
+458134411,105,33.7712,-111.388,20150816,"Arizona, United States",2,-3.70233054389422,http://www.leaderpost.com/news/world/american+hostage+held+isil+repeatedly+raped+group+leader+bakr/11293511/story.html
+458134413,107,33.7712,-111.388,20150816,"Arizona, United States",2,-3.70233054389422,http://www.leaderpost.com/news/world/american+hostage+held+isil+repeatedly+raped+group+leader+bakr/11293511/story.html
+457936729,116,33.0,44.0,20150815,Iraq,1,-3.26525643775779,http://wkbn.com/2015/08/14/islamic-state-leader-raped-american-hostage-us-finds/
+457931331,511,33.7712,-111.388,20150815,"Arizona, United States",2,-3.09335233318675,http://projects.registerguard.com/apf/dc/us-islamic-state-hostage/
+457931329,1737,33.7712,-111.388,20150815,"Arizona, United States",2,-3.16258459783621,http://projects.registerguard.com/apf/dc/us-islamic-state-hostage/
+457931326,1704,33.7712,-111.388,20150815,"Arizona, United States",2,-3.16258459783621,http://projects.registerguard.com/apf/dc/us-islamic-state-hostage/
+457931328,543,33.7712,-111.388,20150815,"Arizona, United States",2,-3.10769139992069,http://projects.registerguard.com/apf/dc/us-islamic-state-hostage/
+457903576,144,33.7712,-111.388,20150814,"Arizona, United States",2,-3.42183100280595,http://www.wect.com/story/29789963/islamic-state-leader-raped-american-hostage-us-finds
+457903575,421,33.7712,-111.388,20150814,"Arizona, United States",2,-3.45168511426083,http://www.wect.com/story/29789963/islamic-state-leader-raped-american-hostage-us-finds
+457903579,138,33.7712,-111.388,20150814,"Arizona, United States",2,-3.40539484739706,http://www.wect.com/story/29789963/islamic-state-leader-raped-american-hostage-us-finds
+457903578,407,33.7712,-111.388,20150814,"Arizona, United States",2,-3.45168511426083,http://www.wect.com/story/29789963/islamic-state-leader-raped-american-hostage-us-finds
+455739148,614,36.2028,37.1586,20150807,"Aleppo, ?alab, Syria",4,-5.86230793830822,http://www.businessinsider.com/ap-wife-of-killed-islamic-state-leader-now-in-iraq-custody-2015-8
+455691850,198,39.0664,8.45222,20150806,"Santantioco, Sardegna, Italy",4,-2.57005214880843,http://www.durhamregion.com/news-story/5787175-sinking-migrant-boat-poses-desperate-choices-for-father/
+455732301,120,36.2028,37.1586,20150806,"Aleppo, ?alab, Syria",4,-5.68106591970464,http://www.waff.com/story/29730204/wife-of-killed-islamic-state-leader-now-in-iraq-custody
+455668585,252,25.0,17.0,20150806,Libya,1,-2.51956390592166,http://www.ctvnews.ca/world/father-with-one-life-jacket-saves-wife-toddler-tossed-from-capsizing-boat-1.2504498
+455305579,125,35.0,20.0,20150805,"Mediterranean Sea, Oceans (general), Oceans",4,-5.44342484791219,http://www.sharenet.co.za/news/Migrant_boat_capsizes_in_Mediterranean_many_feared_dead/6f7430d6776a6cbfe660eb606a0cfec5
+453916411,110,4.36667,18.5833,20150731,"Bangui, Bangui, Central African Republic",4,-5.09809946777039,http://www.aljazeera.com/news/2015/07/amnesty-muslims-erased-central-african-republic-150731083248166.html
+452898528,132,39.0,22.0,20150728,Greece,1,-3.04783969448645,http://news.yahoo.com/rescuers-13-dead-migrants-packed-boat-off-libyan-080738543.html
+450448452,295,12.887,44.9844,20150719,"Dar Saad, ‘Adan, Yemen",4,-6.18405623030265,http://infotel.ca/newsitem/ml-yemen/cp33892457
+449437597,126,25.0,17.0,20150715,Libya,1,-4.70050819085585,http://www.trust.org/item/20150715190017-wnuxv/
+448947492,290,20.0,77.0,20150714,India,1,-3.42222223425112,http://yourhealth.asiaone.com/content/un-calls-huge-investment-roll-back-aids
+444600559,570,38.0,-97.0,20150629,United States,1,0.169192715864668,http://www.oakridger.com/article/20150629/BLOGS/306299999/-1/news
+443208484,240,42.8333,12.8333,20150623,Italy,1,-4.8883449909813,http://www.hawaiinewsnow.com/story/29386935/eu-urged-to-improve-migrant-centers-as-1000-more-rescued
+440249940,226,0.060832,40.3086,20150611,"Dadaab, North-Eastern, Kenya",4,-10.2093343450101,http://www.huffingtonpost.com/huff-wires/20150611/af--kenya-somali-refugees/
+440249941,486,0.060832,40.3086,20150611,"Dadaab, North-Eastern, Kenya",4,-10.2266823795316,http://www.huffingtonpost.com/huff-wires/20150611/af--kenya-somali-refugees/
+440249943,162,0.060832,40.3086,20150611,"Dadaab, North-Eastern, Kenya",4,-10.2266823795316,http://www.huffingtonpost.com/huff-wires/20150611/af--kenya-somali-refugees/
+434571527,314,36.2028,37.1586,20150520,"Aleppo, ?alab, Syria",4,-1.9633198280543,http://www.myfoxorlando.com/story/29101978/us-looking-into-whether-hostage-was-kept-by-is-leader
+434571525,219,36.2028,37.1586,20150520,"Aleppo, ?alab, Syria",4,-1.9633198280543,http://www.myfoxorlando.com/story/29101978/us-looking-into-whether-hostage-was-kept-by-is-leader
+434462630,1005,36.2028,37.1586,20150519,"Aleppo, ?alab, Syria",4,-1.95944287009163,http://abcnews.go.com/Politics/wireStory/us-official-discloses-real-dead-islamic-state-leader-31147109
+434462632,326,36.2028,37.1586,20150519,"Aleppo, ?alab, Syria",4,-1.98579290306616,http://abcnews.go.com/Politics/wireStory/us-official-discloses-real-dead-islamic-state-leader-31147109
+434277807,140,10.0,32.7,20150519,"Upper Nile, Wilayat A`ali an Nil, South Sudan",5,-8.36751698470806,http://news-sentinel.com/apps/pbcs.dll/article?AID=/20150518/AP01/305189958/1119/LEININGER
+434462633,280,31.0,36.0,20150519,Jordan,1,-1.91744879749013,http://abcnews.go.com/Politics/wireStory/us-official-discloses-real-dead-islamic-state-leader-31147109
+434462631,1042,36.2028,37.1586,20150519,"Aleppo, ?alab, Syria",4,-1.95944287009163,http://abcnews.go.com/Politics/wireStory/us-official-discloses-real-dead-islamic-state-leader-31147109
+434213732,537,10.0,32.7,20150518,"Upper Nile, Wilayat A`ali an Nil, South Sudan",5,-8.52158529854389,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2015-05-18-AF--South%20Sudan-Violence/id-f97fd8ed9f814e669c75e20abe25f957
+434201659,560,8.0,30.0,20150518,South Sudan,1,-10.4561202003504,http://www.sfgate.com/news/world/article/South-Sudan-UN-groups-say-children-targeted-in-6270727.php
+434201658,560,8.0,30.0,20150518,South Sudan,1,-10.4561202003504,http://www.sfgate.com/news/world/article/South-Sudan-UN-groups-say-children-targeted-in-6270727.php
+434213734,540,10.0,32.7,20150518,"Upper Nile, Wilayat A`ali an Nil, South Sudan",5,-8.52158529854389,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2015-05-18-AF--South%20Sudan-Violence/id-f97fd8ed9f814e669c75e20abe25f957
+433542643,133,6.45306,3.39583,20150515,"Lagos, Lagos, Nigeria",4,-6.13254931335601,http://www.itemlive.com/health/nigeria-kids-killed-by-lead-poisoning-from-gold-mining/article_e42d9b9d-7363-5ba6-9465-94235b9eb8f7.html
+433523431,335,9.08333,7.53333,20150515,"Abuja, Abuja Federal Capital Territory, Nigeria",4,-5.02703057566939,http://www.kten.com/story/29072406/nigeria-28-kids-killed-by-lead-poisoning-from-gold-mining
+433421562,114,15.3547,44.2067,20150515,"Sanaa, San‘a', Yemen",4,-3.81524400001218,http://zeenews.india.com/news/world/saudi-arabia-warns-rebels-over-yemen-truce-breaches_1595564.html
+432031870,198,8.65,29.85,20150510,"Unity State, Wilayat al Wahda, South Sudan",5,-8.55208376375881,http://www.watoday.com.au/world/tens-of-thousands-flee-fighting-in-south-sudan-aid-groups-withdraw-20150510-ggy5r2.html
+432031871,198,8.65,29.85,20150510,"Unity State, Wilayat al Wahda, South Sudan",5,-8.55208376375881,http://www.watoday.com.au/world/tens-of-thousands-flee-fighting-in-south-sudan-aid-groups-withdraw-20150510-ggy5r2.html
+432066858,114,24.6408,46.7728,20150510,"Riyadh, Ar Riya?, Saudi Arabia",4,-5.49522599608765,https://au.news.yahoo.com/thewest/world/a/27778345/yemen-rebel-allies-accept-saudi-ceasefire-offer/
+431790434,520,15.6942,43.6058,20150508,"Hajjah, ?ajjah, Yemen",4,-3.49469196748722,http://www.kpax.com/story/29015031/while-warning-yemenis-to-flee-saudi-arabia-promises-a-ceasefire
+431790433,104,25.0,45.0,20150508,Saudi Arabia,1,-3.49469196748722,http://www.kpax.com/story/29015031/while-warning-yemenis-to-flee-saudi-arabia-promises-a-ceasefire
+430675897,115,36.2028,37.1586,20150505,"Aleppo, ?alab, Syria",4,-14.7371774422533,http://news.yahoo.com/amnesty-slams-crimes-against-humanity-syrias-aleppo-231044068.html
+430707328,240,15.3547,44.2067,20150505,"Sanaa, San‘a', Yemen",4,-2.77370052035465,http://www.theaustralian.com.au/news/latest-news/yemen-runway-destroyed/story-fn3dxix6-1227336763707?nk=f30beaeb16e993bfcb50c618c14731e0
+430675900,162,36.2028,37.1586,20150505,"Aleppo, ?alab, Syria",4,-14.7466503474495,http://news.yahoo.com/amnesty-slams-crimes-against-humanity-syrias-aleppo-231044068.html
+430675898,115,36.2028,37.1586,20150505,"Aleppo, ?alab, Syria",4,-14.7371774422533,http://news.yahoo.com/amnesty-slams-crimes-against-humanity-syrias-aleppo-231044068.html
+430675899,159,36.2028,37.1586,20150505,"Aleppo, ?alab, Syria",4,-14.7466503474495,http://news.yahoo.com/amnesty-slams-crimes-against-humanity-syrias-aleppo-231044068.html
+430800950,147,36.2028,37.1586,20150428,"Aleppo, ?alab, Syria",4,-6.23349296523781,http://thepeninsulaqatar.com/news/middle-east/336170/major-hospital-in-syria-s-aleppo-shut-down-msf
+428773576,258,-41.3,174.783,20150427,"Wellington, New Zealand (general), New Zealand",4,-1.83752878428406,http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-04-27-AS--Nepal-Earthquake-The%20Latest/id-5d922c98b1b64f84b116ab6570a172cf
+428791724,128,-34.9333,138.6,20150427,"Adelaide, South Australia, Australia",4,-3.10633657260966,http://www.couriermail.com.au/news/queensland/isis-doctor-from-brisbane-previously-applied-to-join-doctors-without-borders/story-fnihsrf2-1227323768543?nk=9f64cf0e4665ba49680d9154fbc1d019
+428773575,340,27.7167,85.3167,20150427,"Kathmandu, Bagmati, Nepal",4,-1.82533934377413,http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-04-27-AS--Nepal-Earthquake-The%20Latest/id-5d922c98b1b64f84b116ab6570a172cf
+428661372,165,27.7167,85.3167,20150427,"Kathmandu, Bagmati, Nepal",4,-2.07811728698603,http://www.utsandiego.com/news/2015/apr/26/how-to-help-nepal-quake-victims/
+428469979,341,25.1833,85.5167,20150426,"Bihar, Bihar, India",4,-2.29244995609731,http://abc27.com/2015/04/25/leaders-charities-offer-condolences-help-after-nepal-quake/
+428469978,216,23.0,-102.0,20150426,Mexico,1,-2.22660154040049,http://abc27.com/2015/04/25/leaders-charities-offer-condolences-help-after-nepal-quake/
+428469980,104,25.1833,85.5167,20150426,"Bihar, Bihar, India",4,-2.14475037534033,http://abc27.com/2015/04/25/leaders-charities-offer-condolences-help-after-nepal-quake/
+428469973,328,27.7167,85.3167,20150426,"Kathmandu, Bagmati, Nepal",4,-2.39438348284517,http://www.seattlepi.com/national/asia/article/Nepal-earthquake-How-you-can-help-6224121.php
+428492104,215,27.7167,85.3167,20150426,"Kathmandu, Bagmati, Nepal",4,-3.12419737219879,http://www.wbtw.com/story/28898299/death-toll-now-more-than-1100-in-nepal-earthquake
+428439461,481,27.7167,85.3167,20150425,"Kathmandu, Bagmati, Nepal",4,-2.41278777834877,http://www.12newsnow.com/story/28897953/leaders-charities-offer-condolences-help-after-nepal-quake
+428439469,549,25.1833,85.5167,20150425,"Bihar, Bihar, India",4,-2.35088714468985,http://hosted2.ap.org/OHCAN/CREPnewswire/Article_2015-04-25-EU--Nepal-Earthquake-Response/id-897973f077b547df9e281b07275973b1
+428439463,163,40.7525,-73.8167,20150425,"Hindu Temple Society Of North America, New York, United States",3,-2.24244388988356,http://hosted2.ap.org/OHCAN/CREPnewswire/Article_2015-04-25-EU--Nepal-Earthquake-Response/id-897973f077b547df9e281b07275973b1
+428439468,274,27.7167,85.3167,20150425,"Kathmandu, Bagmati, Nepal",4,-2.82092395649669,http://hosted2.ap.org/OHCAN/CREPnewswire/Article_2015-04-25-EU--Nepal-Earthquake-Response/id-897973f077b547df9e281b07275973b1
+428439465,402,23.0,-102.0,20150425,Mexico,1,-2.32079972908791,http://hosted2.ap.org/OHCAN/CREPnewswire/Article_2015-04-25-EU--Nepal-Earthquake-Response/id-897973f077b547df9e281b07275973b1
+428445809,177,25.1833,85.5167,20150425,"Bihar, Bihar, India",4,-2.20051152705179,http://wbay.com/ap/leaders-charities-offer-condolences-help-after-nepal-quake/
+428461865,104,23.0,-102.0,20150425,Mexico,1,-2.18510678944403,http://hosted2.ap.org/CAVAN/7d8cc182f2be4ace870269f44557ee9a/Article_2015-04-25-EU--Nepal-Earthquake-Response/id-86aefba2653f477fb254049c70299720
+426654197,190,-27.0,133.0,20150419,Australia,1,-6.8681584287025,http://www.dailytelegraph.com.au/news/opinion/many-disease-deaths-are-preventable-tragedies/story-fni0cwl5-1227310883707?nk=c2f9380ead28564c79c5a320feb0cdaa
+425287713,172,15.3547,44.2067,20150414,"Sanaa, San‘a', Yemen",4,-4.20343103901595,https://uk.news.yahoo.com/fighters-southern-yemen-pushing-back-houthis-095238393.html
+425287712,162,15.3547,44.2067,20150414,"Sanaa, San‘a', Yemen",4,-4.26775723238929,https://uk.news.yahoo.com/fighters-southern-yemen-pushing-back-houthis-095238393.html
+423420949,128,24.6408,46.7728,20150407,"Riyadh, Ar Riya?, Saudi Arabia",4,-5.70973210971846,http://www.businessinsider.com/afp-red-cross-says-situation-catastrophic-in-yemens-aden-2015-4
+421491397,172,24.6408,46.7728,20150331,"Riyadh, Ar Riya?, Saudi Arabia",4,-5.36064874270082,http://www.voiceofalexandria.com/news/world/saudi-led-forces-strike-yemen-rebels-blockade-ports/article_0c25ee44-b27f-5e6f-af14-d5f8cbd17d26.html
+421491398,226,35.0,38.0,20150331,Syria,1,-5.40655433752988,http://www.voiceofalexandria.com/news/world/saudi-led-forces-strike-yemen-rebels-blockade-ports/article_0c25ee44-b27f-5e6f-af14-d5f8cbd17d26.html
+421501732,170,15.3547,44.2067,20150331,"Sanaa, San‘a', Yemen",4,-5.28695585884304,http://www.couriermail.com.au/news/world/yemens-cities-shake-under-intense-saudi-air-attack/story-fnihsmjt-1227285796928
+421491400,113,35.0,38.0,20150331,Syria,1,-5.40655433752988,http://www.voiceofalexandria.com/news/world/saudi-led-forces-strike-yemen-rebels-blockade-ports/article_0c25ee44-b27f-5e6f-af14-d5f8cbd17d26.html
+421471753,132,35.0,38.0,20150330,Syria,1,-5.41943887785347,http://www.kxnet.com/story/28645164/saudi-led-forces-strike-yemen-rebels-blockade-ports
+419482444,160,9.50917,-13.7122,20150323,"Conakry, Capitale d'Etat-Zone Speciale de Conakry, Guinea",4,-2.41764785709052,http://www.voanews.com/content/guinea-continues-to-fight-ebola-despite-challenges/2691490.html
+416618398,134,6.31056,-10.8047,20150313,"Monrovia, Montserrado, Liberia",4,-5.94160721578707,http://www.mynews13.com/content/news/cfnews13/news/article.html/content/news/articles/ap/2015/03/12/More_children_at_risk_of_measles_in_wake_of_Ebola_epidemic.html
+416575568,114,6.31056,-10.8047,20150312,"Monrovia, Montserrado, Liberia",4,-5.95495567596472,http://townhall.com/news/health/2015/03/12/more-children-at-risk-of-measles-in-wake-of-ebola-epidemic-n1969815
+416569793,356,6.31056,-10.8047,20150312,"Monrovia, Montserrado, Liberia",4,-5.78826433716899,https://ph.news.yahoo.com/more-children-risk-measles-wake-ebola-epidemic-194528562.html
+415035909,1566,36.2028,37.1586,20150307,"Aleppo, ?alab, Syria",4,-4.36121129898361,http://wric.com/ap/arizona-family-holds-hometown-memorial-for-slain-hostage/
+414511260,195,10.0,-14.0,20150305,"Basse Guinee, Guinea (general), Guinea",4,-0.629667730829858,http://newsok.com/who-to-begin-large-scale-testing-of-ebola-vaccine-in-guinea/article/feed/806559
+414502541,231,6.5,-9.5,20150305,Liberia,1,-0.538898875100527,http://www.wkrg.com/story/28267813/who-to-begin-large-scale-testing-of-ebola-vaccine-in-guinea
+413443180,138,38.8951,-77.0364,20150302,"Washington, District of Columbia, United States",3,-2.9575448074858,https://uk.news.yahoo.com/japanese-firm-behind-ebola-drug-says-tests-offer-032346847.html
+337087898,226,36.2028,37.1586,20150216,"Aleppo, ?alab, Syria",4,3.09610854422925,http://www.dailyastorian.com/kayla-muellers-boyfriend-i-came-back-to-save-her-da-ap-webfeeds-news-nation-world32ec51026f054f21a2d30d2b58b90e04
+337087939,148,36.2028,37.1586,20150216,"Aleppo, ?alab, Syria",4,3.12189004715532,http://www.goupstate.com/article/20150216/APA/302169921
+337087916,305,36.2028,37.1586,20150216,"Aleppo, ?alab, Syria",4,3.0971835761403,http://www.christianpost.com/news/boyfriend-of-christian-aid-worker-kayla-mueller-says-he-tried-to-save-her-but-she-refused-to-risk-his-life-134144/
+337087910,306,36.2028,37.1586,20150216,"Aleppo, ?alab, Syria",4,3.08629185270437,http://news.nationalpost.com/2015/02/16/boyfriend-posed-as-american-hostages-husband-in-attempt-to-negotiate-her-release-from-isis/
+336940867,124,36.2028,37.1586,20150215,"Aleppo, ?alab, Syria",4,3.21796832552454,https://au.news.yahoo.com/world/a/26305558/heartbreaking-message-from-hostages-boyfriend/
+336940865,126,36.2028,37.1586,20150215,"Aleppo, ?alab, Syria",4,3.22723315992196,https://au.news.yahoo.com/world/a/26305558/heartbreaking-message-from-hostages-boyfriend/
+333364722,126,-16.9167,35.2667,20150123,"Nsanje, Nsanje, Malawi",4,1.91315664240203,http://www.news24.com/Africa/News/Malawi-flood-victims-in-dire-need-20150123
+332060573,476,11.8464,13.1603,20150115,"Maiduguri, Borno, Nigeria",4,0.54526255370284,http://www.newvision.co.ug/news/663737-boko-haram-killed-woman-in-labour-during-attack.html
+332060562,502,11.8464,13.1603,20150115,"Maiduguri, Borno, Nigeria",4,0.545095346481001,http://www.newvision.co.ug/news/663737-boko-haram-killed-woman-in-labour-during-attack.html
+327461795,104,9.50917,-13.7122,20141210,"Conakry, Capitale d'Etat-Zone Speciale de Conakry, Guinea",4,2.16604912988505,http://www.greenwichtime.com/news/medical/article/Training-delays-Cuban-doctors-from-fighting-Ebola-5945382.php
+327285280,108,21.5,-80.0,20141209,Cuba,1,2.23053823522452,http://www.aikenstandard.com/article/20141209/AIK0106/141209413/1002/AIK01/training-delays-cuban-doctors-from-fighting-ebola
+327285279,302,9.50917,-13.7122,20141209,"Conakry, Capitale d'Etat-Zone Speciale de Conakry, Guinea",4,2.07026009972291,http://www.aikenstandard.com/article/20141209/AIK0106/141209413/1002/AIK01/training-delays-cuban-doctors-from-fighting-ebola
+327285277,170,8.5,-11.5,20141209,Sierra Leone,1,2.04228459503275,http://www.interaksyon.com/article/100863/first-person--fear-and-hope-at-a-sierra-leone-ebola-center
+325586992,126,46.0,2.0,20141128,France,1,2.79512627669735,http://tdn.com/news/world/africa/french-president-cheered-in-ebola-stricken-guinea/article_dcd842c7-5b10-580d-96c7-e16e12433b43.html
+325586994,102,46.0,2.0,20141128,France,1,2.79601415909423,http://tdn.com/news/world/africa/french-president-cheered-in-ebola-stricken-guinea/article_dcd842c7-5b10-580d-96c7-e16e12433b43.html
+325304955,998,9.50917,-13.7122,20141126,"Conakry, Capitale d'Etat-Zone Speciale de Conakry, Guinea",4,3.23062771324512,http://www.live5news.com/story/27489405/guinea-hit-by-ebola-reports-only-1-cholera-case
+325304953,105,18.5392,-72.335,20141126,"Port-Au-Prince, Ouest, Haiti",4,4.49560495645281,http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=11365458
+323462474,120,38.8951,-77.0364,20141114,"White House, District of Columbia, United States",3,2.48431206624313,http://time.com/3585705/hagel-nuclear-weapons-force/
+324262232,119,40.3736,-82.7755,20141113,"Ohio, United States",2,2.72762044098888,http://www.kltv.com/story/27434790/study-will-test-survivors-blood-to-treat-ebola
+323290110,180,11.0,-10.0,20141113,Guinea,1,2.33517873879683,http://www.dallassun.com/index.php/sid/227583401
+324085072,610,40.3736,-82.7755,20141112,"Ohio, United States",2,2.79220371060308,http://www.paradisepost.com/general-news/20141118/study-will-test-survivors-blood-to-treat-ebola/1
+322928888,262,8.5625,-10.1325,20141111,"Gueckedou, Guééu, Guinea",4,3.95709942185162,http://www.wral.com/nyc-doctor-to-be-released-after-ebola-recovery/14168398/
+322928889,316,11.0,-10.0,20141111,Guinea,1,3.79889482814424,http://www.myfoxphilly.com/story/27347798/nyc-doctor-to-be-released-after-ebola-recovery
+323906667,136,40.3736,-82.7755,20141111,"Ohio, United States",2,2.84583351586102,http://chippewa.com/business/study-will-test-survivors-blood-to-treat-ebola/article_26845d79-ac9b-5682-b5d9-6d740e7eda9a.html
+322753953,427,11.0,-10.0,20141110,Guinea,1,3.49538403045766,http://www.staradvertiser.com/news/breaking/20141110_NYC_doctor_to_be_released_after_Ebola_recovery.html?id=282213831
+322753958,301,50.8333,4.33333,20141110,"Brussels, Bruxelles-Capitale, Belgium",4,2.20614105365025,http://www.hattiesburgamerican.com/story/news/nation/2014/11/10/ebola-nurse-advocate-health-workers/18794401/
+322753952,470,8.5625,-10.1325,20141110,"Gueckedou, Guééu, Guinea",4,3.8542966718637,http://www.middletownpress.com/general-news/20141110/new-york-doctor-to-be-released-after-ebola-recovery
+322753944,180,40.7357,-74.1724,20141110,"Newark, New Jersey, United States",3,2.6477828054596,http://www.nbcmontana.com/lifestyle/health/ebola-nurse-plans-to-leave-maine-town/29632742
+322598456,120,38.0,-97.0,20141109,United States,1,4.43265675743255,http://peconicpublicbroadcasting.org/post/reggae-vibe-ebola-message-african-superstars-try-go-viral
+322598465,264,50.8333,4.33333,20141109,"Brussels, Bruxelles-Capitale, Belgium",4,2.33355455931888,http://www.dallasnews.com/ebola/headlines/20141109-ebola-nurse-to-remain-a-voice-against-quarantines.ece
+322359988,135,9.50917,-13.7122,20141107,"Conakry, Capitale d'Etat-Zone Speciale de Conakry, Guinea",4,1.73371880132492,http://www.northcountrypublicradio.org/news/npr/362062293/guinea-is-seeing-more-ebola-cases-can-the-trend-be-stopped
+321815286,144,44.6074,-69.3977,20141104,"Maine, United States",2,2.40787977124205,http://www.wxii12.com/health/nurse-kaci-hickox-the-fight-is-not-over/29514438
+320913581,208,8.5,-11.5,20141029,Sierra Leone,1,1.83937990989343,http://fox17online.com/2014/10/29/nurse-wont-submit-to-ebola-quarantine-lawyer-says/
+320732872,276,40.314,-74.5089,20141028,"New Jersey, United States",2,2.57874004570016,http://www.dailymail.co.uk/news/article-2811569/Obama-slaps-Christie-forcibly-quarantining-heroic-Ebola-nurse-isolation-tent-saying-America-not-defined-fear.html?ITO=1490&ns_campaign=1490
+320408087,120,49.1961,-2.12585,20141026,Jersey,1,1.86463717953494,http://krqe.com/2014/10/26/nurse-criticizes-ebola-quarantine-raising-concern/
+320407989,273,32.7153,-117.157,20141026,"San Diego, California, United States",3,3.18636646863681,http://www.timesunion.com/news/medical/article/Drugmakers-bet-on-Ebola-vaccines-treatments-5848739.php
+320408091,476,40.314,-74.5089,20141026,"New Jersey, United States",2,2.10379668301807,http://www.mb.com.ph/nurse-criticizes-ebola-quarantine-raising-concern/
+320408073,363,40.4862,-74.4518,20141026,"New Brunswick, New Jersey, United States",3,3.24315439338908,http://www.timesunion.com/news/medical/article/Drugmakers-bet-on-Ebola-vaccines-treatments-5848739.php
+320407994,363,40.4862,-74.4518,20141026,"New Brunswick, New Jersey, United States",3,3.24315439338908,http://www.timesunion.com/news/medical/article/Drugmakers-bet-on-Ebola-vaccines-treatments-5848739.php
+320407986,102,42.1497,-74.9384,20141026,"New York, United States",2,1.55457317110554,http://www.dallasnews.com/news/metro/20141025-nurse-former-uta-student-is-quarantined-in-new-jersey-despite-testing-negative-for-ebola.ece
+320300041,286,8.5625,-10.1325,20141025,"Gueckedou, Guééu, Guinea",4,2.6237310982938,http://ksn.com/2014/10/25/colleagues-us-doctor-with-ebola-was-very-careful/
+320300091,390,8.5625,-10.1325,20141025,"Gueckedou, Guééu, Guinea",4,2.68465134518781,http://www.independent.ie/world-news/ebola/at-least-10000-are-now-infected-with-ebola-virus-30693289.html
+320300128,180,8.5625,-10.1325,20141025,"Gueckedou, Guééu, Guinea",4,2.65892956400004,http://ksn.com/2014/10/25/colleagues-us-doctor-with-ebola-was-very-careful/
+320300043,292,42.1497,-74.9384,20141025,"New York, United States",2,2.64698077936702,http://ksn.com/2014/10/25/colleagues-us-doctor-with-ebola-was-very-careful/
+320300132,182,42.1497,-74.9384,20141025,"New York, United States",2,2.67821915713278,http://ksn.com/2014/10/25/colleagues-us-doctor-with-ebola-was-very-careful/
+320174165,148,42.1497,-74.9384,20141024,"New York, United States",2,2.34105923134223,http://www.erietvnews.com/story/26880539/nyc-ebola-case-no-public-threat-officials-say-but-ny-nj-boost-airport-screening
+320174152,120,42.1497,-74.9384,20141024,"New York, United States",2,2.24135226604818,http://www.erietvnews.com/story/26880539/nyc-ebola-case-no-public-threat-officials-say-but-ny-nj-boost-airport-screening
+320001035,240,42.1497,-74.9384,20141023,"New York, United States",2,2.08818943439711,http://www.kitv.com/health/doctors-without-borders-physician-tested-for-ebola/29304610
+320001043,245,42.1497,-74.9384,20141023,"New York, United States",2,2.05107047184534,http://www.kitv.com/health/doctors-without-borders-physician-tested-for-ebola/29304610
+319818249,112,46.1956,6.14811,20141022,"Geneva, Genè, Switzerland",4,2.1926659251851,http://www.reuters.com/article/2014/10/22/us-health-tuberculosis-idUSKCN0IB1IV20141022
+316399077,340,9.18333,-10.45,20140930,"Mandou, Faranah, Guinea",4,1.73381047378523,http://www.devilslakejournal.com/article/20140930/NEWS/140939932
+315698228,133,6.5,-9.5,20140925,Liberia,1,1.75056123126851,http://www.newsmax.com/TheWire/red-cross-attack-guinea-ebola/2014/09/24/id/596708/
+315698235,132,8.54611,-9.46944,20140925,"Macenta, Macenta, Guinea",4,1.78811312862494,http://www.trivalleycentral.com/casa_grande_dispatch/world_news/guinea-while-burying-ebola-dead-red-cross-attacked/article_1989e5ce-44e2-11e4-b143-37f4a8b56918.html
+315514375,104,51.5,-0.116667,20140924,"London, London, City of, United Kingdom",4,1.9436618627645,http://www.thealpenanews.com/page/content.detail/id/612537/Red-Cross-team-attacked-while-burying-Ebola-dead.html?isap=1&nav=5014
+315514365,217,6.5,-9.5,20140924,Liberia,1,1.84873578257953,http://www.observer-reporter.com/article/20140924/NEWS06/140929685/RK=0
+315514379,102,8.5,-11.5,20140924,Sierra Leone,1,1.98486373485418,http://www.observer-reporter.com/article/20140924/NEWS06/140929685/RK=0
+315154968,189,8.5,-11.5,20140922,Sierra Leone,1,3.08073817054372,http://mwcnews.net/news/africa/46421-ebola-travel-ban.html
+314794285,109,8.54611,-9.46944,20140919,"Macenta, Macenta, Guinea",4,2.5054422851686,http://www.cbsnews.com/news/ebola-attack-in-guinea-on-officials-journalists-turns-deadly/
+314631790,132,6.31056,-10.8047,20140918,"Monrovia, Montserrado, Liberia",4,3.11070161322831,http://www.charlotteobserver.com/2014/09/18/5183499/un-chief-calls-for-about-1-billion.html
+314461267,110,8.5,-11.5,20140917,Sierra Leone,1,2.87361615252349,http://www.tuscaloosanews.com/article/20140917/API/309179757
+314117679,190,5.55,-0.216667,20140915,"Accra, Greater Accra, Ghana",4,1.54945616043502,http://www.reuters.com/article/2014/09/15/health-ebola-idUSL6N0RG4VJ20140915
+314117682,190,5.55,-0.216667,20140915,"Accra, Greater Accra, Ghana",4,1.54945616043502,http://www.reuters.com/article/2014/09/15/health-ebola-idUSL6N0RG4VJ20140915
+313216836,240,38.8951,-77.0364,20140909,"Washington, District of Columbia, United States",3,3.2658293465623,http://www.timescolonist.com/news/b-c/us-uk-to-send-military-help-for-ebola-as-who-warns-cases-about-to-surge-in-liberia-1.1347129
+313053546,104,38.0,-97.0,20140908,United States,1,1.25956031402737,http://www.khaleejtimes.com/kt-article-display-1.asp?xfile=data/international/2014/September/international_September166.xml&section=international
+313053557,218,8.54611,-9.46944,20140908,"Macenta, Macenta, Guinea",4,1.90887276775963,http://www.punchng.com/news/blocking-all-the-holes/
+313053593,364,38.8951,-77.0364,20140908,"Washington, District of Columbia, United States",3,3.31625484473119,http://www.therecord.com/news-story/4840126-u-s-u-k-prepare-to-send-military-help-for-ebola-as-who-warns-cases-about-to-surge-in-liberia/
+313053583,120,38.0,-97.0,20140908,United States,1,1.20109852515825,http://www.firstpost.com/world/britain-sends-military-to-fight-ebola-as-firms-urge-more-action-1703095.html
+313053590,594,38.8951,-77.0364,20140908,"Washington, District of Columbia, United States",3,3.34918677883127,http://hosted2.ap.org/vastr/ea0047ceeaef4b33aa97e92947c99b8f/Article_2014-09-08-Ebola/id-a0ede45789f04517991ee85153d488a2&c=8Jf2R9XV73ZfWAebRwA1fn7RfsYJBVk8AuuzfGQ1I2I&mkt=en-us
+313053530,216,8.54611,-9.46944,20140908,"Macenta, Macenta, Guinea",4,1.90523214714432,http://savannahnow.com/news/2014-09-08/ebola-surging-places-it-had-been-beaten-back
+312024660,112,-26.2,28.0833,20140901,"Johannesburg, Gauteng, South Africa",4,2.26827751085517,http://in.reuters.com/article/2014/09/01/health-ebola-wb-idINKBN0GW2SN20140901?feedType=RSS&feedName=worldNews
+311528026,120,5.55,-0.216667,20140828,"Accra, Greater Accra, Ghana",4,1.84925139229621,http://www.panarmenian.net/eng/news/181969/&c=USY1FR_nSaEsmQK526XEJNZqRfPfyJFd4DELbiyQcGE&mkt=en-us
+311528023,210,-1.0,15.0,20140828,Congo,1,1.95232887474152,http://uk.reuters.com/article/2014/08/29/us-health-ebola-idUKKBN0GS1SU20140829
+311528022,148,46.1956,6.14811,20140828,"Geneva, Genè, Switzerland",4,1.95529079930268,http://uk.reuters.com/article/2014/08/29/us-health-ebola-idUKKBN0GS1SU20140829
+311528042,150,8.49,-13.2342,20140828,"Freetown, Western Area, Sierra Leone",4,1.32112576565157,http://www.telegraph.co.uk/news/worldnews/ebola/11062762/Ebola-outbreak-Airlines-stop-flights-as-US-expert-warns-outbreak-will-worsen.html
+311528041,144,8.5,-11.5,20140828,Sierra Leone,1,1.48507783356286,http://www.news-sentinel.com/apps/pbcs.dll/article?AID=/20140828/AP01/308289987
+311362271,110,7.87667,-11.1875,20140827,"Kenema, Eastern, Sierra Leone",4,2.17728302738677,http://ksn.com/2014/08/27/us-official-warns-ebola-outbreak-will-get-worse/
+311362268,108,8.49,-13.2342,20140827,"Freetown, Western Area, Sierra Leone",4,1.86327188089677,http://www.observer-reporter.com/article/20140827/NEWS06/140829430
+307786534,130,8.5,-11.5,20140801,Sierra Leone,1,1.89814434613534,http://www.beauregarddailynews.net/article/ZZ/20140801/NEWS/140809994/-1/Columns&c=8eMJvqRtsHblpuysihStfgmKTrtVjI9QMalmAEMfwiM&mkt=en-us
+307639360,120,11.0,-10.0,20140731,Guinea,1,2.19142586411611,http://businessdayonline.com/2014/08/luth-confirms-results-negative-for-ebola-virus-samples/
+307639382,366,11.0,-10.0,20140731,Guinea,1,2.18777771195414,http://news.omy.sg/News/World-News/story20140801-281847
+307639329,182,6.45306,3.39583,20140731,"Lagos, Lagos, Nigeria",4,2.1972208510407,http://www.channelnewsasia.com/news/asia-europe-on-ebola/1290824.html
+307639361,358,11.0,-10.0,20140731,Guinea,1,2.19004228312604,http://news.omy.sg/News/World-News/story20140801-281847
+307487314,266,11.0,-10.0,20140730,Guinea,1,1.80894607519582,http://www.emirates247.com/news/europe-asia-on-alert-as-deadly-ebola-fears-grow-2014-07-31-1.558057
+307487336,130,11.0,-10.0,20140730,Guinea,1,1.16252021054913,http://newsinfo.inquirer.net/625052/fears-grow-of-ebola-spreading-to-europe
+307487319,138,11.0,-10.0,20140730,Guinea,1,1.16557862024354,http://newsinfo.inquirer.net/625052/fears-grow-of-ebola-spreading-to-europe
+307487280,225,6.45306,3.39583,20140730,"Lagos, Lagos, Nigeria",4,1.87849710675005,http://www.emirates247.com/news/europe-asia-on-alert-as-deadly-ebola-fears-grow-2014-07-31-1.558057
+307487329,312,11.0,-10.0,20140730,Guinea,1,1.8360455669926,http://www.emirates247.com/news/europe-asia-on-alert-as-deadly-ebola-fears-grow-2014-07-31-1.558057
+306144205,270,31.4167,34.3333,20140721,"Gaza, Israel (general), Israel",4,1.92793619174215,https://www.middleeastmonitor.com/news/europe/12967-medecins-sans-frontieres-calls-for-israel-to-stop-striking-civilians-in-gaza
+306144202,218,31.4167,34.3333,20140721,"Gaza, Israel (general), Israel",4,1.95578582194828,http://gulftoday.ae/portal/85adbaea-f014-4ead-bdc4-27e25f544a6c.aspx
+306144198,256,31.4167,34.3333,20140721,"Gaza, Israel (general), Israel",4,1.95739539578449,http://gulftoday.ae/portal/85adbaea-f014-4ead-bdc4-27e25f544a6c.aspx
+305750970,144,38.0,-97.0,20140718,United States,1,2.71018905977019,http://www.kvue.com/story/news/world/2014/07/18/top-aids-researchers-killed-in-malaysia-airlines-crash/12845999/
+305750978,144,38.0,-97.0,20140718,United States,1,2.71018905977019,http://www.kvue.com/story/news/world/2014/07/18/top-aids-researchers-killed-in-malaysia-airlines-crash/12845999/
+305097508,496,8.49,-13.2342,20140714,"Freetown, Western Area, Sierra Leone",4,2.16983885807443,http://swtimes.com/nationworld/more-500-dead-ebola-crisis-deepens-west-africa
+305097513,306,8.5,-11.5,20140714,Sierra Leone,1,2.21479110176485,http://timesfreepress.com/news/2014/jul/14/ebola-crisis-west-africa-deepens-more-500-dead/?news&c=ppwpW40Jf6BQbim2DTSu5NWBDFgEJXm0lE0980H4jNw&mkt=en-us
+303664448,110,11.0,-10.0,20140703,Guinea,1,2.99895321775351,http://www.inform.kz/eng/article/2674594&c=6MnGoWjneGykczTqOwOj1B-_BlZqZKIkLLbsAzvAUv4&mkt=en-us
+303525371,160,11.0,-10.0,20140702,Guinea,1,3.31808799074758,http://www.aljazeera.com/news/africa/2014/07/west-african-minsters-detail-ebola-challenges-2014722337257555.html/RK=0
+303525372,102,6.5,-9.5,20140702,Liberia,1,3.44902688853604,http://www.themalaysianinsider.com/world/article/fear-cash-shortages-hinder-fight-against-ebola-outbreak
+303384045,130,7.4,32.4,20140701,"Jonglei State, Wilayat Junqoley, South Sudan",5,2.00523636798743,http://www.detroitnews.com/article/20140701/NATION/307010042/1020/rss09/RK=0
+303384042,180,8.0,30.0,20140701,South Sudan,1,4.10018380793009,http://www.bostonglobe.com/news/world/2014/07/01/report-killed-hospitals-sudan-conflict/3jabK7odkPEtCHds6w9KLI/story.html
+297161303,220,-1.28333,36.8167,20140513,"Nairobi, Nairobi Area, Kenya",4,1.75909151700549,http://abcnews.go.com/International/wireStory/south-sudan-bodies-wells-houses-burned-23694767?pt=BureoF3GVB?date20320705/?formatrss/?formatrss&c=EkxspWNAN8EADiHkEHGz1utHoWNYLNdlJo4WCPsrImg&mkt=en-us
+293997452,130,8.51667,33.45,20140418,"Nuer, Wilayat A`ali an Nil, South Sudan",4,2.72949834218607,http://www.greenfieldreporter.com/view/story/ae9a2e3bf7fd431295dced542888a295/UN--United-Nations-South-Sudan
+292792113,190,8.0,30.0,20140409,South Sudan,1,1.82483590523655,http://time.com/55446/doctors-without-borders-blasts-u-n-in-south-sudan/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+time%2Fworld+%28TIME%3A+Top+World+Stories%29
+292792110,130,4.84597,31.6012,20140409,"Juba, Wilayat Bahr al Jabal, South Sudan",4,1.6644068212837,http://www.twincities.com/nation/ci_25528899/doctors-without-borders-blasts-un-south-sudan
+291218651,120,9.50917,-13.7122,20140327,"Conakry, Capitale d'Etat-Zone Speciale de Conakry, Guinea",4,1.01902641386079,http://in.reuters.com/article/2014/03/27/guinea-ebola-idINDEEA2Q0JX20140327?feedType=RSS&feedName=worldNews
+290753989,290,20.15,92.9,20140324,"Sittwe, Rakhine State, Myanmar",4,2.37476856645699,http://www.philstar.com/world/2014/03/25/1304932/anti-genocide-group-sounds-warning-about-myanmar
+290753988,290,20.15,92.9,20140324,"Sittwe, Rakhine State, Myanmar",4,2.37476856645699,http://www.philstar.com/world/2014/03/25/1304932/anti-genocide-group-sounds-warning-about-myanmar
+289401310,126,20.15,92.9,20140313,"Sittwe, Rakhine State, Myanmar",4,1.98987883819438,http://www.morungexpress.com/Perspective/112436.html
+289253555,105,38.0,-97.0,20140312,United States,1,2.05482047786901,http://www.tri-cityherald.com/2014/03/12/2871210/rohingya-dying-from-lack-of-health.html
+289253549,220,20.15,92.9,20140312,"Sittwe, Rakhine State, Myanmar",4,2.01692759701886,http://www.tri-cityherald.com/2014/03/12/2871210/rohingya-dying-from-lack-of-health.html
+287846808,160,16.8053,96.1561,20140301,"Rangoon, Yangon, Myanmar",4,2.03931051539115,http://www.voanews.com/content/burmese-government-appears-to-backpedal-on-aid-organization-ban/1862029.html/RK=0/RS=H8lUuK37bjo2oBg_1dew0Wkrqe0-
+287846819,115,44.6074,-69.3977,20140301,"Maine, United States",2,2.59433962264151,http://www.theglobeandmail.com/news/world/myanmar-expels-doctors-without-borders-accuses-group-of-dissension/article17167855/?cmpid=rss1/RK=0/RS=o1lA3og92gxREFQeZKzK03mSqYg-
+287846817,115,26.0,97.5,20140301,"Kachin, Kachin State, Myanmar",5,2.59433962264151,http://www.theglobeandmail.com/news/world/myanmar-expels-doctors-without-borders-accuses-group-of-dissension/article17167855/?cmpid=rss1/RK=0/RS=o1lA3og92gxREFQeZKzK03mSqYg-
+287734678,110,44.6074,-69.3977,20140228,"Maine, United States",2,2.59295715454887,http://www.theglobeandmail.com/news/world/myanmar-expels-doctors-without-borders-accuses-group-of-dissension/article17167855/?cmpid=rss1/RK=0/RS=gpk.xHfNa_iWlHZH5ounOHg5Wak-
+287734689,170,15.0,19.0,20140228,Chad,1,1.76456996680474,http://www.globalpost.com/dispatch/news/thomson-reuters/140228/france-striving-stop-cafrican-republic-split-hollande-says
+285099224,123,15.0,19.0,20140207,Chad,1,1.911743386232,http://news.yahoo.com/muslims-flee-central-african-republic-39-capital-175603939.html?.tsrc=_messenger%2F&c=sWUS7q1OaSfdZ0mZ6hmnUU_SI-Lruh7H_t5RVVuAEck&mkt=en-us
+285099218,123,15.0,19.0,20140207,Chad,1,1.911743386232,http://news.yahoo.com/muslims-flee-central-african-republic-39-capital-175603939.html?.tsrc=_messenger%2F&c=sWUS7q1OaSfdZ0mZ6hmnUU_SI-Lruh7H_t5RVVuAEck&mkt=en-us
+284265037,130,8.0,30.0,20140131,South Sudan,1,2.22348924997159,http://www.wlos.com/template/inews_wire/wires.international/2de4b16e-www.wlos.com.shtml
+284156134,130,4.36667,18.5833,20140130,"Bangui, Bangui, Central African Republic",4,1.7102343863645,http://www.nst.com.my/latest/ruthless-christian-militias-hunt-down-muslims-in-car-capital-1.474032?cache=/7.191744/7.468851/7.481666/7.492361/7.490557/7.490557/7.490557/7.490557/7.490557/7.490557/7.575117/7.575117
+278467374,106,4.36667,18.5833,20131205,"Bangui, Bangui, Central African Republic",4,2.968803891168,http://www.mininggazette.com/page/content.detail/id/419519/16-dead-in-fighting-in-C--African-Republic-capital.html?isap=1&nav=5016
+278254944,176,6.51046,18.2733,20131130,"Bouca, , Central African Republic",4,2.43988879519532,http://www.charlotteobserver.com/2013/11/30/4508243/sectarian-tensions-mount-in-c.html
+275795873,220,11.2433,125.005,20131114,"Tacloban, Tacloban, Philippines",4,4.29244801924409,http://www.channelnewsasia.com/news/asiapacific/un-admits-failings-as/887146.html
+275312496,117,60.0,-95.0,20131111,Canada,1,4.90679629378254,http://www.dailynewsegypt.com/2013/11/11/world-sends-emergency-relief-to-battered-philippines/
+266725980,664,33.5,36.3,20130908,"Damascus, Dimashq, Syria",4,1.6642105928864,http://www.japantoday.com/category/world/view/doubts-linger-over-syrian-gas-attack-responsibility
+266725982,124,38.8951,-77.0364,20130908,"White House, District of Columbia, United States",3,1.65120968943121,http://www.japantoday.com/category/world/view/doubts-linger-over-syrian-gas-attack-responsibility
+266326899,274,36.2028,37.1586,20130905,"Aleppo, ?alab, Syria",4,1.92123109865339,http://theintelligencer.net/page/content.detail/id/369878/Syrian-rebels-fight-army-near-Christian-village.html?isap=1&nav=538&c=WJpyFDGwrOvtYwhgXVbHyqRVuUBHaCEGA9jd0fprOHw&mkt=en-us
+266326903,210,36.2028,37.1586,20130905,"Aleppo, ?alab, Syria",4,1.95947252638088,http://theintelligencer.net/page/content.detail/id/369878/Syrian-rebels-fight-army-near-Christian-village.html?isap=1&nav=538&c=WJpyFDGwrOvtYwhgXVbHyqRVuUBHaCEGA9jd0fprOHw&mkt=en-us
+265972541,210,38.0,-97.0,20130903,United States,1,1.10928726927626,http://www.newschannel10.com/story/23321352/a-look-at-syria-developments-around-the-world
+265972515,106,38.8951,-77.0364,20130903,"Washington, District of Columbia, United States",3,1.84678181633208,http://www.duluthnewstribune.com/event/article/id/276818/
+265829745,747,38.8951,-77.0364,20130902,"White House, District of Columbia, United States",3,1.4682932234411,http://norfolkdailynews.com/news/national/news_national/a-look-at-syria-developments-around-the-world/article_ec66a1bc-1446-11e3-8602-001a4bcf6878.html
+265829750,220,35.0,105.0,20130902,China,1,1.60840663386782,http://www.kentucky.com/2013/09/02/2800158/oil-falls-below-107-as-syria-tension.html
+265829732,180,46.0,2.0,20130902,France,1,1.29776132407761,http://www.cbc.ca/news/business/story/2013/09/02/oil-prices-syria.html
+265829720,236,38.8951,-77.0364,20130902,"Washington, District of Columbia, United States",3,1.9009840619907,http://www.mountainviewgazette.ca/article/GB/20130902/CP01/309029959/-1/mvg08/french-intelligence-pins-attack-on-syrian-leader-assad-warns-against&template=cpArt
+265719816,200,38.8951,-77.0364,20130901,"White House, District of Columbia, United States",3,1.29582212897744,http://www.argusleader.com/viewart/20130901/UPDATES/309010049/A-look-latest-Syria-developments-around-world
+265454556,190,38.0,-97.0,20130831,United States,1,0.866889943388708,http://www.hsconnect.com/page/content.detail/id/367439/A-look-at-Syria-developments-around-the-world.html?isap=1&nav=5030&c=GcpTimHJt8Cu9ocWFQSXtHKxr2LzKujQc2XEjwKS_h4&mkt=en-us
+265335440,248,33.5,36.3,20130830,"Damascus, Dimashq, Syria",4,1.96390669139504,http://www.cdispatch.com/news/article.asp?aid=26679&TRID=1&TID=
+265335422,135,33.5,36.3,20130830,"Damascus, Dimashq, Syria",4,2.02419383610767,http://www.news.com.au/world-news/us-to-strike-syria-8216as-early-as-thursday8217-senior-defence-officials-report/story-fndir2ev-1226707894356?from=public_rss
+265171228,177,38.8951,-77.0364,20130829,"Washington, District of Columbia, United States",3,2.54117220685489,http://www.seattlepi.com/news/politics/article/AP-sources-Intelligence-on-weapons-no-slam-dunk-4770117.php
+265171218,552,33.5,36.3,20130829,"Damascus, Dimashq, Syria",4,1.86310163094384,http://www.timesonline.com/news/world/europe/uk-prime-minister-cameron-loses-syria-war-vote/article_828ba974-e451-5a87-bf50-7c549f96d580.html
+265003353,298,33.5,36.3,20130828,"Damascus, Dimashq, Syria",4,2.38309531886539,http://www.foxnews.com/world/2013/08/28/un-experts-tour-site-alleged-syrian-chemical-weapons-attack-which-may-have-been/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fmost-popular+%28Internal+-+Most+Popular+Content%29
+264840605,172,33.5,36.3,20130827,"Damascus, Dimashq, Syria",4,1.01679063183881,http://www.therepublic.com/view/story/99c9233c7df9407e9ce1910dc4b154ba/ML-Syria
+264682417,186,38.0,-97.0,20130826,United States,1,1.70699875849212,http://www.chinapost.com.tw/international/middle-east/2013/08/27/387433/UN-says.htm
+264682382,106,33.5,36.3,20130826,"Damascus, Dimashq, Syria",4,1.18358859562641,http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2013-08-26-ML-Syria/id-5076cecdb1bf4c248a13110c3cb80fc3
+264682434,193,33.5,36.3,20130826,"Damascus, Dimashq, Syria",4,1.54089004075891,http://www.wibw.com/home/nationalnews/headlines/US-Warns-Damascus-as-UN-Probes-Report-Of-Chemical-Gas-Attacks-221240161.html
+264682424,212,38.8951,-77.0364,20130826,"White House, District of Columbia, United States",3,1.40498658798868,http://www.ironmountaindailynews.com/page/content.detail/id/364341/Syria-agrees-to-UN-chemical-weapons-investigation.html?isap=1&nav=5024&c=ml7WAHSiPLJ1t3xpydaKp6JR0UxmKxXFSqwaWT5c4hQ&mkt=en-us
+264552383,215,33.5,36.3,20130825,"Damascus, Dimashq, Syria",4,1.06187706920268,http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=11114386
+264552353,292,38.8951,-77.0364,20130825,"White House, District of Columbia, United States",3,1.4111386026454,http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2013-08-25-ML-Syria/id-10ba33a679e946be9e7dbf42e008352c
+264552356,120,33.5,36.3833,20130825,"Ghouta, Dimashq, Syria",4,0.774872347040499,http://www.thenewstribune.com/2013/08/25/2748993/france-syrias-regime-likely-behind.html
+264552363,105,48.8667,2.33333,20130825,"Paris, RhôAlpes, France",4,1.16412983004325,http://abcnews.go.com/International/wireStory/official-syria-press-chemical-inquiry-20055527?singlePage=true
+264552366,117,33.5,36.3,20130825,"Damascus, Dimashq, Syria",4,1.39821538944564,http://www.bbc.co.uk/news/world-middle-east-23838900
+264452735,135,48.8667,2.33333,20130824,"Paris, RhôAlpes, France",4,1.12608171299125,http://www.freep.com/article/20130824/NEWS07/308240093
+264069905,124,38.8951,-77.0364,20130821,"Washington, District of Columbia, United States",3,2.54744002614444,http://www.sungazette.com/page/content.detail/id/362384/S-Sudan-attacks--US-ups-pressure--general-arrested.html?isap=1&nav=5022&c=dTHhCMh-m3m3X_S-ldXua88DWUs7hIhaQRHtlsZGyIw&mkt=en-us
+264069912,130,38.0,-97.0,20130821,United States,1,1.39266910200786,http://www.41nbc.com/news/world-news/26653-90-000-missing-after-s-sudan-violence-says-group
+264069895,186,38.8951,-77.0364,20130821,"Washington, District of Columbia, United States",3,2.50965672229171,http://www.sungazette.com/page/content.detail/id/362384/S-Sudan-attacks--US-ups-pressure--general-arrested.html?isap=1&nav=5022&c=dTHhCMh-m3m3X_S-ldXua88DWUs7hIhaQRHtlsZGyIw&mkt=en-us
+264069897,248,38.8951,-77.0364,20130821,"Washington, District of Columbia, United States",3,2.50965672229171,http://www.sungazette.com/page/content.detail/id/362384/S-Sudan-attacks--US-ups-pressure--general-arrested.html?isap=1&nav=5022&c=dTHhCMh-m3m3X_S-ldXua88DWUs7hIhaQRHtlsZGyIw&mkt=en-us
+264069898,104,-1.28333,36.8167,20130821,"Nairobi, Nairobi Area, Kenya",4,2.46055478254477,http://blouinnews.com/66233/story/ssudan-general-arrested-amid-us-pressure
+263303760,504,2.06667,45.3667,20130814,"Mogadishu, Banaadir, Somalia",4,2.63780724339354,http://www.scmp.com/news/world/article/1296832/doctors-without-borders-pulls-out-somalia-after-extreme-attacks
+260231680,240,2.06667,45.3667,20130720,"Mogadishu, Banaadir, Somalia",4,1.55116492799257,http://kgou.org/post/polio-eradication-suffers-setback-somali-outbreak-worsens
+258146114,288,38.0,-97.0,20130702,United States,1,4.02249891989259,http://www.naplesnews.com/news/2013/jul/02/doctors-patents-keep-hiv-drugs-too-pricy-use/
+229879132,110,11.15,34.1,20130202,"Blue Nile, An Nil al Azraq, Sudan",5,1.34090289211317,unspecified
+223221660,120,10.0,8.0,20121115,Nigeria,1,2.35518650605694,unspecified
+223221662,110,10.0,8.0,20121115,Nigeria,1,2.37239629625089,unspecified
+222242200,314,13.75,100.517,20121105,"Bangkok, Krung Thep Mahanakhon, Thailand",4,3.23090576539631,unspecified
+222242206,314,13.75,100.517,20121105,"Bangkok, Krung Thep Mahanakhon, Thailand",4,3.23090576539631,unspecified
+219401160,144,35.0,105.0,20121003,China,1,5.46507783298101,unspecified
+218154151,205,10.0,32.7,20120919,"Upper Nile, Wilayat A`ali an Nil, South Sudan",5,2.39286478947594,unspecified
+217139367,326,2.87555,27.1901,20120909,"Viadana, Orientale, Zaire",4,5.78442097658387,unspecified
+211394993,160,42.8333,12.8333,20120724,Italy,1,5.43341305682328,unspecified
+205395226,342,18.5392,-72.335,20120519,"Port-Au-Prince, Ouest, Haiti",4,4.07480727725382,unspecified
+86818796,342,34.7129,36.6956,20120208,"Baba Amr, ?ims, Syria",4,4.28491058509993,unspecified
+86460097,241,32.8925,13.18,20120205,"Tripoli, Tarabulus, Libya",4,4.5432807457387,unspecified
+86460095,241,32.8925,13.18,20120205,"Tripoli, Tarabulus, Libya",4,4.5432807457387,unspecified
+86460089,241,32.8925,13.18,20120205,"Tripoli, Tarabulus, Libya",4,4.5432807457387,unspecified
+86460094,214,46.0,2.0,20120205,France,1,4.55331375640723,unspecified
+83985140,116,15.0,30.0,20120106,Sudan,1,3.37355712207289,unspecified
+83609466,346,-5.0,120.0,20111231,Indonesia,1,4.54320060020751,unspecified
+83560720,148,2.06667,45.3667,20111230,"Mogadishu, Banaadir, Somalia",4,4.08048434449613,unspecified
+83560729,110,0.009522,40.3756,20111230,"Hagadera, North-Eastern, Kenya",4,4.3165746185741,unspecified
+83506907,122,2.06667,45.3667,20111229,"Mogadishu, Banaadir, Somalia",4,4.46490084080301,unspecified
+83506910,136,2.06667,45.3667,20111229,"Mogadishu, Banaadir, Somalia",4,4.38372880988195,unspecified
+81078948,117,-29.0,24.0,20111121,South Africa,1,8.55848752051025,unspecified
+81078946,117,-29.0,24.0,20111121,South Africa,1,8.55848752051025,unspecified
+79112393,117,19.0,-72.4167,20111026,Haiti,1,13.883467374517,unspecified
+78222985,239,40.4,-3.68333,20111015,"Madrid, Madrid, Spain",4,3.36971399325676,unspecified
+78152050,162,10.0,49.0,20111014,Somalia,1,3.80259909128333,unspecified
+78053293,117,0.061283,40.3103,20111013,"Dadaab, North-Eastern, Kenya",4,5.58699329318446,unspecified
+78053296,160,10.0,49.0,20111013,Somalia,1,4.09291175824326,unspecified
+78053294,112,38.0,-97.0,20111013,United States,1,10.9148748903399,unspecified
+74017235,146,32.8925,13.18,20110825,"Tripoli, Tarabulus, Libya",4,5.36543343128449,unspecified
+71342219,154,2.06667,45.3667,20110726,"Mogadishu, Banaadir, Somalia",4,3.554812330397,unspecified
+124726859,459,12.15,24.45,20110521,"Juba, Janub Darfur, Sudan",4,2.93009686942125,unspecified
+124726860,126,15.0,30.0,20110521,Sudan,1,3.36548305749778,unspecified
+120876412,172,26.2361,50.5831,20110407,"Manama, Al Manamah, Bahrain",4,4.3411549123182,unspecified
+120651629,212,5.34111,-4.02806,20110405,"Abidjan, Lagunes, Cote D'ivoire",4,5.51513291502769,unspecified
+120542266,122,34.7406,10.7603,20110404,"Sfax, Safaqis, Tunisia",4,3.17355535949772,unspecified
+120542260,126,5.34111,-4.02806,20110404,"Abidjan, Lagunes, Cote D'ivoire",4,5.13459270188443,unspecified
+108131938,103,18.5392,-72.335,20101111,"Port-Au-Prince, Ouest, Haiti",4,5.29148397558374,unspecified
+106752148,252,19.0,-70.6667,20101027,Dominican Republic,1,5.24227857130587,unspecified
+106752144,297,19.25,-72.7833,20101027,"Artibonite River, Haiti (general), Haiti",4,5.24770478365287,unspecified
+106667458,142,19.0,-70.6667,20101026,Dominican Republic,1,5.10006848548789,unspecified
+106667455,119,19.25,-72.7833,20101026,"Artibonite River, Haiti (general), Haiti",4,5.74881928734627,unspecified
+106667454,306,19.25,-72.7833,20101026,"Artibonite River, Haiti (general), Haiti",4,5.36153683602503,unspecified
+142209133,109,2.06667,45.3667,20100203,"Mogadishu, Banaadir, Somalia",4,2.54771754229041,unspecified
+140042098,154,2.06667,45.3667,20100105,"Mogadishu, Banaadir, Somalia",4,4.83004023566415,unspecified

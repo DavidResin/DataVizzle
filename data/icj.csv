@@ -1,0 +1,94 @@
+GLOBALEVENTID,NumMentions,ActionGeo_Lat,ActionGeo_Long,SQLDATE,ActionGeo_FullName,ActionGeo_Type,AvgTone,SOURCEURL
+807974886,140,51.5,10.5,20181206,Germany,1,-4.46096654275093,http://english.wafa.ps/page.aspx?id=xpL2j4a106685800782axpL2j4
+807783101,324,51.5,10.5,20181205,Germany,1,-4.46096654275093,http://english.wafa.ps/page.aspx?id=250db6a106685800782a250db6
+807783102,162,51.5,10.5,20181205,Germany,1,-4.46096654275093,http://english.wafa.ps/page.aspx?id=250db6a106685800782a250db6
+806190912,124,35.685,139.751,20181129,"Tokyo, Tokyo, Japan",4,-5.80392440857494,https://www.nytimes.com/aponline/2018/11/28/world/asia/ap-as-south-korea-japan-forced-labor.html
+800666490,126,-8.833333,125.75,20181107,East Timor,1,-5.49696477912282,https://abcnews.go.com/International/wireStory/trial-australian-spy-hear-evidence-secret-59024593
+791721815,127,35.75,51.5148,20181003,"Tehran, Tehran, Iran",4,-2.18898049179925,https://www.msn.com/en-us/news/world/un-court-orders-us-to-halt-sanctions-on-humanitarian-goods-to-iran/ar-BBNRHWP
+782317052,1592,35.75,51.5148,20180827,"Tehran, Tehran, Iran",4,-6.09577479539592,https://www.myajc.com/business/iran-goes-highest-court-over-reimposed-sanctions/ne8bTzekSvTAzl61mqHNHP/
+773110576,140,6.0,12.0,20180719,Cameroon,1,0.0631638443403585,https://www.thenewsguru.com/cameroon-nigeria-mixed-commission-hindered-boko-haram-un-chief/
+767865083,174,33.0,44.0,20180628,Iraq,1,-5.10227765875955,https://www.star-telegram.com/news/nation-world/world/article213977129.html
+767865084,134,-8.833333,125.75,20180628,East Timor,1,-5.05315323438035,https://www.star-telegram.com/news/nation-world/world/article213977129.html
+767865082,169,-35.2833,149.217,20180628,"Canberra, Australian Capital Territory, Australia",4,-5.09081512705136,https://www.star-telegram.com/news/nation-world/world/article213977129.html
+767573306,375,52.5,5.75,20180627,Netherlands,1,-3.12134991835263,https://www.sfgate.com/news/world/article/UN-s-highest-court-begins-hearing-Qatar-lawsuit-13029580.php
+758056667,1366,31.7667,35.2333,20180522,"Jerusalem, Israel (general), Israel",4,-6.30662784445354,http://www.bellinghamherald.com/news/nation-world/world/article211642399.html
+758036167,368,31.4167,34.3333,20180522,"Gaza, Israel (general), Israel",4,-6.31020009847881,http://www.squamishchief.com/palestinian-foreign-minister-asks-icc-to-investigate-israel-1.23309528
+758171067,187,31.7667,35.2333,20180522,"Jerusalem, Israel (general), Israel",4,-6.26654672639119,https://www.chieftain.com/news/world/palestinians-ask-icc-to-investigate-alleged-crimes-by-israel/article_6365ede1-714b-52ed-bda3-5c731a9a2470.html
+743407759,140,35.0,38.0,20180330,Syria,1,-7.34207817544625,https://www.ourmidland.com/news/world/article/The-Latest-IS-member-says-hostage-killings-12794020.php
+723900409,176,32.2833,75.65,20180120,"Pathankot, Punjab, India",4,-5.27466592148175,http://www.business-standard.com/article/news-ians/pakistan-brings-up-kulbhushan-jadhav-in-un-security-council-debate-118012000165_1.html
+723549288,102,42.0,21.4333,20180119,"Skopje, Macedonia (general), Macedonia",4,-1.8858303424002,http://www.texomashomepage.com/news/ap-explains-macedoniagreece-name-dispute-goes-back-in-time/923710359
+723452388,184,42.0,21.4333,20180118,"Skopje, Macedonia (general), Macedonia",4,-1.82011395767549,http://www.ksby.com/story/37295637/ap-explains-macedonia-greece-name-dispute-goes-back-in-time
+723452389,166,37.9833,23.7333,20180118,"Athens, AttikíR, Greece",4,-1.82739671219357,http://www.heraldonline.com/news/nation-world/world/article195338864.html
+723452387,546,42.0,21.4333,20180118,"Skopje, Macedonia (general), Macedonia",4,-1.82011395767549,http://www.ksby.com/story/37295637/ap-explains-macedonia-greece-name-dispute-goes-back-in-time
+717786541,104,28.4785,65.6436,20171225,"Balochistan, Balochistan, Pakistan",5,-0.694246529837336,http://www.tribuneindia.com/news/nation/jadhav-s-meeting-with-family-did-not-constitute-consular-access--pak/518700.html
+676879116,320,38.8951,-77.0364,20170729,"Washington, District of Columbia, United States",3,-0.0141402714932125,http://www.michigansthumb.com/news/world/article/Nicaragua-to-once-again-revive-old-damage-claim-11656173.php
+669180770,508,31.5,34.75,20170630,Israel,1,-6.7473157371725,http://english.wafa.ps/page.aspx?id=6Rh0BTa91193165448a6Rh0BT
+669004406,718,31.5,34.75,20170629,Israel,1,-6.74935986964618,http://english.wafa.ps/page.aspx?id=ySE7X4a91193165448aySE7X4
+663258146,140,12.1508,-86.2683,20170609,"Managua, Managua, Nicaragua",4,-1.96259760633574,http://www.business-standard.com/article/news-ians/ex-un-general-assembly-president-d-escoto-dies-117060900177_1.html
+660946287,119,28.4785,65.6436,20170601,"Balochistan, Balochistan, Pakistan",5,-3.310416139551,http://www.india.com/news/agencies/jadhav-will-be-alive-till-he-exhausts-clemency-pakistan-2191557/
+656779691,204,30.0,70.0,20170518,Pakistan,1,-0.455534247844194,http://indiatoday.intoday.in/story/samajwadi-party-mla-abu-asim-azmi-zakir-naik-islamic-international-school/1/956876.html
+648122559,474,50.4333,30.5167,20170419,"Kiev, Ukraine (general), Ukraine",4,-4.27237705440866,https://www.eveningexpress.co.uk/pipe/news/international/un-court-rejects-ukraine-request-to-block-rebel-funding/
+648214110,203,55.7522,37.6156,20170419,"Moscow, Moskva, Russia",4,-1.74898738389675,http://www.bordertelegraph.com/news/15233813.Theresa_May__UK_ready_to_support_Ukraine_over_threat_from_Russia/
+648214111,202,50.4333,30.5167,20170419,"Kiev, Ukraine (general), Ukraine",4,-1.72804678734881,http://www.bordertelegraph.com/news/15233813.Theresa_May__UK_ready_to_support_Ukraine_over_threat_from_Russia/
+648122558,269,55.7522,37.6156,20170419,"Moscow, Moskva, Russia",4,-5.95173765063338,https://www.eveningexpress.co.uk/pipe/news/international/un-court-rejects-ukraine-request-to-block-rebel-funding/
+642457321,130,33.95,130.95,20170401,"Shimonoseki, Yamaguchi, Japan",4,-3.9508673070099,http://www.msn.com/en-ca/news/world/japan-kills-333-whales-in-annual-antarctic-hunt/ar-BBz5XEh
+642193042,436,33.95,130.95,20170331,"Shimonoseki, Yamaguchi, Japan",4,-4.20311928437681,http://www.dailymail.co.uk/wires/afp/article-4367014/Japan-kills-333-whales-annual-Antarctic-hunt.html
+630611122,289,43.85,18.3833,20170223,"Sarajevo, Federation of Bosnia and Herzegovina, Bosnia-Herzegovina",4,-4.69373212279512,http://hosted.ap.org/dynamic/stories/E/EU_BOSNIA_SERBIA_GENOCIDE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2017-02-23-12-23-58
+630189259,330,43.75,20.75,20170222,Serbia,1,-2.25637504671348,https://www.washingtonpost.com/national/religion/serbs-warn-bosnian-muslim-bid-at-un-court-revives-old-wounds/2017/02/22/d5e14acc-f913-11e6-aa1e-5f735ee31334_story.html
+630184688,195,44.8186,20.4681,20170222,"Belgrade, Serbia (general),",4,-2.32993123946871,http://www.dailymail.co.uk/wires/ap/article-4249478/Serbs-warn-Bosnian-Muslim-bid-UN-court-revives-old-wounds.html
+617933137,332,50.4333,30.5167,20170117,"Kiev, Ukraine (general), Ukraine",4,-9.4791814600597,http://www.sfgate.com/news/article/Ukraine-files-case-against-Russia-at-UN-s-highest-10862030.php
+617933135,459,50.4333,30.5167,20170117,"Kiev, Ukraine (general), Ukraine",4,-9.51260669281649,http://www.sfgate.com/news/article/Ukraine-files-case-against-Russia-at-UN-s-highest-10862030.php
+613440029,228,2.0,10.0,20170102,Equatorial Guinea,1,-5.39071675847308,https://www.yahoo.com/news/playboy-son-e-guinea-leader-goes-trial-france-021734374.html
+612197229,102,31.4167,34.3333,20161228,"Gaza, Israel (general), Israel",4,-2.42090144243288,http://www.bignewsnetwork.com/news/250492745/trump-to-bring-israel-in-from-cold
+613490794,430,3.72374,8.8554,20161203,"Mangue, Equatorial Guinea (general), Equatorial Guinea",4,-5.73491069117814,http://www.sfgate.com/news/crime/article/Son-of-Equatorial-Guinea-s-president-facing-trial-10830392.php
+613490795,260,3.72374,8.8554,20161203,"Mangue, Equatorial Guinea (general), Equatorial Guinea",4,-6.06078044047301,https://www.yahoo.com/news/son-equatorial-guineas-president-facing-trial-france-091002711.html
+613490796,430,48.8667,2.33333,20161203,"Paris, France (general), France",4,-5.73491069117814,http://www.sfgate.com/news/crime/article/Son-of-Equatorial-Guinea-s-president-facing-trial-10830392.php
+613490797,260,46.0,2.0,20161203,France,1,-6.06078044047301,https://www.yahoo.com/news/son-equatorial-guineas-president-facing-trial-france-091002711.html
+547947119,112,14.0,-14.0,20160607,Senegal,1,-4.60801539306883,http://polity.org.za/article/african-trial-of-chadian-dictator-habr-is-a-landmark-against-impunity-2016-06-07
+547947120,112,14.0,-14.0,20160607,Senegal,1,-4.60801539306883,http://polity.org.za/article/african-trial-of-chadian-dictator-habr-is-a-landmark-against-impunity-2016-06-07
+532409685,160,52.5,5.75,20160420,Netherlands,1,-3.09151179256664,http://news.xinhuanet.com/english/2016-04/20/c_135297583.htm
+532466220,156,52.5,5.75,20160420,Netherlands,1,-3.26445414162847,http://leadership.ng/news/520018/international-court-justice-celebrates-70th-anniversary
+529344497,496,-33.8833,151.217,20160411,"Sydney, New South Wales, Australia",4,-3.36432023181224,http://www.colliemail.com.au/story/3842004/east-timor-takes-australia-to-un-over-sea-border/
+529344498,124,-8.73308,126.321,20160411,East Timor,1,-3.36432023181224,http://www.colliemail.com.au/story/3842004/east-timor-takes-australia-to-un-over-sea-border/
+524550342,160,36.0,138.0,20160326,Japan,1,-2.44029878505238,http://knpr.org/npr/2016-03/japanese-fleet-kills-333-whales-antarctic
+524255334,515,33.95,130.95,20160325,"Shimonoseki, Yamaguchi, Japan",4,-3.3027244201798,http://www.ktvq.com/story/31560876/japan-kills-333-minke-whales
+524335970,480,36.0,138.0,20160325,Japan,1,-2.47142988884312,http://bilbaoya.com/2016/03/25/japan-confirms-whales-killed-during-scientific-expedition.html
+524277398,191,35.685,139.751,20160325,"Tokyo, Tokyo, Japan",4,-3.57109108190938,http://www.kionrightnow.com/news/nation-world/japan-kills-333-minke-whales/38680766
+490271707,438,36.0,138.0,20151202,Japan,1,0.424546046710126,http://www.scoop.co.nz/stories/PA1512/S00044/new-zealand-first-bill-proposes-major-health-system-benefits.htm
+489933657,745,36.0,138.0,20151201,Japan,1,0.375870137845568,http://www.scoop.co.nz/stories/PA1512/S00013/bennett-says-hola-to-argentina.htm
+489885896,207,36.0,138.0,20151130,Japan,1,0.662329045876545,http://www.scoop.co.nz/stories/PA1512/S00002/pm-announces-20m-for-research-to-help-reduce-emissions.htm
+473330377,146,-30.0,-71.0,20151006,Chile,1,-2.95247489678183,http://www.lenconnect.com/article/ZZ/20151004/BUSINESS/310049972/-1/weather
+472979681,338,-30.0,-71.0,20151005,Chile,1,-2.93044730823686,http://www.lenconnect.com/article/ZZ/20151004/BUSINESS/310049972/-1/faith
+472892347,840,-30.0,-71.0,20151004,Chile,1,-2.87674439846849,http://www.businessinsider.com.au/chile-bolivia-sea-access-land-dispute-2015-10
+470941554,600,4.0,-72.0,20150928,Colombia,1,-7.13863455736664,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2015-09-28-EU-World-Court-Nicaragua-Colombia/id-b5c08e7d7fcf493d804b775119b01782
+438104410,414,-33.8833,151.217,20150603,"Sydney, New South Wales, Australia",4,-2.11640211640211,http://www.canowindranews.com.au/story/3123429/east-timor-reactivates-bid-for-new-maritime-boundary-with-australia/
+438104411,138,-33.8833,151.217,20150603,"Sydney, New South Wales, Australia",4,-2.11640211640211,http://www.canowindranews.com.au/story/3123429/east-timor-reactivates-bid-for-new-maritime-boundary-with-australia/
+438104412,138,-33.8833,151.217,20150603,"Sydney, New South Wales, Australia",4,-2.11640211640211,http://www.canowindranews.com.au/story/3123429/east-timor-reactivates-bid-for-new-maritime-boundary-with-australia/
+425196458,240,35.685,139.751,20150414,"Tokyo, Tokyo, Japan",4,-5.08218755145481,http://www.couriermail.com.au/news/breaking-news/japanese-whaling-needs-explaining/story-fnihsg6t-1227303483466?nk=71cb895d71639f7a3dcc7263821a6987
+424323462,140,38.4167,141.3,20150410,"Ishinomaki, Miyagi, Japan",4,-2.72436691200993,http://www.dailytelegraph.com.au/news/breaking-news/japanese-whalers-start-minke-hunt/story-fni0xqlk-1227299261209?nk=a487f6a22fb8a3e6b817289b0b2b1932
+335008074,132,44.1075,19.2967,20150203,"Srebrenica, Republika Srpska, Bosnia-Herzegovina",4,2.58074676023993,http://www.arabnews.com/world/news/699196
+335008089,490,44.8186,20.4681,20150203,"Belgrade, Serbia (general),",4,2.28620094051397,http://news-sentinel.com/apps/pbcs.dll/article?AID=/20150203/AP01/302039961/1119/CRIME
+323990355,120,36.0,138.0,20141118,Japan,1,0.84830860953292,http://www.starnewsonline.com/article/20141118/API/311189816
+314600292,130,45.5161,13.5883,20140918,"Portoroz, Piran-Pirano, Slovenia",4,2.28558212585452,http://www.greenfieldreporter.com/view/story/1e99c6638879431096fb27100fe414cf/EU--Whaling-Japan
+314600299,144,36.0,138.0,20140918,Japan,1,2.29341613322654,http://www.sfgate.com/world/article/News-of-the-day-From-Across-the-Globe-September-5765581.php
+308966254,242,31.4167,34.3333,20140810,"Gaza, Israel (general), Israel",4,1.31959053538402,http://www.jewishjournal.com/israel/article/pa_will_bring_israel_to_icc_foreign_minister_says/RK=0
+308966249,107,31.4167,34.3333,20140810,"Gaza, Israel (general), Israel",4,1.37356753863551,http://www.timesofoman.com/rss/../News/37684/Article-Israel-pounds-Gaza-as-Palestinians-urge-resumption-of-truce-talks
+442280743,480,35.685,139.751,20140619,"Tokyo, Tokyo, Japan",4,-2.88259628696355,http://www.chron.com/news/science/article/Japan-aims-to-resume-Antarctic-whaling-later-this-6337398.php
+292921745,210,27.5,-99.5167,20140410,"Nuevo Laredo, Tamaulipas, Mexico",4,3.01124017213549,http://www.journalgazette.net/article/20140410/NEWS03/140419993/1066
+292762981,110,27.5,-99.5167,20140409,"Nuevo Laredo, Tamaulipas, Mexico",4,3.015415909733,http://www.kltv.com/story/25208301/mexican-national-executed-for-1997-texas-slaying
+291639841,378,-27.0,133.0,20140331,Australia,1,1.42031944413152,http://in.reuters.com/article/2014/03/31/japan-australia-whaling-idINL5N0MS2A820140331
+291639891,108,36.0,138.0,20140331,Japan,1,1.64482426360388,http://www.dailymail.co.uk/news/article-2593310/Japan-banned-killing-whales-international-court-finds-not-scientific.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490
+291639852,170,-27.0,133.0,20140331,Australia,1,2.0768332664637,http://www.businessinsider.com.au/world-court-japanese-whaling-is-not-scientific-and-should-be-suspended-2014-3
+291639895,115,36.0,138.0,20140331,Japan,1,3.30789892356681,http://www.click2houston.com/news/U-N-court-orders-Japan-to-halt-whale-hunt/25243162
+291639861,225,42.975,144.375,20140331,"Kushiro, Hokkaido, Japan",4,1.43899477438352,http://www.theglobeandmail.com/news/world/court-orders-halt-to-japans-whaling-program/article17735317/?cmpid=rss1
+290517233,130,42.5833,21.0,20140322,Kosovo,1,3.20044310624138,http://www.middle-east-online.com/english/?id=64989/RS=%5EADAt_b5VsgEhss1oy7SVb4pg8WX_zo-
+290517236,130,39.0,35.0,20140322,Turkey,1,3.20044310624138,http://www.middle-east-online.com/english/?id=64989/RS=%5EADAt_b5VsgEhss1oy7SVb4pg8WX_zo-
+213446501,252,38.0,-97.0,20120817,United States,1,5.44351089855476,unspecified
+213446498,176,-2.0,-77.5,20120817,Ecuador,1,5.45028125529415,unspecified
+76821062,513,31.7667,35.2333,20110924,"Jerusalem, Israel (general), Israel",4,5.36206732856648,unspecified
+76729922,580,31.7667,35.2333,20110923,"Jerusalem, Israel (general), Israel",4,5.55475328494775,unspecified
+71422325,126,51.5,-0.116667,20110727,"London, London, City of, United Kingdom",4,5.88454453515338,unspecified
+115268832,103,4.6694,8.5744,20110208,"Bakassi, Sud-Ouest, Cameroon",4,4.14426785370796,unspecified
+99320014,378,15.0,100.0,20100730,Thailand,1,5.01083054281445,unspecified
+98733104,291,31.9026,35.1955,20100710,"Ramallah, West Bank (general), West Bank",4,2.8865596297977,unspecified
+143852221,135,52.5,5.75,20100227,Netherlands,1,6.99320059062809,unspecified

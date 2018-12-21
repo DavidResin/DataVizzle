@@ -55,10 +55,10 @@ class MapPlot {
 
 	constructor(svg_element_id) {
 
-		
+
 
 		this.svg = d3.select('#' + svg_element_id);
-		
+
 
 		// may be useful for calculating scales
 		const svg_viewbox = this.svg.node().viewBox.animVal;
@@ -150,6 +150,11 @@ class MapPlot {
 				.attr("stroke-width", 1)
 				.attr("transform", (d) => "translate(" + projection([d.ActionGeo_Long, d.ActionGeo_Lat]) + ")")
 
+			this.point_container.selectAll(".point")
+				.transition()
+				.duration(400)
+				.ease(d3.easeQuad)
+				.attr("r", r);
 		});
 
 		const g = this.svg

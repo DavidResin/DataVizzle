@@ -1,0 +1,806 @@
+GLOBALEVENTID,NumMentions,ActionGeo_Lat,ActionGeo_Long,SQLDATE,ActionGeo_FullName,ActionGeo_Type,AvgTone,SOURCEURL
+808272281,104,27.0,30.0,20181207,Egypt,1,-3.66759786683042,https://www.reuters.com/article/us-israel-palestinians-un-idUSKBN1O52NV
+807762747,350,2.06667,45.3667,20181205,"Mogadishu, Banaadir, Somalia",4,-2.88061787977818,https://uk.reuters.com/article/uk-usa-somalia/u-s-renews-permanent-diplomatic-presence-in-somalia-idUKKBN1O40H4
+807762746,350,2.06667,45.3667,20181205,"Mogadishu, Banaadir, Somalia",4,-2.88061787977818,https://uk.reuters.com/article/uk-usa-somalia/u-s-renews-permanent-diplomatic-presence-in-somalia-idUKKBN1O40H4
+807820878,110,48.8667,2.33333,20181205,"Paris, France (general), France",4,-2.26791674795661,http://en.rfi.fr/wire/20181205-climate-crusading-schoolgirl-pleads-next-generations-case
+807431158,110,52.0,20.0,20181204,Poland,1,-0.650390189876007,https://www.eco-business.com/news/world-bank-ups-funds-to-tackle-existential-threat-of-climate-change/
+807587816,167,34.0,9.0,20181204,Tunisia,1,6.22510707002046,https://www.businesswire.com/news/home/20181204005756/en/United-Arab-Emirates-Boost-Economies-Political-Social
+806546512,192,34.0,9.0,20181130,Tunisia,1,5.43559623486403,https://www.marketwatch.com/press-release/the-council-of-arab-economic-unity-announces-a-common-vision-for-arab-digital-economy-2018-11-30
+802966014,261,31.4167,34.3333,20181116,"Gaza, Israel (general), Israel",4,1.42857142857143,http://english.wafa.ps/page.aspx?id=8s2Vsqa106470704604a8s2Vsq
+802966015,261,31.4167,34.3333,20181116,"Gaza, Israel (general), Israel",4,1.42857142857143,http://english.wafa.ps/page.aspx?id=8s2Vsqa106470704604a8s2Vsq
+802966016,174,31.4167,34.3333,20181116,"Gaza, Israel (general), Israel",4,1.42857142857143,http://english.wafa.ps/page.aspx?id=8s2Vsqa106470704604a8s2Vsq
+802966017,174,31.4167,34.3333,20181116,"Gaza, Israel (general), Israel",4,1.42857142857143,http://english.wafa.ps/page.aspx?id=8s2Vsqa106470704604a8s2Vsq
+802845005,192,31.4167,34.3333,20181115,"Gaza, Israel (general), Israel",4,1.42331333544694,http://english.wafa.ps/page.aspx?id=tDOBvha106470704604atDOBvh
+802845004,194,31.4167,34.3333,20181115,"Gaza, Israel (general), Israel",4,1.41248873509063,http://english.wafa.ps/page.aspx?id=tDOBvha106470704604atDOBvh
+802845007,122,31.4167,34.3333,20181115,"Gaza, Israel (general), Israel",4,1.42857142857143,http://english.wafa.ps/page.aspx?id=tDOBvha106470704604atDOBvh
+802845006,122,31.4167,34.3333,20181115,"Gaza, Israel (general), Israel",4,1.42857142857143,http://english.wafa.ps/page.aspx?id=tDOBvha106470704604atDOBvh
+795521545,146,35.0,105.0,20181018,China,1,1.80460119205801,https://www.news24.com/Africa/News/why-african-countries-should-strengthen-their-public-service-20181018
+795521542,146,35.0,105.0,20181018,China,1,1.80460119205801,https://www.news24.com/Africa/News/why-african-countries-should-strengthen-their-public-service-20181018
+794421999,222,-7.1046,112.337,20181014,"Bali, Jawa Timur, Indonesia",4,-3.14855506327039,https://ewnews.com/dpm-2018-annual-meetings-of-imf-world-bank
+794263639,136,-7.1046,112.337,20181013,"Bali, Jawa Timur, Indonesia",4,-4.72312808418327,https://www.msn.com/en-us/finance/markets/japan-as-next-years-g20-chair-wants-to-put-global-imbalances-on-the-map/ar-BBOjk9Q
+794263638,118,-7.1046,112.337,20181013,"Bali, Jawa Timur, Indonesia",4,-4.38023114974603,https://www.msn.com/en-us/finance/markets/japan-as-next-years-g20-chair-wants-to-put-global-imbalances-on-the-map/ar-BBOjk9Q
+794038488,265,-7.1046,112.337,20181012,"Bali, Jawa Timur, Indonesia",4,-3.09676474531351,https://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=12141684
+794027307,138,-7.1046,112.337,20181012,"Bali, Jawa Timur, Indonesia",4,-8.13508850809936,https://www.sfgate.com/news/world/article/UN-secretary-general-visits-quake-hit-Indonesian-13301623.php
+794027305,430,-4.0432,120.272,20181012,"Talise, Sulawesi Selatan, Indonesia",4,-8.1651590389445,https://www.sfgate.com/news/world/article/UN-secretary-general-visits-quake-hit-Indonesian-13301623.php
+794050626,120,54.0,-4.0,20181012,United Kingdom,1,-3.79594899012519,http://articles.economictimes.indiatimes.com/news/international/world-news/new-world-bank-fund-to-insure-against-climate-disasters/articleshow/66181574.cms
+794027306,230,-7.1046,112.337,20181012,"Bali, Jawa Timur, Indonesia",4,-8.13508850809936,https://www.sfgate.com/news/world/article/UN-secretary-general-visits-quake-hit-Indonesian-13301623.php
+793696412,262,39.9289,116.388,20181011,"Beijing, Beijing, China",4,-4.53436615398817,https://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=12140931
+793794977,233,-7.1046,112.337,20181011,"Bali, Jawa Timur, Indonesia",4,-2.07001556038806,https://www.pahomepage.com/news/the-latest-imf-head-says-pakistan-help-must-be-transparent/1515065378
+793676700,129,-7.1046,112.337,20181011,"Bali, Jawa Timur, Indonesia",4,-5.6527065111215,https://www.nhregister.com/news/world/article/World-Bank-head-says-trade-tensions-could-worsen-13297955.php
+793651728,1464,-7.1046,112.337,20181011,"Bali, Jawa Timur, Indonesia",4,-5.48474361718993,https://www.tampabay.com/ap/world/the-latest-earthquake-strikes-off-bali-indonesia-ap_world36996e19355a44589ea1a78deabc9558
+793643272,248,-8.65,115.217,20181011,"Denpasar, Bali, Indonesia",4,-4.97427747385773,https://www.heraldsun.com.au/news/world/indonesias-bali-hit-by-60-earthquake/news-story/d10454924d3b8e398b75482e892e1892?nk=35c8540081637986e90fc42147bfe6fe-1539215278
+793643274,270,-8.65,115.217,20181011,"Denpasar, Bali, Indonesia",4,-4.97427747385773,https://www.heraldsun.com.au/news/world/indonesias-bali-hit-by-60-earthquake/news-story/d10454924d3b8e398b75482e892e1892?nk=35c8540081637986e90fc42147bfe6fe-1539215278
+793684762,295,-8.8033,115.231,20181011,"Nusa Dua, Bali, Indonesia",4,-6.17271023488171,https://in.reuters.com/article/us-imf-worldbank-kim-china/world-banks-kim-sees-clear-economic-slowdown-if-trade-war-escalates-idINKCN1ML07F
+793707721,267,-8.8033,115.231,20181011,"Nusa Dua, Bali, Indonesia",4,-6.32931206921964,https://au.news.yahoo.com/three-dead-imf-summit-shaken-strong-quake-hits-044349584--spt.html
+793707722,108,-8.8033,115.231,20181011,"Nusa Dua, Bali, Indonesia",4,-6.3814072850641,https://au.news.yahoo.com/three-dead-imf-summit-shaken-strong-quake-hits-044349584--spt.html
+793794971,238,-7.1046,112.337,20181011,"Bali, Jawa Timur, Indonesia",4,-2.07001556038806,https://www.pahomepage.com/news/the-latest-imf-head-says-pakistan-help-must-be-transparent/1515065378
+793643271,104,-8.65,115.217,20181011,"Denpasar, Bali, Indonesia",4,-6.24102139038349,https://www.theaustralian.com.au/news/latest-news/indonesias-bali-rattled-by-60-earthquake/news-story/49617eac8a531ed6037fca7c045574d8?nk=2c27950f69d151bdb31046ff2485a4c9-1539215246
+793651726,320,-7.1046,112.337,20181011,"Bali, Jawa Timur, Indonesia",4,-6.22550356802627,https://www.tampabay.com/ap/world/the-latest-earthquake-strikes-off-bali-indonesia-ap_world36996e19355a44589ea1a78deabc9558
+793665390,248,32.0,-5.0,20181011,Morocco,1,3.45712198058663,https://uk.reuters.com/article/uk-imf-worldbank-humancapital/world-bank-launches-human-capital-rankings-based-on-health-education-idUKKCN1ML03O
+793651727,1519,-7.1046,112.337,20181011,"Bali, Jawa Timur, Indonesia",4,-5.3244631963541,https://www.tampabay.com/ap/world/the-latest-earthquake-strikes-off-bali-indonesia-ap_world36996e19355a44589ea1a78deabc9558
+793628410,105,-7.1046,112.337,20181010,"Bali, Jawa Timur, Indonesia",4,-5.87940517519052,https://www.chron.com/news/world/article/The-Latest-Earthquake-strikes-off-Bali-Indonesia-13297382.php
+793480785,118,-7.1046,112.337,20181010,"Bali, Jawa Timur, Indonesia",4,-5.35487818338371,https://www.naija.ng/1197303-imf-warns-nigeria-debt-crisis-urges-diversification.html
+793459159,119,-7.1046,112.337,20181010,"Bali, Jawa Timur, Indonesia",4,-5.25208685256044,https://en.antaranews.com/news/119374/imf-wb--sarinah-sees-turnover-of-hundreds-of-millions-of-rupiahs-in-indonesia-pavilion
+793607651,331,-8.65,115.217,20181010,"Denpasar, Bali, Indonesia",4,-4.04090270273985,https://www.thestar.com.my/news/world/2018/10/11/indonesias-bali-rattled-by-quake-no-reports-of-major-damage/
+793607650,305,-8.65,115.217,20181010,"Denpasar, Bali, Indonesia",4,-4.04090270273985,https://www.thestar.com.my/news/world/2018/10/11/indonesias-bali-rattled-by-quake-no-reports-of-major-damage/
+791916666,242,-26.2,28.0833,20181004,"Johannesburg, Gauteng, South Africa",4,-1.57361111340586,https://www.reuters.com/article/us-safrica-economy-idUSKCN1MD2S3
+791916667,242,-26.2,28.0833,20181004,"Johannesburg, Gauteng, South Africa",4,-1.57361111340586,https://www.reuters.com/article/us-safrica-economy-idUSKCN1MD2S3
+791817932,240,-6.0,35.0,20181003,Tanzania,1,-4.91727475423127,https://www.miamiherald.com/news/business/article219427320.html
+791688710,244,-6.0,35.0,20181003,Tanzania,1,-4.79940149805217,https://www.concisenews.global/2018/10/03/world-bank-tanzania/
+790348218,217,31.7667,35.2333,20180927,"Jerusalem, Israel (general), Israel",4,-5.9094098946633,https://www.mysanantonio.com/news/world/article/Israel-Palestinians-on-agenda-at-UN-General-13262271.php
+789853773,132,31.4167,34.3333,20180926,"Gaza, Israel (general), Israel",4,-4.18535127055306,http://english.wafa.ps/page.aspx?id=u3JvLma102100254828au3JvLm
+789992988,126,2.06667,45.3667,20180926,"Mogadishu, Banaadir, Somalia",4,-1.13793359991629,https://www.reuters.com/article/us-somalia-worldbank/world-bank-approves-first-loans-to-somalia-in-30-years-idUSKCN1M61EN
+789853772,132,31.4167,34.3333,20180926,"Gaza, Israel (general), Israel",4,-4.18535127055306,http://english.wafa.ps/page.aspx?id=u3JvLma102100254828au3JvLm
+789626331,215,31.4167,34.3333,20180925,"Gaza, Israel (general), Israel",4,-10.2174145768358,https://www.lmtonline.com/news/world/article/World-Bank-report-warns-Gaza-Strip-economy-is-in-13255430.php
+788177119,108,31.4167,34.3333,20180919,"Gaza, Israel (general), Israel",4,-0.64153969526864,http://english.wafa.ps/page.aspx?id=4fj8FVa102040294389a4fj8FV
+788097091,124,-33.9167,18.4167,20180919,"Cape Town, Western Cape, South Africa",4,-0.425474973840514,http://www.digitaljournal.com/news/world/hotspots-not-trouble-spots-africa-seeks-tourism-boom/article/532389
+788177120,108,31.4167,34.3333,20180919,"Gaza, Israel (general), Israel",4,-0.64153969526864,http://english.wafa.ps/page.aspx?id=4fj8FVa102040294389a4fj8FV
+790524038,168,-7.1046,112.337,20180829,"Bali, Jawa Timur, Indonesia",4,-6.63835496284908,https://www.channelnewsasia.com/news/asia/abused-hong-kong-maid-erwiana-immigration-10767308
+790524039,168,-7.1046,112.337,20180829,"Bali, Jawa Timur, Indonesia",4,-6.63835496284908,https://www.channelnewsasia.com/news/asia/abused-hong-kong-maid-erwiana-immigration-10767308
+782569101,230,20.0,77.0,20180828,India,1,5.32196200770144,https://www.business-standard.com/article/pti-stories/govt-eesl-world-bank-sign-300-mn-pact-to-boost-energy-efficiency-programme-in-india-118082800449_1.html
+779162632,224,31.425074,34.373398,20180814,Gaza Strip,1,-4.59384326956909,https://www.msn.com/en-gb/news/world/israeli-pm-netanyahu-met-egypts-al-sisi-to-discuss-gaza-channel-ten-news/ar-BBLT50q
+779101691,142,31.425074,34.373398,20180813,Gaza Strip,1,-4.92920585674411,https://www.msn.com/en-us/news/world/israeli-pm-netanyahu-met-egypts-al-sisi-to-discuss-gaza-channel-ten-news/ar-BBLSVyt
+778827520,2112,8.76667,-12.7833,20180812,"Port Loko, Northern, Sierra Leone",4,-1.42314019538086,http://www.wemu.org/post/chasing-dream-ambulance-service-people-can-trust
+775327046,334,15.0,39.0,20180728,Eritrea,1,4.59540892666203,https://www.charlotteobserver.com/news/business/national-business/article215694215.html
+774729806,196,31.4167,34.3333,20180726,"Gaza, Israel (general), Israel",4,-0.836820083681999,http://english.wafa.ps/page.aspx?id=hGtrJKa98528325819ahGtrJK
+774729807,196,31.4167,34.3333,20180726,"Gaza, Israel (general), Israel",4,-0.836820083681999,http://english.wafa.ps/page.aspx?id=hGtrJKa98528325819ahGtrJK
+774599103,208,31.4167,34.3333,20180725,"Gaza, Israel (general), Israel",4,-0.836820083681999,http://english.wafa.ps/page.aspx?id=7NYq8fa98528325819a7NYq8f
+774599104,208,31.4167,34.3333,20180725,"Gaza, Israel (general), Israel",4,-0.836820083681999,http://english.wafa.ps/page.aspx?id=7NYq8fa98528325819a7NYq8f
+771232086,190,-20.0,47.0,20180711,Madagascar,1,-0.353038971384347,https://www.npr.org/sections/goatsandsoda/2018/07/11/627606323/is-whats-good-for-the-lemurs-also-good-for-the-locals
+771082471,120,6.1675,1.325,20180711,"Baguida, Maritime, Togo",4,-3.62409601023095,http://www.dailymail.co.uk/wires/afp/article-5941349/New-Togo-fishing-port-stokes-coastal-erosion-fears.html
+768809309,213,24.0,90.0,20180702,Bangladesh,1,-4.4667711977209,http://en.rfi.fr/wire/20180702-un-chief-hears-unimaginable-atrocities-he-visits-rohingya-camps
+768849934,206,24.0,90.0,20180702,Bangladesh,1,-4.44364316655909,https://www.idahostatesman.com/news/nation-world/article214181219.html
+768627205,104,23.7231,90.4086,20180701,"Dhaka, Dhaka, Bangladesh",4,-2.00121785625785,https://bdnews24.com/bangladesh/2018/07/01/un-will-put-more-pressure-on-myanmar-to-resolve-rohingya-crisis-says-guterres
+768103257,112,24.0,90.0,20180629,Bangladesh,1,1.2430373322576,http://www.freemalaysiatoday.com/category/world/2018/06/29/world-bank-to-provide-up-to-480-mln-to-aid-rohingya-refugees-in-bangladesh/
+765341934,340,23.0,-102.0,20180619,Mexico,1,-3.25630446847831,http://www.foxnews.com/world/2018/06/19/in-mexico-longtime-foes-amlo-and-elite-getting-pragmatic.html
+765075165,120,-9.46472,147.193,20180618,"Port Moresby, National Capital, Papua New Guinea",4,-6.82093382932099,https://www.cnn.com/2018/06/18/asia/papua-new-guinea-riots-intl/
+763485155,135,1.366667,103.8,20180612,Singapore,1,-1.67051986989613,https://www.bradenton.com/news/nation-world/world/article212934914.html
+763485154,134,1.366667,103.8,20180612,Singapore,1,-1.66914736972192,https://www.bradenton.com/news/nation-world/world/article212934914.html
+763268525,967,1.366667,103.8,20180611,Singapore,1,-1.74095247114711,https://www.thetelegraph.com/news/world/article/Fearsome-Nepalese-police-offer-security-for-12983425.php
+763268524,965,1.366667,103.8,20180611,Singapore,1,-1.739291063087,https://www.thetelegraph.com/news/world/article/Fearsome-Nepalese-police-offer-security-for-12983425.php
+759656066,105,15.5,47.5,20180528,Yemen,1,-8.26081431137929,http://www.sacbee.com/news/business/article212056279.html
+758226848,204,36.0,138.0,20180523,Japan,1,4.88914002798408,http://english.wafa.ps/page.aspx?id=KCUpVEa97816414575aKCUpVE
+758226849,306,36.0,138.0,20180523,Japan,1,4.88914002798408,http://english.wafa.ps/page.aspx?id=KCUpVEa97816414575aKCUpVE
+758333356,130,38.899,-77.0422,20180523,"World Bank, District of Columbia, United States",3,-2.52918287937743,http://english.wafa.ps/page.aspx?id=nkkKN9a97825932105ankkKN9
+758086236,336,36.0,138.0,20180522,Japan,1,4.90797546012271,http://english.wafa.ps/page.aspx?id=OB9qdOa97816414575aOB9qdO
+758086235,224,36.0,138.0,20180522,Japan,1,4.90797546012271,http://english.wafa.ps/page.aspx?id=OB9qdOa97816414575aOB9qdO
+754956387,105,6.45306,3.39583,20180511,"Lagos, Lagos, Nigeria",4,2.62466010698141,http://www.businessdayonline.com/growth-nigeria-mobilise-revenues-tax-payers-base-hits-19m-adeosun/
+750568129,1192,33.0,66.0,20180425,Afghanistan,1,-0.264793072790319,http://northernpublicradio.org/post/watchdog-says-billions-afghanistan-funding-risk-misuse
+750568127,940,33.0,66.0,20180425,Afghanistan,1,-0.369089420796271,http://krcc.org/post/watchdog-says-billions-afghanistan-funding-risk-misuse
+750568128,1180,33.0,66.0,20180425,Afghanistan,1,-0.258116475280514,http://northernpublicradio.org/post/watchdog-says-billions-afghanistan-funding-risk-misuse
+750323608,262,23.5,78.5,20180424,"Madhya Pradesh, Madhya Pradesh, India",5,4.06754413049522,http://www.4-traders.com/news/Ministry-of-Finance-of-Republic-of-India-Government-of-India-and-World-Bank-Signs-Agreement-to-Imp--26414637/
+750323609,118,23.5,78.5,20180424,"Madhya Pradesh, Madhya Pradesh, India",5,3.70767786954412,http://www.4-traders.com/news/Ministry-of-Finance-of-Republic-of-India-Government-of-India-and-World-Bank-Signs-Agreement-to-Imp--26414637/
+749892153,304,38.899,-77.0422,20180423,"World Bank, District of Columbia, United States",3,0.0,http://english.wafa.ps/page.aspx?id=8Q5wQha97372897677a8Q5wQh
+749892152,302,38.899,-77.0422,20180423,"World Bank, District of Columbia, United States",3,0.0,http://english.wafa.ps/page.aspx?id=8Q5wQha97372897677a8Q5wQh
+749709137,250,38.899,-77.0422,20180422,"World Bank, District of Columbia, United States",3,-0.267943273658334,https://www.abqjournal.com/1161921/mnuchin-expresses-optimism-for-resolution-of-trade-fights.html
+749714577,180,38.8951,-77.0364,20180422,"Washington, District of Columbia, United States",3,0.0294097518341331,https://www.investing.com/news/economy-news/world-bank-says-shareholders-endorse-capital-increase-1407101
+749741660,701,38.8996,-77.0422,20180422,"The World Bank, District of Columbia, United States",3,-4.30607479648601,https://www.seattlepi.com/news/politics/article/Mnuchin-expresses-optimism-trade-standoffs-can-be-12854580.php
+749709138,1746,38.8996,-77.0422,20180422,"The World Bank, District of Columbia, United States",3,-4.25503350530563,https://www.abqjournal.com/1161921/mnuchin-expresses-optimism-for-resolution-of-trade-fights.html
+749664324,170,38.899,-77.0422,20180421,"World Bank, District of Columbia, United States",3,-2.80924574557014,https://www.registercitizen.com/news/politics/article/The-Latest-Mnuchin-urges-lending-shift-to-poorer-12853586.php
+749544646,149,38.8951,-77.0364,20180421,"Washington, District of Columbia, United States",3,0.00327874737876011,http://www.oann.com/canadas-freeland-says-good-progress-made-in-nafta-talks/
+749687992,432,38.8996,-77.0422,20180421,"The World Bank, District of Columbia, United States",3,-4.30353827763501,https://www.sfgate.com/news/politics/article/US-defends-tough-trade-stance-at-global-finance-12853054.php
+740364237,129,39.828175,-98.5795,20180320,United States,1,-4.15511386854539,http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=12016753
+739793741,110,20.0,77.0,20180318,India,1,-4.31649342768862,http://zeenews.india.com/india/rahul-gandhi-s-hatred-for-india-is-astonishing-smriti-irani-hits-out-2091041.html
+739605716,120,31.4167,34.3333,20180317,"Gaza, Israel (general), Israel",4,-1.66204986149585,http://english.wafa.ps/page.aspx?id=ocDTbQa96922718508aocDTbQ
+739259637,206,31.4167,34.3333,20180316,"Gaza, Israel (general), Israel",4,-2.08955223880597,http://english.wafa.ps/page.aspx?id=4teW5Fa96906538707a4teW5F
+738964846,120,47.0,8.0,20180315,Switzerland,1,-3.99470805445259,http://channels.isp.netscape.com/news/story/0002/20180315/M1L8N1QX3AN_1639347279
+733958286,120,39.9289,116.388,20180226,"Beijing, Beijing, China",4,-0.57102656985596,http://www.xinhuanet.com/english/2018-02/26/c_137000748.htm
+731269959,200,14.6042,120.982,20180216,"Manila, Manila, Philippines",4,1.37803550167536,http://m.philstar.com/business/show/69e324d1c23773fe141dae560e088826?t=1m9gcdrsmc9r1clmfr6us7g144
+731201977,120,14.6042,120.982,20180215,"Manila, Manila, Philippines",4,2.18579234972678,http://m.philstar.com/business/show/69e324d1c23773fe141dae560e088826?t=32oem16jbk2g9kb774osnagr44
+730166821,108,33.3386,44.3939,20180212,"Baghdad, Baghdad, Iraq",4,-2.33483212151404,http://www.france24.com/en/20180212-devastated-iraq-seeks-90-billion-reconstruction
+728769974,112,33.3386,44.3939,20180207,"Baghdad, Baghdad, Iraq",4,-3.02812253614153,http://www.dailymail.co.uk/wires/afp/article-5360797/Baghdad-mayor-ambitious-plans-city.html
+724076190,110,-17.8178,31.0447,20180121,"Harare, Mashonaland East, Zimbabwe",4,1.86916489413989,http://www.sundaynews.co.zw/ed-takes-zim-pitch-to-the-world/
+723922292,126,23.7231,90.4086,20180120,"Dhaka, Dhaka, Bangladesh",4,0.501307293874219,http://www.4-traders.com/news/World-Bank-Rohingya-Crisis-Growing-More-Support-Needed-World-Bank-Says--25840641/
+723922291,102,23.7231,90.4086,20180120,"Dhaka, Dhaka, Bangladesh",4,0.412964823380138,http://www.4-traders.com/news/World-Bank-Rohingya-Crisis-Growing-More-Support-Needed-World-Bank-Says--25840641/
+721040521,135,20.0,77.0,20180110,India,1,0.412846556130404,https://www.ndtv.com/india-news/india-has-huge-potential-says-world-bank-projects-growth-rate-to-7-3-in-2018-1798060
+721115918,146,39.9289,116.388,20180110,"Beijing, Beijing, China",4,-2.2518267912001,http://www.digitaljournal.com/news/world/china-funding-pacific-white-elephants-australia-minister/article/511722
+716258970,141,39.9289,116.388,20171219,"Beijing, Beijing, China",4,-0.271740363119353,http://www.themalaymailonline.com/money/article/world-bank-raises-china-2017-growth-forecast-maintains-2018-outlook
+714865235,120,,,20171213,,0,0.307471417431412,https://www.thestar.com.my/news/world/2017/12/13/half-of-worlds-people-cant-get-basic-health-services--who/
+714705500,105,48.8667,2.33333,20171213,"Paris, France (general), France",4,-2.15108770852804,http://agreenliving.org/the-world-bank-will-stop-funding-oil-and-gas-projects-after-2019/
+714387911,987,48.8667,2.33333,20171212,"Paris, France (general), France",4,-1.57196684041117,https://enewspf.com/2017/12/11/taking-jab-trump-france-award-research-grants-us-climate-scientists/
+714483119,982,48.8667,2.33333,20171212,"Paris, France (general), France",4,-1.58691881663767,http://www.timesdaily.com/news/nation/the-latest-climate-activists-protest-at-intl-climate-summit/article_5c57dee1-a0f9-5f94-a8ce-466ede2d7186.html
+713138942,144,50.4333,30.5167,20171207,"Kiev, Ukraine (general), Ukraine",4,-11.4085517879966,https://www.reuters.com/article/us-ukraine-corruption/imf-and-world-bank-say-ukraine-corruption-fight-is-threatened-idUSKBN1E10V4
+713286435,114,41.7667,25.5667,20171207,"Balkan, Khaskovo, Bulgaria",4,1.3584693604366,http://mynorthwest.com/839238/world-bank-funds-200m-economic-project-in-western-balkans/
+713286437,273,42.583333,21.0,20171207,Kosovo,1,1.4251611606268,https://www.seattletimes.com/business/world-bank-funds-200m-economic-project-in-western-balkans/
+712417569,142,46.0,2.0,20171205,France,1,-8.01385820914165,https://au.news.yahoo.com/world/a/38155893/eu-divided-over-tax-haven-blacklist/
+710452878,130,9.08333,7.53333,20171128,"Abuja, Abuja Federal Capital Territory, Nigeria",4,0.797443899561632,https://www.thecable.ng/wont-increase-power-tariff-now-says-osinbajo
+706274984,196,38.899,-77.0422,20171113,"World Bank, District of Columbia, United States",3,-5.60111927963132,https://macaudailytimes.com.mo/cambodian-leader-sees-us-plots-others-see-us-inaction.html
+706177697,196,38.899,-77.0422,20171112,"World Bank, District of Columbia, United States",3,-5.43146990179321,http://abcnews.go.com/Politics/wireStory/cambodian-leader-sees-us-plots-us-inaction-51095493
+705176222,131,9.08333,7.53333,20171109,"Abuja, Abuja Federal Capital Territory, Nigeria",4,1.76781371579493,http://news2.onlinenigeria.com/news/general/675358-we%E2%80%99ll-have-better-economy-if-nigerians-work-together-%E2%80%93-osinbajo.html
+704972482,156,38.899,-77.0422,20171108,"World Bank, District of Columbia, United States",3,-4.20122730454201,http://www.omaha.com/news/world/iran-s-rouhani-criticizes-saudi-arabia-over-lebanon-meddling/article_ccc7eef6-4be1-52a1-9f8b-6fd25a7bbb16.html
+704972483,154,38.899,-77.0422,20171108,"World Bank, District of Columbia, United States",3,-4.20122730454201,http://www.omaha.com/news/world/iran-s-rouhani-criticizes-saudi-arabia-over-lebanon-meddling/article_ccc7eef6-4be1-52a1-9f8b-6fd25a7bbb16.html
+704558197,115,18.975,72.8258,20171107,"Mumbai, Maharashtra, India",4,-0.839733096085254,http://www.prokerala.com/news/articles/a785559.html
+700782663,162,38.899,-77.0422,20171025,"World Bank, District of Columbia, United States",3,-1.92307692307693,http://m.philstar.com/business/show/9389fe4ec370b7c78d807403fe0d36ae?t=963hk2brpr2et1tdi5dt6tmta3
+700782664,162,38.899,-77.0422,20171025,"World Bank, District of Columbia, United States",3,-1.92307692307693,http://m.philstar.com/business/show/9389fe4ec370b7c78d807403fe0d36ae?t=963hk2brpr2et1tdi5dt6tmta3
+796235058,180,32.5518,36.1859,20171021,"Nassib, Dar‘a, Syria",4,-2.40141033560692,https://www.france24.com/en/20181021-jordan-border-damascus-seeks-revive-regional-trade
+698014084,160,20.0,77.0,20171015,India,1,-0.407641003912865,http://www.financialexpress.com/india-news/us-must-decide-appropriately-on-visa-policy-says-arun-jaitley-on-h-1b/895209/
+698014085,162,20.0,77.0,20171015,India,1,-0.334178605525957,http://www.financialexpress.com/india-news/us-must-decide-appropriately-on-visa-policy-says-arun-jaitley-on-h-1b/895209/
+696514800,148,38.899,-77.0422,20171010,"World Bank, District of Columbia, United States",3,-0.377416358861897,http://www.business-standard.com/article/pti-stories/attempts-to-derail-gst-have-failed-jaitley-117101000103_1.html
+696514804,120,42.3584,-71.0598,20171010,"Boston, Massachusetts, United States",3,-0.414031549598172,http://www.business-standard.com/article/pti-stories/attempts-to-derail-gst-have-failed-jaitley-117101000103_1.html
+696514802,148,38.899,-77.0422,20171010,"World Bank, District of Columbia, United States",3,-0.402339699714433,http://www.business-standard.com/article/pti-stories/attempts-to-derail-gst-have-failed-jaitley-117101000103_1.html
+696586857,120,38.899,-77.0422,20171010,"World Bank, District of Columbia, United States",3,0.611956438229131,http://www.prokerala.com/news/articles/a779076.html
+696514798,130,42.3584,-71.0598,20171010,"Boston, Massachusetts, United States",3,-0.362065437553858,http://www.business-standard.com/article/pti-stories/attempts-to-derail-gst-have-failed-jaitley-117101000103_1.html
+695811332,116,38.8951,-77.0364,20171007,"Washington, District of Columbia, United States",3,-3.34008878699712,http://www.the-messenger.com/business/article_6f4e8cea-a391-524c-b424-4b2df2c04d69.html
+695783680,144,38.8951,-77.0364,20171006,"Washington, District of Columbia, United States",3,-3.27280827399112,http://krqe.com/ap/us-chamber-of-commerce-sounds-alarm-about-a-nafta-pullout/
+693702214,116,19.0,-70.666667,20170929,Dominican Republic,1,-5.78219793520741,http://uk.reuters.com/article/uk-dominican-worldbank-storms/world-bank-approves-150-million-disaster-fund-for-dominican-republic-idUKKCN1C402Y
+693867052,182,30.6693,50.2055,20170929,"Kurdistan, Khuzestan, Iran",4,-5.17631005929797,http://uk.reuters.com/article/uk-mideast-crisis-kurds-referendum/ban-imposed-on-flights-into-iraqs-kurdish-region-after-independence-vote-idUKKCN1C412J
+690798889,116,17.3753,78.4744,20170919,"Hyderabad, Andhra Pradesh, India",4,4.63965538511361,http://daijiworld.com/news/newsDisplay.aspx?newsID=472533
+690294858,104,23.5,78.5,20170917,"Madhya Pradesh, Madhya Pradesh, India",5,-1.07646026096262,http://www.firstpost.com/india/narendra-modi-inaugurates-sardar-sarovar-dam-says-no-other-project-has-faced-so-many-hurdles-4052369.html
+690058705,150,30.0,70.0,20170916,Pakistan,1,3.05035650666819,http://www.hindustantimes.com/india-news/no-agreement-reached-between-india-pakistan-at-indus-water-treaty-talks-world-bank/story-HDaqxapNrZxkxgmTWZWZYM.html
+689008936,116,31.666667,35.25,20170913,West Bank,1,-0.30911901081916,http://english.wafa.ps/page.aspx?id=fq1fxsa91875572349afq1fxs
+688838066,132,31.666667,35.25,20170912,West Bank,1,-0.30911901081916,http://english.wafa.ps/page.aspx?id=c4ODD3a91875572349ac4ODD3
+688039738,101,-33.8833,151.217,20170909,"Sydney, New South Wales, Australia",4,1.1174613911526,http://www.thestar.com.my/news/world/2017/09/09/australia-to-allow-more-pacific-islands-workers-patrol-fisheries/
+688039741,130,-33.8833,151.217,20170909,"Sydney, New South Wales, Australia",4,1.1174613911526,http://www.thestar.com.my/news/world/2017/09/09/australia-to-allow-more-pacific-islands-workers-patrol-fisheries/
+684431133,110,43.1131,19.4072,20170827,"Balkan, Montenegro (general), Montenegro",4,2.01448263464163,http://hosted.ap.org/dynamic/stories/E/EU_ALBANIA_WESTERN_BALKANS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2017-08-26-08-08-51
+684341168,616,43.1131,19.4072,20170826,"Balkan, Montenegro (general), Montenegro",4,3.1786700513912,http://www.nhregister.com/news/world/article/Western-Balkans-leaders-meet-to-strengthen-11969189.php
+683894903,234,55.7522,37.6156,20170824,"Moscow, Moskva, Russia",4,1.98962971185958,http://www.seattletimes.com/nation-world/albania-to-host-meeting-of-western-balkan-prime-ministers/
+680381661,598,31.5497,74.3436,20170811,"Lahore, Punjab, Pakistan",4,-5.87577385424384,http://www.nhregister.com/news/world/article/Key-events-in-India-Pakistan-relations-since-11749740.php
+680381660,150,31.5497,74.3436,20170811,"Lahore, Punjab, Pakistan",4,-5.87577385424384,http://www.nhregister.com/news/world/article/Key-events-in-India-Pakistan-relations-since-11749740.php
+678864006,218,1.61667,109.183,20170805,"Kalimantan, Indonesia (general), Indonesia",4,-5.63350378505413,http://news.trust.org/item/20170805083518-3q0ku
+676879109,474,31.4167,34.3333,20170729,"Gaza, Israel (general), Israel",4,3.37477797513322,http://english.wafa.ps/page.aspx?id=z2rvDya91510099197az2rvDy
+676879108,316,31.4167,34.3333,20170729,"Gaza, Israel (general), Israel",4,3.37477797513322,http://english.wafa.ps/page.aspx?id=z2rvDya91510099197az2rvDy
+676879106,316,31.6667,35.25,20170729,West Bank,1,3.37477797513322,http://english.wafa.ps/page.aspx?id=z2rvDya91510099197az2rvDy
+676879105,474,31.4167,34.3333,20170729,"Gaza, Israel (general), Israel",4,3.37477797513322,http://english.wafa.ps/page.aspx?id=z2rvDya91510099197az2rvDy
+676879110,106,38.8951,-77.0364,20170729,"White House, District of Columbia, United States",3,1.64662292172246,http://www.nydailynews.com/newswires/news/business/ivanka-trumps-private-lunch-chief-guterres-article-1.3366115
+676679339,164,31.6667,35.25,20170728,West Bank,1,3.36989566292517,http://finchannel.com/business/finance/66887-world-bank-approves-us-43-million-in-grants-to-improve-palestinian-living-conditions
+676787851,160,31.4167,34.3333,20170728,"Gaza, Israel (general), Israel",4,3.37477797513322,http://english.wafa.ps/page.aspx?id=XfFDM3a91510099197aXfFDM3
+676787852,240,31.4167,34.3333,20170728,"Gaza, Israel (general), Israel",4,3.37477797513322,http://english.wafa.ps/page.aspx?id=XfFDM3a91510099197aXfFDM3
+676679338,246,31.4167,34.3333,20170728,"Gaza, Israel (general), Israel",4,3.36989566292517,http://finchannel.com/business/finance/66887-world-bank-approves-us-43-million-in-grants-to-improve-palestinian-living-conditions
+675765835,176,1.0,114.0,20170725,"Borneo, Indonesia (general), Indonesia",4,-7.91615593962514,http://news.trust.org/item/20170725063456-imtqt
+674197852,120,18.25,-77.5,20170719,Jamaica,1,-0.144276513077826,http://www.jamaicaobserver.com/latestnews/JSIF_provides_$3m_for_summer_camps_for_at-risk_youth?profile=1228
+671510680,114,38.899,-77.0422,20170709,"World Bank, District of Columbia, United States",3,0.257035404751098,http://www.herald-dispatch.com/ap/ap_nation/the-latest-trump-looks-for-consensus-on-north-korea/article_5ac2cf41-1ba5-5087-b0bb-201e11e73bd5.html
+671510685,120,38.899,-77.0422,20170709,"World Bank, District of Columbia, United States",3,-0.388867532534117,https://www.echonews.com.au/news/ivanka-trump-sits-president-table-world-leaders/3198299/
+671429269,262,38.899,-77.0422,20170708,"World Bank, District of Columbia, United States",3,-0.644211045791282,http://www.seattletimes.com/business/trump-pledges-50-million-to-help-women-entrepreneurs/
+671380236,184,38.899,-77.0422,20170708,"World Bank, District of Columbia, United States",3,2.9413059245627,http://www.cnn.com/2017/07/08/politics/ivanka-trump-womens-entrepreneurship-initiative/
+671401848,138,38.899,-77.0422,20170708,"World Bank, District of Columbia, United States",3,2.15000424192132,http://abcnews.go.com/Politics/trump-ivankas-life-easier-dad-pledges-50m-world/story?id=48518872
+671380239,254,38.899,-77.0422,20170708,"World Bank, District of Columbia, United States",3,2.89508944141259,http://www.cnn.com/2017/07/08/politics/ivanka-trump-womens-entrepreneurship-initiative/
+671398227,204,38.899,-77.0422,20170708,"World Bank, District of Columbia, United States",3,1.94259989503138,http://www.livemint.com/Politics/Jj9p79aHUrtklCAouExiGL/World-Bank-to-create-womens-fund-championed-by-Ivanka-Trump.html
+671396234,292,38.899,-77.0422,20170708,"World Bank, District of Columbia, United States",3,1.27636518894833,http://www.wgowam.com/news/ivanka-trump-helps-roll-out-womens-entrepreneurship-initiative/
+671394740,121,38.899,-77.0422,20170708,"World Bank, District of Columbia, United States",3,0.700925654879685,http://www.keighleynews.co.uk/news/national/15398902.Donald_Trump_hails____tremendous_meeting____with_Vladimir_Putin/
+671446995,130,38.899,-77.0422,20170708,"World Bank, District of Columbia, United States",3,-2.24261439567909,http://abc6onyourside.com/news/nation-world/trump-labels-north-korea-a-problem-and-menace-at-summit
+671388312,1819,38.899,-77.0422,20170708,"World Bank, District of Columbia, United States",3,-0.151604487080668,http://elkodaily.com/news/national/govt-and-politics/the-latest-ivanka-trump-lauds-female-entrepreneurship-fund/article_75cefca9-b547-55d2-8456-97b8af0c815e.html
+671388319,1619,38.899,-77.0422,20170708,"World Bank, District of Columbia, United States",3,-0.36362219051467,http://elkodaily.com/news/national/govt-and-politics/the-latest-ivanka-trump-lauds-female-entrepreneurship-fund/article_75cefca9-b547-55d2-8456-97b8af0c815e.html
+671429271,374,38.899,-77.0422,20170708,"World Bank, District of Columbia, United States",3,-0.545902635601181,http://www.seattletimes.com/business/trump-pledges-50-million-to-help-women-entrepreneurs/
+671394741,102,51.0,9.0,20170708,Germany,1,0.753903112450343,http://www.keighleynews.co.uk/news/national/15398902.Donald_Trump_hails____tremendous_meeting____with_Vladimir_Putin/
+671411640,290,38.899,-77.0422,20170708,"World Bank, District of Columbia, United States",3,-2.01755108603459,http://www.ktre.com/story/35838338/trump-says-he-had-a-tremendous-meeting-with-putin
+671438724,248,39.0194,125.755,20170708,"Pyongyang, P'yongyang-si, North Korea",4,-2.11746144023662,http://www.14news.com/story/35838338/trump-seeks-consensus-on-trade-north-korea-at-summit
+671380237,144,53.55,10.0,20170708,"Hamburg, Hamburg, Germany",4,0.444758503474082,http://www.seattlepi.com/news/world/article/The-Latest-Trump-meets-May-to-discuss-trade-11274451.php
+671429268,270,53.55,10.0,20170708,"Hamburg, Hamburg, Germany",4,-0.668061993523883,http://www.seattletimes.com/business/trump-pledges-50-million-to-help-women-entrepreneurs/
+671396222,213,38.899,-77.0422,20170708,"World Bank, District of Columbia, United States",3,-0.0650530230150872,http://www.therepublic.com/2017/07/08/eu-trump-5/
+671394739,104,48.8667,2.33333,20170708,"Paris, France (general), France",4,0.86356887236915,http://www.keighleynews.co.uk/news/national/15398902.Donald_Trump_hails____tremendous_meeting____with_Vladimir_Putin/
+671446994,130,39.9289,116.388,20170708,"Beijing, Beijing, China",4,-2.24261439567909,http://abc6onyourside.com/news/nation-world/trump-labels-north-korea-a-problem-and-menace-at-summit
+668926988,160,33.8719,35.5097,20170629,"Beirut, Beyrouth, Lebanon",4,-3.92371784849019,http://www.dailymail.co.uk/wires/afp/article-4649420/Lebanon-dam-planned-atop-fault-line-stirs-fears.html
+670785944,110,48.8667,2.33333,20170629,"Paris, France (general), France",4,0.486271467902654,http://www.dnaindia.com/world/report-climate-change-action-needs-to-go-beyond-paris-accord-macron-says-2493720
+664498454,120,10.0,49.0,20170613,Somalia,1,-5.37022105517555,http://www.dnaindia.com/world/report-record-hunger-in-horn-of-africa-pushes-development-banks-to-step-in-2471353
+664498453,120,10.0,49.0,20170613,Somalia,1,-5.37022105517555,http://www.dnaindia.com/world/report-record-hunger-in-horn-of-africa-pushes-development-banks-to-step-in-2471353
+664079414,150,25.2867,51.5333,20170612,"Doha, Ad Daw?ah, Qatar",4,-4.82652853989057,http://www.dailymail.co.uk/wires/afp/article-4595730/Qatar-Central-Bank-says-operating-normally-despite-crisis.html
+658481147,104,1.0,114.0,20170524,"Borneo, Indonesia (general), Indonesia",4,-4.973066060588,http://www.dnaindia.com/world/report-indonesia-president-approves-two-year-extension-of-forest-moratorium-2449096
+655672109,111,42.8333,12.8333,20170515,Italy,1,-2.89807144212372,http://www.sharenet.co.za/news/Chinas_Xi_says_Belt_and_Road_needs_to_reject_protectionism/7958c8790b5ee04c834960d7e3ecf51f
+655672107,111,42.8333,12.8333,20170515,Italy,1,-2.89807144212372,http://www.sharenet.co.za/news/Chinas_Xi_says_Belt_and_Road_needs_to_reject_protectionism/7958c8790b5ee04c834960d7e3ecf51f
+655672106,111,42.8333,12.8333,20170515,Italy,1,-2.89807144212372,http://www.sharenet.co.za/news/Chinas_Xi_says_Belt_and_Road_needs_to_reject_protectionism/7958c8790b5ee04c834960d7e3ecf51f
+655672108,111,42.8333,12.8333,20170515,Italy,1,-2.89807144212372,http://www.sharenet.co.za/news/Chinas_Xi_says_Belt_and_Road_needs_to_reject_protectionism/7958c8790b5ee04c834960d7e3ecf51f
+654879100,130,10.0,49.0,20170512,Somalia,1,3.17986107462373,http://www.4-traders.com/news/World-Bank-Supports-Public-Private-Dialogue-to-Spur-Economic-Recovery-in-Somalia--24378706/
+653274969,120,-13.5,34.0,20170506,Malawi,1,-3.0140737814755,https://guardian.ng/news/world-bank-resumes-aid-to-impoverished-malawi/
+652844473,144,36.0,138.0,20170505,Japan,1,2.991452991453,http://english.wafa.ps/page.aspx?id=JYJdzBa81246394845aJYJdzB
+652642175,520,36.0,138.0,20170504,Japan,1,2.991452991453,http://english.wafa.ps/page.aspx?id=O4bOVSa81246394845aO4bOVS
+648645228,102,38.8951,-77.0364,20170421,"Washington, District of Columbia, United States",3,1.3024815748936,http://www.livemint.com/Politics/anGcvC39sVDEVQbF58SmrI/Arun-Jaitley-takes-up-H1B-visa-issue-with-US-commerce-secre.html
+648690317,110,28.6,77.2,20170421,"New Delhi, Delhi, India",4,-2.01813682731534,http://www.saharasamay.com/world-news/676611297/arun-jaitley-raises-h-1b-visa-issue-with-us.html
+648256938,110,10.0,8.0,20170420,Nigeria,1,0.949709386198098,https://www.pmnewsnigeria.com/2017/04/20/cbn-pumps-100m-forex-market/
+648627513,146,38.8951,-77.0364,20170420,"Washington, District of Columbia, United States",3,2.38228894318105,http://www.dnaindia.com/money/report-jaitley-takes-up-h-1b-visa-issue-with-us-commerce-secretary-2410216
+640830498,180,4.83333,6.0,20170327,"Niger Delta, Nigeria (general), Nigeria",4,-3.78020159799423,http://www.dailymail.co.uk/wires/reuters/article-4353088/Pace-reform-slows-Nigerias-ailing-Buhari-slims-schedule.html
+639304865,110,30.05,31.25,20170322,"Cairo, Al Qahirah, Egypt",4,-1.05559452868959,http://af.reuters.com/article/commoditiesNews/idAFL5N1GZ1EC
+639304864,110,30.05,31.25,20170322,"Cairo, Al Qahirah, Egypt",4,-1.05559452868959,http://af.reuters.com/article/commoditiesNews/idAFL5N1GZ1EC
+638595852,126,38.899,-77.0422,20170320,"World Bank, District of Columbia, United States",3,-2.39621668256146,http://www.foxnews.com/world/2017/03/20/pakistan-and-india-discuss-their-water-dispute-in-islamabad.html
+638165987,130,-13.5,34.0,20170318,Malawi,1,0.693092921419949,http://english.sina.com/news/2017-03-18/detail-ifycnpvh4893612.shtml
+638165986,150,-13.5,34.0,20170318,Malawi,1,0.645349395131762,http://english.sina.com/news/2017-03-18/detail-ifycnpvh4893612.shtml
+635102466,180,25.4143,68.2142,20170309,"Kohistan, Sindh, Pakistan",4,-0.683922371491263,http://indianexpress.com/article/world/pakistan-gives-chinese-firm-contracts-for-dam-construction-on-indus-4561846/
+633147656,270,28.6,77.2,20170303,"New Delhi, Delhi, India",4,-0.232811898405438,http://daijiworld.com/news/newsDisplay.aspx?newsID=440953
+633147655,132,33.7,73.1667,20170303,"Islamabad, Islamabad, Pakistan",4,-0.478018257700388,http://daijiworld.com/news/newsDisplay.aspx?newsID=440953
+633213525,200,39.0,22.0,20170303,Greece,1,-0.0815961056337443,http://finance.yahoo.com/news/eu-contact-world-bank-greek-loan-request-130653360--finance.html
+632002155,185,20.0,77.0,20170228,India,1,6.92549845134329,http://www.dnaindia.com/academy/report-india-world-bank-sign-usd-63-million-agreement-for-tejaswini-2337651
+628112238,110,38.899,-77.0422,20170216,"World Bank, District of Columbia, United States",3,-2.96495956873315,http://english.wafa.ps/page.aspx?id=piupGYa52412085957apiupGY
+628112237,110,31.8334,35.2631,20170216,"Hizma, West Bank (general), West Bank",4,-2.96495956873315,http://english.wafa.ps/page.aspx?id=piupGYa52412085957apiupGY
+628044452,122,9.08333,7.53333,20170216,"Abuja, Abuja Federal Capital Territory, Nigeria",4,-0.143091965545422,http://leadership.ng/news/cover-stories/572029/fec-approves-n126bn-for-12-road-projects
+624885354,360,33.8719,35.5097,20170207,"Beirut, Beyrouth, Lebanon",4,-0.927465136851523,http://www.thaipr.net/finance/754949
+624960477,192,33.8333,35.8333,20170207,Lebanon,1,-1.34868690444312,http://www.finchannel.com/business/63257-world-bank-group-allots-us-200-million-for-road-repairs-in-lebanon
+624716916,274,31.0,47.4167,20170206,"Tigris River, Al Basrah, Iraq",4,-1.84481059511938,http://www.dnaindia.com/world/report-world-bank-links-financial-support-for-iraq-to-reconciliation-2314129
+623364060,445,30.25,79.25,20170202,"Uttarakhand, Uttaranchal, India",5,6.50692969866565,http://www.dnaindia.com/academy/report-india-signs-financing-agreement-with-world-bank-for-usd-20150-million-2307967
+623362050,531,28.6,77.2,20170202,"New Delhi, Delhi, India",4,5.51940535926047,http://www.ndtv.com/india-news/india-signs-agreement-with-world-bank-to-improve-technical-education-1655288
+622013917,135,13.5,23.5,20170130,"Darfur, Gharb Darfur, Sudan",4,-8.64778311218423,http://www.westernslopenow.com/news/what-its-like-in-the-7-countries-on-trumps-travel-ban-list/646916454
+622013919,135,13.5,23.5,20170130,"Darfur, Gharb Darfur, Sudan",4,-8.64778311218423,http://www.westernslopenow.com/news/what-its-like-in-the-7-countries-on-trumps-travel-ban-list/646916454
+622013918,135,13.5,23.5,20170130,"Darfur, Gharb Darfur, Sudan",4,-8.64778311218423,http://www.westernslopenow.com/news/what-its-like-in-the-7-countries-on-trumps-travel-ban-list/646916454
+621932158,305,13.5,23.5,20170129,"Darfur, Gharb Darfur, Sudan",4,-8.45022720485413,http://gantdaily.com/2017/01/29/what-its-like-in-the-7-countries-on-trumps-travel-ban-list/
+621932159,305,13.5,23.5,20170129,"Darfur, Gharb Darfur, Sudan",4,-8.45022720485413,http://gantdaily.com/2017/01/29/what-its-like-in-the-7-countries-on-trumps-travel-ban-list/
+621932160,305,13.5,23.5,20170129,"Darfur, Gharb Darfur, Sudan",4,-8.45022720485413,http://gantdaily.com/2017/01/29/what-its-like-in-the-7-countries-on-trumps-travel-ban-list/
+621144967,400,38.899,-77.0422,20170127,"World Bank, District of Columbia, United States",3,1.93607066082487,http://www.businessinsider.in/FULL-TEXT-Theresa-Mays-speech-to-the-Republican-Congress-of-Tomorrow-conference/articleshow/56801478.cms
+621144972,266,38.899,-77.0422,20170127,"World Bank, District of Columbia, United States",3,1.93607066082487,http://www.businessinsider.in/FULL-TEXT-Theresa-Mays-speech-to-the-Republican-Congress-of-Tomorrow-conference/articleshow/56801478.cms
+620814126,260,17.0,-4.0,20170126,Mali,1,3.05904791559624,http://www.hongkongherald.com/index.php/sid/251209775
+618165617,105,20.9333,106.317,20170118,"Hai Duong, H?i Duong, Vietnam, Republic Of",4,-1.54564042633279,https://sg.finance.yahoo.com/news/field-factory-vietnams-globalisation-winners-025912545.html
+615911975,128,38.899,-77.0422,20170111,"World Bank, District of Columbia, United States",3,-1.42282718146755,http://www.chroniclejournal.com/business/national_business/world-bank-forecasting-brighter-prospects-for/article_78bb3bc1-c46e-5792-b29a-0fdcb5ac16f0.html
+615916569,133,37.7749,-122.419,20170111,"San Francisco, California, United States",3,-7.22478443583407,http://www.630wpro.com/news/world-bank-cuts-growth-forecast-cites-protectionist-pressures/
+615568320,320,42.8731,74.6003,20170110,"Bishkek, Bishkek, Kyrgyzstan",4,-3.0241702200778,http://www.centralasiatimes.com/index.php/sid/250787409
+615568321,320,42.8731,74.6003,20170110,"Bishkek, Bishkek, Kyrgyzstan",4,-3.0241702200778,http://www.centralasiatimes.com/index.php/sid/250787409
+612502896,119,18.3333,105.9,20161229,"Ha Tinh, Tinh Ha Tinh, Vietnam, Republic Of",4,-3.57100507959134,http://www.southeastasiapost.com/index.php/sid/250515763
+612248054,502,18.3333,105.9,20161228,"Ha Tinh, Tinh Ha Tinh, Vietnam, Republic Of",4,-2.52144248710015,http://newsok.com/vietnam-says-economy-expected-to-have-grown-6.2-pct-in-2016/article/feed/1138982
+610364389,234,33.0,44.0,20161221,Iraq,1,1.73721556629918,http://www.al-monitor.com/pulse/afp/2016/12/worldbank-iraq-aid.html
+610364390,101,33.0,44.0,20161221,Iraq,1,1.60548184246588,http://www.al-monitor.com/pulse/afp/2016/12/worldbank-iraq-aid.html
+609715648,136,7.0,81.0,20161219,Sri Lanka,1,-0.290433588929619,http://lifestyle.iafrica.com/hislife/1041799.html
+609281749,114,7.0,81.0,20161217,Sri Lanka,1,1.62322531279777,http://www.naharnet.com/stories/en/222261-sri-lanka-says-it-secures-1-34-bn-world-bank-loan
+609103934,610,48.8667,2.33333,20161216,"Paris, France (general), France",4,-3.97546029366711,http://money.cnn.com/2016/12/16/news/cuba-rum-debt-czech-republic/
+606826224,230,40.0,45.0,20161209,Armenia,1,1.36213289859314,http://www.panarmenian.net/eng/news/227737/World_Bank_to_help_Armenia_strengthen_competitiveness
+606826229,135,40.0,45.0,20161209,Armenia,1,1.51471056251167,http://www.panarmenian.net/eng/news/227737/World_Bank_to_help_Armenia_strengthen_competitiveness
+605589861,342,32.2164,35.2729,20161206,"Ministry Of Education, West Bank (general), West Bank",4,1.30353817504655,http://english.wafa.ps/page.aspx?id=yYvV8Ya51783928977ayYvV8Y
+605589860,228,32.2164,35.2729,20161206,"Ministry Of Education, West Bank (general), West Bank",4,1.30353817504655,http://english.wafa.ps/page.aspx?id=yYvV8Ya51783928977ayYvV8Y
+605398225,402,32.2164,35.2729,20161205,"Ministry Of Education, West Bank (general), West Bank",4,1.30353817504655,http://english.wafa.ps/page.aspx?id=pKyzn7a51783928977apKyzn7
+605398224,268,32.2164,35.2729,20161205,"Ministry Of Education, West Bank (general), West Bank",4,1.30353817504655,http://english.wafa.ps/page.aspx?id=pKyzn7a51783928977apKyzn7
+604470402,252,38.0,-97.0,20161202,United States,1,0.0499256195142785,http://www.trinidadtimes.com/index.php/sid/249850251
+602610327,299,35.685,139.751,20161126,"Tokyo, Tokyo, Japan",4,1.37192529703265,http://www.vietnamtribune.com/index.php/sid/249698135
+602614217,280,-1.28333,36.8167,20161126,"Nairobi, Nairobi Area, Kenya",4,1.60428111290935,http://www.azerbaijannews.net/index.php/sid/249698135
+602383692,146,18.975,72.8258,20161125,"Mumbai, Maharashtra, India",4,-1.05468628403167,http://www.mydigitalfc.com/companies/paytm-suspends-app-pos-data-security-concerns-996
+602278787,118,18.975,72.8258,20161124,"Mumbai, Maharashtra, India",4,-0.93399669452938,http://www.mydigitalfc.com/news/unilever-honcho-manwani-frontrunner-replace-mistry-990
+602145106,173,35.75,51.5148,20161124,"Tehran, Tehran, Iran",4,-7.28313606256862,http://en.farsnews.com/newstext.aspx?nn=13950904000484
+601420366,140,44.4333,26.1,20161122,"Bucharest, Bucuresti, Romania",4,-2.39034777382947,http://www.chron.com/business/article/World-Bank-Europeans-still-worried-about-job-10629738.php
+709007317,130,11.55,104.917,20161122,"Phnom Penh, (CB11), Cambodia",4,-4.97695019355566,http://www.kitco.com/news/2017-11-22/Cambodia-apos-s-Hun-Sen-says-only-workers-will-suffer-from-any-sanctions.html
+599500187,114,46.0,2.0,20161116,France,1,-3.52916257472155,https://www.yahoo.com/news/no-army-basic-services-c-africa-leader-eyes-073909710.html
+597271711,203,38.8951,-77.0364,20161109,"Washington, District of Columbia, United States",3,-2.02187856536419,http://news.trust.org/item/20161109090040-63q8h
+597316412,250,36.0,138.0,20161109,Japan,1,1.32050738918887,http://m.philstar.com/315469/show/924331e8d1ee3d0bea94515565c949f5?t=s6m60i86aa987j061il24o0u26
+594650945,365,-10.0,70.0,20161101,"Indian Ocean, ,",4,-1.44648385939502,http://www.bigstory.ap.org/article/ca3a7295421944a68ea8e697bda92914/sri-lanka-cracks-down-owners-elephants-taken-wild
+594219049,111,-18.9617,32.4056,20161031,"Odzi, Manicaland, Zimbabwe",4,-5.98802749040494,https://www.yahoo.com/news/zimbabwes-evicted-elderly-white-farmers-pin-last-hope-001223507.html
+592770285,285,51.4667,-0.45,20161026,"Heathrow, Hillingdon, United Kingdom",4,-1.79153155834472,http://www.nigeriasun.com/index.php/sid/248858229
+592770283,265,51.4667,-0.45,20161026,"Heathrow, Hillingdon, United Kingdom",4,-1.79153155834472,http://www.nigeriasun.com/index.php/sid/248858229
+589961822,485,23.7231,90.4086,20161018,"Dhaka, Dhaka, Bangladesh",4,-0.550139982528145,http://www.bangladeshsun.com/index.php/sid/248631031
+589961821,485,23.7231,90.4086,20161018,"Dhaka, Dhaka, Bangladesh",4,-0.550139982528145,http://www.bangladeshsun.com/index.php/sid/248631031
+590180636,180,23.7231,90.4086,20161018,"Dhaka, Dhaka, Bangladesh",4,-0.978857295804761,http://www.aninews.in/newsdetail-NA/MjgzOTky/will-finance-big-develomental-projects-except-padma-bridge-world-bank-chief.html
+589799811,185,23.7231,90.4086,20161017,"Dhaka, Dhaka, Bangladesh",4,-1.13230700851047,https://in.news.yahoo.com/world-bank-bdesh-additional-us-1b-fund-childcare-142021539.html
+589799812,185,23.7231,90.4086,20161017,"Dhaka, Dhaka, Bangladesh",4,-1.13230700851047,https://in.news.yahoo.com/world-bank-bdesh-additional-us-1b-fund-childcare-142021539.html
+586816664,124,38.8951,-77.0364,20161008,"Washington, District of Columbia, United States",3,0.614445854033858,https://www.yahoo.com/news/greece-likely-part-next-loan-232626598.html
+586566293,136,38.899,-77.0422,20161007,"World Bank, District of Columbia, United States",3,3.22964370961685,http://www.cnbc.com/2016/10/07/the-man-selling-europes-bonds-slams-stiglitz-krugman-and-us-income-gains.html
+586556153,153,32.2833,75.65,20161007,"Pathankot, Punjab, India",4,-6.37034353032623,http://www.outlookindia.com/newswire/story/brand-pakistan-identifies-itself-with-global-terror-jaitley/952482
+586180867,110,60.0,-95.0,20161006,Canada,1,3.05905535401489,http://www.financialexpress.com/economy/india-ready-to-take-larger-share-in-world-bank-arun-jaitley/408210/
+585392937,170,60.0,-95.0,20161004,Canada,1,3.77232191730026,http://www.thehindubusinessline.com/economy/india-canada-committed-to-strengthening-economic-ties-jaitley/article9183363.ece
+585359579,118,38.899,-77.0422,20161004,"World Bank, District of Columbia, United States",3,2.60115589065145,http://www.chinadaily.com.cn/world/2016-10/04/content_26969027.htm
+585027018,102,38.8996,-77.0422,20161003,"The World Bank, District of Columbia, United States",3,2.28936269679611,http://indianexpress.com/article/india/india-news-india/finance-minister-arun-jaitley-arrives-in-canada-for-three-day-visit-3062532/
+584798133,110,60.0,-95.0,20161002,Canada,1,0.0920132499079864,http://www.sify.com/news/jaitley-to-embark-on-his-seven-day-official-visit-to-canada-us-today-news-national-qkcjcxeabcaeb.html
+583420958,149,28.95,70.5,20160928,"Chenab, Punjab, Pakistan",4,-1.9129938333616,http://www.news18.com/news/india/pak-approaches-world-bank-to-mediate-indus-waters-treaty-row-with-india-1296349.html
+583524274,119,38.8951,-77.0364,20160928,"Washington, District of Columbia, United States",3,-2.02002280159912,http://www.financialexpress.com/india-news/world-bank-commits-to-fulfil-obligations-under-indus-water-treaty-pakistan/395497/
+583524275,116,38.899,-77.0422,20160928,"World Bank, District of Columbia, United States",3,-2.07546585511871,http://www.financialexpress.com/india-news/world-bank-commits-to-fulfil-obligations-under-indus-water-treaty-pakistan/395497/
+582312361,1200,36.6555,8.69602,20160924,"Fernana, Jundubah, Tunisia",4,-8.47501934008754,https://www.yahoo.com/news/thirsty-tunisians-drought-creates-tensions-113438123.html
+581473820,120,6.5,125.917,20160922,"Davao Gulf, Philippines (general), Philippines",4,-1.12359550561798,http://m.philstar.com/business/show/af07616bf965e4f342157391a62c4c07?t=co060vkv1mt5huuih48chjpt22
+580772912,204,20.0,77.0,20160920,India,1,2.31155796982265,http://zeenews.india.com/business/news/international/bangladeshs-junaid-ahmad-new-world-bank-head-in-india_1931462.html
+580392343,108,10.0167,78.7833,20160919,"Amaravati, Tamil Nadu, India",4,-1.96761061635673,http://indianexpress.com/article/india/india-news-india/amaravati-andhra-pradesh-new-capital-centre-loan-reduced-r3038900/
+580424475,228,35.0,105.0,20160919,China,1,1.01305324096832,http://m.philstar.com/315469/show/f73df58b233de02502d51cde8bb5cbec
+580104748,113,38.899,-77.0422,20160918,"World Bank, District of Columbia, United States",3,-0.940930753149381,http://timesofindia.indiatimes.com/business/india-business/Arun-Jaitley-to-attend-IMF-WB-annual-meet-in-US-next-month/articleshow/54388562.cms
+578087064,620,-17.8178,31.0447,20160912,"Harare, Mashonaland East, Zimbabwe",4,-5.60351402265816,http://www.zimbabwestar.com/index.php/sid/247577841
+577876263,380,-17.8178,31.0447,20160911,"Harare, Mashonaland East, Zimbabwe",4,-5.27652000876472,http://www.zimbabwestar.com/index.php/sid/247551753
+577723183,135,-17.8178,31.0447,20160910,"Harare, Mashonaland East, Zimbabwe",4,-6.01054586429903,http://www.news24.com/Africa/News/were-not-about-to-fund-zim-says-world-bank-20160909
+575860487,213,-6.0,35.0,20160905,Tanzania,1,0.638887345860665,http://www.hawaiitelegraph.com/index.php/sid/247366249
+575517278,110,18.975,72.8258,20160903,"Mumbai, Maharashtra, India",4,2.43951480560987,http://www.business-standard.com/article/pti-stories/railway-ministry-working-on-usd-5-bn-fund-to-finance-projects-116090300488_1.html
+573203192,240,13.0,122.0,20160827,Philippines,1,-0.342866985160015,http://www.southeastasiapost.com/index.php/sid/247110063
+570033883,190,28.95,76.4333,20160817,"Madina, Haryana, India",4,-5.98267012252952,http://news.trust.org/item/20160817030132-c27cu/
+569222205,300,31.5,35.7833,20160814,"Dhiban, Jordan (general), Jordan",4,-4.49904187727826,http://abcnews.go.com/International/wireStory/jordan-instability-fears-growth-slows-unemployment-rises-41370599
+568458622,114,-4.32972,15.315,20160811,"Kinshasa, Kinshasa, Democratic Republic Of The Congo",4,-0.668757977046623,http://www.politicsweb.co.za/opinion/inga-dream-again-deferred
+567125899,323,5.55,-0.216667,20160807,"Accra, Greater Accra, Ghana",4,0.871678259190848,http://www.sierraleonetimes.com/index.php/sid/246508151
+566920472,246,5.55,-0.216667,20160806,"Accra, Greater Accra, Ghana",4,1.28629533928871,http://www.venezuelastar.com/index.php/sid/246486053
+564559201,160,28.6667,77.2167,20160729,"Delhi, Delhi, India",4,0.138938289119521,http://www.indiaspend.com/cover-story/10000-ngo-registrations-cancelled-foreign-aid-set-to-drop-78540
+563835209,172,-6.17444,106.829,20160727,"Jakarta, Jakarta Raya, Indonesia",4,-3.37767777800501,http://www.bigstory.ap.org/article/cfa8fed4f6a64b43bdbed4b6b59e376a/indonesian-president-announces-new-cabinet-line
+563823749,130,-1.0,15.0,20160727,Congo,1,0.840349156031725,http://www.newvision.co.ug/new_vision/news/1430909/world-bank-freezes-funds-dr-congo-dam-project
+563832135,170,14.6042,120.982,20160727,"Manila, Manila, Philippines",4,0.774500631181783,http://www.philstar.com/nation/2016/07/27/1607179/mmda-get-15-new-pumping-stations-fix-38-flood-control
+559622775,135,31.4167,34.3333,20160714,"Gaza, Israel (general), Israel",4,-1.71472095254566,http://www.gulf-times.com/story/502426/Solar-plane-lands-in-Egypt-on-penultimate-leg-of-w
+559235474,354,36.0,138.0,20160713,Japan,1,5.64971751412429,http://english.wafa.ps/page.aspx?id=PD89Jka37792208124aPD89Jk
+559235473,236,36.0,138.0,20160713,Japan,1,5.64971751412429,http://english.wafa.ps/page.aspx?id=PD89Jka37792208124aPD89Jk
+559037995,252,36.0,138.0,20160712,Japan,1,5.64971751412429,http://english.wafa.ps/page.aspx?id=0rwWGVa37792208124a0rwWGV
+559037996,378,36.0,138.0,20160712,Japan,1,5.64971751412429,http://english.wafa.ps/page.aspx?id=0rwWGVa37792208124a0rwWGV
+556085207,320,23.7231,90.4086,20160702,"Dhaka, Dhaka, Bangladesh",4,-3.7218197512737,http://www.sify.com/news/savage-attack-on-oasis-of-calm-in-dhaka-shakes-expat-community-news-crime-qhcraqghcgcjg.html
+555397312,155,20.0,77.0,20160630,India,1,1.55732858967231,http://jg-tc.com/business/world-bank-to-back-india-s-solar-power-initiative/article_d32525cd-07ac-515b-b986-f26c7df99530.html
+555390817,368,23.5,78.5,20160630,"Madhya Pradesh, Madhya Pradesh, India",5,3.36682223200824,http://www.business-standard.com/article/pti-stories/world-bank-commits-usd-1-bn-for-solar-projects-in-india-116063000442_1.html
+555352790,350,20.0,77.0,20160630,India,1,1.37285028515316,http://www.business-standard.com/article/pti-stories/world-bank-chief-meets-modi-discusses-nutrition-green-power-116063000294_1.html
+555352789,215,20.0,77.0,20160630,India,1,2.46582656133529,http://www.business-standard.com/article/pti-stories/world-bank-chief-meets-modi-discusses-nutrition-green-power-116063000294_1.html
+555376086,212,20.0,77.0,20160630,India,1,1.03432322092333,http://finance.yahoo.com/news/india-over-1-billiion-world-084009509.html
+553955465,108,54.0,-2.0,20160626,United Kingdom,1,0.596544814257269,http://www.hawaiinewsnow.com/story/32305693/china-led-development-bank-approves-first-loans
+554027527,140,23.7231,90.4086,20160626,"Dhaka, Dhaka, Bangladesh",4,6.08845973222161,http://news.xinhuanet.com/english/2016-06/26/c_135467456.htm
+553829298,285,54.0,-2.0,20160625,United Kingdom,1,0.564993804170529,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2016-06-25-AS--China-Asian%20Bank/id-563758beab75443187c82f3038eec55e
+553350661,110,8.49,-13.2342,20160624,"Freetown, Western Area, Sierra Leone",4,1.10938125704519,http://www.sierraleonetimes.com/index.php/sid/245229219
+553380234,120,11.5,43.0,20160624,Djibouti,1,-4.31882878223365,http://news.trust.org/item/20160624010024-jvjun
+552982981,480,8.49,-13.2342,20160623,"Freetown, Western Area, Sierra Leone",4,1.18603284326524,http://www.sierraleonetimes.com/index.php/sid/245195345
+553005256,142,38.899,-77.0422,20160623,"World Bank, District of Columbia, United States",3,-4.63351246552406,http://www.vietnamtribune.com/index.php/sid/245201439
+553005255,332,21.0333,105.85,20160623,"Hanoi, Ha N?i, Vietnam, Republic Of",4,-4.04756371812383,http://www.vietnamtribune.com/index.php/sid/245201461
+552990179,170,21.0333,105.85,20160623,"Hanoi, Ha N?i, Vietnam, Republic Of",4,-4.07409184239518,http://www.phoenixherald.com/index.php/sid/245208247
+552654489,430,8.49,-13.2342,20160622,"Freetown, Western Area, Sierra Leone",4,1.10055554062928,http://www.sierraleonetimes.com/index.php/sid/245173031
+550412555,136,51.0,9.0,20160615,Germany,1,0.494201878519817,http://www.vietnamtribune.com/index.php/sid/244965421
+548602356,146,6.5,-9.5,20160609,Liberia,1,-11.8543867894781,http://www.nst.com.my/news/2016/06/150667/liberia-ebola-outbreak-be-declared-over
+548785028,140,39.9289,116.388,20160609,"Beijing, Beijing, China",4,0.700852926662347,http://www.business-standard.com/article/pti-stories/jaitley-to-visit-china-this-month-to-attend-aiibmeeting-116060901029_1.html
+548179309,522,39.9289,116.388,20160608,"Beijing, Beijing, China",4,-3.00040196753039,http://naplesherald.com/2016/06/07/world-bank-downgrades-forecast-2016-global-economy/
+548143328,146,39.9289,116.388,20160607,"Beijing, Beijing, China",4,-3.04163538629543,http://www.hometownstations.com/story/32167051/world-bank-downgrades-its-forecast-for-2016-global-economy
+547610089,160,8.0,30.0,20160606,South Sudan,1,-3.32762249022788,http://af.reuters.com/article/energyOilNews/idAFL8N18Y12Q
+547558309,407,6.45306,3.39583,20160606,"Lagos, Lagos, Nigeria",4,-2.59388982825348,http://money.cnn.com/2016/06/06/news/economy/nigeria-dangote-energy-oil-refinery/
+545979452,122,32.0,-5.0,20160601,Morocco,1,0.412055179391546,http://www.brazilsun.com/index.php/sid/244549979
+544855740,154,4.78917,6.99861,20160528,"Port Harcourt, Rivers, Nigeria",4,-0.819563490495746,http://thenewsnigeria.com.ng/2016/05/factsheet-of-buharis-first-365-days/
+544493823,110,11.55,104.917,20160527,"Phnom Penh, (CB11), Cambodia",4,-3.6720756291893,http://mauritaniavox.com/resumption-of-world-bank-loans-to-cambodia-assailed/
+544485679,110,12.7111,104.889,20160527,"Kampong Thom, KâóThum, Cambodia",4,-3.73399555285523,http://www.voanews.com/content/resumption-world-bank-loans-cambodia-assailed/3348280.html
+543487891,154,13.5,76.0,20160524,"Karnataka, Karnataka, India",5,2.857158288309,http://www.business-standard.com/article/government-press-release/india-signs-loan-agreement-with-world-bank-for-ibrd-loan-of-116052401051_1.html
+543462183,320,24.0,90.0,20160524,Bangladesh,1,-6.69546436285097,http://www.localnews8.com/lifestyle/money/hackers-could-bring-down-the-banks-warns-network-boss/39695558
+543462181,320,24.0,90.0,20160524,Bangladesh,1,-6.69546436285097,http://www.localnews8.com/lifestyle/money/hackers-could-bring-down-the-banks-warns-network-boss/39695558
+543462182,160,24.0,90.0,20160524,Bangladesh,1,-6.69546436285097,http://www.localnews8.com/lifestyle/money/hackers-could-bring-down-the-banks-warns-network-boss/39695558
+542913946,155,36.0,138.0,20160523,Japan,1,-6.18999596642411,http://www.heraldglobe.com/index.php/sid/244297561
+542913938,135,48.15,11.5833,20160523,"Munich, Bayern, Germany",4,-6.01686299997374,http://www.heraldglobe.com/index.php/sid/244285925
+542568815,292,36.0,138.0,20160521,Japan,1,-4.38155689781613,http://www.charlotteobserver.com/news/business/national-business/article79030882.html
+542568820,291,36.0,138.0,20160521,Japan,1,-4.38155689781613,http://www.charlotteobserver.com/news/business/national-business/article79030882.html
+542568817,146,36.0,138.0,20160521,Japan,1,-4.38155689781613,http://www.charlotteobserver.com/news/business/national-business/article79030882.html
+542466998,124,38.899,-77.0422,20160521,"World Bank, District of Columbia, United States",3,1.21999879661916,http://www.npr.org/sections/goatsandsoda/2016/05/20/478858004/nigeria-you-win-your-development-plan-may-be-the-best-in-history
+551114139,528,38.0,-97.0,20160518,United States,1,3.97071483430238,http://blogs.worldbank.org/nasikiliza/print/723
+539201418,210,36.7631,3.05056,20160511,"Algiers, Alger, Algeria",4,-3.05068654270938,https://www.yahoo.com/news/bouteflika-health-check-prompts-political-jostling-algeria-103418096.html
+537451791,192,38.899,-77.0422,20160505,"World Bank, District of Columbia, United States",3,-0.220866293150525,http://hosted.ap.org/dynamic/stories/U/US_CLIMATE_INITIATIVES?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2016-05-05-12-26-47
+537451792,184,48.8667,2.33333,20160505,"Paris, RhôAlpes, France",4,-0.163360540817093,http://hosted.ap.org/dynamic/stories/U/US_CLIMATE_INITIATIVES?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2016-05-05-12-26-47
+535687245,349,20.0,77.0,20160430,India,1,0.00334039036426501,http://www.cambodiantimes.com/index.php/sid/243641537
+535687244,195,20.0,77.0,20160430,India,1,-0.746465634620688,http://www.cambodiantimes.com/index.php/sid/243641831
+535100200,150,-25.9653,32.5892,20160428,"Maputo, Maputo, Mozambique",4,-4.44626380468965,https://www.yahoo.com/news/mozambique-boosts-security-maputo-due-demonstration-fears-095249180.html
+533690764,192,35.0,105.0,20160424,China,1,-0.417632633756047,http://www.4029tv.com/money/yes-china-has-won-big-from-us-trade/39188272
+531849581,250,40.0,-4.0,20160419,Spain,1,-4.87915663096655,http://news.asiaone.com/news/world/rescuers-pull-out-survivors-deadly-ecuador-quake
+531553703,581,31.4167,34.3333,20160418,"Gaza, Israel (general), Israel",4,-2.71111090266272,http://www.dailymail.co.uk/wires/ap/article-3545253/World-Bank-urges-donors-fulfill-Gaza-pledges.html
+531553704,152,31.4167,34.3333,20160418,"Gaza, Israel (general), Israel",4,-3.30447922652341,http://www.dailymail.co.uk/wires/ap/article-3545253/World-Bank-urges-donors-fulfill-Gaza-pledges.html
+531553702,490,31.4167,34.3333,20160418,"Gaza, Israel (general), Israel",4,-2.70709505225012,http://www.dailymail.co.uk/wires/ap/article-3545253/World-Bank-urges-donors-fulfill-Gaza-pledges.html
+531556692,132,31.5464,34.4951,20160418,"Beit Lahiya, Gaza Strip (general), Gaza Strip",4,-3.35932461270611,http://wtop.com/government/2016/04/world-bank-urges-donors-to-fulfill-gaza-pledges/
+531090024,240,20.0,77.0,20160416,India,1,-3.34976893722257,http://www.outlookindia.com/newswire/story/no-climate-of-intolerance-in-india-jaitley/936942
+531094178,162,38.899,-77.0422,20160416,"World Bank, District of Columbia, United States",3,-3.52763671472286,http://deccanchronicle.com/nation/current-affairs/160416/no-climate-of-intolerance-in-india-arun-jaitley.html
+531094177,170,38.899,-77.0422,20160416,"World Bank, District of Columbia, United States",3,-3.4271794183392,http://deccanchronicle.com/nation/current-affairs/160416/no-climate-of-intolerance-in-india-arun-jaitley.html
+531090025,240,20.0,77.0,20160416,India,1,-3.34976893722257,http://www.outlookindia.com/newswire/story/no-climate-of-intolerance-in-india-jaitley/936942
+530101600,180,25.0,45.0,20160413,Saudi Arabia,1,-1.16141684829489,http://www.4-traders.com/news/World-Bank-set-to-provide-Egypt-with-first-1-billion-of-3-billion-loan--22162558/
+529839046,122,32.8925,13.18,20160412,"Tripoli, Tarabulus, Libya",4,3.85978797267426,http://www.naharnet.com/stories/en/206882-50-states-organizations-discuss-support-for-libya-govt
+531889182,102,38.8951,-77.0364,20160412,"Washington, District of Columbia, United States",3,-2.75406489925754,http://www.dnaindia.com/money/report-grim-worrisome-challenging-arun-jaitley-on-global-economic-situation-2203691
+529839044,122,32.8925,13.18,20160412,"Tripoli, Tarabulus, Libya",4,3.85978797267426,http://www.naharnet.com/stories/en/206882-50-states-organizations-discuss-support-for-libya-govt
+529482199,240,38.899,-77.0422,20160411,"World Bank, District of Columbia, United States",3,-1.89463233602874,http://www.daytondailynews.com/ap/ap/top-news/lew-us-retreat-from-global-economic-state-would-be/nq3kk/
+529444238,244,38.899,-77.0422,20160411,"World Bank, District of Columbia, United States",3,-1.855845325093,https://www.devex.com/news/what-to-expect-from-the-world-bank-spring-meetings-87995
+527934898,460,23.7231,90.4086,20160406,"Dhaka, Dhaka, Bangladesh",4,-3.31891377744755,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2016-04-06-AS--Bangladesh-Arsenic/id-282dbd90a1884aeb9b64be7b195a68af
+527588947,182,29.5,82.4167,20160405,"Karnali, Karnali, Nepal",5,1.78115088914659,http://www.newkerala.com/news/2016/fullnews-45257.html
+526722765,110,6.31056,-10.8047,20160402,"Monrovia, Montserrado, Liberia",4,-2.36351777062243,http://www.newsfultoncounty.com/world/news/0230812-water-shortage-a-serious-challenge-for-liberians
+526073560,270,-33.8833,151.217,20160331,"Sydney, New South Wales, Australia",4,-6.01839555358812,http://www.areanews.com.au/story/3824028/the-world-thinks-australia-should-lift-its-anti-corruption-game/
+526073561,675,-33.8833,151.217,20160331,"Sydney, New South Wales, Australia",4,-6.01839555358812,http://www.areanews.com.au/story/3824028/the-world-thinks-australia-should-lift-its-anti-corruption-game/
+525653300,120,5.34111,-4.02806,20160330,"Abidjan, Lagunes, Cote D'ivoire",4,-5.66549010823145,http://timesofindia.indiatimes.com/articleshow/51609741.cms
+524454691,128,33.8719,35.5097,20160325,"Beirut, Beyrouth, Lebanon",4,-4.12998981712584,http://www.dailymail.co.uk/wires/ap/article-3509528/Lebanons-stalemate-costly-warns-World-Bank-chief.html
+524454692,160,33.8719,35.5097,20160325,"Beirut, Beyrouth, Lebanon",4,-4.12947815408122,http://www.dailymail.co.uk/wires/ap/article-3509528/Lebanons-stalemate-costly-warns-World-Bank-chief.html
+524033556,188,31.0,36.0,20160324,Jordan,1,-3.5502188597129,http://www.daytondailynews.com/ap/ap/top-news/un-chief-arrives-in-beirut-syria-talks-to-adjourn-/nqrST/
+524033555,864,31.0,36.0,20160324,Jordan,1,-3.5502188597129,http://www.daytondailynews.com/ap/ap/top-news/un-chief-arrives-in-beirut-syria-talks-to-adjourn-/nqrST/
+524033557,676,31.0,36.0,20160324,Jordan,1,-3.5502188597129,http://www.daytondailynews.com/ap/ap/top-news/un-chief-arrives-in-beirut-syria-talks-to-adjourn-/nqrST/
+521635186,140,-17.8178,31.0447,20160316,"Harare, Mashonaland East, Zimbabwe",4,-2.33013049659703,http://www.dailymail.co.uk/wires/reuters/article-3495298/Zimbabwe-expects-IMF-loan-nearly-two-decades-year.html
+637478690,200,4.36667,18.5833,20160316,"Bangui, Bangui, Central African Republic",4,-2.90715430184197,http://www.sfgate.com/news/world/article/UN-says-half-the-people-in-Central-African-11006171.php
+637478691,200,4.36667,18.5833,20160316,"Bangui, Bangui, Central African Republic",4,-2.90715430184197,http://www.sfgate.com/news/world/article/UN-says-half-the-people-in-Central-African-11006171.php
+637473451,240,7.0,21.0,20160316,Central African Republic,1,-3.23035205260685,http://abcnews.go.com/International/wireStory/half-people-central-african-republic-aid-46168621
+637473450,240,7.0,21.0,20160316,Central African Republic,1,-3.23035205260685,http://abcnews.go.com/International/wireStory/half-people-central-african-republic-aid-46168621
+519248945,110,13.0,105.0,20160309,Cambodia,1,3.95886942383297,http://www.worldbank.org/en/news/press-release/2016/03/08/world-bank-appoints-new-country-director-for-nepal
+517143932,136,23.5,78.5,20160302,"Madhya Pradesh, Madhya Pradesh, India",5,4.36910646513333,http://www.prepsure.com/news/madhya-pradesh-signed-mou-with-world-bank/
+516832351,102,-8.83833,13.2344,20160301,"Luanda, Luanda, Angola",4,-1.98296388949993,http://www.wptz.com/national/angola-makes-new-steel-from-old-guns/38272554
+516124588,391,35.75,51.514801025390625,20160228,"Tehran, Tehran, Iran",4,-0.061238564550876617,http://www.kxlf.com/story/31333355/iran-election-moderates-poised-to-make-gains-in-high-stakes-vote
+516258681,108,31.950000762939453,35.933300018310547,20160228,"Amman, (JO11), Jordan",4,-2.2108514308929443,http://english.sina.com/news/2016/0228/893963.html
+515646486,167,35.75,51.514801025390625,20160226,"Tehran, Tehran, Iran",4,-3.8824522495269775,http://www.cnn.com/2016/02/26/world/iran-elections-vote/
+512142316,650,45.4167,-75.7,20160216,"Ottawa, Ontario, Canada",4,-7.55905511811023,http://www.timminstimes.com/2016/02/15/corruption-in-africa-demands-canadian-action
+511797883,150,-10.0,-55.0,20160215,Brazil,1,-0.1833180568286,http://m.philstar.com/opinion/show/087f58d6a92b276dc397f18e9b75bcb8?t=0k6bgdsn9m73p05o0865gict57
+511797881,150,-10.0,-55.0,20160215,Brazil,1,-0.1833180568286,http://m.philstar.com/opinion/show/087f58d6a92b276dc397f18e9b75bcb8?t=0k6bgdsn9m73p05o0865gict57
+511797882,150,-10.0,-55.0,20160215,Brazil,1,-0.1833180568286,http://m.philstar.com/opinion/show/087f58d6a92b276dc397f18e9b75bcb8?t=0k6bgdsn9m73p05o0865gict57
+511712047,130,-10.0,-55.0,20160214,Brazil,1,-0.1833180568286,http://www.philstar.com/opinion/2016/02/15/1553117/beholden
+511712045,130,-10.0,-55.0,20160214,Brazil,1,-0.1833180568286,http://www.philstar.com/opinion/2016/02/15/1553117/beholden
+511712046,130,-10.0,-55.0,20160214,Brazil,1,-0.1833180568286,http://www.philstar.com/opinion/2016/02/15/1553117/beholden
+510947932,1176,20.0,77.0,20160212,India,1,-1.17070378753798,http://www.smh.com.au/environment/climate-change/csiro-chief-larry-marshall-points-his-ship-into-a-scientific-storm-20160211-gmrfrt.html
+510947931,284,36.17,-119.746,20160212,"California, United States",2,-1.16923876611831,http://www.smh.com.au/environment/climate-change/csiro-chief-larry-marshall-points-his-ship-into-a-scientific-storm-20160211-gmrfrt.html
+509854863,260,11.0,123.5,20160209,"Visayas, Philippines (general), Philippines",4,-2.5821595191955566,http://m.philstar.com/315469/show/f5144c45f4266548e54ff1566e0a29e6?t=1k3gl1m5k9smsple831jpv3mb6
+508771952,414,35.5148,35.7768,20160205,"Latakia, Al Ladhiqiyah, Syria",4,-5.31247164734813,http://www.reuters.com/article/mideast-worldbank-idUSL2N15K02A
+507383853,140,9.03333,38.7,20160201,"Addis Ababa, (ET10), Ethiopia",4,-3.01710515672351,http://www.addistar.com/2016/01/31/addis-ababa-master-plan-no-the-t-tplf-masters-plan/
+506335115,102,-16.0,167.0,20160128,Vanuatu,1,-0.721129768712271,http://www.brisbanetimes.com.au//business/aviation/virgin-australia-halts-vanuatu-flights-over-runway-safety-concerns-20160128-gmg4hn.html
+506419300,632,55.7522,37.6156,20160128,"Moscow, Moskva, Russia",4,1.5326003958933,http://www.newser.com/article/7b138288e5f24b228700272d4c29d04e/oil-producer-azerbaijan-in-talks-for-international-aid.html
+505462031,150,33.8333,35.8333,20160125,Lebanon,1,-2.00281176416534,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2016-01-25-ML--Syrian%20Refugees-Financing%20Aid/id-9f275eb3bd8f49ad85af730aed86510f
+505430722,240,35.0,38.0,20160125,Syria,1,-4.76859184562094,http://www.wistv.com/story/31047241/cheap-loans-proposed-to-ease-aid-gap-in-syria-refugee-crisis
+505520579,145,31.95,35.9333,20160125,"Amman, (JO11), Jordan",4,-1.18134811218249,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2016-01-25-ML--Syrian%20Refugees-Financing%20Aid/id-2109a7bb8b034568a8a4909d8b811457
+501337452,191,-12.05,-77.05,20160112,"Lima, Lima, Peru",4,-1.78226461227808,http://www.godanriver.com/entertainment_lifestyles/wire/apparent-relaxation-of-security-before-drug-lord-s-recapture/article_4386239c-f937-5ef9-bcf6-f47c2c1ae049.html
+615909569,124,38.899,-77.0422,20160112,"World Bank, District of Columbia, United States",3,-1.42814865070134,http://www.chroniclejournal.com/business/national_business/world-bank-forecasting-brighter-prospects-for/article_78bb3bc1-c46e-5792-b29a-0fdcb5ac16f0.html
+501040676,256,-12.05,-77.05,20160111,"Lima, Lima, Peru",4,-1.93399841842266,http://www.dailyjournal.net/view/story/eb599378d59547cbb3cf5c630699814b/US--Mexico-Drug-Lord-Rolling-Stone
+501270267,204,46.0,25.0,20160111,Romania,1,0.729317973500939,http://www.bradenton.com/news/business/article54108670.html
+501040678,126,8.0,-66.0,20160111,Venezuela,1,-2.45610802920166,http://www.dailyjournal.net/view/story/eb599378d59547cbb3cf5c630699814b/US--Mexico-Drug-Lord-Rolling-Stone
+501270266,146,46.0,25.0,20160111,Romania,1,0.728049788739465,http://www.bradenton.com/news/business/article54108670.html
+501232942,662,44.4333,26.1,20160111,"Bucharest, Bucuresti, Romania",4,0.569331995742887,http://www.rri.ro/en_gb/january_11_2016-2541691
+500888634,115,-12.05,-77.05,20160110,"Lima, Lima, Peru",4,-1.72264740334398,http://www.dailyjournal.net/view/story/5e8cdced464449db81ed49e59bde9082/LT--Mexico-Drug-Lord-Sean-Penn
+501007859,142,8.0,-66.0,20160110,Venezuela,1,-2.66219786957258,http://www.dailymail.co.uk/wires/ap/article-3392983/Rolling-Stone-faces-criticism-El-Chapo-interview.html
+500884208,134,-12.05,-77.05,20160110,"Lima, Lima, Peru",4,-3.29082958628139,http://kdhnews.com/news/world/mexico-drug-lord-located-thanks-to-interview-with-sean-penn/article_fc21395d-17a9-53cf-ae03-37167ce16eea.html
+497747815,228,34.0,45.0,20151228,"Diyala, DiyaláZ, Iraq",5,-2.71344713407552,http://www.wsbt.com/news/nationworld/expelling-isis-from-ramadi-why-it-matters/37160038
+611605486,128,18.5333,73.8667,20151226,"Pune, Maharashtra, India",4,1.01422171869446,http://www.dnaindia.com/money/report-tata-housing-macquarie-form-rs-2000-cr-fund-2286274
+496371391,170,1.0,32.0,20151222,Uganda,1,-4.82209126757616,http://www.news.com.au/finance/business/breaking-news/world-bank-cancels-368m-road-in-uganda/news-story/55ffed4a421a6e2c38f5575254d698ef
+495463662,144,30.05,31.25,20151218,"Cairo, Al Qahirah, Egypt",4,-3.56364320788033,http://www.sfgate.com/news/world/article/World-Bank-approves-1-billion-loan-to-Egypt-6707459.php
+495344863,170,34.5167,69.1833,20151218,"Kabul, Kabol, Afghanistan",4,0.0961186189767244,http://www.trust.org/item/20151218080906-929r2/
+494241428,115,48.8667,2.33333,20151215,"Paris, RhôAlpes, France",4,0.99455314318122,http://www.smh.com.au/comment/a-toothless-treaty-cant-stop-climate-change-20151214-glnk0x.html
+493717569,110,48.8667,2.33333,20151213,"Paris, RhôAlpes, France",4,3.12551097405261,http://israndjer.blogspot.com/2015/12/day-15-climate-obsessed-powergrabbers.html
+492991944,110,10.0,8.0,20151210,Nigeria,1,0.563041885918855,http://www.vanguardngr.com/2015/12/abacha-loot-arms-are-not-roads-electricity-health-serap-tells-okonjo-iweala/
+492547831,120,,,20151209,,0,0.510929689173775,https://in.news.yahoo.com/odisha-big-investment-interest-little-show-084003854.html
+492133007,210,,,20151208,,0,0.709219858156032,http://www.skyscrapercity.com/showthread.php?s=00715936836e86f9864cab8962f13d77&p=129154481
+491615879,110,10.0,8.0,20151206,Nigeria,1,0.089367247880339,http://saharareporters.com/2015/12/06/world-bank-revelations-abacha-loot-11-questions-okonjo-iweala-must-answer-serap
+490739839,101,-4.03835,39.5831,20151203,"Mwache, Coast, Kenya",4,1.36382857162078,http://allafrica.com/stories/201512030410.html
+489832245,108,31.5,34.75,20151130,Israel,1,-2.93851362782096,http://www.ottawacommunitynews.com/news-story/6141713-trudeau-to-world-climate-fight-begins-at-home/
+486267071,104,-12.05,-77.05,20151119,"Lima, Lima, Peru",4,-4.57666048417861,http://www.couriermail.com.au/business/breaking-news/new-ideas-to-tackle-syria-refugee-crisis/story-fnihsevj-1227615158628?nk=5a2e554a203daabefacd1861ae6afa44-1447895812
+485264036,486,48.8667,2.33333,20151116,"Paris, RhôAlpes, France",4,-4.65779305456457,http://abcnews.go.com/International/wireStory/ideas-tackle-syria-refugee-crisis-investing-aid-35224435
+484884987,280,-2.26925,40.8991,20151114,"Lamu, Coast, Kenya",4,-0.75757575757576,http://www.skyscrapercity.com/showthread.php?p=128578118
+484262207,160,55.7522,37.6156,20151112,"Moscow, Moskva, Russia",4,-6.01613398908468,http://news.yahoo.com/russias-crisis-hit-economy-slumps-4-1-third-142520957.html
+484262208,170,55.7522,37.6156,20151112,"Moscow, Moskva, Russia",4,-6.01613398908468,http://news.yahoo.com/russias-crisis-hit-economy-slumps-4-1-third-142520957.html
+483089725,260,35.0,105.0,20151109,China,1,-5.57853471935243,http://news.yahoo.com/life-planet-stake-france-warns-climate-ministers-meet-025111971.html
+483054020,642,60.0,100.0,20151109,Russia,1,-4.81864299130011,http://money.cnn.com/2015/11/08/investing/russia-jeffrey-gundlach/
+483025458,116,-12.05,-77.05,20151108,"Lima, Lima, Peru",4,-4.1389790471227,http://www.heraldonline.com/news/business/article43682181.html
+483025457,112,48.8667,2.33333,20151108,"Paris, RhôAlpes, France",4,-4.1209248084157,http://www.heraldonline.com/news/business/article43682181.html
+482946996,215,,,20151108,,0,2.20440808436269,http://wcbe.org/post/why-bringing-glass-mosquitoes-world-bank-good-idea
+482946995,420,,,20151108,,0,2.20440042262871,http://wcbe.org/post/why-bringing-glass-mosquitoes-world-bank-good-idea
+483025460,184,48.8667,2.33333,20151108,"Paris, RhôAlpes, France",4,-4.11526867008712,http://www.heraldonline.com/news/business/article43682181.html
+483025459,110,38.899,-77.0422,20151108,"World Bank, District of Columbia, United States",3,-4.1389790471227,http://www.heraldonline.com/news/business/article43682181.html
+480814250,180,33.5783,35.5403,20151101,"Bisri, Liban-Sud, Lebanon",4,-7.27105190715733,http://www.naharnet.com/stories/en/193315-paralyzed-lebanon-government-risks-losing-millions-in-aid
+594307705,150,28.6667,77.2167,20151101,"Delhi, Delhi, India",4,-0.169894083735708,http://www.ptinews.com/news/8025592_Andhra--Telangana-top-in-ease-of-doing-biz-ranking-.html
+592747261,260,20.0,77.0,20151027,India,1,0.727750403004316,http://www.financialexpress.com/economy/ease-of-doing-business-india-ranking-2016-modi-government-nirmala-sitharaman/430580/
+592693899,304,28.6,77.2,20151027,"New Delhi, Delhi, India",4,0.72491822016671,http://www.firstpost.com/politics/ease-of-doing-business-india-jumps-just-1-notch-up-to-130-in-disappointment-for-pm-modi-3073146.html
+478849676,145,52.25,21.0,20151026,"Warsaw, (PL67), Poland",4,3.12423979205672,http://www.12newsnow.com/story/30343641/latest-polands-expected-pm-will-stay-close-to-the-people
+478840768,208,52.25,21.0,20151025,"Warsaw, (PL67), Poland",4,3.16487638014288,http://www.mercedsunstar.com/entertainment/celebrities/article41374224.html
+478288481,140,1.3667,103.8,20151023,Singapore,1,1.03073018337291,http://www.business-standard.com/article/pti-stories/prabhu-outlines-scope-of-private-investment-in-rail-sector-115102301014_1.html
+477539095,1220,51.0,9.0,20151019,Germany,1,-0.31676756082757,http://www.greatlakesadvocate.com.au/story/3433610/leaders-of-the-imf-world-bank-and-germanys-angela-merkel-call-for-price-on-carbon/
+477539094,236,51.0,9.0,20151019,Germany,1,-0.31595576619273,http://www.greatlakesadvocate.com.au/story/3433610/leaders-of-the-imf-world-bank-and-germanys-angela-merkel-call-for-price-on-carbon/
+477539093,944,51.0,9.0,20151019,Germany,1,-0.31595576619273,http://www.greatlakesadvocate.com.au/story/3433610/leaders-of-the-imf-world-bank-and-germanys-angela-merkel-call-for-price-on-carbon/
+485263064,236,35.0,38.0,20151017,Syria,1,-4.58414454416704,http://abcnews.go.com/International/wireStory/ideas-tackle-syria-refugee-crisis-investing-aid-35224435
+476866300,150,44.0407,-72.7093,20151017,"Vermont, United States",2,-0.385735681378388,http://www.nationalreview.com/article/425726/angus-deaton-nobel-prize
+485263061,1288,-12.05,-77.05,20151017,"Lima, Lima, Peru",4,-4.66459119825781,http://abcnews.go.com/International/wireStory/ideas-tackle-syria-refugee-crisis-investing-aid-35224435
+475181036,424,14.6042,120.982,20151012,"Manila, Manila, Philippines",4,-3.96839006564235,http://www.philstar.com/business/2015/10/12/1509905/bir-keeping-watch-cigarette-sellers-tax-stamp-compliance
+475154293,139,-12.05,-77.05,20151012,"Lima, Lima, Peru",4,-0.750356807019397,http://neurope.eu/article/greek-debt-relief-negotiations-state-of-play/
+474925551,151,-12.05,-77.05,20151011,"Lima, Lima, Peru",4,-2.13137618924419,http://www.ndtv.com/world-news/un-world-bank-announce-new-funds-for-mideast-refugee-crisis-1230698
+474925545,112,-12.05,-77.05,20151011,"Lima, Lima, Peru",4,-2.25274866258465,http://www.ndtv.com/world-news/un-world-bank-announce-new-funds-for-mideast-refugee-crisis-1230698
+474928320,139,48.8667,2.33333,20151011,"Paris, RhôAlpes, France",4,0.163893090083972,http://wnct.com/ap/development-banks-boost-funding-to-mitigate-climate-change/
+474760105,270,-12.05,-77.05,20151010,"Lima, Lima, Peru",4,-2.71272729661812,http://world.kbs.co.kr/english/news/news_Ec_detail.htm?No=113922
+474712856,266,48.8667,2.33333,20151010,"Paris, RhôAlpes, France",4,-0.539759436690086,http://www.japantoday.com/category/world/view/development-banks-pledge-15-bil-in-new-climate-funds-officials
+474694880,770,48.8667,2.33333,20151010,"Paris, RhôAlpes, France",4,-0.450650341468987,http://www.dailyastorian.com/development-banks-boost-funding-to-mitigate-climate-change-da-ap-webfeeds-news-nation-worldf67da3aaded941d1968e56346f229132
+474897507,105,-12.05,-77.05,20151010,"Lima, Lima, Peru",4,-3.03198542985779,"http://english.ahram.org.eg/NewsContent/2/8/152632/World/Region/UN,-World-Bank-announce-new-funds-for-Mideast-refu.aspx"
+474895759,250,-12.05,-77.05,20151010,"Lima, Lima, Peru",4,-3.04042258839387,http://www.naharnet.com/stories/en/191707
+474464606,470,16.0,106.0,20151009,"Vietnam, Republic Of",1,-2.351382882953,http://m.philstar.com/business/show/c8ccc7f47756c3425c121a0c833eaba0?t=875q4bpuen1b46461mi5c5tjd7
+474670157,210,48.8667,2.33333,20151009,"Paris, RhôAlpes, France",4,0.0631633480557885,http://newsviewsnreviews.com/2015/10/development-banks-pledge-15-bln-in-new-climate-funds-officials/
+474464607,470,16.0,106.0,20151009,"Vietnam, Republic Of",1,-2.351382882953,http://m.philstar.com/business/show/c8ccc7f47756c3425c121a0c833eaba0?t=875q4bpuen1b46461mi5c5tjd7
+474546067,124,-12.05,-77.05,20151009,"Lima, Lima, Peru",4,-0.933126808437403,http://afkinsider.com/104587/are-migrant-arrivals-in-europe-good-for-the-global-economy/
+474652289,116,-10.0,-76.0,20151009,Peru,1,-6.9244042556674,https://in.news.yahoo.com/hedge-fund-threatens-sue-peru-194327758.html
+474464605,470,16.0,106.0,20151009,"Vietnam, Republic Of",1,-2.351382882953,http://m.philstar.com/business/show/c8ccc7f47756c3425c121a0c833eaba0?t=875q4bpuen1b46461mi5c5tjd7
+474111675,224,-10.0,-76.0,20151008,Peru,1,-3.03561140485556,http://indianexpress.com/article/india/india-others/arun-jaitley-bats-for-automatic-info-exchange-to-tackle-black-money/
+474113807,220,-12.05,-77.05,20151008,"Lima, Lima, Peru",4,-4.33120634154586,http://www.tovima.gr/en/article/?aid=744188
+474006005,200,-12.05,-77.05,20151008,"Lima, Lima, Peru",4,-3.76005218591682,http://news.yahoo.com/now-moment-carbon-tax-imf-chief-233310848.html
+474006009,295,38.899,-77.0422,20151008,"World Bank, District of Columbia, United States",3,-2.73951162498834,http://www.washingtonpost.com/business/imf-chief-were-cooked-if-we-fail-on-climate-change/2015/10/07/96394dd0-6d3b-11e5-91eb-27ad15c2b723_story.html
+474111674,220,-10.0,-76.0,20151008,Peru,1,-2.87405626627135,http://indianexpress.com/article/india/india-others/arun-jaitley-bats-for-automatic-info-exchange-to-tackle-black-money/
+474006012,293,-12.05,-77.05,20151008,"Lima, Lima, Peru",4,-2.77775615647987,http://www.washingtonpost.com/business/imf-chief-were-cooked-if-we-fail-on-climate-change/2015/10/07/96394dd0-6d3b-11e5-91eb-27ad15c2b723_story.html
+474006008,148,-12.05,-77.05,20151008,"Lima, Lima, Peru",4,-2.62957275776169,http://kwqc.com/ap/imf-chief-were-cooked-if-we-fail-on-climate-change/
+473837530,314,-12.05,-77.05,20151007,"Lima, Lima, Peru",4,-3.56866156438124,http://news.yahoo.com/home-peru-world-bank-chief-unfazed-slower-growth-123833009--finance.html
+473837531,294,-11.8533,-77.0378,20151007,"Carabayllo, Lima, Peru",4,-3.6833764367081,http://news.yahoo.com/home-peru-world-bank-chief-unfazed-slower-growth-123833009--finance.html
+473508881,216,36.0,138.0,20151006,Japan,1,-5.8994431421871,http://www.brandonsun.com/business/breaking-news/imf-expects-world-economy-to-register-slowest-growth-since-2009-sees-risk-in-emerging-markets-330855171.html
+473190725,156,-29.0,24.0,20151005,South Africa,1,-0.100113772050376,http://www.dnaindia.com/money/report-fm-arun-jaitley-to-pitch-for-quota-reforms-at-imf-wb-meet-in-peru-2131882
+472272711,150,2.5,112.5,20151002,Malaysia,1,2.00655589315525,http://www.bernama.com/bernama/v8/newsindex.php?id=1175981
+472229399,126,4.36667,18.5833,20151002,"Bangui, Bangui, Central African Republic",4,-5.10282493770397,http://www.morganton.com/news/us/ap/central-african-republic-elections-delayed-by-fresh-violence/article_d56ec9f7-a226-51f5-b391-30809cb63fc5.html
+472229400,186,46.0,2.0,20151002,France,1,-5.09768200529616,http://www.morganton.com/news/us/ap/central-african-republic-elections-delayed-by-fresh-violence/article_d56ec9f7-a226-51f5-b391-30809cb63fc5.html
+471975518,154,20.0,77.0,20151001,India,1,-2.07777901486611,http://zeenews.india.com/news/india/perform-or-take-voluntary-retirement-dont-sit-on-files-nitin-gadkari-to-babus_1804732.html
+471883725,170,40.1811,44.5136,20151001,"Yerevan, Yerevan*, Armenia",4,5.04544541857729,http://www.thaipr.net/finance/651555
+470431142,140,20.0,77.0,20150926,India,1,2.40118477681117,http://www.canindia.com/2015/09/ban-modi-discuss-trust-factor-justice-in-climate-change-negotiations/
+470149481,250,20.0,77.0,20150925,India,1,2.78189660319132,http://www.business-standard.com/article/news-cm/finance-minister-stresses-on-capital-increase-and-the-need-for-voice-reforms-in-world-bank-so-as-to-reflect-emerging-world-order-in-its-governance-115092500235_1.html
+468075675,130,54.0,-2.0,20150918,United Kingdom,1,-0.271540854487028,http://www.montrealgazette.com/news/canada/damaging+labels+transgender+people+disservice/11373853/story.html
+464485434,120,33.9167,76.6667,20150907,"Kashmir, Jammu and Kashmir, India",5,-2.90430757907669,http://www.asianage.com/india/govt-should-allow-international-aid-flood-victims-omar-abdullah-263
+464072292,110,,,20150905,,0,-1.65662055047513,https://in.news.yahoo.com/green-belt-plantation-along-odisha-coastline-124615920.html
+463722122,160,34.5167,69.1833,20150904,"Kabul, Kabol, Afghanistan",4,1.78947688271876,http://news.xinhuanet.com/english/2015-09/04/c_134590066.htm
+463576767,120,15.25,-61.2833,20150903,"Petite-Savanne, Saint Patrick, Dominica",4,-6.06743863179592,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2015-09-03-CB-Dominica-Storm-Damage/id-e0470bc515c84fcfbae0ebcc74a94980
+462463966,136,41.85,-87.6501,20150831,"Chicago, Illinois, United States",3,-4.33575509793305,http://www.anti-semitism.net/tag/a-valid-cause
+462038965,120,42.1497,-74.9384,20150829,"New York, United States",2,-4.17459094627831,http://www.anti-semitism.net/tag/victim
+461157757,150,50.4333,30.5167,20150826,"Kiev, Ukraine (general), Ukraine",4,0.888206877255362,http://www.china.org.cn/world/Off_the_Wire/2015-08/26/content_36425989.htm
+458169056,110,54.0,-2.0,20150816,United Kingdom,1,-4.51782376352949,http://news.asiaone.com/news/asia/nepals-ghost-schools-hide-large-scale-corruption
+456850075,192,32.0,53.0,20150811,Iran,1,-3.59162820775437,http://www.vanguardngr.com/2015/08/breaking-news-opec-raises-2015-oil-demand-forecast/
+455852099,120,,,20150807,,0,-2.08894640081386,https://in.news.yahoo.com/disputed-sutlej-tunnel-himachal-hydro-project-scrapped-082003692.html
+455852100,120,,,20150807,,0,-2.08894640081386,https://in.news.yahoo.com/disputed-sutlej-tunnel-himachal-hydro-project-scrapped-082003692.html
+456001839,115,48.782,2.19395,20150807,"Villacoublay, France (general), France",4,-1.73132051849561,http://www.ktvl.com/template/inews_wire/wires.international/2d4e64e0-www.ktvl.com.shtml
+454900262,105,33.7,73.1667,20150804,"Islamabad, Islamabad, Pakistan",4,2.63154740644021,http://www.canindia.com/2015/08/world-bank-offers-2-billion-aid-to-pakistan/
+452889599,110,22.8956,88.4025,20150728,"Hooghly, West Bengal, India",4,1.53982084984617,http://www.ptinews.com/news/6308857_West-Bengal-invites-UK-to--ride-its-growth-story--.html
+451737333,179,-1.51667,37.2667,20150723,"Machakos, Eastern, Kenya",4,-0.076072844104415,http://www.wbur.org/npr/425376544/obama-thinks-solar-power-will-boost-kenya-kenyans-arent-so-sure
+450863329,375,20.0,77.0,20150721,India,1,2.32531283547019,http://www.dnaindia.com/money/report-kv-kamath-led-brics-bank-is-now-open-for-business-2106562
+449698445,117,18.0,79.5,20150716,"Andhra, Andhra Pradesh, India",4,2.24096721628523,http://www.business-standard.com/article/pti-stories/india-signs-250-mn-loan-pact-with-world-bank-for-andhra-proj-115071601162_1.html
+447385209,126,11.0064,124.607,20150709,"Ormoc, Ormoc, Philippines",4,-2.51513971134249,http://m.philstar.com/opinion/show/482cac2318a1a30339a4b454c0313b1e?t=pbj35hshk4g2122ni1d5bu0a36
+445177411,970,39.9289,116.388,20150701,"Beijing, Beijing, China",4,-1.51636957669146,http://www.dailymail.co.uk/wires/ap/article-3145458/World-Bank-urges-China-embrace-basic-financial-reforms.html
+445154191,103,38.899,-77.0422,20150701,"World Bank, District of Columbia, United States",3,-2.86309588645658,http://www.businesstimes.com.sg/government-economy/world-bank-warns-china-over-state-financial-control
+445242592,170,22.5697,88.3697,20150701,"Kolkata, West Bengal, India",4,-0.0697192585404093,http://www.business-standard.com/article/economy-policy/world-bank-approves-650-million-funding-for-eastern-freight-corridor-115070100437_1.html
+444923480,185,34.0,65.0,20150630,"Ghor, Ghowr, Afghanistan",5,-1.09714734733328,http://www.dailystar.com.lb/News/World/2015/Jun-30/304427-afghan-president-nominates-first-female-judge-to-supreme-court.ashx
+444730954,106,18.2359,-66.4838,20150629,Puerto Rico,1,-5.22705042835862,http://www.usatoday.com/story/money/2015/06/29/puerto-rico-debt-crisis-default/29458475/
+443111252,110,38.899,-77.0422,20150623,"World Bank, District of Columbia, United States",3,-3.85559024790419,http://one.trust.org/item/20150623081557-5129h/
+441573775,120,,,20150617,,0,3.36027161778985,http://www.visayandailystar.com/2015/June/17/businessnews1.htm
+441333654,102,4.74318,-2.09037,20150616,"Cape Three Points, Ghana (general), Ghana",4,2.88864963626727,http://www.starrfmonline.com/1.4512255
+548176401,1090,13.75,100.517,20150609,"Bangkok, Krung Thep Mahanakhon, Thailand",4,-2.38070946941981,http://www.goldcoastbulletin.com.au/news/breaking-news/thailand-beats-motherchild-hiv-spread/news-story/b7495f167f20cbca90e91d8769ec622a?nk=16d93bf1236aa6eb0ed95df45606213b-1465343296
+439328687,2582,49.0,32.0,20150608,Ukraine,1,-0.890531838555951,http://www.wsbtv.com/news/ap/business/climate-change-terror-on-agenda-for-2nd-day-of-g-7/nmYBF/
+548145582,480,13.75,100.517,20150608,"Bangkok, Krung Thep Mahanakhon, Thailand",4,-2.44546674447723,http://www.bigstory.ap.org/article/4ffe6ec5193343e0a31701b81461d886/thailand-belarus-armenia-eliminate-mother-child-hiv-spread
+438383076,260,11.0,78.0,20150604,"Tamil Nadu, Tamil Nadu, India",5,3.03160651059532,http://www.4-traders.com/news/Ministry-of-Finance-of-Republic-of-India--India-Signs-Legal-Agreement-with-the-World-Bank-for-IBRD--20487545/
+437719719,171,15.0,48.0,20150601,Yemen,1,-4.76559703630668,http://www.wchstv.com/template/inews_wire/wires.international/2a4268be-www.wchstv.com.shtml
+437619069,591,37.9833,23.7333,20150601,"Athens, AttikíR, Greece",4,-1.85304046979091,http://www.washingtonpost.com/world/europe/greek-ruling-party-forces-withdrawal-of-imf-rep/2015/06/01/b35573c4-0857-11e5-951e-8e15090d64ae_story.html
+437658005,441,52.5167,13.4,20150601,"Berlin, Berlin, Germany",4,-3.77792262615552,http://www.bostonherald.com/news_opinion/international/europe/2015/06/greek_government_faces_dissent_as_debt_deadline_nears
+437089798,121,22.0253,88.0583,20150529,"Haldia, West Bengal, India",4,1.72420890831611,http://www.newkerala.com/news/2015/fullnews-66015.html
+436410457,110,20.0,77.0,20150527,India,1,1.96749107684181,http://www.newkerala.com/news/2015/fullnews-64483.html
+436410458,110,20.0,77.0,20150527,India,1,1.96749107684181,http://www.newkerala.com/news/2015/fullnews-64483.html
+435221589,195,31.4167,34.3333,20150522,"Gaza, Israel (general), Israel",4,-6.24612685339289,http://www.freemalaysiatoday.com/category/business/2015/05/22/gaza-facing-dangerous-fiscal-crisis-world-bank/
+435221587,136,31.4167,34.3333,20150522,"Gaza, Israel (general), Israel",4,-6.23861446709221,http://www.freemalaysiatoday.com/category/business/2015/05/22/gaza-facing-dangerous-fiscal-crisis-world-bank/
+435223877,180,30.05,31.25,20150522,"Cairo, Al Qahirah, Egypt",4,-6.13420505861346,http://www.timesofisrael.com/world-bank-gaza-facing-dangerous-fiscal-crisis/
+435253703,155,31.4167,34.3333,20150522,"Gaza, Israel (general), Israel",4,-12.9789152581487,http://www.whio.com/news/ap/international/world-bank-gaza-economy-on-verge-of-collapse/nmL53/
+435253700,428,31.4167,34.3333,20150522,"Gaza, Israel (general), Israel",4,-13.3565969872435,http://www.dailymail.co.uk/wires/ap/article-3092257/World-Bank-Gaza-economy-verge-collapse.html
+434183920,228,38.899,-77.0422,20150518,"World Bank, District of Columbia, United States",3,-7.54689410607243,http://www.sfgate.com/news/crime/article/Settlement-would-change-US-Park-Police-mass-6270581.php
+434110262,178,35.0,105.0,20150518,China,1,-0.307457206127742,http://www.newkerala.com/news/2015/fullnews-60259.html
+432583392,144,7.0,21.0,20150512,Central African Republic,1,-0.601538137775826,http://www.dailymail.co.uk/wires/reuters/article-3078044/Weather-centers-arm-Central-Africas-farmers-against-climate-shifts--TRFN.html
+432293430,130,-1.95361,30.0606,20150511,"Kigali, (RW09), Rwanda",4,0.922710297435763,http://www.mittelstandcafe.de/world-bank-group-managing-director-and-chief-operating-officer-sri-mulyani-indrawati-to-visit-rwanda-1210557.html
+431117759,260,-17.8178,31.0447,20150506,"Harare, Mashonaland East, Zimbabwe",4,0.406692399423897,http://finance.yahoo.com/news/zimbabwe-asks-west-cash-first-124343190.html
+431117760,260,-17.8178,31.0447,20150506,"Harare, Mashonaland East, Zimbabwe",4,0.406692399423897,http://finance.yahoo.com/news/zimbabwe-asks-west-cash-first-124343190.html
+431211421,175,16.8053,96.1561,20150506,"Yangon, Yangon, Myanmar",4,-0.37302740883065,http://www.brandonsun.com/national/breaking-news/canada-funds-myanmar-religious-tolerance-projects-as-part-of-re-engagement--302745671.html
+533107913,509,38.0,-97.0,20150423,United States,1,-3.93028999650945,http://abcnews.go.com/International/wireStory/ap-exclusive-ukraine-children-eat-food-tainted-chernobyl-38591433
+533107914,160,50.9386,29.8943,20150423,"Ivankiv, Kyyivs'ka Oblast', Ukraine",4,-3.88262425641345,http://abcnews.go.com/International/wireStory/ap-exclusive-ukraine-children-eat-food-tainted-chernobyl-38591433
+426563744,170,39.9289,116.388,20150419,"Beijing, Beijing, China",4,-1.92792065538344,http://business.inquirer.net/190445/how-china-is-upsetting-the-old-global-economic-order
+426369049,125,20.0,77.0,20150418,India,1,3.18325669916935,http://www.asianage.com/business/world-bank-chief-praises-jan-dhan-yojna-557
+426465100,138,27.0529,79.3583,20150418,"Manipur, Uttar Pradesh, India",4,-3.30100353905169,https://sg.news.yahoo.com/india-closing-gender-gap-115612844.html
+426059141,316,38.899,-77.0422,20150417,"World Bank, District of Columbia, United States",3,-3.06451549262133,http://www.channelnewsasia.com/news/business/greek-euro-exit-fears/1789664.html
+425852451,198,20.0,77.0,20150416,India,1,0.78889883654929,http://www.business-standard.com/article/pti-stories/indo-us-ties-stronger-than-ever-jaitley-115041600387_1.html
+425876898,110,20.0,77.0,20150416,India,1,-0.79384435996691,http://www.business-standard.com/article/news-ians/india-needs-to-target-double-digit-growth-jaitley-115041600569_1.html
+424951268,106,38.8951,-77.0364,20150413,"Washington, District of Columbia, United States",3,-1.37184544237951,https://en-maktoob.news.yahoo.com/chinas-influence-over-aiib-concern-ahead-founders-meeting-093456692--sector.html
+424550095,110,3.08333,101.667,20150411,"Petaling, Malaysia (general), Malaysia",4,2.45949576469795,http://www.nst.com.my/node/80202
+424048022,110,,,20150409,,0,0.497827468619679,https://in.news.yahoo.com/punjab-water-connection-toilet-every-rural-house-131003474.html
+424030171,130,17.3753,78.4744,20150409,"Hyderabad, Andhra Pradesh, India",4,-1.35423313852357,https://en-maktoob.news.yahoo.com/rise-fall-ramalinga-raju-120010084.html
+421672685,270,20.0,77.0,20150331,India,1,1.52893860801598,http://www.business-standard.com/article/news-ians/world-bank-signs-500-mn-loan-agreement-with-india-115033101022_1.html
+421534304,150,40.1811,44.5136,20150331,"Yerevan, Yerevan*, Armenia",4,2.53840371980307,http://www.thaipr.net/finance/610475
+421277204,272,1.3667,103.8,20150330,Singapore,1,-1.09722814274184,https://en-maktoob.news.yahoo.com/lees-passing-mahathir-last-se-asias-old-guards-071225385.html
+420956791,330,41.3275,19.8189,20150328,"Tirana, Tirane, Albania",4,-0.871230589904269,https://ph.news.yahoo.com/albania-gets-266-million-euro-144948997.html
+420393182,190,51.0,9.0,20150326,Germany,1,-3.21455446223411,https://au.news.yahoo.com/thewest/business/world/a/26814624/new-pandemic-insurance-to-prevent-crises-through-early-payouts/
+418950846,306,31.0,64.0,20150321,,0,-0.869305397592644,http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-03-21-AS--Afghanistan-US/id-eecca55cb2ce4998b98fb61673d83971
+418950847,103,38.899,-77.0422,20150321,"World Bank, District of Columbia, United States",3,-1.015164905224,https://uk.news.yahoo.com/afghan-president-embark-landmark-washington-visit-071854128.html
+418154340,119,19.0,-72.4167,20150318,Haiti,1,-1.78651649225805,http://www.capradio.org/news/npr/story?storyid=392860281
+418154341,157,10.0,8.0,20150318,Nigeria,1,-1.78651649225805,http://www.capradio.org/news/npr/story?storyid=392860281
+417381272,130,-6.8,39.2833,20150316,"Dar Es Salaam, Dar es Salaam, Tanzania",4,-1.13147582227851,http://www.engineeringnews.co.za/article/tanzania-dreams-big-with-port-project-at-former-slave-harbour-2015-03-16
+417145905,200,-16.0,167.0,20150315,Vanuatu,1,-8.47599449708449,http://www.dailymail.co.uk/wires/aap/article-2995348/World-Bank-push-funds-Vanuatu.html
+417190049,130,-6.8,39.2833,20150315,"Dar Es Salaam, Dar es Salaam, Tanzania",4,-1.14412774357978,http://www.reuters.com/article/2015/03/15/tanzania-ports-bagamoyo-idUSL1N0WF0AS20150315
+416970005,342,38.899,-77.0422,20150314,"World Bank, District of Columbia, United States",3,-1.73803014135517,http://www.bignewsnetwork.com/index.php/sid/231054063
+416751981,120,27.0529,79.3583,20150313,"Manipur, Uttar Pradesh, India",4,1.34367242265999,http://twocircles.net/2015mar13/1426242848.html
+416486234,288,15.3547,44.2067,20150312,"Sanaa, San‘a', Yemen",4,-6.92091584440955,https://in.news.yahoo.com/yemen-shiite-rebels-disperse-demonstration-killing-1-131104855.html
+416486233,229,15.3547,44.2067,20150312,"Sanaa, San‘a', Yemen",4,-7.3508032397288,https://in.news.yahoo.com/yemen-shiite-rebels-disperse-demonstration-killing-1-131104855.html
+416048013,258,23.65,90.0,20150311,"Manipur, Bangladesh (general), Bangladesh",4,2.29098809316284,https://en-maktoob.news.yahoo.com/world-bank-aid-power-projects-tripura-062805904.html
+416193113,248,62.0,15.0,20150311,Sweden,1,-1.58011909602567,http://hosted2.ap.org/vabrm/nationalworld/Article_2015-03-11-EU--Ukraine/id-e0e9f6581c384148a5a14bdf963fe61a
+412458006,390,23.7231,90.4086,20150226,"Dhaka, Dhaka, Bangladesh",4,3.60737358773762,http://www.businessnews-bd.com/index.php?option=com_content&view=article&id=13660:world-bank-says-bangladesh-key-to-reducing-global-poverty&catid=64:flash-photo&Itemid=0
+412615962,140,15.3547,44.2067,20150226,"Sanaa, San‘a', Yemen",4,-3.3312679111143,http://finance.yahoo.com/news/father-french-woman-abducted-yemen-appeals-kidnappers-164721380.html
+411060054,102,52.7229,37.0079,20150221,"Korsunskaya, Orlovskaya Oblast', Russia",4,-5.29478491760374,http://www.reuters.com/article/2015/02/21/russia-crisis-moodys-siluanov-idUSL5N0VU4QL20150221
+327251876,104,52.2,0.116667,20141209,"Cambridge, Cambridgeshire, United Kingdom",4,4.35303178845533,http://www.newyorkstatesman.com/index.php/sid/228349953
+321231029,1234,8.5,-11.5,20141031,Sierra Leone,1,2.93728083012868,http://www.redwoodtimes.com/news/ci_26836459/nurse-ebola-standoff-doesnt-budge
+321060190,192,8.5,-11.5,20141030,Sierra Leone,1,3.18225001459133,http://www.wdam.com/story/27160372/maine-in-standoff-with-nurse-over-ebola-safeguards
+321060187,692,44.6074,-69.3977,20141030,"Maine, United States",2,2.85524413717105,http://foxreno.com/news/features/top-stories/stories/-maine-nurse-defies-ebola-quarantine-bike-ride-3787.shtml
+321060191,412,8.5,-11.5,20141030,Sierra Leone,1,2.99131634794315,http://www.wncn.com/story/27160373/compromise-efforts-stall-for-quarantined-nurse
+320879770,150,39.9289,116.388,20141029,"Beijing, Beijing, China",4,2.27501427516853,http://www.dailytimes.com.pk/business/30-Oct-2014/china-can-cut-economic-growth-target-to-seven-percent-in-2015
+320879776,133,39.9289,116.388,20141029,"Beijing, Beijing, China",4,1.98935052511764,http://www.omantribune.com/index.php?page=news&id=177594&heading=Business
+320699317,182,6.5,-9.5,20141028,Liberia,1,3.48751952551439,http://www.mb.com.ph/ebola-nurse-on-defensive-gets-call-from-obama/
+320699266,182,6.5,-9.5,20141028,Liberia,1,3.48751952551439,http://www.mb.com.ph/ebola-nurse-on-defensive-gets-call-from-obama/
+320699267,128,38.899,-77.0422,20141028,"World Bank, District of Columbia, United States",3,3.49026254315297,http://www.mb.com.ph/ebola-nurse-on-defensive-gets-call-from-obama/
+320699302,132,44.6074,-69.3977,20141028,"Maine, United States",2,3.48481011863831,http://www.mb.com.ph/ebola-nurse-on-defensive-gets-call-from-obama/
+320699296,134,8.0,38.0,20141028,Ethiopia,1,3.46457444381794,http://hosted2.ap.org/APDEFAULT/bbd825583c8542898e6fa7d440b9febc/Article_2014-10-28-US--Ebola-US/id-b10d1b972e08458c9a252ac1b2ce85a0
+320699314,128,38.899,-77.0422,20141028,"World Bank, District of Columbia, United States",3,3.49026254315297,http://www.mb.com.ph/ebola-nurse-on-defensive-gets-call-from-obama/
+479276518,1163,8.0,30.0,20141027,South Sudan,1,0.253816857507351,http://www.sfgate.com/business/article/Mega-beer-merger-bets-on-the-rise-of-African-6592380.php
+320280247,384,39.9289,116.388,20141025,"Beijing, Beijing, China",4,1.72203304961763,http://www.newyorkstatesman.com/index.php/sid/227004963
+320143782,126,38.899,-77.0422,20141024,"World Bank, District of Columbia, United States",3,2.9383355302646,http://www.dailyjournal.net/view/story/dd0743e609cb413bb1ab09e528b121d9/AS--China-New-Asian-Bank/
+319023560,198,38.899,-77.0422,20141017,"World Bank, District of Columbia, United States",3,1.6683863960845,http://www.9and10news.com/story/26817080/who-faulted-for-ebola-failures-as-obama-taps-czar
+319023561,198,38.899,-77.0422,20141017,"World Bank, District of Columbia, United States",3,1.6683863960845,http://www.9and10news.com/story/26817080/who-faulted-for-ebola-failures-as-obama-taps-czar
+318025996,106,38.899,-77.0422,20141011,"World Bank, District of Columbia, United States",3,3.33232233039272,http://www.batonrougepost.com/index.php/sid/226553467
+318026048,112,38.8951,-77.0364,20141011,"Washington, District of Columbia, United States",3,1.78759911841047,http://malaysiandigest.com/world/522637-ebola-toll-passes-4-000-as-fears-grow-worldwide.html
+318026061,432,8.56289,-63.9905,20141011,"Cerro Negro, Anzoágui, Venezuela",4,1.85323597651393,http://www.vietnamtribune.com/index.php/sid/226553481
+318025995,106,38.899,-77.0422,20141011,"World Bank, District of Columbia, United States",3,3.33232233039272,http://www.batonrougepost.com/index.php/sid/226553467
+318026062,216,8.56289,-63.9905,20141011,"Cerro Negro, Anzoágui, Venezuela",4,1.85323597651393,http://www.vietnamtribune.com/index.php/sid/226553481
+317888038,158,38.8951,-77.0364,20141010,"Washington, District of Columbia, United States",3,1.67292594174312,http://zeenews.india.com/news/world/ebola-toll-passes-4000-as-fears-grow-worldwide_1482882.html
+317888129,256,38.8951,-77.0364,20141010,"Washington, District of Columbia, United States",3,1.591560153049,http://zeenews.india.com/news/world/ebola-toll-passes-4000-as-fears-grow-worldwide_1482882.html
+317708109,144,8.5,-11.5,20141009,Sierra Leone,1,2.06551544075222,http://www.tuscaloosanews.com/article/20141009/APW/310099940
+317708187,115,38.8951,-77.0364,20141009,"Washington, District of Columbia, United States",3,1.7360929152452,http://www.bbc.co.uk/news/business-your-money-29563673
+317708172,110,38.899,-77.0422,20141009,"World Bank, District of Columbia, United States",3,1.53105464133421,http://newsdaily.com/2014/10/fears-grow-in-united-states-over-ebolas-spread-outside-west-africa/
+315836388,110,21.5,-80.0,20140926,Cuba,1,1.80458488954229,http://wbco.com/news/030030-obama-world-must-do-more-to-combat-ebola/
+315662606,170,21.5,-80.0,20140925,Cuba,1,1.78760767736924,http://uk.reuters.com/article/2014/09/26/us-health-ebola-idUKKCN0HJ1ZP20140926?feedType=RSS&feedName=healthNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FUKHealthNews+%28News+%2F+UK+%2F+Health+News%29
+315478057,120,55.6667,12.5833,20140924,"Copenhagen, Køavn*, Denmark",4,3.3414587993654,http://in.reuters.com/article/2014/09/24/un-goals-statistics-idINKCN0HJ15C20140924
+314993932,126,8.33333,-13.0,20140921,"Western Area, Western Area, Sierra Leone",5,3.12569589287076,http://www.haveeru.com.mv/world/56746
+314892643,200,8.33333,-13.0,20140920,"Western Area, Western Area, Sierra Leone",5,3.40341801931189,http://www.menafn.com/1093957586/Sierra-Leone-faces-criticism-over-Ebola-shutdown
+316889184,120,35.7833,10.8333,20140904,"Monastir, Al Munastir, Tunisia",4,2.32010389379896,http://www.omantribune.com/index.php?page=news&&id=176001&heading=Middle%20East
+310183467,140,33.7,73.1667,20140819,"Islamabad, Islamabad, Pakistan",4,1.71435747013499,http://www.siasat.com/english/news/imran-khan-march-towards-islamabad%E2%80%99s-red-zone
+308576057,144,11.0,-10.0,20140807,Guinea,1,2.49648197295224,http://www.fox17.com/news/features/top-stories/stories/scale-ebola-crisis-unprecedented-experts-say-22759.shtml
+308413249,108,11.0,-10.0,20140806,Guinea,1,0.858898193384662,http://www.chinapost.com.tw/commentary/afp/2014/08/07/414256/Ebola-threatens.htm
+308252990,115,38.899,-77.0422,20140805,"World Bank, District of Columbia, United States",3,1.50883201648133,http://www.thedailystar.net/ebola-crisis-wb-announces-200m-emergency-fund-35868
+308098336,421,38.899,-77.0422,20140804,"World Bank, District of Columbia, United States",3,2.77832509116466,http://www.newsmax.com/GlobalTalk/US-Africa-Summit/2014/08/04/id/586647/
+308098339,105,38.899,-77.0422,20140804,"World Bank, District of Columbia, United States",3,1.82613538720722,http://af.reuters.com/article/liberiaNews/idAFL2N0QA17E20140804
+308098319,146,38.899,-77.0422,20140804,"World Bank, District of Columbia, United States",3,2.19285682764772,http://www.newsmax.com/GlobalTalk/US-Africa-Summit/2014/08/04/id/586647/
+307974779,197,38.899,-77.0422,20140803,"World Bank, District of Columbia, United States",3,2.88223819530996,http://www.floridastatesman.com/index.php/sid/224398859/scat/b8de8e630faf3631/ht/Washington-summit-on-Africa-sees-shift-in-focus-from-aid-to-trade
+301849874,116,47.0,8.0,20140619,Switzerland,1,2.87519639901317,http://www.nujournal.com/page/content.detail/id/533102/Nigeria-gets-back--227-million-looted-by-dictator.html?isap=1&nav=5033
+301849854,174,47.0,8.0,20140619,Switzerland,1,2.87519639901317,http://www.nujournal.com/page/content.detail/id/533102/Nigeria-gets-back--227-million-looted-by-dictator.html?isap=1&nav=5033
+292921562,106,38.8951,-77.0364,20140410,"Washington, District of Columbia, United States",3,4.99516867797574,http://www.theglobeandmail.com/report-on-business/economy/africas-growth-spurt-challenged-by-twin-deficits/article17925227/?cmpid=rss1
+292762832,120,32.9866,-83.6487,20140409,"Georgia, United States",2,2.42851155898948,http://hpr2.org/post/turmoil-ukraine-clouds-regions-economic-outlook
+291922237,110,7.0,81.0,20140402,Sri Lanka,1,0.62445229652357,http://profit.ndtv.com/news/economy/article-south-asia-needs-2-5-trillion-infrastructure-investment-world-bank-384522
+291035058,160,60.0,100.0,20140326,Russia,1,1.98517347267551,http://www.theglobeandmail.com/report-on-business/top-business-stories/blackberry-warns-of-legal-action-to-prevent-internal-external-product-leaks/article17680316/?cmpid=rss1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheGlobeAndMail-Front
+291035049,190,55.7522,37.6156,20140326,"Moscow, Moskva, Russia",4,1.79900638955476,http://siouxcityjournal.com/news/world/europe/world-bank-warns-of-risks-for-russia-s-economy/article_cbbe7088-68e8-5e7c-842f-9dacddb0d14a.html
+290878634,110,-1.0,15.0,20140325,Congo,1,3.17323660006205,http://www.federalnewsradio.com/618/3587429/World-Bank-funds-to-help-build-huge-Congo-dam
+289676905,310,14.0,-14.0,20140316,Senegal,1,6.25,http://www.menafn.com/1093788218/World-Bank-to-support-Senegal-with-USD900m?src=RSS/RK=0/RS=Vkd8THLxBvJhMLM3IeWROMrz_KM-
+289676893,420,9.5,2.25,20140316,Benin,1,0.980392156862749,http://www.menafn.com/1093788204/World-Bank-to-provide-Benin-with-USD85m-fund?src=RSS/RK=0/RS=fR1tPd.qlw0NATqR8u4PHmEOUV0-
+289583606,110,-34.5875,-58.6725,20140315,"Buenos Aires, Distrito Federal, Argentina",4,2.23410820231401,http://www.menafn.com/1093787736/Pope-Francis-inspires-Argentine-shanty-builders?src=RSS/RK=0/RS=fIap3IrbuYp0G_9Uvk7Mw4nB0K4-
+289372066,160,29.3375,47.6581,20140313,Kuwait,1,2.90456431535269,http://www.menafn.com/1093785549/Kuwait--World-Bank-discusses-challenges-of-education-sector-in-Arab-states?src=RSS/RK=0/RS=Hx8yD0IVEYLqaJgH69e8Gew8ITo-
+288924917,140,-17.8178,31.0447,20140310,"Harare, Mashonaland East, Zimbabwe",4,1.19009063859678,http://www.thenewage.co.za/120639-1024-53-Zimbabwe_to_sign_400_million_deal_for_Harare_roads_upgradepaper
+288136946,237,27.0,30.0,20140304,Egypt,1,2.77684313491253,http://www.business-standard.com/article/news-ians/ifc-explores-energy-infrastructure-projects-in-egyp-114030400194_1.html
+287708521,168,1.0,32.0,20140228,Uganda,1,3.81146878780152,http://www.floridatoday.com/usatoday/article/5898721/RK=0/RS=HAtmdSktmY6J1B0hxu6gSjpADtU-
+287708525,208,1.0,32.0,20140228,Uganda,1,3.80887105832786,http://www.floridatoday.com/usatoday/article/5898721/RK=0/RS=HAtmdSktmY6J1B0hxu6gSjpADtU-
+287708523,208,1.0,32.0,20140228,Uganda,1,3.80887105832786,http://www.floridatoday.com/usatoday/article/5898721/RK=0/RS=HAtmdSktmY6J1B0hxu6gSjpADtU-
+283115321,120,10.0,49.0,20140115,Somalia,1,1.69071139938177,http://krcc.org/post/piracy-high-seas-lowest-level-six-years-report-says
+282964446,120,12.0828,99.8543,20140114,"Kui Buri, Prachuap Khiri Khan, Thailand",4,3.26387090955573,http://www.nationmultimedia.com/breakingnews/True-Visions-brings-back-Panda-Channel-30224335.html
+282716263,150,12.0828,99.8543,20140112,"Kui Buri, Prachuap Khiri Khan, Thailand",4,3.31298117718175,http://www.nationmultimedia.com/breakingnews/Sutheps-Bangkok-Shutdown-march-starts-30224128.html
+279923899,284,50.4333,30.5167,20131217,"Kiev, Ukraine (general), Ukraine",4,2.33531809799503,http://finance.yahoo.com/news/ukraine-leader-seeks-cash-kremlin-220831988.html
+279775326,296,50.4333,30.5167,20131216,"Kiev, Ukraine (general), Ukraine",4,2.26054385135296,http://in.reuters.com/article/2013/12/16/ukraine-idINDEE9BF0FT20131216?feedType=RSS&feedName=worldNews
+277041945,160,38.0,-97.0,20131123,United States,1,4.60421135586992,http://www.firstpost.com/world/u-s-military-scales-down-aid-efforts-in-philippines-1245819.html
+274357622,110,12.65,-8.0,20131104,"Bamako, Bamako, Mali",4,0.557529826842592,http://www.kentucky.com/2013/11/04/2911743/un-eu-pledge-825-billion-to-africas.html
+273297975,150,38.0,-97.0,20131027,United States,1,1.69573680823672,http://www.businessweek.com/ap/2013-10-27/indebted-grenada-to-lower-income-tax-threshold
+273297965,150,12.1167,-61.6667,20131027,Grenada,1,1.69573680823672,http://www.businessweek.com/ap/2013-10-27/indebted-grenada-to-lower-income-tax-threshold
+273983846,200,32.9866,-83.6487,20131025,"Georgia, United States",2,2.56797657921405,http://www.unmultimedia.org/radio/english/?p=212529
+272596384,120,42.6833,23.3167,20131022,"Sofia, Sofiya-Grad, Bulgaria",4,1.55686666080565,http://www.focus-fen.net/index.php?id=n317319
+271445714,118,38.899,-77.0422,20131013,"World Bank, District of Columbia, United States",3,2.59961265606856,http://www.lankabusinessonline.com/news/us-lawmakers-grapple-with-budget-impasse-under-default-cloud/529009726
+271445769,118,38.899,-77.0422,20131013,"World Bank, District of Columbia, United States",3,2.12946801468623,http://english.eastday.com/e/131014/u1a7711118.html
+269170265,110,15.0,100.0,20130925,Thailand,1,2.46073595152641,http://www.philstar.com/world/2013/09/26/1238368/world-bank-fund-myanmar-power-plant-upgrade
+268443905,110,42.6833,23.3167,20130920,"Sofia, Sofiya-Grad, Bulgaria",4,1.18632287151627,http://nz.news.yahoo.com/a/-/world/19030286/world-bank-warns-bulgaria-over-ageing-population/&c=t9Wa7PuX-xU2H1hiSLizdhqdLvdk1yNCyU2P-_fbHCc&mkt=en-us/
+268225107,110,39.9289,116.388,20130918,"Beijing, Beijing, China",4,1.945048570243,http://www.trust.org/item/20130918100601-0e0h0/
+267196032,102,20.0,77.0,20130911,India,1,0.692007569522413,http://in.reuters.com/article/2013/09/11/india-economy-debt-idINDEE98A09W20130911
+265804729,130,28.6,77.2,20130902,"New Delhi, Delhi, India",4,2.00038125892855,http://www.omantribune.com/index.php?page=news&id=150969&heading=Business
+291270248,410,15.0,100.0,20130328,Thailand,1,3.75640871431919,http://www.saudigazette.com.sa/index.cfm?method=home.regcon&contentid=20140329200155
+250383525,210,31.5,34.75,20130227,Israel,1,2.86226805424037,unspecified
+250383521,280,31.5,34.75,20130227,Israel,1,2.86226805424037,unspecified
+249528478,244,-26.2,28.0833,20130218,"Johannesburg, Gauteng, South Africa",4,5.30138771211163,unspecified
+249242625,154,39.0194,125.755,20130214,"Pyongyang, P'yongyang-si, North Korea",4,2.98089308272857,unspecified
+229568307,210,36.0,138.0,20130130,Japan,1,2.21910479495295,unspecified
+226090705,168,38.0,-97.0,20121217,United States,1,0.780813867638762,unspecified
+226090687,280,44.4333,26.1,20121217,"Bucharest, Bucuresti, Romania",4,2.18404510294677,unspecified
+226090682,170,44.4333,26.1,20121217,"Bucharest, Bucuresti, Romania",4,2.20338276972169,unspecified
+225464284,197,29.7633,-95.3633,20121210,"Houston, Texas, United States",3,3.272627526769,unspecified
+224499929,106,35.0,105.0,20121129,China,1,0.908144355748061,unspecified
+222436779,230,19.0,-72.4167,20121107,Haiti,1,2.91502786830928,unspecified
+221495411,120,39.0,22.0,20121027,Greece,1,6.74152440112388,unspecified
+220273048,130,35.685,139.751,20121013,"Tokyo, Tokyo, Japan",4,2.08629952051013,unspecified
+220192514,105,35.685,139.751,20121012,"Tokyo, Tokyo, Japan",4,6.87598793195582,unspecified
+220089593,128,39.9289,116.388,20121011,"Beijing, Beijing, China",4,5.37888429787933,unspecified
+220089667,110,35.685,139.751,20121011,"Tokyo, Tokyo, Japan",4,5.47225692882188,unspecified
+219987512,152,35.685,139.751,20121010,"Tokyo, Tokyo, Japan",4,1.70421366888803,unspecified
+219887612,187,35.685,139.751,20121009,"Tokyo, Tokyo, Japan",4,2.25463636644799,unspecified
+219887625,146,35.685,139.751,20121009,"Tokyo, Tokyo, Japan",4,2.38211411795178,unspecified
+219792501,200,35.0,105.0,20121008,China,1,7.93477529360662,unspecified
+217743752,252,30.05,31.25,20120915,"Cairo, Al Qahirah, Egypt",4,8.02389107764872,unspecified
+213176455,590,30.05,31.25,20120814,"Cairo, Al Qahirah, Egypt",4,6.97558358028502,unspecified
+213176452,560,30.05,31.25,20120814,"Cairo, Al Qahirah, Egypt",4,6.94125639978113,unspecified
+212990194,128,32.965,71.557,20120812,"Kalabagh, Punjab, Pakistan",4,5.97436437672239,unspecified
+212099444,250,16.8053,96.1561,20120801,"Yangon, Yangon, Myanmar",4,6.52635801598369,unspecified
+212099448,172,16.8053,96.1561,20120801,"Yangon, Yangon, Myanmar",4,6.57795537775512,unspecified
+212099434,250,16.8053,96.1561,20120801,"Yangon, Yangon, Myanmar",4,6.52635801598369,unspecified
+212099433,120,0.0,0.0,20120801,,,6.73985355011569,unspecified
+212099447,120,0.0,0.0,20120801,,,6.73985355011569,unspecified
+212099443,120,0.0,0.0,20120801,,,6.73985355011569,unspecified
+208065648,260,13.0,122.0,20120617,Philippines,1,8.17184061759423,unspecified
+207797862,157,38.8951,-77.0364,20120614,"Washington, District of Columbia, United States",3,6.59851127011689,unspecified
+207797855,157,38.8951,-77.0364,20120614,"Washington, District of Columbia, United States",3,6.59851127011689,unspecified
+206177893,473,34.0,45.0,20120527,"Diyala, DiyaláZ, Iraq",5,5.7550787132039,unspecified
+206177890,360,33.3386,44.3939,20120527,"Baghdad, Baghdad, Iraq",4,5.85678369374161,unspecified
+204446869,118,34.5167,69.1833,20120509,"Kabul, Kabol, Afghanistan",4,6.58275135427978,unspecified
+204221271,171,44.4333,26.1,20120507,"Bucharest, Bucuresti, Romania",4,5.57369419939074,unspecified
+204132613,560,46.0,25.0,20120506,Romania,1,5.63737339821168,unspecified
+204060403,672,46.0,25.0,20120505,Romania,1,5.53326660707606,unspecified
+203971259,722,46.0,25.0,20120504,Romania,1,5.62970824317124,unspecified
+203745229,208,11.55,104.917,20120502,"Phnom Penh, (CB11), Cambodia",4,4.66647489721745,unspecified
+190808683,104,38.899,-77.0422,20120416,"World Bank, District of Columbia, United States",3,6.63957821194844,unspecified
+190642708,117,11.85,-15.5833,20120414,"Bissau, Bissau, Guinea-Bissau",4,4.33648139090548,unspecified
+190551199,124,38.0,-97.0,20120413,United States,1,3.93197288803255,unspecified
+91882672,189,38.0,-97.0,20120326,United States,1,4.27606149722356,unspecified
+91882702,172,38.0,-97.0,20120326,United States,1,4.54258782971072,unspecified
+91882651,108,38.0,-97.0,20120326,United States,1,4.27606149722356,unspecified
+91882661,108,38.0,-97.0,20120326,United States,1,4.27606149722356,unspecified
+91780614,119,38.0,-97.0,20120325,United States,1,4.00859444574824,unspecified
+91780626,105,38.0,-97.0,20120325,United States,1,5.54092114082435,unspecified
+91780607,116,38.0,-97.0,20120325,United States,1,4.0216106146601,unspecified
+91780622,211,38.0,-97.0,20120325,United States,1,4.00931214049762,unspecified
+91704856,143,38.0,-97.0,20120324,United States,1,4.32464462908593,unspecified
+91608339,158,38.899,-77.0422,20120323,"World Bank, District of Columbia, United States",3,5.94906914676981,unspecified
+91608464,121,38.8951,-77.0364,20120323,"Washington, District of Columbia, United States",3,7.3636649815902,unspecified
+91608349,132,38.899,-77.0422,20120323,"World Bank, District of Columbia, United States",3,8.22401201910654,unspecified
+89610338,276,24.1456,117.649,20120305,"Wenzhou, Fujian, China",4,5.28054946214542,unspecified
+88860419,139,35.0,105.0,20120227,China,1,12.2857876252312,unspecified
+88685996,165,38.899,-77.0422,20120225,"World Bank, District of Columbia, United States",3,5.79056510494306,unspecified
+87992762,799,30.05,31.25,20120219,"Cairo, Al Qahirah, Egypt",4,2.4859063485635,unspecified
+87817297,135,38.0,-97.0,20120217,United States,1,4.40198531306609,unspecified
+87817320,192,38.899,-77.0422,20120217,"World Bank, District of Columbia, United States",3,4.46700578839018,unspecified
+87817322,135,38.0,-97.0,20120217,United States,1,4.40198531306609,unspecified
+87817277,190,38.0,-97.0,20120217,United States,1,5.76529117908412,unspecified
+87817271,433,38.899,-77.0422,20120217,"World Bank, District of Columbia, United States",3,4.47440585094982,unspecified
+87817295,288,38.899,-77.0422,20120217,"World Bank, District of Columbia, United States",3,4.46700578839018,unspecified
+87561336,108,15.3547,44.2067,20120215,"Sanaa, San‘a', Yemen",4,5.11602339862664,unspecified
+87561210,178,38.899,-77.0422,20120215,"World Bank, District of Columbia, United States",3,6.72515831041689,unspecified
+87561223,225,38.899,-77.0422,20120215,"World Bank, District of Columbia, United States",3,6.80116080571148,unspecified
+86540619,163,46.0,25.0,20120206,Romania,1,5.57446408117625,unspecified
+86540616,377,44.4333,26.1,20120206,"Bucharest, Bucuresti, Romania",4,5.68612536587286,unspecified
+85305557,153,15.3547,44.2067,20120125,"Sanaa, San‘a', Yemen",4,3.54961553353528,unspecified
+85305578,1054,44.4333,26.1,20120125,"Bucharest, Bucuresti, Romania",4,3.8649865338833,unspecified
+84922655,118,44.4333,26.1,20120119,"Bucharest, Bucuresti, Romania",4,2.74873838504763,unspecified
+84840445,111,44.4333,26.1,20120118,"Bucharest, Bucuresti, Romania",4,2.29228826342455,unspecified
+84034398,160,41.85,-87.6501,20120107,"Chicago, Illinois, United States",3,7.20117845117845,unspecified
+79930112,635,12.1508,-86.2683,20111106,"Managua, Managua, Nicaragua",4,6.75639465677141,unspecified
+79930103,622,12.1508,-86.2683,20111106,"Managua, Managua, Nicaragua",4,6.77169766802874,unspecified
+79930093,288,12.1508,-86.2683,20111106,"Managua, Managua, Nicaragua",4,6.61050668786051,unspecified
+78707552,120,38.0,-97.0,20111021,United States,1,7.72610422395697,unspecified
+77613273,104,38.899,-77.0422,20111007,"World Bank, District of Columbia, United States",3,5.92651870518657,unspecified
+76820861,135,-27.0,133.0,20110924,Australia,1,12.1627615317503,unspecified
+76379754,246,38.8951,-77.0364,20110920,"Washington, District of Columbia, United States",3,4.93168627955441,unspecified
+76379751,389,38.899,-77.0422,20110920,"World Bank, District of Columbia, United States",3,5.22807419154535,unspecified
+76379752,387,38.899,-77.0422,20110920,"World Bank, District of Columbia, United States",3,5.22675029912666,unspecified
+75700979,571,-26.2,28.0833,20110913,"Johannesburg, Gauteng, South Africa",4,5.34833885507384,unspecified
+75701008,187,-26.2,28.0833,20110913,"Johannesburg, Gauteng, South Africa",4,5.45752843149296,unspecified
+75334151,196,14.6211,-90.5269,20110909,"Guatemala City, Guatemala, Guatemala",4,5.67702222489491,unspecified
+75114008,111,38.0,-97.0,20110907,United States,1,7.12622503138184,unspecified
+74771601,207,39.9289,116.388,20110903,"Beijing, Beijing, China",4,7.23270969415406,unspecified
+74693982,388,48.8667,2.33333,20110902,"Paris, RhôAlpes, France",4,6.94533443169816,unspecified
+72513873,180,13.0,105.0,20110809,Cambodia,1,4.92195740115067,unspecified
+127602210,102,27.0,30.0,20110626,Egypt,1,5.46788203349373,unspecified
+127602223,104,30.05,31.25,20110626,"Cairo, Al Qahirah, Egypt",4,7.59654183489498,unspecified
+127602224,208,38.899,-77.0422,20110626,"World Bank, District of Columbia, United States",3,7.59654183489497,unspecified
+126489836,126,31.5,35.5,20110613,"Dead Sea, Israel (general), Israel",4,4.57656991522861,unspecified
+126342854,140,38.899,-77.0422,20110611,"World Bank, District of Columbia, United States",3,4.82843642773249,unspecified
+124508338,312,38.899,-77.0422,20110519,"World Bank, District of Columbia, United States",3,6.70966024187516,unspecified
+124508295,386,38.899,-77.0422,20110519,"World Bank, District of Columbia, United States",3,6.72116777719197,unspecified
+124508303,110,42.1497,-74.9384,20110519,"New York, United States",2,7.43520456918779,unspecified
+124395115,126,38.899,-77.0422,20110518,"World Bank, District of Columbia, United States",3,5.73552296968198,unspecified
+124395116,115,35.0,105.0,20110518,China,1,5.83889514686075,unspecified
+123542709,103,32.5667,-116.633,20110505,"Tecate, Baja California, Mexico",4,6.4083941109213,unspecified
+123542708,246,19.4342,-99.1386,20110505,"Mexico City, Distrito Federal, Mexico",4,6.41929096422661,unspecified
+120519428,111,40.5773,-77.264,20110404,"Pennsylvania, United States",2,7.55717749274156,unspecified
+117667653,108,15.5881,32.5342,20110306,"Khartoum, Al Khartum, Sudan",4,5.44298620294754,unspecified
+117048247,113,54.0,-2.0,20110228,United Kingdom,1,7.50686231149185,unspecified
+113486638,135,39.9289,116.388,20110117,"Beijing, Beijing, China",4,3.60619522356766,unspecified
+111535309,131,5.34111,-4.02806,20101222,"Abidjan, Lagunes, Cote D'ivoire",4,4.42849492475809,unspecified
+111348823,297,28.6667,77.2167,20101220,"Delhi, Delhi, India",4,4.45814668178652,unspecified
+111348840,297,28.6667,77.2167,20101220,"Delhi, Delhi, India",4,4.45814668178652,unspecified
+110661717,390,18.975,72.8258,20101212,"Mumbai, Maharashtra, India",4,6.70212277826588,unspecified
+110661720,115,28.6293,75.071,20101212,"Mahatma, Rajasthan, India",4,6.45773072221027,unspecified
+110410856,322,22.0777,110.729,20101209,"Nakai, Guangdong, China",4,8.60684079742902,unspecified
+108001095,459,6.45306,3.39583,20101110,"Lagos, Lagos, Nigeria",4,5.76837969984944,unspecified
+104305107,198,15.0,48.0,20100925,Yemen,1,8.18214278702396,unspecified
+104305109,198,15.0,48.0,20100925,Yemen,1,8.18214278702396,unspecified
+104009600,207,38.0,-97.0,20100922,United States,1,7.52312888231417,unspecified
+103803888,309,31.6667,35.25,20100920,West Bank,1,8.61418973888918,unspecified
+101116628,128,-8.4,36.35,20100821,"Kihansi, Morogoro, Tanzania",4,4.86084826263932,unspecified
+101116632,141,60.0,-95.0,20100821,Canada,1,4.38702768165811,unspecified
+100758961,108,29.9,72.35,20100817,"Karampur, Punjab, Pakistan",4,5.90752791383545,unspecified
+100759007,109,33.7,73.1667,20100817,"Islamabad, Islamabad, Pakistan",4,5.36775284329384,unspecified
+100443082,103,-41.3,174.783,20100812,"Wellington, New Zealand (general), New Zealand",4,8.22197235867783,unspecified
+98920444,315,42.1497,-74.9384,20100719,"New York, United States",2,5.03961370340298,unspecified
+146237047,130,38.0,-97.0,20100525,United States,1,3.91016573031515,unspecified
+146237043,130,38.0,-97.0,20100525,United States,1,3.91016573031515,unspecified
+146237051,130,38.0,-97.0,20100525,United States,1,3.91016573031515,unspecified
+144466900,109,18.5392,-72.335,20100401,"Port-Au-Prince, Ouest, Haiti",4,7.67659464800709,unspecified
+142706001,109,31.7667,35.2333,20100210,"Jerusalem, Israel (general), Israel",4,3.91058020462824,unspecified
+139335289,120,16.0,106.0,20091223,"Vietnam, Republic Of",1,7.03696592082283,unspecified
+138125191,126,31.5,34.75,20091206,Israel,1,3.80431461349668,unspecified
+137758971,124,55.7522,37.6156,20091201,"Moscow, Moskva, Russia",4,1.54752453480387,unspecified
+137204781,108,-6.17444,106.829,20091123,"Jakarta, Jakarta Raya, Indonesia",4,3.97495564285601,unspecified
+134264399,102,27.7167,85.3167,20091008,"Kathmandu, Bagmati, Nepal",4,5.26043788115445,unspecified
+134180623,108,44.852,-71.5518,20091007,"Columbia, New Hampshire, United States",3,7.76018206712835,unspecified
+134096318,101,41.0186,28.9647,20091006,"Istanbul, Istanbul, Turkey",4,3.01307262532245,unspecified
+134096337,156,39.8647,-86.2604,20091006,"Indiana, United States",2,5.15451616953972,unspecified
+134015418,117,35.0,105.0,20091005,China,1,6.75672856308371,unspecified
+131777282,126,41.0186,28.9647,20090904,"Istanbul, Istanbul, Turkey",4,0.722114578385485,unspecified
+163462919,234,35.0,105.0,20090618,China,1,3.84839515366136,unspecified
+163203195,121,30.0,70.0,20090614,Pakistan,1,12.6528594426002,unspecified
+162022658,261,40.0,-4.0,20090525,Spain,1,4.38847832972666,unspecified
+160549672,120,-17.8178,31.0447,20090430,"Harare, Mashonaland East, Zimbabwe",4,3.66749614414897,unspecified
+160549673,150,-17.8178,31.0447,20090430,"Harare, Mashonaland East, Zimbabwe",4,3.66749614414897,unspecified
+158833195,132,51.5,-0.116667,20090401,"London, London, City of, United Kingdom",4,4.97057886951603,unspecified
+157389598,261,-6.17444,106.829,20090306,"Jakarta, Jakarta Raya, Indonesia",4,8.38861906787198,unspecified
+154624292,124,-5.0,120.0,20090117,Indonesia,1,9.61619397424177,unspecified
+154017858,315,31.4167,34.3333,20090107,"Gaza City, Israel (general), Israel",4,3.92913760621575,unspecified
+154017878,306,31.4167,34.3333,20090107,"Gaza City, Israel (general), Israel",4,3.90424314792337,unspecified
+153582232,109,-27.0,133.0,20081230,Australia,1,5.98265156451671,unspecified
+167024990,121,38.8951,-77.0364,20071023,"Washington, District of Columbia, United States",3,2.90225865940822,unspecified
