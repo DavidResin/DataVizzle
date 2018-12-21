@@ -2,15 +2,15 @@
 
 ## Overview
 
-## Motivation
+We did not finsih this project. See the project book that was handed in for notes.
 
-## Target audience
+Currently, we are showing event data points on a world map and a histogram showing the number of mentions per tiem unit and the units' mention amount deviation from the mean.
+
+## Motivation and target audience
 
 The target audience ranges covers a wide range. The simple interested lay can use our visualization to get an overview of the coverage of events that are related to international and non-governmental organizations. They can also see the tone that of the events.
 
 People who are more interested or conduct, e. g., research in the field of media evaluation, news spread, news coverage and related subjects can use the given information and visualization for a better understanding in order to get better insight in the coverage of international and non-governmental organizations. They can, e. g., derive how different organizations are seen on different places of the world.
-
-## What do we show?
 
 ## Dataset
 
@@ -40,6 +40,4 @@ We also provide a histogram that shows how the coverage of events involving the 
 
 ## Evaluation
 
-bipolar gaussian
-
-A functionality that is not implemented yet is the visualization of the tone that is given for the event datapoints accumulated over all data that concerns a single organization. During the preprocessing of the data, we discovered that the distribution of the tone of the coverage follows a bipolar distribution consisting of to overlapping standard distributions one of which has a rather negative mean and stays in the negative tone within a 95 % confidence interval while the other shows a slightly positive tendency although it is not as popolated and not as far from the zero point as the more negative one. This suggests that for all of these organizations exist supporters and opponents. It also suggests that organization news coverage in general is more often negative than positive and positive tone is not as positive as negative tone is negative.
+A functionality that is not implemented yet is the visualization of the tone that is given for the event datapoints accumulated over all data that concerns a single organization. During the preprocessing of the data, we discovered that the distribution of the tone of the coverage follows a bipolar distribution consisting of to overlapping standard distributions one of which has a rather negative mean and stays in the negative tone within a 95 % confidence interval while the other shows a slightly positive tendency although it is not as popolated and not as far from the zero point as the more negative one. This suggests that for all of these organizations exist supporters and opponents. It also suggests that organization news coverage in general is more often negative than positive and positive tone is not as positive as negative tone is negative. This is object to further evaluation.
