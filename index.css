@@ -5,7 +5,6 @@
   z-index: 1;
   top: 0;
   overflow: hidden;
-  border: solid grey 1px;
 }
 
 .split-v {
@@ -14,32 +13,28 @@
 	z-index: 1;
 	left: 0;
   overflow: hidden;
-  border: solid grey 1px;
 }
 
 /* Control the left side */
 .left {
   left: 0;
-  width: 40%;
-  border-right: 0px;
+  width: 30%;
 }
 
 /* Control the right side */
 .right {
   right: 0;
-  width: 60%;
-  border-left: 0px;
+  width: 70%;
 }
 
 .top {
   top: 0;
-  height: 70%;
+  height: 60%;
 }
 
 .bottom {
   bottom: 0;
-  height: 30%;
-  background-color: white;
+  height: 40%;
 }
 
 /* If you want the content centered horizontally and vertically */
@@ -76,4 +71,8 @@ body {
 svg {
 	max-height: inherit;
 	max-width: inherit;
+}
+
+body {
+  background-color: grey;
 }
