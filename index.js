@@ -89,10 +89,12 @@ class MapPlot {
 					.attr("transform", (d) => "translate(" + projection([d.ActionGeo_Long, d.ActionGeo_Lat]) + ")");
 
 				this.point_container.selectAll("." + key)
+					.data(point_data)
+					.enter()
 					.transition()
-					.duration(400)
+					.duration(Math.random() * 10000 + 300)
 					.ease(d3.easeQuad)
-					.attr("r", r);
+					.attr("r", (d) => d.NumMentions);
 			});
 
 			i++;
@@ -108,13 +110,12 @@ class MapPlot {
 
 			Promise.all([p]).then((elem) => {
 				let point_data = elem[0]
-				let finish = key == selKey ? 3 : 0;
 
 				this.point_container.selectAll("." + key)
 					.transition()
-					.duration(400)
+					.duration(600)
 					.ease(d3.easeQuad)
-					.attr("r", finish);
+					.attr("r", (d) => key == selKey ? Math.log(d.NumMentions) + 1 : 0);
 			});
 
 			i++;
