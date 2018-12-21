@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+
+<meta charset="utf-8">
+
+<style type="text/css">
+/*
+based on https://bl.ocks.org/gordlea/27370d1eea8464b04538e6d8ced39e89#index.html
+*/
+
+/* 13. Basic Styling with CSS */
+
+/* Style the lines by removing the fill and applying a stroke */
+.line {
+    fill: none;
+    stroke: #ffab00;
+    stroke-width: 3;
+}
+  
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+/* Style the dots by assigning a fill and stroke */
+.dot {
+    fill: #ffab00;
+    stroke: #fff;
+}
+  
+  .focus circle {
+  fill: none;
+  stroke: steelblue;
+}
+
+</style>
+<!-- Body tag is where we will append our SVG and SVG objects-->
+<body>
+</body>
+
+<!-- Load in the d3 library -->
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script>
+
+function convertSqlDateToDate(sqldate) {
+  sqldate = String(sqldate);
+
+  // takes SQLDATE string as argument and gives Date object
+  let year = sqldate.substring(0, 4);
+  let month = sqldate.substring(4, 6) - 1; // months are 0-indexed in js
+  let day = sqldate.substr(6, 8);
+
+  return new Date(year, month, day);
+}
+
+
+// load data
+d3.csv('amnesty-over-100.csv').then(createHist);
+
+function createHist(data) {
+	
+
+  const arrayMaxDate = (array) => array.reduce((acc, val) => Math.max(acc, val.SQLDATE), array[0].SQLDATE);
+  const arrayMinDate = (array) => array.reduce((acc, val) => Math.min(acc, val.SQLDATE), array[0].SQLDATE);
+
+  const arrayMaxNumMentions = (array) => array.reduce((acc, val) => Math.max(acc, val.NumMentions), array[0].NumMentions);
+
+  // 2. Use the margin convention practice 
+  let margin = {top: 50, right: 50, bottom: 50, left: 50}
+    , width = window.innerWidth - margin.left - margin.right // Use the window's width 
+    , height = window.innerHeight - margin.top - margin.bottom; // Use the window's height
+
+  // The number of data points
+  let n = data.length;
+
+  
+  // get min and max SQLDATE and convert
+  let maxDate = convertSqlDateToDate(arrayMaxDate(data));
+  let minDate = convertSqlDateToDate(arrayMinDate(data));
+
+  // get max NumMentions
+  let maxNumMentions = arrayMaxNumMentions(data);
+
+  // convert SQLDATE to Date objects and store in 'date' column
+  data.map(d => { d.date = convertSqlDateToDate(d.SQLDATE); });
+
+  // some logs for debugging
+  console.log(data);
+  console.log(minDate, maxDate);
+  console.log(maxNumMentions);
+
+  // 5. X scale is a time scale
+  let xScale = d3.scaleTime()
+      .domain([minDate, maxDate]) // input
+      .range([0, width]); // output
+
+  // 6. Y scale will use the randomly generate number 
+  let yScale = d3.scaleLinear()
+      .domain([0, maxNumMentions]) // input 
+      .range([height, 0]); // output 
+
+  // 7. d3's line generator
+  let line = d3.line()
+      .x(function(d) { return xScale(d.date); }) // set the x values for the line generator
+      .y(function(d) { return yScale(d.NumMentions); }) // set the y values for the line generator 
+      .curve(d3.curveMonotoneX) // apply smoothing to the line
+
+  // 8. An array of objects of length N. Each object has key -> value pair, the key being "y" and the value is data[i]
+  // let dataset = d3.range(n).map(function(d) { return {"y": data[d] } });
+
+  // 1. Add the SVG to the page and employ #2
+  let svg = d3.select("body").append("svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+  // 3. Call the x axis in a group tag
+  svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(d3.axisBottom(xScale)); // Create an axis component with d3.axisBottom
+
+  // 4. Call the y axis in a group tag
+  svg.append("g")
+      .attr("class", "y axis")
+      .call(d3.axisLeft(yScale)); // Create an axis component with d3.axisLeft
+
+  // 9. Append the path, bind the data, and call the line generator 
+  svg.append("path")
+      .datum(data) // 10. Binds data to the line 
+      .attr("class", "line") // Assign a class for styling
+      .attr("d", line); // 11. Calls the line generator 
+
+  // 12. Appends a circle for each datapoint 
+  svg.selectAll(".dot")
+      .data(data)
+      .enter().append("circle") // Uses the enter().append() method
+      .attr("class", "dot") // Assign a class for styling
+      .attr("cx", function(d) { return xScale(d.date) })
+      .attr("cy", function(d) { return yScale(d.NumMentions) })
+      .attr("r", 0)
+        .on("mouseover", function(a, b, c) { 
+          this.attr('class', 'focus')
+      })
+        .on("mouseout", function() {  })
+}
+</script>
