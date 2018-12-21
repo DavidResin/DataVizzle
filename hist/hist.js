@@ -43,7 +43,7 @@ function createHist(data) {
   data.map(d => { d.date = convertSqlDateToDate(d.SQLDATE); });
 
   let groupedByThreeMonths = d3.nest()
-    .key(function(d) { return d3.timeMonth.every(3)(d.date); })
+    .key(function(d) { return d3.timeMonth.every(2)(d.date); })
     .rollup(function(d) {
       return d3.sum(d, function(g) { return g.NumMentions });
     }).entries(data);
